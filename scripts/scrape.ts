@@ -1,4 +1,4 @@
-
+import 'dotenv/config'; // Load .env
 import puppeteer from 'puppeteer';
 import Parser from 'rss-parser';
 import { GoogleGenerativeAI } from '@google/generative-ai';
@@ -39,7 +39,8 @@ interface NewsItem {
 const SOURCES: Source[] = [
     // --- Tier 1: Foundation Models ---
     { name: 'OpenAI', url: 'https://openai.com/news/rss.xml', type: 'rss' }, // RSS Found
-    { name: 'Anthropic', url: 'https://www.anthropic.com/news', type: 'puppeteer', selector: 'a' }, // No RSS
+    { name: 'Anthropic News', url: 'https://www.anthropic.com/news', type: 'puppeteer', selector: 'a' }, // No RSS
+    { name: 'Anthropic Research', url: 'https://www.anthropic.com/research', type: 'puppeteer', selector: 'a' }, // Deep dive
     { name: 'DeepMind', url: 'https://deepmind.google/blog/rss.xml', type: 'rss' }, // RSS Found
     { name: 'xAI', url: 'https://x.ai/blog', type: 'puppeteer', selector: 'a' }, // No RSS
     { name: 'Meta AI', url: 'https://engineering.fb.com/feed/', type: 'rss' }, // Using Eng Feed
@@ -103,15 +104,16 @@ async function scrapeRSS(source: Source): Promise<Partial<NewsItem>[]> {
 }
 
 async function scrapePuppeteer(source: Source): Promise<Partial<NewsItem>[]> {
-    const browser = await puppeteer.launch({
-        headless: true,
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
-    const page = await browser.newPage();
-
-    await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
-
+    let browser;
     try {
+        browser = await puppeteer.launch({
+            headless: true,
+            args: ['--no-sandbox', '--disable-setuid-sandbox']
+        });
+        const page = await browser.newPage();
+
+        await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
+
         await page.goto(source.url, { waitUntil: 'networkidle2', timeout: 30000 });
 
         // Generic extraction logic
@@ -162,7 +164,7 @@ async function scrapePuppeteer(source: Source): Promise<Partial<NewsItem>[]> {
 
     } catch (e) {
         console.error(`[Puppeteer] Failed to scrape ${source.name}:`, e);
-        await browser.close();
+        if (browser) await browser.close();
         return [];
     }
 }
@@ -183,7 +185,7 @@ async function enhanceWithAI(items: Partial<NewsItem>[]): Promise<NewsItem[]> {
     }
 
     const genAI = new GoogleGenerativeAI(GEMINI_API_KEY);
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.5-flash" });
 
     const today = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
@@ -262,7 +264,16 @@ async function enhanceWithAI(items: Partial<NewsItem>[]): Promise<NewsItem[]> {
 
     } catch (e) {
         console.error("AI Processing Failed (Batch):", e);
-        return [];
+        // Fallback: Keep items but mark as unverified
+        return items.map(i => ({
+            ...i,
+            id: generateId(i.url!),
+            date_scraped: new Date().toISOString(),
+            is_technical: true,
+            tldr: "AI Vetting Failed. Raw content.",
+            tags: ["Unverified"],
+            hype_score: 1
+        } as NewsItem));
     }
 }
 
