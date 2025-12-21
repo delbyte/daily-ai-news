@@ -10,13 +10,17 @@ import crypto from 'crypto';
 const GEMINI_API_KEY = process.env.GOOGLE_GEMINI_KEY;
 const DATA_FILE = path.join(process.cwd(), 'data', 'news.json');
 
+// Strict Age Limit: 7 days
+const AGE_LIMIT_DAYS = 7;
+const AGE_LIMIT_MS = AGE_LIMIT_DAYS * 24 * 60 * 60 * 1000;
+
 type SourceType = 'rss' | 'puppeteer';
 
 interface Source {
     name: string;
     url: string;
     type: SourceType;
-    selector?: string; // For Puppeteer: container to search in
+    selector?: string; // For Puppeteer
 }
 
 interface NewsItem {
@@ -34,21 +38,21 @@ interface NewsItem {
 
 const SOURCES: Source[] = [
     // --- Tier 1: Foundation Models ---
-    { name: 'OpenAI', url: 'https://openai.com/news/', type: 'puppeteer', selector: 'a[href^="/news/"]' }, // OpenAI updated their site, often has /news/ or /index/
-    { name: 'Anthropic', url: 'https://www.anthropic.com/news', type: 'puppeteer', selector: 'a[href^="/news/"]' },
-    { name: 'DeepMind', url: 'https://deepmind.google/discover/blog/rss.xml', type: 'rss' }, // Trying RSS first as fallback
-    { name: 'xAI', url: 'https://x.ai/blog', type: 'puppeteer', selector: 'a' },
-    { name: 'Meta AI', url: 'https://ai.meta.com/blog/', type: 'puppeteer', selector: 'a' },
+    { name: 'OpenAI', url: 'https://openai.com/news/rss.xml', type: 'rss' }, // RSS Found
+    { name: 'Anthropic', url: 'https://www.anthropic.com/news', type: 'puppeteer', selector: 'a' }, // No RSS
+    { name: 'DeepMind', url: 'https://deepmind.google/blog/rss.xml', type: 'rss' }, // RSS Found
+    { name: 'xAI', url: 'https://x.ai/blog', type: 'puppeteer', selector: 'a' }, // No RSS
+    { name: 'Meta AI', url: 'https://engineering.fb.com/feed/', type: 'rss' }, // Using Eng Feed
     { name: 'Google Research', url: 'https://blog.research.google/feeds/posts/default?alt=rss', type: 'rss' },
+    { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/', type: 'rss' }, // RSS Found
 
-    // --- Tier 2: Engineering ---
-    { name: 'NVIDIA Blog', url: 'https://developer.nvidia.com/blog/feed', type: 'rss' }, // Found feed
+    // --- Tier 2: Engineering & Community ---
     { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', type: 'rss' },
     { name: 'AWS ML', url: 'https://aws.amazon.com/blogs/machine-learning/feed/', type: 'rss' },
-    { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/blog/feed/', type: 'rss' },
     { name: 'LangChain', url: 'https://blog.langchain.dev/rss/', type: 'rss' },
+    { name: 'NVIDIA Blog', url: 'https://developer.nvidia.com/blog/feed', type: 'rss' },
 
-    // --- Tier 3: Academia (Limited) ---
+    // --- Tier 3: Academia ---
     { name: 'Stanford SAIL', url: 'https://ai.stanford.edu/blog/feed.xml', type: 'rss' },
     { name: 'Berkeley BAIR', url: 'https://bair.berkeley.edu/blog/feed.xml', type: 'rss' },
 ];
@@ -59,6 +63,28 @@ function generateId(url: string): string {
     return crypto.createHash('md5').update(url).digest('hex');
 }
 
+function isRecent(dateStr?: string): boolean {
+    if (!dateStr) return false;
+    const date = new Date(dateStr);
+    const now = new Date();
+    const diff = now.getTime() - date.getTime();
+    return diff < AGE_LIMIT_MS;
+}
+
+// Extract date from text using regex for common formats like "Oct 15, 2025" or ISO
+function extractDate(text: string): string | undefined {
+    const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+    const monthRegex = new RegExp(`(${months.join('|')})\\s+\\d{1,2},?\\s+\\d{4}`, 'i');
+    const match = text.match(monthRegex);
+    if (match) return new Date(match[0]).toISOString();
+
+    // ISO-like check
+    const isoMatch = text.match(/\d{4}-\d{2}-\d{2}/);
+    if (isoMatch) return new Date(isoMatch[0]).toISOString();
+
+    return undefined;
+}
+
 async function scrapeRSS(source: Source): Promise<Partial<NewsItem>[]> {
     const parser = new Parser();
     try {
@@ -67,8 +93,9 @@ async function scrapeRSS(source: Source): Promise<Partial<NewsItem>[]> {
             source: source.name,
             title: item.title || 'No Title',
             url: item.link || '',
-            date_published: item.pubDate,
-        })).slice(0, 5); // Limit to top 5
+            date_published: item.pubDate ? new Date(item.pubDate).toISOString() : undefined,
+        }))
+            .filter(i => isRecent(i.date_published)); // Pre-filter logic if date exists
     } catch (e) {
         console.error(`[RSS] Failed to parse ${source.name}:`, e);
         return [];
@@ -82,42 +109,56 @@ async function scrapePuppeteer(source: Source): Promise<Partial<NewsItem>[]> {
     });
     const page = await browser.newPage();
 
-    // Anti-bot
     await page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
 
     try {
         await page.goto(source.url, { waitUntil: 'networkidle2', timeout: 30000 });
 
-        // Generic extraction logic - customize based on site structures if needed
-        // This looks for <a> tags that likely contain titles and links.
+        // Generic extraction logic
         const selector = source.selector || 'a';
         const links = await page.evaluate((sel: string) => {
             const anchors = Array.from(document.querySelectorAll(sel));
             return anchors.map(anchor => {
                 const a = anchor as HTMLAnchorElement;
-                // Basic heuristic to find headline text inside the anchor or its children
                 const title = a.innerText.trim() || a.getAttribute('aria-label') || '';
+                // Try to find a date near the anchor (parent/sibling text)
+                // This is rudimentary. Ideally we parse specific DOMs per site.
+                let contextText = "";
+                let parent = a.parentElement;
+                if (parent) {
+                    contextText += parent.innerText;
+                    if (parent.parentElement) contextText += " " + parent.parentElement.innerText;
+                }
+
                 return {
                     title: title,
                     url: a.href,
+                    context: contextText // Send context to Node for date extraction
                 };
             })
-                .filter(item => item.title.length > 20 && item.url.startsWith('http')); // Filter noise
+                .filter(item => item.title.length > 20 && item.url.startsWith('http'));
         }, selector);
 
         await browser.close();
 
-        // Dedupe within the scrape
         const uniqueLinks = new Map();
-        links.forEach(l => uniqueLinks.set(l.url, l));
+        links.forEach(l => {
+            if (!uniqueLinks.has(l.url)) {
+                const extractedDate = extractDate(l.context || "");
+                uniqueLinks.set(l.url, {
+                    source: source.name,
+                    title: l.title,
+                    url: l.url,
+                    date_published: extractedDate // May be undefined
+                });
+            }
+        });
 
-        // Return top 5 most likely "article" looking links
-        return Array.from(uniqueLinks.values()).slice(0, 5).map(l => ({
-            source: source.name,
-            title: l.title,
-            url: l.url,
-            date_published: new Date().toISOString() // Fallback
-        }));
+        // For puppeteer, if date is missing, we MIGHT skip, or we send to AI to verify?
+        // User wants strict 1 week. If we can't find a date, it's risky.
+        // However, AI can also extract date from content if we wanted to fetch it.
+        // For now, let's keep items without dates but mark them for AI to check "Recentness".
+        return Array.from(uniqueLinks.values());
 
     } catch (e) {
         console.error(`[Puppeteer] Failed to scrape ${source.name}:`, e);
@@ -129,11 +170,12 @@ async function scrapePuppeteer(source: Source): Promise<Partial<NewsItem>[]> {
 async function enhanceWithAI(items: Partial<NewsItem>[]): Promise<NewsItem[]> {
     if (!GEMINI_API_KEY) {
         console.warn("Skipping AI enhancement: No GEMINI_API_KEY found.");
-        return items.map(i => ({
+        // Fallback: Only keep if we KNOW it's recent
+        return items.filter(i => isRecent(i.date_published)).map(i => ({
             ...i,
             id: generateId(i.url!),
             date_scraped: new Date().toISOString(),
-            is_technical: true, // Default to keep everything if no AI
+            is_technical: true,
             tldr: "No AI summary available.",
             tags: ["Unclassified"],
             hype_score: 5
@@ -145,29 +187,46 @@ async function enhanceWithAI(items: Partial<NewsItem>[]): Promise<NewsItem[]> {
 
     const today = new Date().toLocaleDateString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
 
+    // Prompt Logic: strict verification
     const prompt = `
-  You are an expert AI Researcher and Engineering Editor.
-  TODAY'S DATE: ${today}.
+  You are the Editor-in-Chief of a high-tech AI research newsletter.
   
-  Analyze the following list of potential AI news items.
+  CONTEXT:
+  - Today's Date: ${today}
+  - Strict Requirement: News must be from the **LAST 7 DAYS**.
+  - Strict Requirement: Content must be **TECHNICAL** (Research papers, Engineering Blogs, Major Model Releases).
+  - IGNORE: Hiring posts, Policy/Regulation (unless major technical impact), Marketing fluff, Tutorials, "How to use X".
   
-  Task:
-  1. Filter out non-technical content (careers, marketing fluff, generic announcements, policy updates). keep ONLY research papers, engineering blogs, release notes, and significant product launches.
-  2. For each technical item, provide a 2-sentence technical TL;DR summarizing the core innovation or release.
-  3. Assign tags (e.g., LLM, Vision, Infrastructure, RL).
-  4. Rate "Hype Score" (1-10) based on actual technical significance versus marketing buzz.
-  
-  Input Data:
-  ${JSON.stringify(items.map(i => ({ title: i.title, url: i.url, source: i.source, date: i.date_published })))}
+  INPUT:
+  ${JSON.stringify(items.map(i => ({
+        title: i.title,
+        url: i.url,
+        source: i.source,
+        date_published_guess: i.date_published
+    })))}
 
-  Return a valid JSON array of objects with these fields ONLY:
-  - url: (string) matching input
-  - is_technical: (boolean)
-  - tldr: (string)
-  - tags: (string[])
-  - hype_score: (number)
+  TASK:
+  1. For each item, decide if it passes the filters (Technical + recent).
+  2. If 'date_published_guess' is missing or old, try to infer from the title (e.g. "Introducing GPT-5" is likely new, "GPT-3 Released" is old). Use your knowledge cutoff effectively but prioritize the "Last 7 Days" rule based on the current date provided.
+  3. If accepted:
+     - Generate a 'tldr' (Technical, dense, 2 sentences).
+     - Assign 'tags' (e.g. transformer, rl, vision, infrastructure).
+     - Rate 'hype_score' (1-10) - 10 being breakthrough.
   
-  Return strictly valid JSON. No markdown formatting.
+  OUTPUT:
+  Return a JSON Object with a property "items" containing ONLY the accepted items.
+  Shape:
+  {
+      "items": [
+          {
+              "url": "string match",
+              "tldr": "string",
+              "tags": ["string"],
+              "hype_score": number,
+              "date_published": "ISOString" (If you can refine the date, otherwise use the input date or today if newly released)
+          }
+      ]
+  }
   `;
 
     try {
@@ -179,25 +238,30 @@ async function enhanceWithAI(items: Partial<NewsItem>[]): Promise<NewsItem[]> {
         // Merge AI data back
         const finalItems: NewsItem[] = [];
 
-        for (const item of items) {
-            const aiInfo = aiData.find((a: any) => a.url === item.url);
-            if (aiInfo) {
-                finalItems.push({
-                    ...item,
-                    id: generateId(item.url!),
-                    date_scraped: new Date().toISOString(),
-                    is_technical: aiInfo.is_technical,
-                    tldr: aiInfo.tldr,
-                    tags: aiInfo.tags,
-                    hype_score: aiInfo.hype_score
-                } as NewsItem);
+        if (aiData.items && Array.isArray(aiData.items)) {
+            for (const aiItem of aiData.items) {
+                const original = items.find(i => i.url === aiItem.url);
+                if (original) {
+                    finalItems.push({
+                        id: generateId(original.url!),
+                        source: original.source!,
+                        title: original.title!,
+                        url: original.url!,
+                        date_scraped: new Date().toISOString(),
+                        date_published: aiItem.date_published || original.date_published || new Date().toISOString(),
+                        is_technical: true,
+                        tldr: aiItem.tldr,
+                        tags: aiItem.tags,
+                        hype_score: aiItem.hype_score
+                    });
+                }
             }
         }
 
-        return finalItems.filter(i => i.is_technical);
+        return finalItems;
 
     } catch (e) {
-        console.error("AI Processing Failed:", e);
+        console.error("AI Processing Failed (Batch):", e);
         return [];
     }
 }
@@ -212,12 +276,22 @@ async function main() {
     try {
         const raw = await fs.readFile(DATA_FILE, 'utf-8');
         existingData = JSON.parse(raw);
-    } catch (e) {
+    } catch {
         console.log("No existing data found, starting fresh.");
     }
 
-    const existingUrls = new Set(existingData.map(i => i.url));
-    let newCandidates: Partial<NewsItem>[] = [];
+    // Filter existing data to remove old stuff (cleaning up the DB as requested)
+    // Also remove duplicates based on URL
+    const existingMap = new Map<string, NewsItem>();
+    existingData.forEach(item => {
+        if (isRecent(item.date_published || item.date_scraped)) {
+            existingMap.set(item.url, item);
+        }
+    });
+
+    console.log(`Retained ${existingMap.size} valid existing items (recent).`);
+
+    const candidates: Partial<NewsItem>[] = [];
 
     // 2. Scrape all sources
     for (const source of SOURCES) {
@@ -229,38 +303,44 @@ async function main() {
             items = await scrapePuppeteer(source);
         }
 
-        // Dedupe against local DB
+        // Add to candidates if NOT in existing map
         for (const item of items) {
-            if (item.url && !existingUrls.has(item.url)) {
-                newCandidates.push(item);
-                existingUrls.add(item.url); // prevent duplicates within runs too
+            if (item.url && !existingMap.has(item.url)) {
+                candidates.push(item);
             }
         }
     }
 
-    console.log(`Found ${newCandidates.length} new candidates.`);
+    console.log(`Found ${candidates.length} new candidates to vet.`);
 
-    if (newCandidates.length === 0) {
-        console.log("No new items found.");
+    if (candidates.length === 0) {
+        console.log("No new candidates.");
+        // Write back cleaned existing data
+        await fs.writeFile(DATA_FILE, JSON.stringify(Array.from(existingMap.values()), null, 2));
         return;
     }
 
-    // 3. Process with AI (in batches if needed, doing all at once for simplicity for now)
-    // Limit to 20 items per run to save tokens/time if it's a huge initial run
-    const batch = newCandidates.slice(0, 20);
-    const processedItems = await enhanceWithAI(batch);
+    // 3. Process with AI
+    // Batch processing
+    const BATCH_SIZE = 15;
+    const newVerifiedItems: NewsItem[] = [];
+
+    for (let i = 0; i < candidates.length; i += BATCH_SIZE) {
+        const batch = candidates.slice(i, i + BATCH_SIZE);
+        console.log(`Processing AI batch ${i / BATCH_SIZE + 1}...`);
+        const verified = await enhanceWithAI(batch);
+        newVerifiedItems.push(...verified);
+    }
+
+    console.log(`AI Vetting complete. Accepted ${newVerifiedItems.length} new items.`);
 
     // 4. Update Database
-    const updatedData = [...processedItems, ...existingData].sort((a, b) =>
-        new Date(b.date_scraped).getTime() - new Date(a.date_scraped).getTime()
+    const finalData = [...newVerifiedItems, ...Array.from(existingMap.values())].sort((a, b) =>
+        new Date(b.date_published || b.date_scraped).getTime() - new Date(a.date_published || a.date_scraped).getTime()
     );
 
-    // Keep max 100 items to keep repo light
-    const trimmedData = updatedData.slice(0, 100);
-
-    await fs.writeFile(DATA_FILE, JSON.stringify(trimmedData, null, 2));
-    console.log(`Saved ${processedItems.length} new items. Total: ${trimmedData.length}`);
+    await fs.writeFile(DATA_FILE, JSON.stringify(finalData, null, 2));
+    console.log(`Saved DB. Total items: ${finalData.length}`);
 }
 
 main().catch(console.error);
-
