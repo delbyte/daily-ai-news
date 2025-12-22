@@ -21,6 +21,7 @@ interface Source {
     url: string;
     type: SourceType;
     selector?: string; // For Puppeteer
+    urlPattern?: RegExp; // URL must match this pattern to be included
 }
 
 interface NewsItem {
@@ -38,14 +39,15 @@ interface NewsItem {
 
 const SOURCES: Source[] = [
     // --- Tier 1: Foundation Models ---
-    { name: 'OpenAI', url: 'https://openai.com/news/rss.xml', type: 'rss' }, // RSS Found
-    { name: 'Anthropic News', url: 'https://www.anthropic.com/news', type: 'puppeteer', selector: 'a' }, // No RSS
-    { name: 'Anthropic Research', url: 'https://www.anthropic.com/research', type: 'puppeteer', selector: 'a' }, // Deep dive
-    { name: 'DeepMind', url: 'https://deepmind.google/blog/rss.xml', type: 'rss' }, // RSS Found
-    { name: 'xAI', url: 'https://x.ai/blog', type: 'puppeteer', selector: 'a' }, // No RSS
-    { name: 'Meta AI', url: 'https://engineering.fb.com/feed/', type: 'rss' }, // Using Eng Feed
+    { name: 'OpenAI', url: 'https://openai.com/news/rss.xml', type: 'rss' },
+    { name: 'Anthropic News', url: 'https://www.anthropic.com/news', type: 'puppeteer', selector: 'a[href*="/news/"]', urlPattern: /\/news\/[a-z0-9-]+$/i },
+    { name: 'Anthropic Research', url: 'https://www.anthropic.com/research', type: 'puppeteer', selector: 'a[href*="/research/"]', urlPattern: /\/research\/[a-z0-9-]+$/i },
+    { name: 'Claude Blog', url: 'https://claude.com/blog', type: 'puppeteer', selector: '.clickable_link[href*="/blog/"]', urlPattern: /claude\.com\/blog\/[a-z0-9-]+$/i },
+    { name: 'DeepMind', url: 'https://deepmind.google/blog/rss.xml', type: 'rss' },
+    { name: 'xAI', url: 'https://x.ai/blog', type: 'puppeteer', selector: 'a[href*="/blog/"]', urlPattern: /x\.ai\/blog\/[a-z0-9-]+$/i },
+    { name: 'Meta AI', url: 'https://engineering.fb.com/feed/', type: 'rss' },
     { name: 'Google Research', url: 'https://blog.research.google/feeds/posts/default?alt=rss', type: 'rss' },
-    { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/', type: 'rss' }, // RSS Found
+    { name: 'Microsoft Research', url: 'https://www.microsoft.com/en-us/research/feed/', type: 'rss' },
 
     // --- Tier 2: Engineering & Community ---
     { name: 'Hugging Face', url: 'https://huggingface.co/blog/feed.xml', type: 'rss' },
@@ -122,7 +124,8 @@ async function scrapePuppeteer(source: Source): Promise<Partial<NewsItem>[]> {
             const anchors = Array.from(document.querySelectorAll(sel));
             return anchors.map(anchor => {
                 const a = anchor as HTMLAnchorElement;
-                const title = a.innerText.trim() || a.getAttribute('aria-label') || '';
+                // Check data-cta-copy first (used by Webflow CMS like claude.com/blog)
+                const title = a.getAttribute('data-cta-copy') || a.innerText.trim() || a.getAttribute('aria-label') || '';
                 // Try to find a date near the anchor (parent/sibling text)
                 // This is rudimentary. Ideally we parse specific DOMs per site.
                 let contextText = "";
@@ -138,7 +141,55 @@ async function scrapePuppeteer(source: Source): Promise<Partial<NewsItem>[]> {
                     context: contextText // Send context to Node for date extraction
                 };
             })
-                .filter(item => item.title.length > 20 && item.url.startsWith('http'));
+                .filter(item => {
+                    // Filter out junk: short titles, non-article links
+                    if (item.title.length < 20) return false;
+                    if (!item.url.startsWith('http')) return false;
+
+                    // Exclude common junk patterns
+                    const junkPatterns = [
+                        /terms\s*of\s*service/i,
+                        /privacy\s*policy/i,
+                        /cookie\s*policy/i,
+                        /responsible\s*disclosure/i,
+                        /security\s*and\s*compliance/i,
+                        /visit\s*our\s*(linkedin|twitter|youtube|x\s*\(|facebook)/i,
+                        /follow\s*us/i,
+                        /careers\s*at/i,
+                        /join\s*our\s*team/i,
+                        /contact\s*us/i,
+                        /about\s*us$/i,
+                        /sign\s*up/i,
+                        /log\s*in/i,
+                        /subscribe/i,
+                        /newsletter/i,
+                    ];
+
+                    for (const pattern of junkPatterns) {
+                        if (pattern.test(item.title)) return false;
+                    }
+
+                    // Exclude social media and non-article URLs
+                    const junkUrls = [
+                        /linkedin\.com/i,
+                        /twitter\.com/i,
+                        /x\.com(?!\.ai)/i, // x.com but not x.ai
+                        /youtube\.com/i,
+                        /facebook\.com/i,
+                        /instagram\.com/i,
+                        /\/careers/i,
+                        /\/jobs/i,
+                        /\/legal/i,
+                        /\/terms/i,
+                        /\/privacy/i,
+                    ];
+
+                    for (const pattern of junkUrls) {
+                        if (pattern.test(item.url)) return false;
+                    }
+
+                    return true;
+                });
         }, selector);
 
         await browser.close();
@@ -280,31 +331,15 @@ async function enhanceWithAI(items: Partial<NewsItem>[]): Promise<NewsItem[]> {
 // --- Main ---
 
 async function main() {
-    console.log("Starting Scrape Job...");
+    console.log("Starting Scrape Job (Full Re-vet Mode)...");
 
-    // 1. Load existing data
-    let existingData: NewsItem[] = [];
-    try {
-        const raw = await fs.readFile(DATA_FILE, 'utf-8');
-        existingData = JSON.parse(raw);
-    } catch {
-        console.log("No existing data found, starting fresh.");
-    }
-
-    // Filter existing data to remove old stuff (cleaning up the DB as requested)
-    // Also remove duplicates based on URL
-    const existingMap = new Map<string, NewsItem>();
-    existingData.forEach(item => {
-        if (isRecent(item.date_published || item.date_scraped)) {
-            existingMap.set(item.url, item);
-        }
-    });
-
-    console.log(`Retained ${existingMap.size} valid existing items (recent).`);
+    // Fresh start each run - no loading existing data
+    // This ensures all items are re-vetted and strictly filtered
 
     const candidates: Partial<NewsItem>[] = [];
+    const seenUrls = new Set<string>();
 
-    // 2. Scrape all sources
+    // 1. Scrape all sources
     for (const source of SOURCES) {
         console.log(`Scraping ${source.name} (${source.type})...`);
         let items: Partial<NewsItem>[] = [];
@@ -314,26 +349,26 @@ async function main() {
             items = await scrapePuppeteer(source);
         }
 
-        // Add to candidates if NOT in existing map
+        // Add to candidates (dedupe by URL)
         for (const item of items) {
-            if (item.url && !existingMap.has(item.url)) {
+            if (item.url && !seenUrls.has(item.url)) {
+                seenUrls.add(item.url);
                 candidates.push(item);
             }
         }
     }
 
-    console.log(`Found ${candidates.length} new candidates to vet.`);
+    console.log(`Found ${candidates.length} total candidates to vet.`);
 
     if (candidates.length === 0) {
-        console.log("No new candidates.");
-        // Write back cleaned existing data
-        await fs.writeFile(DATA_FILE, JSON.stringify(Array.from(existingMap.values()), null, 2));
+        console.log("No candidates found.");
+        await fs.writeFile(DATA_FILE, JSON.stringify([], null, 2));
         return;
     }
 
     // 3. Process with AI
     // Batch processing
-    const BATCH_SIZE = 15;
+    const BATCH_SIZE = 40;
     const newVerifiedItems: NewsItem[] = [];
 
     for (let i = 0; i < candidates.length; i += BATCH_SIZE) {
@@ -345,13 +380,14 @@ async function main() {
 
     console.log(`AI Vetting complete. Accepted ${newVerifiedItems.length} new items.`);
 
-    // 4. Update Database
-    const finalData = [...newVerifiedItems, ...Array.from(existingMap.values())].sort((a, b) =>
-        new Date(b.date_published || b.date_scraped).getTime() - new Date(a.date_published || a.date_scraped).getTime()
-    );
+    // 2. Trust AI's recency judgment - it was instructed to only accept items from the last 7 days
+    const finalData = newVerifiedItems
+        .sort((a, b) =>
+            new Date(b.date_published || b.date_scraped).getTime() - new Date(a.date_published || a.date_scraped).getTime()
+        );
 
     await fs.writeFile(DATA_FILE, JSON.stringify(finalData, null, 2));
-    console.log(`Saved DB. Total items: ${finalData.length}`);
+    console.log(`Saved DB. Total verified recent items: ${finalData.length}`);
 }
 
 main().catch(console.error);
