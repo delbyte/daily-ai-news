@@ -332,7 +332,7 @@ export function NewsFeed({ initialItems }: NewsFeedProps) {
                                                     {item.source}
                                                 </Badge>
                                                 <span>•</span>
-                                                <span>{new Date(item.date_published || item.date_scraped).toLocaleDateString()}</span>
+                                                <span>{item.date_published ? new Date(item.date_published).toLocaleDateString() : "Date not found"}</span>
                                             </div>
                                             <CardTitle className="text-lg leading-snug">
                                                 <a

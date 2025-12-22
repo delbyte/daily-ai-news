@@ -301,7 +301,7 @@ async function enhanceWithAI(items: Partial<NewsItem>[]): Promise<NewsItem[]> {
                         title: original.title!,
                         url: original.url!,
                         date_scraped: new Date().toISOString(),
-                        date_published: aiItem.date_published || original.date_published || new Date().toISOString(),
+                        date_published: aiItem.date_published || original.date_published,
                         is_technical: true,
                         tldr: aiItem.tldr,
                         tags: aiItem.tags,

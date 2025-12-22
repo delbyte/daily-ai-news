@@ -16,9 +16,7 @@ interface NewsItem {
 }
 
 export default function Home() {
-    const items = (newsData as NewsItem[]).sort((a, b) =>
-        new Date(b.date_published || b.date_scraped).getTime() - new Date(a.date_published || a.date_scraped).getTime()
-    );
+    const items = (newsData as NewsItem[]).sort((a, b) => b.hype_score - a.hype_score);
 
     return <NewsFeed initialItems={items} />;
 }
