@@ -80,7 +80,7 @@ export function NewsFeed({ initialItems }: NewsFeedProps) {
     const [activeHype, setActiveHype] = React.useState<HypeRange[]>([]);
     const [activeTags, setActiveTags] = React.useState<string[]>([]);
     const [activeSources, setActiveSources] = React.useState<string[]>([]);
-    const [sortOption, setSortOption] = React.useState<SortOption>("date-desc");
+    const [sortOption, setSortOption] = React.useState<SortOption>("hype-desc");
     const [showFilters, setShowFilters] = React.useState(false);
 
     // Compute unique tags and sources
@@ -149,7 +149,7 @@ export function NewsFeed({ initialItems }: NewsFeedProps) {
         setActiveHype([]);
         setActiveTags([]);
         setActiveSources([]);
-        setSortOption("date-desc");
+        setSortOption("hype-desc");
     };
 
     const lastUpdate = initialItems.length > 0 ? new Date(initialItems[0].date_scraped).toLocaleDateString() : "Never";
