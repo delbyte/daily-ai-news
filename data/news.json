@@ -1,435 +1,330 @@
 [
   {
-    "source": "Claude Blog",
-    "title": "How enterprises are building AI agents in 2026",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "id": "c0107b7e16772f5f895e217935207b5d",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
+    "id": "896ad9e2a9ac2cd43172c89663da2091",
+    "source": "AWS ML",
+    "title": "Exploring the zero operator access design of Mantle",
+    "url": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-23T22:18:12.000Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AWS ML explores the sophisticated 'zero operator access' design implemented in Mantle, emphasizing enhanced security and operational integrity for critical AI/ML workloads. This architectural approach minimizes human intervention in infrastructure, reducing potential attack surfaces and maintaining system robustness.",
     "tags": [
-      "Unverified"
+      "infrastructure",
+      "security",
+      "cloud_ml",
+      "operational_security",
+      "design_patterns"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
-    "source": "Claude Blog",
-    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
-    "url": "https://claude.com/blog/building-skills-for-claude-code",
-    "id": "cb68f8012abdc9887b0941a2f55bb279",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
+    "id": "6874968742692ed861da37327443b933",
+    "source": "AWS ML",
+    "title": "AWS AI League: Model customization and agentic showdown",
+    "url": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-23T17:36:07.000Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "The AWS AI League focuses on advanced model customization techniques and showcases agentic AI systems in competitive scenarios. This initiative highlights practical approaches for fine-tuning foundation models and orchestrating complex multi-agent interactions for diverse applications.",
     "tags": [
-      "Unverified"
+      "llm",
+      "agents",
+      "model_customization",
+      "fine_tuning",
+      "ai_competitions"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
-    "source": "Claude Blog",
-    "title": "Improving frontend design through Skills",
-    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
-    "id": "42bfc0352255435d8b7b26a0a01b7c62",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
+    "id": "8d0a9f7ab15a4a35e9efebbefa71ff55",
+    "source": "AWS ML",
+    "title": "Accelerate Enterprise AI Development using Weights & Biases and Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-development-using-weights-biases-weave-and-amazon-bedrock-agentcore/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-23T17:32:23.000Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "This post details methods to accelerate enterprise AI development by integrating Weights & Biases (W&B) with Amazon Bedrock AgentCore. The integration offers enhanced experimentation tracking, model evaluation, and MLOps capabilities for building sophisticated AI agents.",
     "tags": [
-      "Unverified"
+      "mlops",
+      "enterprise_ai",
+      "agents",
+      "bedrock",
+      "tooling",
+      "development_workflow"
     ],
-    "hype_score": 1
+    "hype_score": 5
   },
   {
-    "source": "Claude Blog",
-    "title": "Building AI agents for financial services",
-    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
-    "id": "025c809f2dc551972fdd695fb267d513",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
+    "id": "6dab6d37ef2da4e4a8ad2ff05266191a",
+    "source": "AWS ML",
+    "title": "Accelerating your marketing ideation with generative AI – Part 1: From idea to generation with the Amazon Nova foundation models",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-1-from-idea-to-generation-with-the-amazon-nova-foundation-models/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-23T17:06:31.000Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AWS unveils the Amazon Nova foundation models, designed to accelerate marketing ideation through advanced generative AI capabilities. This initial release focuses on guiding users from conceptual idea to creative content generation, leveraging powerful new large language models.",
     "tags": [
-      "Unverified"
+      "foundation_models",
+      "generative_ai",
+      "llm",
+      "amazon_nova",
+      "model_release"
     ],
-    "hype_score": 1
+    "hype_score": 8
   },
   {
-    "source": "Claude Blog",
-    "title": "Claude Code on the web",
-    "url": "https://claude.com/blog/claude-code-on-the-web",
-    "id": "40bee1741df14152870a9e610be0e61b",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
+    "id": "cf4d5ae6fa0e8dcc4738eca25d666565",
+    "source": "DeepMind",
+    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
+    "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
+    "date_scraped": "2025-12-24T13:00:25.604Z",
+    "date_published": "2025-12-23T17:01:02.000Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "DeepMind's 2025 year-in-review highlights significant research breakthroughs across eight key AI domains, signaling advancements in fundamental capabilities and real-world applications. The report provides a high-level overview of their most impactful contributions over the past year, spanning areas from foundational models to advanced reinforcement learning.",
     "tags": [
-      "Unverified"
+      "research",
+      "deep_learning",
+      "multimodal_ai",
+      "reinforcement_learning",
+      "foundational_models",
+      "general_ai"
     ],
-    "hype_score": 1
+    "hype_score": 8
   },
   {
-    "source": "Claude Blog",
-    "title": "Piloting Claude in Chrome",
-    "url": "https://claude.com/blog/claude-for-chrome",
-    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
+    "id": "5e3e72b22778d582d60be246d0354bb0",
+    "source": "Hugging Face",
+    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
+    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-23T14:07:35.000Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AprielGuard introduces a novel guardrail mechanism designed to enhance safety and adversarial robustness in contemporary LLM systems. This technical solution mitigates risks by preventing harmful outputs and increasing model resilience against sophisticated adversarial attacks.",
     "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How Anthropic teams use Claude Code",
-    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
-    "id": "0bf14bafc94805005f90ee62f2b8de49",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Introducing the Max Plan",
-    "url": "https://claude.com/blog/max-plan",
-    "id": "eed3cd118461a9e6a63be7540ca43faf",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Extending Claude’s capabilities with skills and MCP servers",
-    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Skills for organizations, partners, the ecosystem",
-    "url": "https://claude.com/blog/organization-skills-and-directory",
-    "id": "6eda6a632e2933dd55c8fc20f9c470e5",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Making Claude a better electrical engineer",
-    "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "id": "fa79f2dfaee1184e396e71b26b435efa",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Claude Code power user customization: How to configure hooks",
-    "url": "https://claude.com/blog/how-to-configure-hooks",
-    "id": "98d7396996017881bdd78b89591fb01b",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How Anthropic's legal team cut review times from days to hours with Claude",
-    "url": "https://claude.com/blog/how-anthropic-uses-claude-legal",
-    "id": "7f88b448300910e7d6df853ea860520e",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Claude Code and Slack",
-    "url": "https://claude.com/blog/claude-code-and-slack",
-    "id": "3583ffde0526b1f9fb168104d1a96df0",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "What are the key benefits of transitioning to agentic coding for software development?",
-    "url": "https://claude.com/blog/key-benefits-transitioning-agentic-coding",
-    "id": "12e0dc58a3c7d4fbfbdac8c1a3d33272",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Using CLAUDE.md files: Customizing Claude Code for your codebase",
-    "url": "https://claude.com/blog/using-claude-md-files",
-    "id": "dee09fbc2a065f5f934ce404a5d86298",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "What’s new in Claude: Turning Claude into your thinking partner",
-    "url": "https://claude.com/blog/your-thinking-partner",
-    "id": "908d4ea8e70fdfc14b88466a21c30d9d",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How to create Skills: Key steps, limitations, and examples",
-    "url": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples",
-    "id": "735b02a1d1e428df07c67ddaa0e69d33",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How three YC startups built their companies with Claude Code",
-    "url": "https://claude.com/blog/building-companies-with-claude-code",
-    "id": "77a94ab9408ac3fdba376d1dce7f570d",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Structured outputs on the Claude Developer Platform",
-    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "id": "bd64c94d11d6dab35ab99bd8231491a7",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
-    "url": "https://claude.com/blog/skills-explained",
-    "id": "d051211fc97fd9060b2e0e92f9ebfda0",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Meta AI",
-    "title": "Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption",
-    "url": "https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/",
-    "date_published": "2025-12-22T14:00:16.000Z",
-    "id": "eadd0a50596481726fd52e9361b2a4a1",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "f2f6a3c7bbc68c4cae122486bb8f5843",
-    "source": "Anthropic Research",
-    "title": "Dec 20, 2025\nAlignment\nIntroducing Bloom: an open source tool for automated behavioral evaluations",
-    "url": "https://www.anthropic.com/research/bloom",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
-    "date_published": "2025-12-19T18:30:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic has introduced Bloom, an open-source tool designed to automate behavioral evaluations of AI models, enhancing the efficiency and reproducibility of safety and alignment research. Bloom provides researchers with a robust framework for systematically testing and analyzing AI model responses across various scenarios.",
-    "tags": [
-      "open-source",
-      "AI safety",
-      "alignment",
-      "evaluation tools",
-      "behavioral AI"
+      "llm",
+      "safety",
+      "robustness",
+      "adversarial_ml",
+      "security",
+      "guardrails"
     ],
     "hype_score": 7
   },
   {
+    "id": "deaa469194efa5baf457ff31c1125a9c",
+    "source": "AWS ML",
+    "title": "Move Beyond Chain-of-Thought with Chain-of-Draft on Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/move-beyond-chain-of-thought-with-chain-of-draft-on-amazon-bedrock/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-22T18:37:13.000Z",
+    "is_technical": true,
+    "tldr": "AWS introduces 'Chain-of-Draft' on Amazon Bedrock, presenting an advanced reasoning paradigm that extends beyond traditional Chain-of-Thought prompting for LLMs. This method aims to improve the quality and coherence of generative outputs by allowing iterative refinement through a structured drafting process.",
+    "tags": [
+      "llm",
+      "prompting",
+      "agentic_ai",
+      "reasoning",
+      "generative_ai",
+      "bedrock"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "6726f0c32714e117901f90e755a93744",
+    "source": "AWS ML",
+    "title": "Deploy Mistral AI’s Voxtral on Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-mistral-ais-voxtral-on-amazon-sagemaker-ai/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-22T18:32:19.000Z",
+    "is_technical": true,
+    "tldr": "Amazon SageMaker AI now supports the deployment of Mistral AI’s Voxtral, broadening the range of advanced models available to developers. This integration provides efficient and scalable inference capabilities for Mistral AI's specialized model, enabling diverse AI applications.",
+    "tags": [
+      "model_deployment",
+      "sage_maker",
+      "mistral_ai",
+      "llm",
+      "model_release"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "eadd0a50596481726fd52e9361b2a4a1",
+    "source": "Meta AI",
+    "title": "Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption",
+    "url": "https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-22T14:00:16.000Z",
+    "is_technical": true,
+    "tldr": "Meta AI's 2025 Python Typing Survey reveals that code quality and flexibility are the primary drivers for increased typing adoption among developers. The findings underscore the growing importance of static typing in large-scale software development and its impact on maintainability and error reduction.",
+    "tags": [
+      "software_engineering",
+      "developer_tools",
+      "python",
+      "code_quality"
+    ],
+    "hype_score": 4
+  },
+  {
+    "id": "22651b90723c0b8380b2013406ccefb8",
+    "source": "OpenAI",
+    "title": "Continuously hardening ChatGPT Atlas against prompt injection",
+    "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
+    "date_scraped": "2025-12-24T12:59:40.242Z",
+    "date_published": "2025-12-22T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI details continuous efforts to secure ChatGPT Atlas against prompt injection attacks. This involves ongoing model improvements and system-level defenses to maintain robustness and user safety.",
+    "tags": [
+      "security",
+      "prompt_engineering",
+      "alignment",
+      "llm_safety"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "87e3ea55c0e8a21c4969365560b53bd9",
     "source": "AWS ML",
     "title": "Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads",
     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
     "date_published": "2025-12-19T18:23:50.000Z",
-    "id": "87e3ea55c0e8a21c4969365560b53bd9",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "Amazon SageMaker Studio introduces SOCI indexing, significantly reducing container startup times for AI/ML workloads. This infrastructure enhancement improves developer productivity and efficiency by accelerating the deployment and iteration cycles within the SageMaker environment.",
     "tags": [
-      "Unverified"
+      "infrastructure",
+      "mlops",
+      "aws",
+      "sagemaker",
+      "performance_optimization",
+      "developer_experience"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
+    "id": "e414f48e3321b53c89e83a9b694a385c",
     "source": "Meta AI",
     "title": "DrP: Meta’s Root Cause Analysis Platform at Scale",
     "url": "https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
     "date_published": "2025-12-19T17:35:13.000Z",
-    "id": "e414f48e3321b53c89e83a9b694a385c",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "Meta has detailed DrP, its scalable root cause analysis platform designed to rapidly identify and diagnose issues within complex production systems. This engineering solution significantly enhances operational efficiency by automating incident investigation and accelerating problem resolution across Meta's vast infrastructure.",
     "tags": [
-      "Unverified"
+      "infrastructure",
+      "distributed_systems",
+      "reliability",
+      "observability",
+      "engineering_practices"
     ],
-    "hype_score": 1
+    "hype_score": 5
   },
   {
     "id": "b789c4290414ff20e1d22bb44c4434eb",
     "source": "NVIDIA Blog",
     "title": "Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops",
     "url": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
+    "date_scraped": "2025-12-24T13:00:37.052Z",
     "date_published": "2025-12-19T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces the ALCHEMI Toolkit-Ops, designed to accelerate AI-driven simulations in chemistry and materials science. This toolkit streamlines the integration of AI models into complex scientific workflows, enabling faster discovery and development of new materials.",
+    "tldr": "NVIDIA introduces the ALCHEMI Toolkit-Ops to significantly accelerate AI-powered simulations within chemistry and materials science. This new toolkit leverages NVIDIA's GPU infrastructure to enhance computational efficiency for complex scientific modeling and discovery workflows.",
     "tags": [
-      "scientific_computing",
-      "hpc",
-      "nvidia",
+      "scientific computing",
       "simulation",
-      "materials_science",
-      "chemistry"
+      "materials science",
+      "chemistry",
+      "NVIDIA",
+      "GPU",
+      "infrastructure"
     ],
     "hype_score": 7
   },
   {
+    "id": "f2f6a3c7bbc68c4cae122486bb8f5843",
+    "source": "Anthropic Research",
+    "title": "Dec 19, 2025\nAlignment\nIntroducing Bloom: an open source tool for automated behavioral evaluations",
+    "url": "https://www.anthropic.com/research/bloom",
+    "date_scraped": "2025-12-24T12:59:40.243Z",
+    "date_published": "2025-12-19T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "Anthropic unveiled Bloom, a new open-source tool designed for automated behavioral evaluations of AI models. Bloom aims to streamline the process of assessing model safety, robustness, and alignment by providing a framework for systematic testing.",
+    "tags": [
+      "alignment",
+      "safety",
+      "tool_release",
+      "evaluation",
+      "open_source"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "f0428e1300ac13f70781c041bc0c75b9",
     "source": "AWS ML",
     "title": "Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
     "date_published": "2025-12-18T17:26:39.000Z",
-    "id": "f0428e1300ac13f70781c041bc0c75b9",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "This article outlines a technical framework for building and deploying scalable AI agents by integrating NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents. It details architectural considerations and best practices for developing robust, production-ready agentic solutions across cloud infrastructure.",
     "tags": [
-      "Unverified"
+      "agents",
+      "scalable_ai",
+      "nvidia_nemo",
+      "bedrock",
+      "mlops",
+      "architecture"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
+    "id": "e91c63cda78022af7b2318f93f967871",
     "source": "AWS ML",
     "title": "Bi-directional streaming for real-time agent interactions now available in Amazon Bedrock AgentCore Runtime",
     "url": "https://aws.amazon.com/blogs/machine-learning/bi-directional-streaming-for-real-time-agent-interactions-now-available-in-amazon-bedrock-agentcore-runtime/",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
     "date_published": "2025-12-18T17:00:21.000Z",
-    "id": "e91c63cda78022af7b2318f93f967871",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "Amazon Bedrock AgentCore Runtime now features bi-directional streaming, enabling real-time, low-latency interactions for AI agents. This advancement significantly enhances the responsiveness and fluidity of conversational AI applications and complex agentic workflows, critical for dynamic user experiences.",
     "tags": [
-      "Unverified"
+      "agents",
+      "real_time_ai",
+      "bedrock",
+      "streaming",
+      "conversational_ai",
+      "infrastructure"
     ],
-    "hype_score": 1
+    "hype_score": 7
   },
   {
     "id": "f58701c4459f171f3d67853e5061c2eb",
     "source": "OpenAI",
     "title": "Evaluating chain-of-thought monitorability",
     "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
+    "date_scraped": "2025-12-24T12:59:40.242Z",
     "date_published": "2025-12-18T12:00:00.000Z",
     "is_technical": true,
-    "tldr": "This research investigates methods for monitoring the internal reasoning processes of large language models, specifically focusing on chain-of-thought mechanisms. The study aims to improve transparency and explainability by enabling better observation and evaluation of how models arrive at their conclusions.",
+    "tldr": "OpenAI explores the monitorability of Chain-of-Thought (CoT) reasoning in LLMs, aiming to assess how effectively internal reasoning steps can be observed and understood. This research contributes to developing more transparent and debuggable AI systems.",
     "tags": [
       "interpretability",
-      "LLMs",
-      "safety",
-      "research",
-      "chain-of-thought"
+      "llm",
+      "chain_of_thought",
+      "research"
     ],
     "hype_score": 7
-  },
-  {
-    "id": "92da98d14454a67c82e7edc956a5defc",
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.2-Codex",
-    "url": "https://openai.com/index/gpt-5-2-codex",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
-    "date_published": "2025-12-18T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI has launched GPT-5.2-Codex, a new iteration of its code generation model, likely with significant improvements in programming task performance, multi-language support, and debugging capabilities. This release aims to further enhance developer productivity and automation of coding workflows.",
-    "tags": [
-      "LLMs",
-      "code generation",
-      "model release",
-      "programming",
-      "GPT"
-    ],
-    "hype_score": 9
   },
   {
     "id": "2d1c87f7a022c91586c317f58cc0d97f",
     "source": "OpenAI",
     "title": "Introducing GPT-5.2-Codex",
     "url": "https://openai.com/index/introducing-gpt-5-2-codex",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
+    "date_scraped": "2025-12-24T12:59:40.242Z",
     "date_published": "2025-12-18T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has launched GPT-5.2-Codex, a new iteration of its code generation model, likely with significant improvements in programming task performance, multi-language support, and debugging capabilities. This release aims to further enhance developer productivity and automation of coding workflows.",
+    "tldr": "OpenAI has released GPT-5.2-Codex, a specialized large language model likely optimized for code generation, understanding, and related developer tasks. This marks a significant upgrade in their code-focused AI capabilities.",
     "tags": [
-      "LLMs",
-      "code generation",
-      "model release",
-      "programming",
-      "GPT"
+      "llm",
+      "code_generation",
+      "model_release",
+      "foundation_models"
     ],
     "hype_score": 9
   },
@@ -438,69 +333,33 @@
     "source": "OpenAI",
     "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
     "url": "https://openai.com/index/gpt-5-2-codex-system-card",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
+    "date_scraped": "2025-12-24T12:59:40.242Z",
     "date_published": "2025-12-18T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This addendum provides critical technical details and safety considerations for the newly released GPT-5.2-Codex model, outlining its specific capabilities, limitations, and ethical deployment guidelines. It offers in-depth information on potential risks and mitigation strategies tailored to its code-generation functionalities.",
+    "tldr": "OpenAI released an addendum to the GPT-5.2 System Card specifically for the new GPT-5.2-Codex model. This addendum likely provides detailed technical specifications, safety considerations, and responsible deployment guidelines for the specialized code-focused LLM.",
     "tags": [
-      "model safety",
-      "system card",
-      "LLMs",
-      "technical documentation",
-      "ethics"
-    ],
-    "hype_score": 6
-  },
-  {
-    "source": "Hugging Face",
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "url": "https://huggingface.co/blog/tokenizers",
-    "date_published": "2025-12-18T00:00:00.000Z",
-    "id": "ae0a66b3b3d58194f09552fd97c0d75c",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "a5db84f69f37d6358f9c592b7edd2b2f",
-    "source": "NVIDIA Blog",
-    "title": "Real-Time Decoding, Algorithmic GPU Decoders, and AI Inference Enhancements in NVIDIA CUDA-Q QEC",
-    "url": "https://developer.nvidia.com/blog/real-time-decoding-algorithmic-gpu-decoders-and-ai-inference-enhancements-in-nvidia-cuda-q-qec/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-17T21:32:50.000Z",
-    "is_technical": true,
-    "tldr": "This post highlights advancements in NVIDIA CUDA-Q QEC, featuring real-time decoding, algorithmic GPU decoders, and AI inference enhancements for quantum error correction. These improvements are crucial for enabling practical quantum computing by reducing error rates and accelerating processing.",
-    "tags": [
-      "quantum_computing",
-      "hpc",
-      "nvidia",
-      "gpu",
-      "error_correction"
+      "llm",
+      "code_generation",
+      "safety",
+      "system_card",
+      "technical_documentation"
     ],
     "hype_score": 8
   },
   {
-    "id": "5225421a7bc7371b5a85d917c86f329c",
-    "source": "NVIDIA Blog",
-    "title": "Migrate Apache Spark Workloads to GPUs at Scale on Amazon EMR with Project Aether",
-    "url": "https://developer.nvidia.com/blog/migrate-apache-spark-workloads-to-gpus-at-scale-on-amazon-emr-with-project-aether/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-17T19:00:00.000Z",
+    "id": "c3d5c83b94248c3ce693f08edd303d67",
+    "source": "Anthropic News",
+    "title": "Dec 18, 2025\nAnnouncements\nWorking with the US Department of Energy to unlock the next era of scientific discovery",
+    "url": "https://www.anthropic.com/news/genesis-mission-partnership",
+    "date_scraped": "2025-12-24T12:59:40.242Z",
+    "date_published": "2025-12-18T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Project Aether enables the migration of Apache Spark workloads to GPUs on Amazon EMR, facilitating large-scale data processing acceleration. This significantly boosts performance for data analytics and ML training by leveraging GPU power within existing Spark ecosystems.",
+    "tldr": "Anthropic announced a partnership with the U.S. Department of Energy focused on leveraging AI to accelerate scientific discovery. This collaboration aims to apply frontier AI models to complex research challenges in fields like materials science and energy systems.",
     "tags": [
-      "hpc",
-      "gpu",
-      "spark",
-      "big_data",
-      "infrastructure",
-      "nvidia",
-      "aws",
-      "optimization"
+      "scientific_discovery",
+      "llm_application",
+      "research_collaboration",
+      "computational_science"
     ],
     "hype_score": 7
   },
@@ -509,549 +368,35 @@
     "source": "Anthropic Research",
     "title": "Project Vend: Phase two\nPolicy\nDec 18, 2025\n\nIn June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote?",
     "url": "https://www.anthropic.com/research/project-vend-2",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
-    "date_published": "2025-12-17T18:30:00.000Z",
+    "date_scraped": "2025-12-24T12:59:40.243Z",
+    "date_published": "2025-12-18T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic has released Phase Two findings from \"Project Vend,\" an experimental study evaluating AI agents' ability to autonomously manage and operate a real-world business (an AI-run shop). The latest insights detail the advanced capabilities and challenges encountered by AI in complex, dynamic environments, pushing the boundaries of agentic AI.",
+    "tldr": "Anthropic published an update on 'Project Vend: Phase Two,' a real-world experiment assessing AI capabilities in complex, practical tasks using an AI shopkeeper. The report details the AI's performance and challenges encountered since the initial phase.",
     "tags": [
-      "agentic AI",
-      "real-world AI",
-      "experimentation",
-      "AI capabilities",
-      "robotics"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "a2656602bebec741367e0ba49f8a97cb",
-    "source": "NVIDIA Blog",
-    "title": "Solving Large-Scale Linear Sparse Problems with NVIDIA cuDSS",
-    "url": "https://developer.nvidia.com/blog/solving-large-scale-linear-sparse-problems-with-nvidia-cudss/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-17T18:30:00.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA cuDSS provides a new library for efficiently solving large-scale linear sparse systems of equations on GPUs. This is critical for various scientific and engineering applications, offering significant performance improvements over traditional CPU-based solutions.",
-    "tags": [
-      "hpc",
-      "gpu",
-      "numerical_computing",
-      "linear_algebra",
-      "scientific_computing",
-      "nvidia"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "f147ad2be64a61ae8c8e856a3cfdc866",
-    "source": "NVIDIA Blog",
-    "title": "Simulate Robotic Environments Faster with NVIDIA Isaac Sim and World Labs Marble",
-    "url": "https://developer.nvidia.com/blog/simulate-robotic-environments-faster-with-nvidia-isaac-sim-and-world-labs-marble/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-17T17:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This post highlights how NVIDIA Isaac Sim, combined with World Labs Marble, accelerates the simulation of complex robotic environments. Faster simulation is crucial for rapid iteration in robotics development, training, and testing of AI agents.",
-    "tags": [
-      "robotics",
-      "simulation",
-      "nvidia",
-      "reinforcement_learning"
-    ],
-    "hype_score": 7
-  },
-  {
-    "source": "AWS ML",
-    "title": "Tracking and managing assets used in AI development with Amazon SageMaker AI ",
-    "url": "https://aws.amazon.com/blogs/machine-learning/tracking-and-managing-assets-used-in-ai-development-with-amazon-sagemaker-ai/",
-    "date_published": "2025-12-17T16:53:30.000Z",
-    "id": "d6b6b2392274eff65249de5d709da603",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Track machine learning experiments with MLflow on Amazon SageMaker using Snowflake integration",
-    "url": "https://aws.amazon.com/blogs/machine-learning/track-machine-learning-experiments-with-mlflow-on-amazon-sagemaker-using-snowflake-integration/",
-    "date_published": "2025-12-17T16:50:57.000Z",
-    "id": "efcd8026c7b18a845633ef82f2a2428b",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "9471addbfade792876694625d070b47d",
-    "source": "NVIDIA Blog",
-    "title": "Using AI Physics for Technology Computer-Aided Design Simulations",
-    "url": "https://developer.nvidia.com/blog/using-ai-physics-for-technology-computer-aided-design-simulations/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-17T16:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This article explores the application of AI-driven physics models to enhance Technology Computer-Aided Design (TCAD) simulations. Integrating AI physics significantly speeds up the design and optimization process for semiconductor devices and other complex systems.",
-    "tags": [
-      "scientific_computing",
-      "simulation",
-      "AI_physics",
-      "nvidia",
-      "hpc"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "5ae5ec53b26a4591e41b20544135f938",
-    "source": "NVIDIA Blog",
-    "title": "Simulate an Accurate Radio Environment Using NVIDIA Aerial Omniverse Digital Twin",
-    "url": "https://developer.nvidia.com/blog/simulate-an-accurate-radio-environment-using-nvidia-aerial-omniverse-digital-twin/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-17T16:00:00.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA Aerial Omniverse Digital Twin enables the creation of highly accurate radio environment simulations, essential for 5G/6G network planning and autonomous systems. This digital twin technology allows for precise testing and optimization of wireless communications in virtual environments.",
-    "tags": [
-      "simulation",
-      "digital_twin",
-      "telecommunications",
-      "nvidia",
-      "infrastructure"
-    ],
-    "hype_score": 6
-  },
-  {
-    "source": "Meta AI",
-    "title": "How We Built Meta Ray-Ban Display: From Zero to Polish",
-    "url": "https://engineering.fb.com/2025/12/17/virtual-reality/meta-ray-ban-display-from-zero-to-polish/",
-    "date_published": "2025-12-17T14:00:17.000Z",
-    "id": "4ec045635b8e74b89de0a4f88eeccfe0",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Hugging Face",
-    "title": "The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator",
-    "url": "https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe",
-    "date_published": "2025-12-17T13:22:18.000Z",
-    "id": "c1fd5fcd7f1c01ccaf2db310506edfdb",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "DeepMind",
-    "title": "Gemini 3 Flash: frontier intelligence built for speed",
-    "url": "https://deepmind.google/blog/gemini-3-flash-frontier-intelligence-built-for-speed/",
-    "date_published": "2025-12-17T11:58:17.000Z",
-    "id": "f4e346d42494a1c82f3f89a36a67c007",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "55f4fa5d40609425cda998aa47ad9e71",
-    "source": "NVIDIA Blog",
-    "title": "Optimizing Semiconductor Defect Classification with Generative AI and Vision Foundation Models",
-    "url": "https://developer.nvidia.com/blog/optimizing-semiconductor-defect-classification-with-generative-ai-and-vision-foundation-models/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-17T02:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This article details how generative AI and vision foundation models are being leveraged to optimize semiconductor defect classification. This significantly improves accuracy and efficiency in quality control processes for chip manufacturing.",
-    "tags": [
-      "computer_vision",
-      "generative_ai",
-      "foundation_models",
-      "manufacturing",
-      "nvidia"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "e243be208b10f18ae616b8b5e5422fa7",
-    "source": "OpenAI",
-    "title": "Developers can now submit apps to ChatGPT",
-    "url": "https://openai.com/index/developers-can-now-submit-apps-to-chatgpt",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
-    "date_published": "2025-12-17T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI has opened its platform for developers to submit custom applications and integrations directly into ChatGPT, signaling a significant expansion of its ecosystem and third-party utility. This move transforms ChatGPT into a more extensible platform, fostering a wider range of AI-powered services and functionalities.",
-    "tags": [
-      "platform",
-      "API",
-      "developers",
-      "ecosystem",
-      "ChatGPT"
-    ],
-    "hype_score": 8
-  },
-  {
-    "source": "AWS ML",
-    "title": "Governance by design: The essential guide for successful AI scaling",
-    "url": "https://aws.amazon.com/blogs/machine-learning/governance-by-design-the-essential-guide-for-successful-ai-scaling/",
-    "date_published": "2025-12-16T21:18:54.000Z",
-    "id": "997221bf16cefedaaafa479df79db7b6",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "4a7e0af31553a6b750481d7055be8042",
-    "source": "NVIDIA Blog",
-    "title": "Accelerating Long-Context Inference with Skip Softmax in NVIDIA TensorRT-LLM",
-    "url": "https://developer.nvidia.com/blog/accelerating-long-context-inference-with-skip-softmax-in-nvidia-tensorrt-llm/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-16T21:00:00.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA TensorRT-LLM introduces Skip Softmax to accelerate long-context inference for large language models. This optimization significantly reduces computational overhead for models processing extensive inputs, improving both speed and efficiency.",
-    "tags": [
-      "llm",
-      "inference",
-      "optimization",
-      "nvidia",
-      "tensorrt",
-      "hpc"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "1c579f12a995c7d66a7dee85b3b0fd5f",
-    "source": "LangChain",
-    "title": "Fastweb + Vodafone: Transforming Customer Experience with AI Agents using LangGraph and LangSmith",
-    "url": "https://blog.langchain.com/customers-vodafone-italy/",
-    "date_scraped": "2025-12-22T17:21:03.221Z",
-    "date_published": "2025-12-16T20:50:55.000Z",
-    "is_technical": true,
-    "tldr": "This case study demonstrates the successful deployment of AI agents built with LangGraph and LangSmith to transform customer experience at Fastweb and Vodafone. It highlights the practical application of advanced agentic architectures in real-world business environments.",
-    "tags": [
-      "llm",
-      "agents",
-      "langchain",
-      "mlops",
-      "case_study"
-    ],
-    "hype_score": 6
-  },
-  {
-    "source": "AWS ML",
-    "title": "How Tata Power CoE built a scalable AI-powered solar panel inspection solution with Amazon SageMaker AI and Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-tata-power-coe-built-a-scalable-ai-powered-solar-panel-inspection-solution-with-amazon-sagemaker-ai-and-amazon-bedrock/",
-    "date_published": "2025-12-16T18:55:36.000Z",
-    "id": "674253cdcbf94519b96d143b19dea839",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Unlocking video understanding with TwelveLabs Marengo on Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-understanding-with-twelvelabs-marengo-on-amazon-bedrock/",
-    "date_published": "2025-12-16T18:51:10.000Z",
-    "id": "1bd66e546e5328ccc471bfee4eda9ba9",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "ae136e31ca256e6fedc7390ec633be41",
-    "source": "NVIDIA Blog",
-    "title": "Advanced Large-Scale Quantum Simulation Techniques in cuQuantum SDK v25.11",
-    "url": "https://developer.nvidia.com/blog/advanced-large-scale-quantum-simulation-techniques-in-cuquantum-sdk-v25-11/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-16T18:00:00.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA's cuQuantum SDK v25.11 introduces advanced techniques for large-scale quantum simulations, pushing the boundaries of what's possible on classical hardware. These enhancements facilitate research and development in quantum algorithm design and quantum chemistry.",
-    "tags": [
-      "quantum_computing",
-      "hpc",
-      "nvidia",
-      "simulation",
-      "SDK"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "a70cc1b72c71a8a45cfdc44a345fbfeb",
-    "source": "NVIDIA Blog",
-    "title": "AI Factories, Physical AI, and Advances in Models, Agents, and Infrastructure That Shaped 2025",
-    "url": "https://developer.nvidia.com/blog/ai-factories-physical-ai-and-advances-in-models-agents-and-infrastructure-that-shaped-2025/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-16T17:30:00.000Z",
-    "is_technical": true,
-    "tldr": "This piece reviews the major technical advancements in 2025, focusing on the rise of \"AI Factories,\" the integration of \"Physical AI\" in real-world systems, and progress in AI models, agents, and underlying infrastructure. It provides a comprehensive technical overview of the year's key innovations.",
-    "tags": [
-      "trends",
-      "AI_roadmap",
-      "physical_ai",
-      "agents",
-      "infrastructure"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "abd74826cd96e555a874d18c5ace2264",
-    "source": "NVIDIA Blog",
-    "title": "Boost GPU Memory Performance with No Code Changes Using NVIDIA CUDA MPS ",
-    "url": "https://developer.nvidia.com/blog/boost-gpu-memory-performance-with-no-code-changes-using-nvidia-cuda-mps/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-16T17:00:00.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA CUDA MPS (Multi-Process Service) offers a method to boost GPU memory performance for concurrent workloads without requiring code changes. This feature enhances utilization and throughput by allowing multiple processes to share a single GPU's resources more efficiently.",
-    "tags": [
-      "gpu",
-      "optimization",
-      "cuda",
-      "hpc",
-      "infrastructure",
-      "nvidia"
-    ],
-    "hype_score": 6
-  },
-  {
-    "source": "DeepMind",
-    "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-    "url": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-    "date_published": "2025-12-16T10:14:24.000Z",
-    "id": "b2a0347cfdf023fd10c42dc356f1b163",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "005a369e5985367628f799abb8d48877",
-    "source": "OpenAI",
-    "title": "Evaluating AI’s ability to perform scientific research tasks",
-    "url": "https://openai.com/index/frontierscience",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
-    "date_published": "2025-12-16T09:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This research evaluates the current capabilities of AI systems in executing complex scientific research tasks, from hypothesis generation to experimental design and data analysis. The study provides insights into AI's potential to accelerate scientific discovery and identifies key areas for future improvement.",
-    "tags": [
-      "scientific discovery",
-      "AI capabilities",
+      "ai_agents",
+      "real_world_application",
+      "evaluation",
       "research",
-      "benchmarking",
-      "automation"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "1adfb68fe6b485e6b44cee17b654ec90",
-    "source": "OpenAI",
-    "title": "Measuring AI’s capability to accelerate biological research",
-    "url": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
-    "date_published": "2025-12-16T08:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This paper explores the effectiveness of AI in accelerating various aspects of biological research, particularly within wet-lab experimental settings. It measures AI's impact on expediting experimental design, data interpretation, and identifying novel biological insights, highlighting its transformative potential in life sciences.",
-    "tags": [
-      "biology",
-      "bio-AI",
-      "scientific research",
-      "wet-lab",
-      "automation",
-      "AI applications"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "b44398808cf1dea0a5131a108c9d475d",
-    "source": "OpenAI",
-    "title": "The new ChatGPT Images is here",
-    "url": "https://openai.com/index/new-chatgpt-images-is-here",
-    "date_scraped": "2025-12-22T17:18:33.357Z",
-    "date_published": "2025-12-16T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI has released an updated version of ChatGPT Images, likely featuring enhanced image generation quality, greater control over outputs, and potentially new multimodal capabilities. This upgrade aims to provide users with more sophisticated and creative tools for visual content creation directly within the ChatGPT interface.",
-    "tags": [
-      "multimodal AI",
-      "image generation",
-      "ChatGPT",
-      "model update",
-      "DALL-E"
-    ],
-    "hype_score": 8
-  },
-  {
-    "source": "AWS ML",
-    "title": "Checkpointless training on Amazon SageMaker HyperPod: Production-scale training with faster fault recovery",
-    "url": "https://aws.amazon.com/blogs/machine-learning/checkpointless-training-on-amazon-sagemaker-hyperpod-production-scale-training-with-faster-fault-recovery/",
-    "date_published": "2025-12-15T19:45:50.000Z",
-    "id": "e682c659db2b91ff505bef563be35ed6",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "4c83a975a3a1fe08673bfba27d60e594",
-    "source": "NVIDIA Blog",
-    "title": "Delivering Flexible Performance for Future-Ready Data Centers with NVIDIA MGX",
-    "url": "https://developer.nvidia.com/blog/delivering-flexible-performance-for-future-ready-data-centers-with-nvidia-mgx/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-15T18:25:18.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA MGX provides a modular and flexible server architecture designed for future-ready data centers, enabling adaptive performance for diverse AI and HPC workloads. This platform allows for scalable and efficient deployment of GPU-accelerated computing resources.",
-    "tags": [
-      "infrastructure",
-      "hpc",
-      "gpu",
-      "data_center",
-      "nvidia",
-      "hardware"
+      "llm_capabilities"
     ],
     "hype_score": 6
   },
   {
-    "source": "AWS ML",
-    "title": "Adaptive infrastructure for foundation model training with elastic training on SageMaker HyperPod",
-    "url": "https://aws.amazon.com/blogs/machine-learning/adaptive-infrastructure-for-foundation-model-training-with-elastic-training-on-sagemaker-hyperpod/",
-    "date_published": "2025-12-15T18:12:22.000Z",
-    "id": "107fe457a52f9f30d02bc6d07e35c3b0",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
+    "id": "ae0a66b3b3d58194f09552fd97c0d75c",
+    "source": "Hugging Face",
+    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
+    "url": "https://huggingface.co/blog/tokenizers",
+    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_published": "2025-12-18T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "Hugging Face has revamped tokenization in Transformers v5, focusing on a simpler, clearer, and more modular design for improved developer experience. These significant architectural changes aim to enhance flexibility and efficiency in text preprocessing for transformer models.",
     "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Customize agent workflows with advanced orchestration techniques using Strands Agents",
-    "url": "https://aws.amazon.com/blogs/machine-learning/customize-agent-workflows-with-advanced-orchestration-techniques-using-strands-agents/",
-    "date_published": "2025-12-15T17:35:47.000Z",
-    "id": "9633d1ffe09a967e9719d333b7bf9a6d",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "e78ace21b5b90a4a3a8bbd269614cb08",
-    "source": "AWS ML",
-    "title": "Operationalize generative AI workloads and scale to hundreds of use cases with Amazon Bedrock – Part 1: GenAIOps",
-    "url": "https://aws.amazon.com/blogs/machine-learning/operationalize-generative-ai-workloads-and-scale-to-hundreds-of-use-cases-with-amazon-bedrock-part-1-genaiops/",
-    "date_scraped": "2025-12-22T17:21:03.221Z",
-    "date_published": "2025-12-15T17:31:53.000Z",
-    "is_technical": true,
-    "tldr": "This post details strategies and methodologies for implementing and scaling generative AI applications using Amazon Bedrock. It covers best practices for GenAIOps to manage the lifecycle of AI workloads from development to production at scale.",
-    "tags": [
-      "llmops",
-      "mlops",
-      "infrastructure",
-      "generative_ai",
-      "aws"
+      "nlp",
+      "transformers",
+      "tokenization",
+      "library_update",
+      "engineering"
     ],
     "hype_score": 6
-  },
-  {
-    "id": "6b6b46252374936e46ef24805aa9c792",
-    "source": "NVIDIA Blog",
-    "title": "Reducing CUDA Binary Size to Distribute cuML on PyPI",
-    "url": "https://developer.nvidia.com/blog/reducing-cuda-binary-size-to-distribute-cuml-on-pypi/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-15T17:30:00.000Z",
-    "is_technical": true,
-    "tldr": "This post details the technical challenges and solutions for reducing the CUDA binary size of cuML for distribution on PyPI. Optimizing binary size is critical for wider accessibility and easier deployment of GPU-accelerated machine learning libraries.",
-    "tags": [
-      "cuda",
-      "cuml",
-      "optimization",
-      "software_engineering",
-      "gpu",
-      "nvidia"
-    ],
-    "hype_score": 5
-  },
-  {
-    "id": "5e1236a13e868cb5d5e5094346cf77ee",
-    "source": "AWS ML",
-    "title": "Applying data loading best practices for ML training with Amazon S3 clients",
-    "url": "https://aws.amazon.com/blogs/machine-learning/applying-data-loading-best-practices-for-ml-training-with-amazon-s3-clients/",
-    "date_scraped": "2025-12-22T17:21:03.221Z",
-    "date_published": "2025-12-15T17:29:31.000Z",
-    "is_technical": true,
-    "tldr": "This article outlines best practices for efficiently loading data from Amazon S3, specifically optimizing for machine learning training workloads. It covers various techniques and client configurations to enhance data transfer throughput and reduce model training times.",
-    "tags": [
-      "mlops",
-      "data_management",
-      "infrastructure",
-      "aws",
-      "optimization"
-    ],
-    "hype_score": 5
-  },
-  {
-    "id": "6da771d96c059128a10c049a4ba5b834",
-    "source": "NVIDIA Blog",
-    "title": "NVIDIA CUDA-X Powers the New Sirius GPU Engine for DuckDB, Setting ClickBench Records",
-    "url": "https://developer.nvidia.com/blog/nvidia-gpu-accelerated-sirius-achieves-record-setting-clickbench-record/",
-    "date_scraped": "2025-12-22T17:21:03.222Z",
-    "date_published": "2025-12-15T17:18:31.000Z",
-    "is_technical": true,
-    "tldr": "The new Sirius GPU engine for DuckDB, powered by NVIDIA CUDA-X, has achieved record-setting performance on ClickBench. This marks a significant advancement in analytical database acceleration, demonstrating superior query processing speeds leveraging GPU capabilities.",
-    "tags": [
-      "gpu",
-      "database",
-      "analytics",
-      "hpc",
-      "nvidia",
-      "cuda",
-      "benchmarks",
-      "optimization"
-    ],
-    "hype_score": 7
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Claude can now connect to your world",
-    "url": "https://claude.com/blog/integrations",
-    "date_published": "2025-04-30T18:30:00.000Z",
-    "id": "5c68ad537d8788666fa7f734cd825609",
-    "date_scraped": "2025-12-22T17:20:21.084Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
   }
 ]
