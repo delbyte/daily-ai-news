@@ -1,19 +1,124 @@
 [
   {
+    "id": "bd64c94d11d6dab35ab99bd8231491a7",
+    "source": "Claude Blog",
+    "title": "Structured outputs on the Claude Developer Platform",
+    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
+    "date_published": "2025-12-25T12:00:00Z",
+    "is_technical": true,
+    "tldr": "Anthropic announced the availability of structured outputs on the Claude Developer Platform, enabling developers to reliably extract information in predefined formats like JSON or XML from Claude's responses. This enhancement significantly improves the integration of Claude into automated workflows and applications requiring predictable data parsing.",
+    "tags": [
+      "LLM",
+      "API",
+      "Developer Tools",
+      "NLP",
+      "Agentic AI"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "d051211fc97fd9060b2e0e92f9ebfda0",
+    "source": "Claude Blog",
+    "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
+    "url": "https://claude.com/blog/skills-explained",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
+    "date_published": "2025-12-25T12:00:00Z",
+    "is_technical": true,
+    "tldr": "Anthropic's blog post elucidates their 'Skills' concept, differentiating it from traditional prompts, Projects, Meta-Cognitive Prompting (MCP), and subagents. This provides a clearer technical framework for understanding how Claude can integrate specialized capabilities and manage complex multi-step tasks within an agentic architecture.",
+    "tags": [
+      "LLM",
+      "Agentic AI",
+      "Architecture",
+      "Prompt Engineering"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "0d45ae7dc4546f3497586727dc60ac96",
+    "source": "AWS ML",
+    "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation",
+    "url": "https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
+    "date_published": "2025-12-24T17:26:00.000Z",
+    "is_technical": true,
+    "tldr": "AWS ML outlined a method for programmatically building Intelligent Document Processing (IDP) solutions leveraging Amazon Bedrock Data Automation. This technical guide likely covers API interactions and architectural patterns for automating data extraction and processing from diverse document types.",
+    "tags": [
+      "AWS",
+      "LLM",
+      "Data Processing",
+      "Automation",
+      "IDP"
+    ],
+    "hype_score": 5
+  },
+  {
+    "id": "4d76626d32f4e74b734706e21f90b16d",
+    "source": "AWS ML",
+    "title": "AI agent-driven browser automation for enterprise workflow management",
+    "url": "https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
+    "date_published": "2025-12-24T17:22:30.000Z",
+    "is_technical": true,
+    "tldr": "AWS ML presented an approach to enterprise workflow management through AI agent-driven browser automation, detailing how intelligent agents can interact with web interfaces to execute complex tasks. The post likely explores the technical challenges and solutions for robust agent orchestration in a browser environment.",
+    "tags": [
+      "AWS",
+      "Agentic AI",
+      "Automation",
+      "Workflow Management"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "908d5fc82131d87ca7d8515c59490bf3",
+    "source": "AWS ML",
+    "title": "Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
+    "date_published": "2025-12-24T17:20:16.000Z",
+    "is_technical": true,
+    "tldr": "AWS ML detailed the use of Amazon Bedrock AgentCore Browser and Amazon Nova Act for agentic QA automation, providing insights into constructing intelligent agents for quality assurance tasks. This article likely showcases how these tools can simulate user interactions and validate software functionality through automated processes.",
+    "tags": [
+      "AWS",
+      "Agentic AI",
+      "Automation",
+      "QA",
+      "LLM"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "5c1a35ff4a502dcde4abbee37b875311",
+    "source": "AWS ML",
+    "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer",
+    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
+    "date_published": "2025-12-24T17:17:44.000Z",
+    "is_technical": true,
+    "tldr": "AWS ML published a guide on optimizing Large Language Model inference performance on Amazon SageMaker AI using BentoML’s LLM-Optimizer. This technical deep dive explains strategies and tools for reducing latency and improving throughput for serving LLMs in production environments.",
+    "tags": [
+      "AWS",
+      "LLM",
+      "Inference Optimization",
+      "MLOps",
+      "SageMaker"
+    ],
+    "hype_score": 7
+  },
+  {
     "id": "896ad9e2a9ac2cd43172c89663da2091",
     "source": "AWS ML",
     "title": "Exploring the zero operator access design of Mantle",
     "url": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-23T22:18:12.000Z",
     "is_technical": true,
-    "tldr": "AWS ML explores the sophisticated 'zero operator access' design implemented in Mantle, emphasizing enhanced security and operational integrity for critical AI/ML workloads. This architectural approach minimizes human intervention in infrastructure, reducing potential attack surfaces and maintaining system robustness.",
+    "tldr": "AWS ML presented an in-depth exploration of Mantle's zero operator access design, detailing the architectural principles and security mechanisms that ensure highly restricted human intervention in its operations. This approach aims to enhance the security posture and reliability of the underlying infrastructure components.",
     "tags": [
-      "infrastructure",
-      "security",
-      "cloud_ml",
-      "operational_security",
-      "design_patterns"
+      "AWS",
+      "Infrastructure",
+      "Security",
+      "Systems Architecture"
     ],
     "hype_score": 6
   },
@@ -22,16 +127,16 @@
     "source": "AWS ML",
     "title": "AWS AI League: Model customization and agentic showdown",
     "url": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-23T17:36:07.000Z",
     "is_technical": true,
-    "tldr": "The AWS AI League focuses on advanced model customization techniques and showcases agentic AI systems in competitive scenarios. This initiative highlights practical approaches for fine-tuning foundation models and orchestrating complex multi-agent interactions for diverse applications.",
+    "tldr": "AWS AI League showcased advancements in model customization and agentic system evaluation, highlighting methods for fine-tuning AI models and benchmarking their performance in agentic scenarios. This technical content likely covers practical demonstrations and competitive analysis of agent capabilities.",
     "tags": [
-      "llm",
-      "agents",
-      "model_customization",
-      "fine_tuning",
-      "ai_competitions"
+      "AWS",
+      "Agentic AI",
+      "Model Customization",
+      "Evaluation",
+      "LLM"
     ],
     "hype_score": 6
   },
@@ -40,54 +145,35 @@
     "source": "AWS ML",
     "title": "Accelerate Enterprise AI Development using Weights & Biases and Amazon Bedrock AgentCore",
     "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-development-using-weights-biases-weave-and-amazon-bedrock-agentcore/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-23T17:32:23.000Z",
     "is_technical": true,
-    "tldr": "This post details methods to accelerate enterprise AI development by integrating Weights & Biases (W&B) with Amazon Bedrock AgentCore. The integration offers enhanced experimentation tracking, model evaluation, and MLOps capabilities for building sophisticated AI agents.",
+    "tldr": "AWS ML demonstrated how to accelerate enterprise AI development by integrating Weights & Biases with Amazon Bedrock AgentCore, streamlining experiment tracking and model management for agentic workflows. The blog post likely details best practices for MLOps observability and development efficiency in complex AI projects.",
     "tags": [
-      "mlops",
-      "enterprise_ai",
-      "agents",
-      "bedrock",
-      "tooling",
-      "development_workflow"
+      "AWS",
+      "MLOps",
+      "Developer Tools",
+      "Agentic AI",
+      "Bedrock"
     ],
     "hype_score": 5
-  },
-  {
-    "id": "6dab6d37ef2da4e4a8ad2ff05266191a",
-    "source": "AWS ML",
-    "title": "Accelerating your marketing ideation with generative AI – Part 1: From idea to generation with the Amazon Nova foundation models",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-1-from-idea-to-generation-with-the-amazon-nova-foundation-models/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
-    "date_published": "2025-12-23T17:06:31.000Z",
-    "is_technical": true,
-    "tldr": "AWS unveils the Amazon Nova foundation models, designed to accelerate marketing ideation through advanced generative AI capabilities. This initial release focuses on guiding users from conceptual idea to creative content generation, leveraging powerful new large language models.",
-    "tags": [
-      "foundation_models",
-      "generative_ai",
-      "llm",
-      "amazon_nova",
-      "model_release"
-    ],
-    "hype_score": 8
   },
   {
     "id": "cf4d5ae6fa0e8dcc4738eca25d666565",
     "source": "DeepMind",
     "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
     "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "date_scraped": "2025-12-24T13:00:25.604Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-23T17:01:02.000Z",
     "is_technical": true,
-    "tldr": "DeepMind's 2025 year-in-review highlights significant research breakthroughs across eight key AI domains, signaling advancements in fundamental capabilities and real-world applications. The report provides a high-level overview of their most impactful contributions over the past year, spanning areas from foundational models to advanced reinforcement learning.",
+    "tldr": "DeepMind presented Google's annual research review, spotlighting 8 key areas of breakthroughs achieved in 2025 across various AI domains. This retrospective likely covers advancements in areas such as foundation models, reinforcement learning, neuroscience-inspired AI, and responsible AI development.",
     "tags": [
-      "research",
-      "deep_learning",
-      "multimodal_ai",
-      "reinforcement_learning",
-      "foundational_models",
-      "general_ai"
+      "Research",
+      "Deep Learning",
+      "LLM",
+      "RL",
+      "Computer Vision",
+      "AI Ethics"
     ],
     "hype_score": 8
   },
@@ -96,71 +182,52 @@
     "source": "Hugging Face",
     "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
     "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-23T14:07:35.000Z",
     "is_technical": true,
-    "tldr": "AprielGuard introduces a novel guardrail mechanism designed to enhance safety and adversarial robustness in contemporary LLM systems. This technical solution mitigates risks by preventing harmful outputs and increasing model resilience against sophisticated adversarial attacks.",
+    "tldr": "ServiceNow AI, published via Hugging Face, introduced AprielGuard, a novel guardrail mechanism designed to enhance safety and adversarial robustness in contemporary Large Language Model deployments. This system aims to mitigate harmful outputs and improve the reliability of LLMs against various attack vectors.",
     "tags": [
-      "llm",
-      "safety",
-      "robustness",
-      "adversarial_ml",
-      "security",
-      "guardrails"
+      "LLM",
+      "Safety",
+      "Robustness",
+      "Security",
+      "AI Ethics",
+      "NLP"
     ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "deaa469194efa5baf457ff31c1125a9c",
     "source": "AWS ML",
     "title": "Move Beyond Chain-of-Thought with Chain-of-Draft on Amazon Bedrock",
     "url": "https://aws.amazon.com/blogs/machine-learning/move-beyond-chain-of-thought-with-chain-of-draft-on-amazon-bedrock/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-22T18:37:13.000Z",
     "is_technical": true,
-    "tldr": "AWS introduces 'Chain-of-Draft' on Amazon Bedrock, presenting an advanced reasoning paradigm that extends beyond traditional Chain-of-Thought prompting for LLMs. This method aims to improve the quality and coherence of generative outputs by allowing iterative refinement through a structured drafting process.",
+    "tldr": "AWS ML introduced \"Chain-of-Draft\" as an advanced prompting strategy on Amazon Bedrock, designed to supersede traditional Chain-of-Thought approaches for complex reasoning tasks. This novel method likely involves iterative refinement and self-correction steps to improve the quality and coherence of generative AI outputs.",
     "tags": [
-      "llm",
-      "prompting",
-      "agentic_ai",
-      "reasoning",
-      "generative_ai",
-      "bedrock"
+      "AWS",
+      "LLM",
+      "Prompt Engineering",
+      "Agentic AI",
+      "Reasoning"
     ],
-    "hype_score": 7
-  },
-  {
-    "id": "6726f0c32714e117901f90e755a93744",
-    "source": "AWS ML",
-    "title": "Deploy Mistral AI’s Voxtral on Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-mistral-ais-voxtral-on-amazon-sagemaker-ai/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
-    "date_published": "2025-12-22T18:32:19.000Z",
-    "is_technical": true,
-    "tldr": "Amazon SageMaker AI now supports the deployment of Mistral AI’s Voxtral, broadening the range of advanced models available to developers. This integration provides efficient and scalable inference capabilities for Mistral AI's specialized model, enabling diverse AI applications.",
-    "tags": [
-      "model_deployment",
-      "sage_maker",
-      "mistral_ai",
-      "llm",
-      "model_release"
-    ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "eadd0a50596481726fd52e9361b2a4a1",
     "source": "Meta AI",
     "title": "Python Typing Survey 2025: Code Quality and Flexibility As Top Reasons for Typing Adoption",
     "url": "https://engineering.fb.com/2025/12/22/developer-tools/python-typing-survey-2025-code-quality-flexibility-typing-adoption/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-22T14:00:16.000Z",
     "is_technical": true,
-    "tldr": "Meta AI's 2025 Python Typing Survey reveals that code quality and flexibility are the primary drivers for increased typing adoption among developers. The findings underscore the growing importance of static typing in large-scale software development and its impact on maintainability and error reduction.",
+    "tldr": "Meta AI released findings from its 2025 Python Typing Survey, revealing that code quality and flexibility are the primary motivators for adopting type hints among developers. The report provides insights into current trends and challenges in Python type usage within large-scale engineering environments.",
     "tags": [
-      "software_engineering",
-      "developer_tools",
-      "python",
-      "code_quality"
+      "Developer Tools",
+      "Software Engineering",
+      "Python",
+      "Infrastructure"
     ],
     "hype_score": 4
   },
@@ -169,15 +236,16 @@
     "source": "OpenAI",
     "title": "Continuously hardening ChatGPT Atlas against prompt injection",
     "url": "https://openai.com/index/hardening-atlas-against-prompt-injection",
-    "date_scraped": "2025-12-24T12:59:40.242Z",
+    "date_scraped": "2025-12-25T12:58:20.212Z",
     "date_published": "2025-12-22T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI details continuous efforts to secure ChatGPT Atlas against prompt injection attacks. This involves ongoing model improvements and system-level defenses to maintain robustness and user safety.",
+    "tldr": "OpenAI details ongoing engineering efforts to fortify ChatGPT Atlas against prompt injection attacks, enhancing model security and reliability. The initiative involves continuous adversarial testing and implementation of advanced defense mechanisms to build robust prompt defense systems.",
     "tags": [
       "security",
-      "prompt_engineering",
-      "alignment",
-      "llm_safety"
+      "prompt engineering",
+      "model robustness",
+      "safety",
+      "engineering"
     ],
     "hype_score": 7
   },
@@ -186,35 +254,34 @@
     "source": "AWS ML",
     "title": "Introducing SOCI indexing for Amazon SageMaker Studio: Faster container startup times for AI/ML workloads",
     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-soci-indexing-for-amazon-sagemaker-studio-faster-container-startup-times-for-ai-ml-workloads/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-19T18:23:50.000Z",
     "is_technical": true,
-    "tldr": "Amazon SageMaker Studio introduces SOCI indexing, significantly reducing container startup times for AI/ML workloads. This infrastructure enhancement improves developer productivity and efficiency by accelerating the deployment and iteration cycles within the SageMaker environment.",
+    "tldr": "AWS ML announced the introduction of SOCI (Seekable OCI) indexing for Amazon SageMaker Studio, significantly reducing container startup times for AI/ML workloads. This optimization enhances developer productivity by enabling faster iteration cycles and more efficient resource utilization in SageMaker environments.",
     "tags": [
-      "infrastructure",
-      "mlops",
-      "aws",
-      "sagemaker",
-      "performance_optimization",
-      "developer_experience"
+      "AWS",
+      "Infrastructure",
+      "SageMaker",
+      "MLOps",
+      "Containerization",
+      "Performance"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "e414f48e3321b53c89e83a9b694a385c",
     "source": "Meta AI",
     "title": "DrP: Meta’s Root Cause Analysis Platform at Scale",
     "url": "https://engineering.fb.com/2025/12/19/data-infrastructure/drp-metas-root-cause-analysis-platform-at-scale/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-19T17:35:13.000Z",
     "is_technical": true,
-    "tldr": "Meta has detailed DrP, its scalable root cause analysis platform designed to rapidly identify and diagnose issues within complex production systems. This engineering solution significantly enhances operational efficiency by automating incident investigation and accelerating problem resolution across Meta's vast infrastructure.",
+    "tldr": "Meta AI detailed DrP, their distributed root cause analysis platform designed for operating at hyperscale within their complex infrastructure. The post likely elucidates the system's architecture, its capabilities in diagnosing service disruptions, and the technical challenges overcome to achieve reliable and automated incident resolution.",
     "tags": [
-      "infrastructure",
-      "distributed_systems",
-      "reliability",
-      "observability",
-      "engineering_practices"
+      "Infrastructure",
+      "Systems Engineering",
+      "Reliability",
+      "Data Analysis"
     ],
     "hype_score": 5
   },
@@ -223,18 +290,17 @@
     "source": "NVIDIA Blog",
     "title": "Accelerating AI-Powered Chemistry and Materials Science Simulations with NVIDIA ALCHEMI Toolkit-Ops",
     "url": "https://developer.nvidia.com/blog/accelerating-ai-powered-chemistry-and-materials-science-simulations-with-nvidia-alchemi-toolkit-ops/",
-    "date_scraped": "2025-12-24T13:00:37.052Z",
+    "date_scraped": "2025-12-25T12:59:03.252Z",
     "date_published": "2025-12-19T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces the ALCHEMI Toolkit-Ops to significantly accelerate AI-powered simulations within chemistry and materials science. This new toolkit leverages NVIDIA's GPU infrastructure to enhance computational efficiency for complex scientific modeling and discovery workflows.",
+    "tldr": "NVIDIA detailed advancements in accelerating AI-powered simulations for chemistry and materials science through their ALCHEMI Toolkit-Ops, showcasing how the platform optimizes computational workflows. This technical exposition highlights methods for improving efficiency and accuracy in complex scientific research using specialized AI frameworks.",
     "tags": [
-      "scientific computing",
-      "simulation",
-      "materials science",
-      "chemistry",
       "NVIDIA",
-      "GPU",
-      "infrastructure"
+      "AI for Science",
+      "Simulation",
+      "Materials Science",
+      "Chemistry",
+      "Toolkits"
     ],
     "hype_score": 7
   },
@@ -243,160 +309,17 @@
     "source": "Anthropic Research",
     "title": "Dec 19, 2025\nAlignment\nIntroducing Bloom: an open source tool for automated behavioral evaluations",
     "url": "https://www.anthropic.com/research/bloom",
-    "date_scraped": "2025-12-24T12:59:40.243Z",
+    "date_scraped": "2025-12-25T12:58:20.212Z",
     "date_published": "2025-12-19T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic unveiled Bloom, a new open-source tool designed for automated behavioral evaluations of AI models. Bloom aims to streamline the process of assessing model safety, robustness, and alignment by providing a framework for systematic testing.",
+    "tldr": "Anthropic has released Bloom, an open-source tool designed for automated behavioral evaluations of AI models. This tool aims to standardize and streamline the assessment of model alignment and safety by facilitating systematic testing of model responses.",
     "tags": [
       "alignment",
       "safety",
-      "tool_release",
       "evaluation",
-      "open_source"
+      "open source",
+      "tooling"
     ],
     "hype_score": 7
-  },
-  {
-    "id": "f0428e1300ac13f70781c041bc0c75b9",
-    "source": "AWS ML",
-    "title": "Build and deploy scalable AI agents with NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-and-deploy-scalable-ai-agents-with-nvidia-nemo-amazon-bedrock-agentcore-and-strands-agents/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
-    "date_published": "2025-12-18T17:26:39.000Z",
-    "is_technical": true,
-    "tldr": "This article outlines a technical framework for building and deploying scalable AI agents by integrating NVIDIA NeMo, Amazon Bedrock AgentCore, and Strands Agents. It details architectural considerations and best practices for developing robust, production-ready agentic solutions across cloud infrastructure.",
-    "tags": [
-      "agents",
-      "scalable_ai",
-      "nvidia_nemo",
-      "bedrock",
-      "mlops",
-      "architecture"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "e91c63cda78022af7b2318f93f967871",
-    "source": "AWS ML",
-    "title": "Bi-directional streaming for real-time agent interactions now available in Amazon Bedrock AgentCore Runtime",
-    "url": "https://aws.amazon.com/blogs/machine-learning/bi-directional-streaming-for-real-time-agent-interactions-now-available-in-amazon-bedrock-agentcore-runtime/",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
-    "date_published": "2025-12-18T17:00:21.000Z",
-    "is_technical": true,
-    "tldr": "Amazon Bedrock AgentCore Runtime now features bi-directional streaming, enabling real-time, low-latency interactions for AI agents. This advancement significantly enhances the responsiveness and fluidity of conversational AI applications and complex agentic workflows, critical for dynamic user experiences.",
-    "tags": [
-      "agents",
-      "real_time_ai",
-      "bedrock",
-      "streaming",
-      "conversational_ai",
-      "infrastructure"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "f58701c4459f171f3d67853e5061c2eb",
-    "source": "OpenAI",
-    "title": "Evaluating chain-of-thought monitorability",
-    "url": "https://openai.com/index/evaluating-chain-of-thought-monitorability",
-    "date_scraped": "2025-12-24T12:59:40.242Z",
-    "date_published": "2025-12-18T12:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI explores the monitorability of Chain-of-Thought (CoT) reasoning in LLMs, aiming to assess how effectively internal reasoning steps can be observed and understood. This research contributes to developing more transparent and debuggable AI systems.",
-    "tags": [
-      "interpretability",
-      "llm",
-      "chain_of_thought",
-      "research"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "2d1c87f7a022c91586c317f58cc0d97f",
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.2-Codex",
-    "url": "https://openai.com/index/introducing-gpt-5-2-codex",
-    "date_scraped": "2025-12-24T12:59:40.242Z",
-    "date_published": "2025-12-18T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI has released GPT-5.2-Codex, a specialized large language model likely optimized for code generation, understanding, and related developer tasks. This marks a significant upgrade in their code-focused AI capabilities.",
-    "tags": [
-      "llm",
-      "code_generation",
-      "model_release",
-      "foundation_models"
-    ],
-    "hype_score": 9
-  },
-  {
-    "id": "1b1c5c5cd15cd3c80cedd03f3e749106",
-    "source": "OpenAI",
-    "title": "Addendum to GPT-5.2 System Card: GPT-5.2-Codex",
-    "url": "https://openai.com/index/gpt-5-2-codex-system-card",
-    "date_scraped": "2025-12-24T12:59:40.242Z",
-    "date_published": "2025-12-18T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI released an addendum to the GPT-5.2 System Card specifically for the new GPT-5.2-Codex model. This addendum likely provides detailed technical specifications, safety considerations, and responsible deployment guidelines for the specialized code-focused LLM.",
-    "tags": [
-      "llm",
-      "code_generation",
-      "safety",
-      "system_card",
-      "technical_documentation"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "c3d5c83b94248c3ce693f08edd303d67",
-    "source": "Anthropic News",
-    "title": "Dec 18, 2025\nAnnouncements\nWorking with the US Department of Energy to unlock the next era of scientific discovery",
-    "url": "https://www.anthropic.com/news/genesis-mission-partnership",
-    "date_scraped": "2025-12-24T12:59:40.242Z",
-    "date_published": "2025-12-18T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic announced a partnership with the U.S. Department of Energy focused on leveraging AI to accelerate scientific discovery. This collaboration aims to apply frontier AI models to complex research challenges in fields like materials science and energy systems.",
-    "tags": [
-      "scientific_discovery",
-      "llm_application",
-      "research_collaboration",
-      "computational_science"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "2b7bd8d3a107330949080289a5040b1f",
-    "source": "Anthropic Research",
-    "title": "Project Vend: Phase two\nPolicy\nDec 18, 2025\n\nIn June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote?",
-    "url": "https://www.anthropic.com/research/project-vend-2",
-    "date_scraped": "2025-12-24T12:59:40.243Z",
-    "date_published": "2025-12-18T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic published an update on 'Project Vend: Phase Two,' a real-world experiment assessing AI capabilities in complex, practical tasks using an AI shopkeeper. The report details the AI's performance and challenges encountered since the initial phase.",
-    "tags": [
-      "ai_agents",
-      "real_world_application",
-      "evaluation",
-      "research",
-      "llm_capabilities"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "ae0a66b3b3d58194f09552fd97c0d75c",
-    "source": "Hugging Face",
-    "title": "Tokenization in Transformers v5: Simpler, Clearer, and More Modular",
-    "url": "https://huggingface.co/blog/tokenizers",
-    "date_scraped": "2025-12-24T13:00:25.605Z",
-    "date_published": "2025-12-18T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Hugging Face has revamped tokenization in Transformers v5, focusing on a simpler, clearer, and more modular design for improved developer experience. These significant architectural changes aim to enhance flexibility and efficiency in text preprocessing for transformer models.",
-    "tags": [
-      "nlp",
-      "transformers",
-      "tokenization",
-      "library_update",
-      "engineering"
-    ],
-    "hype_score": 6
   }
 ]
