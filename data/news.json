@@ -1,37 +1,69 @@
 [
   {
+    "id": "dee09fbc2a065f5f934ce404a5d86298",
+    "source": "Claude Blog",
+    "title": "Using CLAUDE.md files: Customizing Claude Code for your codebase",
+    "url": "https://claude.com/blog/using-claude-md-files",
+    "date_scraped": "2025-12-31T12:59:50.494Z",
+    "date_published": "2025-12-31T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This blog post introduces the use of `CLAUDE.md` files for granular customization of Claude Code's behavior within specific code repositories. Developers can define project-specific instructions, constraints, and context to fine-tune Claude's agentic coding assistant for improved relevance and accuracy.",
+    "tags": [
+      "agentic_ai",
+      "developer_tools",
+      "llm_customization",
+      "code_generation"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "735b02a1d1e428df07c67ddaa0e69d33",
+    "source": "Claude Blog",
+    "title": "How to create Skills: Key steps, limitations, and examples",
+    "url": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples",
+    "date_scraped": "2025-12-31T12:59:50.494Z",
+    "date_published": "2025-12-31T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This guide details the process for developers to create custom 'Skills' for Claude, enabling the model to perform specific, predefined actions or access external tools. It covers implementation steps, outlines current limitations, and provides practical examples for extending Claude's capabilities programmatically.",
+    "tags": [
+      "agentic_ai",
+      "llm_tools",
+      "developer_platform",
+      "function_calling"
+    ],
+    "hype_score": 7
+  },
+  {
     "id": "bd64c94d11d6dab35ab99bd8231491a7",
     "source": "Claude Blog",
     "title": "Structured outputs on the Claude Developer Platform",
     "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-30T00:00:00.000Z",
+    "date_scraped": "2025-12-31T12:59:50.494Z",
+    "date_published": "2025-12-31T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic has rolled out structured output capabilities on the Claude Developer Platform, enabling developers to reliably extract specific data formats, such as JSON, from LLM responses. This enhancement significantly improves integration with downstream systems and streamlines automation workflows for enterprise applications.",
+    "tldr": "The Claude Developer Platform now supports structured outputs, allowing developers to constrain Claude's responses to specific JSON schemas or other defined formats. This enhancement significantly improves the reliability and predictability of integrating LLM outputs into downstream applications and workflows.",
     "tags": [
-      "LLM",
-      "developer tools",
-      "API",
-      "structured data",
-      "platform"
+      "llm_api",
+      "developer_platform",
+      "data_extraction",
+      "json_output"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "d051211fc97fd9060b2e0e92f9ebfda0",
     "source": "Claude Blog",
     "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
     "url": "https://claude.com/blog/skills-explained",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-30T00:00:00.000Z",
+    "date_scraped": "2025-12-31T12:59:50.494Z",
+    "date_published": "2025-12-31T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog post clarifies Anthropic's 'Skills' concept, detailing how it functions as a modular agentic capability and its relationship to traditional prompting, multi-turn conversations (MCP), and subagents. It likely delves into the architectural design supporting these granular, reusable functions within complex agentic workflows.",
+    "tldr": "This article provides a detailed technical comparison of Claude's new 'Skills' feature against existing methodologies like prompts, Projects, Multi-Competency Path (MCP), and subagents. It elucidates the distinct operational paradigms and integration points for each concept, clarifying how Skills offer a modular approach to extending agent capabilities.",
     "tags": [
-      "LLM",
-      "agents",
-      "agentic AI",
-      "architecture",
-      "developer tools"
+      "agentic_ai",
+      "llm_architecture",
+      "developer_platform",
+      "multi_agent"
     ],
     "hype_score": 7
   },
@@ -40,295 +72,35 @@
     "source": "AWS ML",
     "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
     "url": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
+    "date_scraped": "2025-12-31T12:59:50.494Z",
     "date_published": "2025-12-29T17:29:27.000Z",
     "is_technical": true,
-    "tldr": "This blog details the technical process and benefits of migrating MLflow tracking servers to Amazon SageMaker AI, leveraging serverless MLflow for enhanced scalability and reduced operational overhead. It covers architectural considerations and implementation steps for MLOps practitioners looking to streamline experiment tracking.",
+    "tldr": "This post details the technical process of migrating existing MLflow tracking servers to Amazon SageMaker AI's new serverless MLflow offering. It outlines the architectural benefits of reduced operational overhead and enhanced scalability for MLOps workflows, ensuring seamless experiment tracking and model management in a fully managed environment.",
     "tags": [
-      "MLOps",
-      "infrastructure",
+      "mlops",
       "serverless",
-      "AWS",
-      "SageMaker",
-      "MLflow"
+      "infrastructure",
+      "sagemaker",
+      "mlflow"
     ],
-    "hype_score": 5
+    "hype_score": 6
   },
   {
     "id": "db1e54a3f72a5e04c81aed450398a648",
     "source": "AWS ML",
     "title": "Build an AI-powered website assistant with Amazon Bedrock",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-website-assistant-with-amazon-bedrock/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
+    "date_scraped": "2025-12-31T12:59:50.494Z",
     "date_published": "2025-12-29T16:42:50.000Z",
     "is_technical": true,
-    "tldr": "This article provides technical guidance on constructing an AI-powered website assistant using Amazon Bedrock, focusing on the integration of foundational models for conversational AI. It explores architectural patterns for prompt engineering, knowledge retrieval, and agentic orchestration within the Bedrock ecosystem for robust deployment.",
+    "tldr": "This engineering blog provides a step-by-step guide for constructing an AI-powered website assistant using Amazon Bedrock, leveraging its foundation models and agentic capabilities. It details the integration of RAG (Retrieval Augmented Generation) patterns with knowledge bases to provide accurate, context-aware responses, and outlines deployment on AWS infrastructure.",
     "tags": [
-      "LLM",
-      "Bedrock",
-      "agents",
-      "architecture",
-      "developer tools"
-    ],
-    "hype_score": 5
-  },
-  {
-    "id": "c0107b7e16772f5f895e217935207b5d",
-    "source": "Claude Blog",
-    "title": "How enterprises are building AI agents in 2026",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "date_scraped": "2025-12-30T13:01:23.138Z",
-    "date_published": "2025-12-26T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This article explores current and anticipated methodologies for enterprises developing and deploying AI agents, detailing architectural approaches and integration strategies. It provides insights into the practical challenges and best practices for leveraging agentic AI within business contexts.",
-    "tags": [
-      "ai_agents",
-      "enterprise_ai",
-      "system_architecture",
       "llm_applications",
-      "industry_trends"
+      "rag",
+      "amazon_bedrock",
+      "agentic_ai",
+      "cloud_ml"
     ],
     "hype_score": 6
-  },
-  {
-    "id": "0d45ae7dc4546f3497586727dc60ac96",
-    "source": "AWS ML",
-    "title": "Programmatically creating an IDP solution with Amazon Bedrock Data Automation",
-    "url": "https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-24T17:26:00.000Z",
-    "is_technical": true,
-    "tldr": "This technical guide outlines the programmatic construction of an Intelligent Document Processing (IDP) solution utilizing Amazon Bedrock Data Automation, focusing on automated data extraction and processing from unstructured documents. It details the integration of Bedrock's capabilities for tasks like classification, entity recognition, and information extraction to build scalable IDP systems.",
-    "tags": [
-      "IDP",
-      "document AI",
-      "Bedrock",
-      "data automation",
-      "LLM",
-      "enterprise AI"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "4d76626d32f4e74b734706e21f90b16d",
-    "source": "AWS ML",
-    "title": "AI agent-driven browser automation for enterprise workflow management",
-    "url": "https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-24T17:22:30.000Z",
-    "is_technical": true,
-    "tldr": "This article explores the technical implementation of AI agent-driven browser automation, specifically for enterprise workflow management, detailing how autonomous agents can navigate and interact with web applications to streamline complex business processes. It likely covers the design of agents, perception, action planning, and robust execution strategies in dynamic browser environments.",
-    "tags": [
-      "agents",
-      "browser automation",
-      "enterprise AI",
-      "workflow automation",
-      "autonomous systems"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "908d5fc82131d87ca7d8515c59490bf3",
-    "source": "AWS ML",
-    "title": "Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act",
-    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-24T17:20:16.000Z",
-    "is_technical": true,
-    "tldr": "This piece describes the technical approach to agentic QA automation, leveraging Amazon Bedrock AgentCore Browser and Amazon Nova Act to create autonomous testing agents. It details how these components facilitate intelligent interaction with applications to identify bugs and validate functionality through agent-driven test execution, reducing manual effort.",
-    "tags": [
-      "agents",
-      "QA automation",
-      "Bedrock",
-      "Nova Act",
-      "enterprise AI",
-      "testing"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "5c1a35ff4a502dcde4abbee37b875311",
-    "source": "AWS ML",
-    "title": "Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer",
-    "url": "https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-24T17:17:44.000Z",
-    "is_technical": true,
-    "tldr": "This technical deep dive focuses on enhancing LLM inference performance on Amazon SageMaker AI through the integration of BentoML’s LLM-Optimizer. It outlines techniques for quantization, pruning, and dynamic batching, demonstrating how to achieve lower latency and higher throughput for large language models in production environments.",
-    "tags": [
-      "LLM",
-      "inference optimization",
-      "SageMaker",
-      "MLOps",
-      "performance",
-      "BentoML"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "896ad9e2a9ac2cd43172c89663da2091",
-    "source": "AWS ML",
-    "title": "Exploring the zero operator access design of Mantle",
-    "url": "https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T22:18:12.000Z",
-    "is_technical": true,
-    "tldr": "This article delves into the technical architecture of Mantle, specifically its \"zero operator access\" design, which aims to enhance security and operational integrity by minimizing human intervention in sensitive AI infrastructure. It likely details cryptographic controls, automated trust mechanisms, and secure enclave computations to ensure data and model confidentiality.",
-    "tags": [
-      "security",
-      "infrastructure",
-      "MLOps",
-      "confidential computing",
-      "architecture"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "6874968742692ed861da37327443b933",
-    "source": "AWS ML",
-    "title": "AWS AI League: Model customization and agentic showdown",
-    "url": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T17:36:07.000Z",
-    "is_technical": true,
-    "tldr": "This post details the technical aspects of the AWS AI League, focusing on advanced model customization techniques and simulated agentic showdowns. It explores methods for fine-tuning foundational models for specific tasks and the strategies employed by AI agents in competitive environments, highlighting performance and adaptation.",
-    "tags": [
-      "LLM",
-      "model customization",
-      "agents",
-      "reinforcement learning",
-      "competitive AI"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "8d0a9f7ab15a4a35e9efebbefa71ff55",
-    "source": "AWS ML",
-    "title": "Accelerate Enterprise AI Development using Weights & Biases and Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-development-using-weights-biases-weave-and-amazon-bedrock-agentcore/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T17:32:23.000Z",
-    "is_technical": true,
-    "tldr": "This article outlines technical strategies for accelerating enterprise AI development by integrating Weights & Biases (W&B) with Amazon Bedrock AgentCore. It describes how to leverage W&B for experiment tracking, model versioning, and performance monitoring of agentic workflows built on Bedrock, ensuring robust and reproducible development.",
-    "tags": [
-      "MLOps",
-      "enterprise AI",
-      "Bedrock",
-      "AgentCore",
-      "developer tools",
-      "Weights & Biases"
-    ],
-    "hype_score": 5
-  },
-  {
-    "id": "91b846e666398343a1c4e03a68caf140",
-    "source": "AWS ML",
-    "title": "How dLocal automated compliance reviews using Amazon Quick Automate",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-dlocal-automated-compliance-reviews-using-amazon-quick-automate/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T17:24:20.000Z",
-    "is_technical": true,
-    "tldr": "This technical case study details how dLocal implemented automated compliance reviews using Amazon Quick Automate, demonstrating an AI-driven approach to streamline regulatory processes. It outlines the architecture and technical considerations for applying generative AI to document analysis and policy enforcement, improving efficiency and accuracy.",
-    "tags": [
-      "enterprise AI",
-      "automation",
-      "compliance",
-      "generative AI",
-      "AWS"
-    ],
-    "hype_score": 5
-  },
-  {
-    "id": "60d6cf7f5ab0b8841021738cd78e5478",
-    "source": "AWS ML",
-    "title": "Advancing ADHD diagnosis: How Qbtech built a mobile AI assessment Model Using Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/advancing-adhd-diagnosis-how-qbtech-built-a-mobile-ai-assessment-model-using-amazon-sagemaker-ai/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T17:11:30.000Z",
-    "is_technical": true,
-    "tldr": "This article presents a technical deep dive into Qbtech's development of a mobile AI assessment model for ADHD diagnosis, built leveraging Amazon SageMaker AI. It details the machine learning methodologies, data pipelines, and deployment strategies for creating an accurate and scalable diagnostic tool in a clinical setting.",
-    "tags": [
-      "healthcare AI",
-      "machine learning",
-      "SageMaker",
-      "mobile AI",
-      "medical diagnosis"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "6dab6d37ef2da4e4a8ad2ff05266191a",
-    "source": "AWS ML",
-    "title": "Accelerating your marketing ideation with generative AI – Part 1: From idea to generation with the Amazon Nova foundation models",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-1-from-idea-to-generation-with-the-amazon-nova-foundation-models/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T17:06:31.000Z",
-    "is_technical": true,
-    "tldr": "Part 1 of this series technically explores accelerating marketing ideation using Amazon Nova foundation models, detailing the process from initial concept to AI-generated content. It covers prompt engineering strategies, model fine-tuning, and the architecture for integrating generative AI into creative workflows, providing practical implementation steps.",
-    "tags": [
-      "generative AI",
-      "marketing AI",
-      "foundation models",
-      "Amazon Nova",
-      "prompt engineering"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "cf4d5ae6fa0e8dcc4738eca25d666565",
-    "source": "DeepMind",
-    "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-    "url": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T17:01:02.000Z",
-    "is_technical": true,
-    "tldr": "Google DeepMind's 2025 year-in-review highlights significant research breakthroughs across eight key AI domains, likely including advances in large language models, reinforcement learning for complex tasks, and novel applications in scientific discovery. The summary provides a high-level overview of foundational and applied AI research progress made throughout the year, setting future research directions.",
-    "tags": [
-      "research",
-      "AI",
-      "deep learning",
-      "LLM",
-      "reinforcement learning",
-      "computer vision",
-      "robotics"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "9459d9cb93fb27d4f78983ab86c5c31a",
-    "source": "AWS ML",
-    "title": "Introducing Visa Intelligent Commerce on AWS: Enabling agentic commerce with Amazon Bedrock AgentCore",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-visa-intelligent-commerce-on-aws-enabling-agentic-commerce-with-amazon-bedrock-agentcore/",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T16:45:47.000Z",
-    "is_technical": true,
-    "tldr": "This announcement details the introduction of Visa Intelligent Commerce on AWS, which leverages Amazon Bedrock AgentCore to enable advanced agentic commerce capabilities. It outlines the technical architecture for integrating intelligent agents into payment and commerce workflows, improving automation and personalized interactions for a next-generation shopping experience.",
-    "tags": [
-      "enterprise AI",
-      "agents",
-      "Bedrock",
-      "commerce AI",
-      "fintech",
-      "integration"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "5e3e72b22778d582d60be246d0354bb0",
-    "source": "Hugging Face",
-    "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-    "url": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-    "date_scraped": "2025-12-30T13:02:01.767Z",
-    "date_published": "2025-12-23T14:07:35.000Z",
-    "is_technical": true,
-    "tldr": "AprielGuard introduces a novel guardrail system designed to enhance safety and adversarial robustness in contemporary LLM deployments. This system likely employs advanced filtering, detection, or red-teaming techniques to mitigate harmful outputs and improve model resilience against malicious inputs and prompt injections.",
-    "tags": [
-      "LLM",
-      "safety",
-      "security",
-      "adversarial AI",
-      "guardrails"
-    ],
-    "hype_score": 7
   }
 ]
