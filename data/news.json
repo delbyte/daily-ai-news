@@ -1,105 +1,40 @@
 [
   {
-    "id": "98d7396996017881bdd78b89591fb01b",
-    "source": "Claude Blog",
-    "title": "Claude Code power user customization: How to configure hooks",
-    "url": "https://claude.com/blog/how-to-configure-hooks",
-    "date_scraped": "2026-01-01T12:59:50.631Z",
-    "date_published": "2026-01-01T00:00:00Z",
-    "is_technical": true,
-    "tldr": "This post details how to implement and configure \"hooks\" within Claude Code for power users, enabling custom logic execution at specific points in the coding workflow. It provides guidance on extending the default behavior of Claude Code through programmatic integration points.",
-    "tags": [
-      "ai_agent",
-      "developer_tools",
-      "api",
-      "customization"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "dee09fbc2a065f5f934ce404a5d86298",
-    "source": "Claude Blog",
-    "title": "Using CLAUDE.md files: Customizing Claude Code for your codebase",
-    "url": "https://claude.com/blog/using-claude-md-files",
-    "date_scraped": "2026-01-01T12:59:50.631Z",
-    "date_published": "2026-01-01T00:00:00Z",
-    "is_technical": true,
-    "tldr": "This article introduces the concept and practical application of `CLAUDE.md` files, enabling developers to customize Claude Code's behavior and context for specific codebases. It details how these configuration files allow fine-grained control over the AI agent's understanding and interaction with a project.",
-    "tags": [
-      "ai_agent",
-      "developer_tools",
-      "customization",
-      "platform_feature"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "735b02a1d1e428df07c67ddaa0e69d33",
-    "source": "Claude Blog",
-    "title": "How to create Skills: Key steps, limitations, and examples",
-    "url": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples",
-    "date_scraped": "2026-01-01T12:59:50.631Z",
-    "date_published": "2026-01-01T00:00:00Z",
-    "is_technical": true,
-    "tldr": "This guide provides a technical overview of creating \"Skills\" for the Claude platform, outlining the necessary steps, potential limitations, and practical examples for developers. It explains how to programmatically define new capabilities that extend Claude's core functionalities.",
-    "tags": [
-      "ai_agent",
-      "developer_tools",
-      "api",
-      "function_calling",
-      "customization"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "bd64c94d11d6dab35ab99bd8231491a7",
-    "source": "Claude Blog",
-    "title": "Structured outputs on the Claude Developer Platform",
-    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "date_scraped": "2026-01-01T12:59:50.631Z",
-    "date_published": "2026-01-01T00:00:00Z",
-    "is_technical": true,
-    "tldr": "This post announces and details the availability of structured output capabilities on the Claude Developer Platform, enabling developers to reliably extract data in specified formats like JSON or XML. It discusses the underlying mechanisms and best practices for leveraging this feature to integrate LLM outputs into downstream systems.",
-    "tags": [
-      "llm",
-      "api",
-      "developer_tools",
-      "data_extraction"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "d051211fc97fd9060b2e0e92f9ebfda0",
-    "source": "Claude Blog",
-    "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
-    "url": "https://claude.com/blog/skills-explained",
-    "date_scraped": "2026-01-01T12:59:50.631Z",
-    "date_published": "2026-01-01T00:00:00Z",
-    "is_technical": true,
-    "tldr": "This article provides a detailed comparison of \"Skills\" within the Claude ecosystem, contrasting them with existing paradigms like prompts, Projects, Meta-Cognitive Processes (MCP), and subagents. It elucidates the architectural and functional distinctions, guiding developers on when and how to apply each concept for building complex AI workflows.",
-    "tags": [
-      "ai_agent",
-      "llm",
-      "architecture",
-      "developer_tools"
-    ],
-    "hype_score": 6
-  },
-  {
     "id": "50131281c9d171f1bd06a0c57e656056",
     "source": "AWS ML",
     "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
     "url": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/",
-    "date_scraped": "2026-01-01T12:59:50.631Z",
+    "date_scraped": "2026-01-02T12:58:25.809Z",
     "date_published": "2025-12-29T17:29:27.000Z",
     "is_technical": true,
-    "tldr": "This engineering blog details the process of migrating existing MLflow tracking servers to a serverless architecture on Amazon SageMaker AI. It outlines the technical steps and benefits of leveraging SageMaker's serverless MLflow capabilities for improved scalability and reduced operational overhead in MLOps workflows.",
+    "tldr": "AWS has introduced serverless MLflow tracking servers within Amazon SageMaker AI, enabling seamless migration and scalable management of machine learning experiments. This integration simplifies MLOps workflows by providing a fully managed environment for MLflow deployments.",
     "tags": [
-      "mlops",
+      "MLOps",
       "infrastructure",
-      "aws",
-      "serverless",
-      "mlflow"
+      "cloud",
+      "AWS",
+      "SageMaker",
+      "MLflow"
+    ],
+    "hype_score": 5
+  },
+  {
+    "id": "db1e54a3f72a5e04c81aed450398a648",
+    "source": "AWS ML",
+    "title": "Build an AI-powered website assistant with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-website-assistant-with-amazon-bedrock/",
+    "date_scraped": "2026-01-02T12:58:25.809Z",
+    "date_published": "2025-12-29T16:42:50.000Z",
+    "is_technical": true,
+    "tldr": "AWS details a technical guide for building an AI-powered website assistant using Amazon Bedrock, showcasing practical implementation of foundational models. The solution leverages Bedrock's capabilities to integrate large language models for automated user assistance on websites.",
+    "tags": [
+      "LLM",
+      "RAG",
+      "AI agents",
+      "AWS",
+      "Bedrock",
+      "application",
+      "engineering"
     ],
     "hype_score": 6
   }
