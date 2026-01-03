@@ -1,41 +1,90 @@
 [
   {
+    "id": "fa79f2dfaee1184e396e71b26b435efa",
+    "source": "Claude Blog",
+    "title": "Making Claude a better electrical engineer",
+    "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
+    "date_scraped": "2026-01-03T12:56:46.399Z",
+    "date_published": "2026-01-03T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This post details methodologies or fine-tuning techniques used to enhance Claude's understanding and problem-solving abilities within the domain of electrical engineering. It likely covers specific datasets, prompt engineering strategies, or architectural adjustments made to improve accuracy and utility for complex design and analysis tasks.",
+    "tags": [
+      "llm",
+      "domain-specific-ai",
+      "model-improvement",
+      "application"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "908d4ea8e70fdfc14b88466a21c30d9d",
+    "source": "Claude Blog",
+    "title": "What’s new in Claude: Turning Claude into your thinking partner",
+    "url": "https://claude.com/blog/your-thinking-partner",
+    "date_scraped": "2026-01-03T12:56:46.399Z",
+    "date_published": "2026-01-03T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article introduces new features or model updates designed to improve Claude's ability to engage in complex reasoning, act as a collaborative partner, and maintain long-form, coherent dialogues. It potentially details enhancements in contextual memory, logical inference, or user interaction patterns that foster a more natural and effective \"thinking partner\" experience.",
+    "tags": [
+      "llm",
+      "model-release",
+      "reasoning",
+      "dialogue-system",
+      "human-ai-interaction"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "bd64c94d11d6dab35ab99bd8231491a7",
+    "source": "Claude Blog",
+    "title": "Structured outputs on the Claude Developer Platform",
+    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
+    "date_scraped": "2026-01-03T12:56:46.399Z",
+    "date_published": "2026-01-03T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This announcement details the introduction of robust structured output capabilities on the Claude Developer Platform, enabling developers to reliably extract data in specified formats like JSON or XML from LLM responses. This enhancement significantly improves the integration of Claude into automated workflows and applications requiring deterministic data parsing.",
+    "tags": [
+      "llm",
+      "api",
+      "developer-tools",
+      "model-output"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "c0107b7e16772f5f895e217935207b5d",
+    "source": "Claude Blog",
+    "title": "How enterprises are building AI agents in 2026",
+    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
+    "date_scraped": "2026-01-03T12:56:30.866Z",
+    "date_published": "2026-01-01T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This blog post outlines strategies and practical considerations for enterprises deploying AI agents, focusing on architectural patterns and development workflows for real-world integration. It provides guidance on leveraging agentic AI solutions within complex organizational structures.",
+    "tags": [
+      "AI Agents",
+      "Enterprise AI",
+      "Engineering",
+      "Best Practices",
+      "LLM Applications"
+    ],
+    "hype_score": 7
+  },
+  {
     "id": "50131281c9d171f1bd06a0c57e656056",
     "source": "AWS ML",
     "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
     "url": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/",
-    "date_scraped": "2026-01-02T12:58:25.809Z",
+    "date_scraped": "2026-01-03T12:56:46.399Z",
     "date_published": "2025-12-29T17:29:27.000Z",
     "is_technical": true,
-    "tldr": "AWS has introduced serverless MLflow tracking servers within Amazon SageMaker AI, enabling seamless migration and scalable management of machine learning experiments. This integration simplifies MLOps workflows by providing a fully managed environment for MLflow deployments.",
+    "tldr": "This engineering blog post details the process and benefits of migrating existing MLflow tracking servers to a serverless architecture within Amazon SageMaker AI. It outlines how organizations can leverage SageMaker's managed services to scale MLOps workflows efficiently, reducing operational overhead and improving the reliability of experiment tracking and model versioning.",
     "tags": [
-      "MLOps",
+      "mlops",
       "infrastructure",
-      "cloud",
-      "AWS",
-      "SageMaker",
-      "MLflow"
+      "serverless",
+      "aws",
+      "sagemaker"
     ],
     "hype_score": 5
-  },
-  {
-    "id": "db1e54a3f72a5e04c81aed450398a648",
-    "source": "AWS ML",
-    "title": "Build an AI-powered website assistant with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-website-assistant-with-amazon-bedrock/",
-    "date_scraped": "2026-01-02T12:58:25.809Z",
-    "date_published": "2025-12-29T16:42:50.000Z",
-    "is_technical": true,
-    "tldr": "AWS details a technical guide for building an AI-powered website assistant using Amazon Bedrock, showcasing practical implementation of foundational models. The solution leverages Bedrock's capabilities to integrate large language models for automated user assistance on websites.",
-    "tags": [
-      "LLM",
-      "RAG",
-      "AI agents",
-      "AWS",
-      "Bedrock",
-      "application",
-      "engineering"
-    ],
-    "hype_score": 6
   }
 ]
