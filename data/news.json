@@ -1,18 +1,178 @@
 [
   {
+    "id": "c0107b7e16772f5f895e217935207b5d",
+    "source": "Claude Blog",
+    "title": "How enterprises are building AI agents in 2026",
+    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
+    "date_scraped": "2026-01-04T12:57:36.606Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article details current strategies and best practices for enterprises developing and deploying AI agents in 2026. It likely covers architectural considerations, integration challenges, and frameworks for robust agentic systems.",
+    "tags": [
+      "agents",
+      "enterprise_ai",
+      "engineering",
+      "deployment"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "cb68f8012abdc9887b0941a2f55bb279",
+    "source": "Claude Blog",
+    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
+    "url": "https://claude.com/blog/building-skills-for-claude-code",
+    "date_scraped": "2026-01-04T12:57:36.606Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This blog post offers a guide on developing and integrating custom skills for Claude Code, enabling the automation of procedural knowledge. It focuses on extending the model's capabilities for specialized coding and problem-solving tasks.",
+    "tags": [
+      "llm",
+      "agents",
+      "tool_use",
+      "engineering",
+      "api"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "42bfc0352255435d8b7b26a0a01b7c62",
+    "source": "Claude Blog",
+    "title": "Improving frontend design through Skills",
+    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
+    "date_scraped": "2026-01-04T12:57:36.606Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article explores how custom AI \"skills\" can be leveraged to enhance frontend design workflows, potentially automating aspects of UI/UX generation or optimization. It delves into practical implementations for improving design efficiency and quality with AI assistance.",
+    "tags": [
+      "llm",
+      "agents",
+      "design_automation",
+      "frontend",
+      "tool_use"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "025c809f2dc551972fdd695fb267d513",
+    "source": "Claude Blog",
+    "title": "Building AI agents for financial services",
+    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
+    "date_scraped": "2026-01-04T12:57:36.606Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This blog post discusses the methodologies and challenges involved in constructing AI agents tailored for the financial services sector. It highlights specific use cases and technical considerations for deploying intelligent automation in banking, trading, and analytics.",
+    "tags": [
+      "agents",
+      "enterprise_ai",
+      "finance_ai",
+      "deployment"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "40bee1741df14152870a9e610be0e61b",
+    "source": "Claude Blog",
+    "title": "Claude Code on the web",
+    "url": "https://claude.com/blog/claude-code-on-the-web",
+    "date_scraped": "2026-01-04T12:57:36.607Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This announcement details the availability or new capabilities of Claude Code, Anthropic's programming-focused AI, for web-based applications and environments. It likely covers new APIs, SDKs, or direct web interfaces enabling more accessible coding assistance.",
+    "tags": [
+      "llm",
+      "coding_ai",
+      "web_integration",
+      "api",
+      "engineering"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
+    "source": "Claude Blog",
+    "title": "Piloting Claude in Chrome",
+    "url": "https://claude.com/blog/claude-for-chrome",
+    "date_scraped": "2026-01-04T12:57:36.607Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This post announces a pilot program for integrating Claude directly into the Chrome browser, offering users AI capabilities directly within their web browsing experience. It implies technical work on browser extensions, client-side model interaction, or API integrations for seamless utility.",
+    "tags": [
+      "llm",
+      "browser_integration",
+      "agents",
+      "engineering",
+      "ux"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "0bf14bafc94805005f90ee62f2b8de49",
+    "source": "Claude Blog",
+    "title": "How Anthropic teams use Claude Code",
+    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
+    "date_scraped": "2026-01-04T12:57:36.607Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article provides an internal perspective on how Anthropic's own engineering teams leverage Claude Code for various development tasks. It offers insights into practical workflows, integration patterns, and productivity gains achieved by using AI in internal software development.",
+    "tags": [
+      "llm",
+      "coding_ai",
+      "engineering_productivity",
+      "case_study"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
+    "source": "Claude Blog",
+    "title": "Extending Claude’s capabilities with skills and MCP servers",
+    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
+    "date_scraped": "2026-01-04T12:57:36.607Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This blog post details advanced methods for extending Claude's capabilities through custom \"skills\" and the integration of Model Context Protocol (MCP) servers. It provides insights into building more powerful and context-aware AI applications via external tooling and infrastructure.",
+    "tags": [
+      "llm",
+      "agents",
+      "tool_use",
+      "infrastructure",
+      "api",
+      "engineering"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "6eda6a632e2933dd55c8fc20f9c470e5",
+    "source": "Claude Blog",
+    "title": "Skills for organizations, partners, the ecosystem",
+    "url": "https://claude.com/blog/organization-skills-and-directory",
+    "date_scraped": "2026-01-04T12:57:36.607Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This announcement outlines initiatives for fostering the development and adoption of Claude's \"skills\" across organizations, partners, and the wider ecosystem. It likely discusses frameworks, directories, or platforms to facilitate the creation and sharing of advanced AI functionalities.",
+    "tags": [
+      "llm",
+      "agents",
+      "ecosystem",
+      "tool_use",
+      "platform"
+    ],
+    "hype_score": 6
+  },
+  {
     "id": "fa79f2dfaee1184e396e71b26b435efa",
     "source": "Claude Blog",
     "title": "Making Claude a better electrical engineer",
     "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "date_scraped": "2026-01-03T12:56:46.399Z",
-    "date_published": "2026-01-03T00:00:00.000Z",
+    "date_scraped": "2026-01-04T12:57:56.417Z",
+    "date_published": "2026-01-02T12:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post details methodologies or fine-tuning techniques used to enhance Claude's understanding and problem-solving abilities within the domain of electrical engineering. It likely covers specific datasets, prompt engineering strategies, or architectural adjustments made to improve accuracy and utility for complex design and analysis tasks.",
+    "tldr": "Anthropic details advancements in fine-tuning Claude's capabilities for electrical engineering tasks, focusing on improving its understanding of complex circuit diagrams, component specifications, and design principles. The blog likely covers specific methodologies used to enhance Claude's domain-specific problem-solving and reasoning in this specialized field.",
     "tags": [
-      "llm",
-      "domain-specific-ai",
-      "model-improvement",
-      "application"
+      "LLM",
+      "Application",
+      "Fine-tuning",
+      "Domain Adaptation"
     ],
     "hype_score": 6
   },
@@ -21,16 +181,15 @@
     "source": "Claude Blog",
     "title": "What’s new in Claude: Turning Claude into your thinking partner",
     "url": "https://claude.com/blog/your-thinking-partner",
-    "date_scraped": "2026-01-03T12:56:46.399Z",
-    "date_published": "2026-01-03T00:00:00.000Z",
+    "date_scraped": "2026-01-04T12:57:56.418Z",
+    "date_published": "2026-01-02T12:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article introduces new features or model updates designed to improve Claude's ability to engage in complex reasoning, act as a collaborative partner, and maintain long-form, coherent dialogues. It potentially details enhancements in contextual memory, logical inference, or user interaction patterns that foster a more natural and effective \"thinking partner\" experience.",
+    "tldr": "Anthropic announces new features enhancing Claude's capabilities as a \"thinking partner,\" likely involving significant improvements in its multi-turn reasoning, planning, and ability to iteratively refine solutions with users. This update suggests advancements in Claude's cognitive architecture to support more complex, collaborative problem-solving workflows.",
     "tags": [
-      "llm",
-      "model-release",
-      "reasoning",
-      "dialogue-system",
-      "human-ai-interaction"
+      "LLM",
+      "Model Update",
+      "Reasoning",
+      "Human-AI Interaction"
     ],
     "hype_score": 7
   },
@@ -39,52 +198,34 @@
     "source": "Claude Blog",
     "title": "Structured outputs on the Claude Developer Platform",
     "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "date_scraped": "2026-01-03T12:56:46.399Z",
-    "date_published": "2026-01-03T00:00:00.000Z",
+    "date_scraped": "2026-01-04T12:57:56.418Z",
+    "date_published": "2026-01-02T12:00:00.000Z",
     "is_technical": true,
-    "tldr": "This announcement details the introduction of robust structured output capabilities on the Claude Developer Platform, enabling developers to reliably extract data in specified formats like JSON or XML from LLM responses. This enhancement significantly improves the integration of Claude into automated workflows and applications requiring deterministic data parsing.",
+    "tldr": "Anthropic introduces native support for structured outputs on the Claude Developer Platform, allowing developers to programmatically enforce specific JSON or XML schemas for model responses. This enhancement significantly improves the reliability and integration of Claude's outputs into downstream applications, simplifying data extraction and workflow automation.",
     "tags": [
-      "llm",
-      "api",
-      "developer-tools",
-      "model-output"
+      "LLM",
+      "API",
+      "Developer Tools",
+      "Structured Data"
     ],
-    "hype_score": 6
-  },
-  {
-    "id": "c0107b7e16772f5f895e217935207b5d",
-    "source": "Claude Blog",
-    "title": "How enterprises are building AI agents in 2026",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "date_scraped": "2026-01-03T12:56:30.866Z",
-    "date_published": "2026-01-01T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This blog post outlines strategies and practical considerations for enterprises deploying AI agents, focusing on architectural patterns and development workflows for real-world integration. It provides guidance on leveraging agentic AI solutions within complex organizational structures.",
-    "tags": [
-      "AI Agents",
-      "Enterprise AI",
-      "Engineering",
-      "Best Practices",
-      "LLM Applications"
-    ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "50131281c9d171f1bd06a0c57e656056",
     "source": "AWS ML",
     "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
     "url": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/",
-    "date_scraped": "2026-01-03T12:56:46.399Z",
+    "date_scraped": "2026-01-04T12:57:56.418Z",
     "date_published": "2025-12-29T17:29:27.000Z",
     "is_technical": true,
-    "tldr": "This engineering blog post details the process and benefits of migrating existing MLflow tracking servers to a serverless architecture within Amazon SageMaker AI. It outlines how organizations can leverage SageMaker's managed services to scale MLOps workflows efficiently, reducing operational overhead and improving the reliability of experiment tracking and model versioning.",
+    "tldr": "AWS details a guide for migrating existing MLflow tracking servers to a serverless architecture on Amazon SageMaker AI, leveraging the new serverless MLflow capability. This streamlines MLOps infrastructure, reducing operational overhead and enabling scalable, cost-effective experiment tracking and model management for machine learning workflows.",
     "tags": [
-      "mlops",
-      "infrastructure",
-      "serverless",
-      "aws",
-      "sagemaker"
+      "MLOps",
+      "Infrastructure",
+      "Serverless",
+      "AWS",
+      "SageMaker"
     ],
-    "hype_score": 5
+    "hype_score": 6
   }
 ]
