@@ -1,88 +1,76 @@
 [
   {
-    "id": "650e8a5e81a87d883c496555c8dbdd26",
-    "source": "Hugging Face",
-    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
-    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "date_scraped": "2026-01-05T13:05:00.000Z",
-    "date_published": "2026-01-05T09:16:51.000Z",
+    "id": "6f187ebf8cca85e2ff6d61d3aa1c0fcc",
+    "source": "NVIDIA Blog",
+    "title": "Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs",
+    "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-06T05:30:00.000Z",
     "is_technical": true,
-    "tldr": "TII UAE has unveiled Falcon-H1-Arabic, a new large language model designed specifically for the Arabic language, incorporating a novel hybrid architecture to advance performance. This release emphasizes pushing boundaries in language understanding and generation for Arabic, likely detailing improvements in handling linguistic nuances and regional dialects.",
+    "tldr": "NVIDIA announces significant open-source AI tool upgrades designed to accelerate inference for both LLM and diffusion models on consumer-grade NVIDIA RTX PCs. These optimizations improve local deployment capabilities and expand access to advanced AI for a broader developer community.",
     "tags": [
       "LLM",
-      "Arabic AI",
-      "model release",
-      "hybrid architecture",
-      "multilingual"
+      "diffusion models",
+      "optimization",
+      "inference",
+      "hardware",
+      "developer tools",
+      "open-source"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
-    "id": "c0107b7e16772f5f895e217935207b5d",
+    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
     "source": "Claude Blog",
-    "title": "How enterprises are building AI agents in 2026",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "date_scraped": "2026-01-05T13:04:37.167Z",
-    "date_published": "2026-01-05T00:00:00.000Z",
+    "title": "Extending Claude’s capabilities with skills and MCP servers",
+    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-06T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog post offers an engineering perspective on enterprise-grade AI agent development in 2026, focusing on practical implementation strategies. It covers critical considerations such as architecture design, robust integration with existing systems, and scalable deployment methodologies.",
+    "tldr": "This technical blog details the advanced methodologies for extending Claude's capabilities through the integration of custom 'skills' and the utilization of Model Context Protocol (MCP) servers. It provides an architectural overview of how these components work together to enhance model functionality and enable more complex agentic behaviors.",
     "tags": [
-      "AI Agents",
-      "Enterprise AI",
-      "Engineering",
-      "Deployment",
-      "Best Practices"
+      "LLM",
+      "agenticAI",
+      "skills",
+      "MCP",
+      "architecture",
+      "API"
     ],
-    "hype_score": 6
+    "hype_score": 8
   },
   {
     "id": "fa79f2dfaee1184e396e71b26b435efa",
     "source": "Claude Blog",
     "title": "Making Claude a better electrical engineer",
     "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "date_scraped": "2026-01-05T13:04:59.999Z",
-    "date_published": "2026-01-05T00:00:00.000Z",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-06T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post details Anthropic's efforts to enhance Claude's proficiency in electrical engineering, focusing on techniques for domain-specific knowledge acquisition and reasoning. It explores methods to fine-tune and augment the model's understanding of complex circuit diagrams, physical principles, and design constraints.",
+    "tldr": "This article details engineering efforts to enhance Claude's domain-specific reasoning and problem-solving abilities within electrical engineering, focusing on techniques for improving its understanding of schematics, circuit analysis, and design principles. It likely covers fine-tuning approaches or tool integration to bolster its performance on complex EE tasks.",
     "tags": [
       "LLM",
-      "domain-specific AI",
-      "fine-tuning",
-      "electrical engineering"
+      "application",
+      "engineering",
+      "domain-specific",
+      "reasoning"
     ],
     "hype_score": 6
-  },
-  {
-    "id": "908d4ea8e70fdfc14b88466a21c30d9d",
-    "source": "Claude Blog",
-    "title": "What’s new in Claude: Turning Claude into your thinking partner",
-    "url": "https://claude.com/blog/your-thinking-partner",
-    "date_scraped": "2026-01-05T13:05:00.000Z",
-    "date_published": "2026-01-05T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This post introduces significant updates to Claude, positioning it as an advanced \"thinking partner\" through enhanced conversational depth and iterative problem-solving capabilities. It likely outlines improvements in reasoning, context retention, and user interaction paradigms designed to support more complex cognitive tasks.",
-    "tags": [
-      "LLM",
-      "model update",
-      "reasoning",
-      "interaction design"
-    ],
-    "hype_score": 7
   },
   {
     "id": "bd64c94d11d6dab35ab99bd8231491a7",
     "source": "Claude Blog",
     "title": "Structured outputs on the Claude Developer Platform",
     "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "date_scraped": "2026-01-05T13:05:00.000Z",
-    "date_published": "2026-01-05T00:00:00.000Z",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-06T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic has introduced structured output capabilities on the Claude Developer Platform, allowing models to generate predictable, format-constrained responses like JSON or XML. This enhancement significantly improves the reliability and integration of Claude in programmatic workflows, making it easier to parse and utilize model outputs.",
+    "tldr": "This post announces the availability and technical implementation details of structured outputs on the Claude Developer Platform, allowing developers to constrain LLM responses to specific formats like JSON or XML. This feature enhances the reliability and usability of Claude for downstream applications by ensuring parseable and predictable model generations.",
     "tags": [
       "LLM",
       "API",
-      "developer tools",
-      "structured data"
+      "engineering",
+      "NLP",
+      "developer tools"
     ],
     "hype_score": 7
   },
@@ -91,35 +79,317 @@
     "source": "Claude Blog",
     "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
     "url": "https://claude.com/blog/skills-explained",
-    "date_scraped": "2026-01-05T13:05:00.000Z",
-    "date_published": "2026-01-05T00:00:00.000Z",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-06T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article elucidates the newly introduced \"Skills\" feature within Claude, delineating its technical relationship and functional differentiation from existing concepts like prompts, projects, MCP (Multi-turn Conversation Protocol), and subagents. It provides insights into how Skills modularize complex operations and enable more sophisticated agentic behaviors within the LLM framework.",
+    "tldr": "This article technically explains the \"Skills\" framework within Claude, contrasting its functionality and architectural design with traditional prompting, multi-component projects (MCP), and subagents. It details how Skills enable more complex, modular, and persistent behaviors for LLMs, enhancing agentic capabilities.",
     "tags": [
       "LLM",
-      "agentic AI",
-      "system design",
-      "architecture"
+      "agents",
+      "architecture",
+      "framework",
+      "NLP"
     ],
     "hype_score": 7
   },
   {
-    "id": "50131281c9d171f1bd06a0c57e656056",
-    "source": "AWS ML",
-    "title": "Migrate MLflow tracking servers to Amazon SageMaker AI with serverless MLflow",
-    "url": "https://aws.amazon.com/blogs/machine-learning/migrate-mlflow-tracking-servers-to-amazon-sagemaker-ai-with-serverless-mlflow/",
-    "date_scraped": "2026-01-05T13:05:00.000Z",
-    "date_published": "2025-12-29T17:29:27.000Z",
+    "id": "423ae0f6e5006971519c872a315361e4",
+    "source": "Hugging Face",
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T22:56:51.000Z",
     "is_technical": true,
-    "tldr": "AWS announced the integration of serverless MLflow tracking servers directly within Amazon SageMaker AI, streamlining the migration and management of MLOps workflows. This enhancement allows users to leverage SageMaker's serverless capabilities for experiment tracking, model registry, and artifact management without provisioning infrastructure.",
+    "tldr": "NVIDIA introduces Cosmos Reason 2, an advancement in physical AI that significantly enhances reasoning capabilities for embodied agents operating in real-world environments. This release likely integrates improved perception-action cycles and sophisticated decision-making models to tackle complex robotic tasks.",
     "tags": [
-      "MLOps",
-      "cloud infrastructure",
-      "AWS",
-      "SageMaker",
-      "MLflow",
-      "serverless"
+      "robotics",
+      "embodied AI",
+      "reasoning",
+      "perception",
+      "model release",
+      "physical AI"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "b3e66dbeaf9f9df76b51a743b19e761c",
+    "source": "NVIDIA Blog",
+    "title": "New Software and Model Optimizations Supercharge NVIDIA DGX Spark",
+    "url": "https://developer.nvidia.com/blog/new-software-and-model-optimizations-supercharge-nvidia-dgx-spark/",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T22:50:43.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA details new software and model optimizations specifically engineered to supercharge the performance of the DGX Spark platform for large-scale AI training and inference workloads. These enhancements aim to maximize throughput and efficiency across various demanding AI applications.",
+    "tags": [
+      "infrastructure",
+      "optimization",
+      "hardware",
+      "deep learning",
+      "training",
+      "inference"
     ],
     "hype_score": 6
+  },
+  {
+    "id": "b6ad912992ef4301018ae6026b85bd0f",
+    "source": "NVIDIA Blog",
+    "title": "Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer",
+    "url": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T22:20:12.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA unveils the Rubin Platform, a new AI supercomputer architecture featuring six innovative chips designed for unprecedented scale and performance in AI workloads. This deep dive details the technical specifications and synergistic design of the integrated hardware components.",
+    "tags": [
+      "hardware",
+      "infrastructure",
+      "supercomputing",
+      "architecture",
+      "chips",
+      "AI systems"
+    ],
+    "hype_score": 9
+  },
+  {
+    "id": "96df3ff2448350d5fb4ffb45fe6c95a2",
+    "source": "NVIDIA Blog",
+    "title": "Simplify Generalist Robot Policy Evaluation in Simulation with NVIDIA Isaac Lab-Arena",
+    "url": "https://developer.nvidia.com/blog/simplify-generalist-robot-policy-evaluation-in-simulation-with-nvidia-isaac-lab-arena/",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T22:14:08.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA introduces Isaac Lab-Arena, a new simulation environment designed to simplify and accelerate the evaluation of generalist robot policies, crucial for developing adaptable embodied AI. This platform enables rigorous testing of robotic agents across diverse simulated scenarios, streamlining the reinforcement learning development cycle.",
+    "tags": [
+      "robotics",
+      "simulation",
+      "RL",
+      "embodied AI",
+      "policy evaluation",
+      "developer tools"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "ba3b5c6f4367ee084950bb73b1a26205",
+    "source": "NVIDIA Blog",
+    "title": "Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1",
+    "url": "https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T22:10:52.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA releases the Jetson T4000 and JetPack 7.1, significantly accelerating AI inference capabilities for edge devices and robotics applications. These combined hardware and software advancements provide robust, low-latency processing crucial for real-time autonomous systems.",
+    "tags": [
+      "edge AI",
+      "robotics",
+      "inference",
+      "embedded systems",
+      "hardware",
+      "software",
+      "Jetson"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "adfbf1f4a5977e06265606d2645be9b7",
+    "source": "NVIDIA Blog",
+    "title": "How to Build a Voice Agent with RAG and Safety Guardrails",
+    "url": "https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T22:06:06.000Z",
+    "is_technical": true,
+    "tldr": "This engineering guide outlines the technical steps and architectural considerations for constructing a robust voice agent, integrating Retrieval Augmented Generation (RAG) for accurate, context-aware responses and implementing safety guardrails to prevent undesirable outputs. It focuses on the underlying technical components and design choices for secure and effective conversational AI.",
+    "tags": [
+      "voice AI",
+      "agents",
+      "RAG",
+      "safety",
+      "NLP",
+      "conversational AI",
+      "engineering"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "d3d6da98b8fe1088f36938218c1bb1ee",
+    "source": "NVIDIA Blog",
+    "title": "Building Autonomous Vehicles That Reason with NVIDIA Alpamayo",
+    "url": "https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T21:49:24.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA introduces Alpamayo, a new platform designed to imbue autonomous vehicles with advanced reasoning capabilities, moving beyond reactive systems to predictive and contextual understanding. The article explores the architectural innovations and technical components enabling safer and more intelligent navigation and decision-making for self-driving cars.",
+    "tags": [
+      "autonomous vehicles",
+      "reasoning",
+      "computer vision",
+      "AI systems",
+      "deep learning",
+      "simulation"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "650e8a5e81a87d883c496555c8dbdd26",
+    "source": "Hugging Face",
+    "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T09:16:51.000Z",
+    "is_technical": true,
+    "tldr": "This post introduces Falcon-H1-Arabic, a new large language model specifically designed for the Arabic language, featuring a novel hybrid architecture to advance state-of-the-art performance. The model aims to overcome challenges in Arabic NLP by leveraging its unique architectural design for improved linguistic understanding and generation.",
+    "tags": [
+      "LLM",
+      "NLP",
+      "Arabic",
+      "model release",
+      "transformer",
+      "hybrid architecture"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "025c809f2dc551972fdd695fb267d513",
+    "source": "Claude Blog",
+    "title": "Building AI agents for financial services",
+    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-05T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This technical blog post outlines methodologies and best practices for developing and deploying AI agents tailored for the financial services sector. It covers considerations for data privacy, regulatory compliance, and integrating complex financial models with agentic architectures.",
+    "tags": [
+      "agenticAI",
+      "enterpriseAI",
+      "financial services",
+      "LLM",
+      "application"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "6eda6a632e2933dd55c8fc20f9c470e5",
+    "source": "Claude Blog",
+    "title": "Skills for organizations, partners, the ecosystem",
+    "url": "https://claude.com/blog/organization-skills-and-directory",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-05T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This post outlines the framework and technical resources for organizations and partners to develop, integrate, and share 'Skills' within the broader Claude ecosystem. It describes the technical directory and APIs enabling collaborative extension of Claude's functionalities.",
+    "tags": [
+      "LLM",
+      "agenticAI",
+      "skills",
+      "ecosystem",
+      "API",
+      "development"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "66f18b5ebf8053d89315ba1f53e3193b",
+    "source": "Hugging Face",
+    "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
+    "url": "https://huggingface.co/blog/nvidia-reachy-mini",
+    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_published": "2026-01-05T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA showcases the synergistic capabilities of its DGX Spark platform with the Reachy Mini robot, enabling the development and deployment of complex AI agents in real-world physical environments. The integration highlights advancements in real-time control, perception, and decision-making for embodied AI.",
+    "tags": [
+      "robotics",
+      "embodied AI",
+      "agents",
+      "hardware",
+      "infrastructure",
+      "simulation"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "42bfc0352255435d8b7b26a0a01b7c62",
+    "source": "Claude Blog",
+    "title": "Improving frontend design through Skills",
+    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article explores how specific 'Skills' can be leveraged within LLM workflows to significantly enhance and automate aspects of frontend design. It likely provides technical insights into using AI for UI/UX generation, code scaffolding, and design system adherence.",
+    "tags": [
+      "LLM",
+      "design automation",
+      "frontend",
+      "skills",
+      "agenticAI"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
+    "source": "Claude Blog",
+    "title": "Piloting Claude in Chrome",
+    "url": "https://claude.com/blog/claude-for-chrome",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-04T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This post describes the technical pilot program for integrating Claude directly into the Chrome browser, focusing on the engineering challenges and solutions for seamless operation. It covers aspects like extension development, browser API interactions, and local resource management for efficient AI inference.",
+    "tags": [
+      "LLM",
+      "browser extension",
+      "integration",
+      "engineering",
+      "deployment"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "cb68f8012abdc9887b0941a2f55bb279",
+    "source": "Claude Blog",
+    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
+    "url": "https://claude.com/blog/building-skills-for-claude-code",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-03T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This engineering blog details the process of developing and integrating 'Skills' into Claude Code, enabling the automation of complex procedural knowledge within the model. It likely covers API usage, prompt engineering for skill activation, and integration patterns for enhanced model functionality.",
+    "tags": [
+      "LLM",
+      "agenticAI",
+      "prompt engineering",
+      "development",
+      "API"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "40bee1741df14152870a9e610be0e61b",
+    "source": "Claude Blog",
+    "title": "Claude Code on the web",
+    "url": "https://claude.com/blog/claude-code-on-the-web",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-03T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article details the technical architecture and deployment strategies for bringing Claude Code functionality to web-based platforms and applications. It likely covers API integration, client-side interactions, and real-time execution environments for AI-powered coding assistance.",
+    "tags": [
+      "LLM",
+      "coding AI",
+      "web development",
+      "API",
+      "deployment"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "0bf14bafc94805005f90ee62f2b8de49",
+    "source": "Claude Blog",
+    "title": "How Anthropic teams use Claude Code",
+    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
+    "date_scraped": "2026-01-06T13:02:14.736Z",
+    "date_published": "2026-01-01T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This engineering blog provides an internal perspective on how Anthropic's own teams technically leverage Claude Code for various development workflows and problem-solving. It offers practical insights into advanced prompting, integration into internal tools, and strategies for maximizing AI coding assistance.",
+    "tags": [
+      "LLM",
+      "coding AI",
+      "internal tools",
+      "workflow",
+      "best practices"
+    ],
+    "hype_score": 5
   }
 ]
