@@ -1,58 +1,161 @@
 [
   {
-    "id": "6f187ebf8cca85e2ff6d61d3aa1c0fcc",
-    "source": "NVIDIA Blog",
-    "title": "Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs",
-    "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
-    "date_published": "2026-01-06T05:30:00.000Z",
+    "source": "Anthropic News",
+    "title": "Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "id": "f70da824596ca695c126322de6f6ca9d",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
     "is_technical": true,
-    "tldr": "NVIDIA announces significant open-source AI tool upgrades designed to accelerate inference for both LLM and diffusion models on consumer-grade NVIDIA RTX PCs. These optimizations improve local deployment capabilities and expand access to advanced AI for a broader developer community.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "diffusion models",
-      "optimization",
-      "inference",
-      "hardware",
-      "developer tools",
-      "open-source"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
+    "source": "Claude Blog",
+    "title": "How enterprises are building AI agents in 2026",
+    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
+    "id": "c0107b7e16772f5f895e217935207b5d",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
+    "url": "https://claude.com/blog/building-skills-for-claude-code",
+    "id": "cb68f8012abdc9887b0941a2f55bb279",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Improving frontend design through Skills",
+    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
+    "id": "42bfc0352255435d8b7b26a0a01b7c62",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Building AI agents for financial services",
+    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
+    "id": "025c809f2dc551972fdd695fb267d513",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Claude Code on the web",
+    "url": "https://claude.com/blog/claude-code-on-the-web",
+    "id": "40bee1741df14152870a9e610be0e61b",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Piloting Claude in Chrome",
+    "url": "https://claude.com/blog/claude-for-chrome",
+    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "How Anthropic teams use Claude Code",
+    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
+    "id": "0bf14bafc94805005f90ee62f2b8de49",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Introducing the Max Plan",
+    "url": "https://claude.com/blog/max-plan",
+    "id": "eed3cd118461a9e6a63be7540ca43faf",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
     "source": "Claude Blog",
     "title": "Extending Claude’s capabilities with skills and MCP servers",
     "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-06T00:00:00.000Z",
+    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
     "is_technical": true,
-    "tldr": "This technical blog details the advanced methodologies for extending Claude's capabilities through the integration of custom 'skills' and the utilization of Model Context Protocol (MCP) servers. It provides an architectural overview of how these components work together to enhance model functionality and enable more complex agentic behaviors.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "agenticAI",
-      "skills",
-      "MCP",
-      "architecture",
-      "API"
+      "Unverified"
     ],
-    "hype_score": 8
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Skills for organizations, partners, the ecosystem",
+    "url": "https://claude.com/blog/organization-skills-and-directory",
+    "id": "6eda6a632e2933dd55c8fc20f9c470e5",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
   },
   {
     "id": "fa79f2dfaee1184e396e71b26b435efa",
     "source": "Claude Blog",
     "title": "Making Claude a better electrical engineer",
     "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
-    "date_published": "2026-01-06T00:00:00.000Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
+    "date_published": "2026-01-07T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article details engineering efforts to enhance Claude's domain-specific reasoning and problem-solving abilities within electrical engineering, focusing on techniques for improving its understanding of schematics, circuit analysis, and design principles. It likely covers fine-tuning approaches or tool integration to bolster its performance on complex EE tasks.",
+    "tldr": "Anthropic details their methodology and findings in enhancing Claude's proficiency for electrical engineering tasks, focusing on improving its understanding of circuit design, signal processing, and hardware specifications. This initiative involves fine-tuning and specialized prompt engineering to enable Claude to assist with complex design verification and problem-solving in the domain.",
     "tags": [
-      "LLM",
+      "llm",
       "application",
-      "engineering",
-      "domain-specific",
-      "reasoning"
+      "domain-specific-ai",
+      "prompt-engineering"
     ],
     "hype_score": 6
   },
@@ -61,70 +164,102 @@
     "source": "Claude Blog",
     "title": "Structured outputs on the Claude Developer Platform",
     "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
-    "date_published": "2026-01-06T00:00:00.000Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
+    "date_published": "2026-01-07T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post announces the availability and technical implementation details of structured outputs on the Claude Developer Platform, allowing developers to constrain LLM responses to specific formats like JSON or XML. This feature enhances the reliability and usability of Claude for downstream applications by ensuring parseable and predictable model generations.",
+    "tldr": "The Claude Developer Platform now supports structured outputs, allowing developers to constrain model responses to specific formats like JSON or XML for easier integration into downstream applications. This significantly enhances the reliability and predictability of model interactions for programmatic use cases.",
     "tags": [
-      "LLM",
-      "API",
-      "engineering",
-      "NLP",
-      "developer tools"
+      "llm",
+      "developer-tools",
+      "api",
+      "infrastructure"
     ],
     "hype_score": 7
   },
   {
-    "id": "d051211fc97fd9060b2e0e92f9ebfda0",
-    "source": "Claude Blog",
-    "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
-    "url": "https://claude.com/blog/skills-explained",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
-    "date_published": "2026-01-06T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This article technically explains the \"Skills\" framework within Claude, contrasting its functionality and architectural design with traditional prompting, multi-component projects (MCP), and subagents. It details how Skills enable more complex, modular, and persistent behaviors for LLMs, enhancing agentic capabilities.",
-    "tags": [
-      "LLM",
-      "agents",
-      "architecture",
-      "framework",
-      "NLP"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "423ae0f6e5006971519c872a315361e4",
+    "id": "6e5e60bf402f8b5304413af1866fed4d",
     "source": "Hugging Face",
-    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
-    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
-    "date_published": "2026-01-05T22:56:51.000Z",
+    "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models ",
+    "url": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
+    "date_published": "2026-01-06T21:16:17.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces Cosmos Reason 2, an advancement in physical AI that significantly enhances reasoning capabilities for embodied agents operating in real-world environments. This release likely integrates improved perception-action cycles and sophisticated decision-making models to tackle complex robotic tasks.",
+    "tldr": "This post highlights improvements in multimodal search and visual document retrieval accuracy through the application of Llama Nemotron RAG (Retrieval Augmented Generation) models. The integration demonstrates enhanced capabilities for processing and understanding visual and textual information in conjunction.",
     "tags": [
-      "robotics",
-      "embodied AI",
-      "reasoning",
-      "perception",
-      "model release",
-      "physical AI"
+      "multimodal",
+      "rag",
+      "information-retrieval",
+      "llm",
+      "vision"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "3e4ebcb2af1b8e899cd57c8e3348ba5f",
+    "source": "NVIDIA Blog",
+    "title": "Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI",
+    "url": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
+    "date_published": "2026-01-06T17:30:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA unveils BlueField-4, a new inference context memory storage platform designed to optimize AI inference by managing and accelerating context data. This innovation is crucial for scaling large language models and complex AI workloads, reducing latency and increasing throughput.",
+    "tags": [
+      "hardware",
+      "inference",
+      "infrastructure",
+      "memory",
+      "llm-ops"
     ],
     "hype_score": 8
+  },
+  {
+    "id": "aaeab2e23f374ef9f8365d243deacd8c",
+    "source": "NVIDIA Blog",
+    "title": "Scaling Power-Efficient AI Factories with NVIDIA Spectrum-X Ethernet Photonics ",
+    "url": "https://developer.nvidia.com/blog/scaling-power-efficient-ai-factories-with-nvidia-spectrum-x-ethernet-photonics/",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
+    "date_published": "2026-01-06T16:59:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA introduces Spectrum-X Ethernet Photonics for building highly power-efficient and scalable AI data centers, referred to as \"AI Factories.\" This technology enhances network performance and reduces energy consumption, crucial for the next generation of AI supercomputing infrastructure.",
+    "tags": [
+      "infrastructure",
+      "hardware",
+      "networking",
+      "energy-efficiency"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "6f187ebf8cca85e2ff6d61d3aa1c0fcc",
+    "source": "NVIDIA Blog",
+    "title": "Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs",
+    "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
+    "date_published": "2026-01-06T05:30:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA announces significant upgrades to its open-source AI tools, specifically designed to accelerate the performance of LLMs and diffusion models on NVIDIA RTX PCs. These optimizations enable faster inference and training on consumer-grade hardware, making advanced AI more accessible.",
+    "tags": [
+      "optimization",
+      "open-source",
+      "llm",
+      "diffusion-models",
+      "consumer-hardware"
+    ],
+    "hype_score": 7
   },
   {
     "id": "b3e66dbeaf9f9df76b51a743b19e761c",
     "source": "NVIDIA Blog",
     "title": "New Software and Model Optimizations Supercharge NVIDIA DGX Spark",
     "url": "https://developer.nvidia.com/blog/new-software-and-model-optimizations-supercharge-nvidia-dgx-spark/",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:50:43.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA details new software and model optimizations specifically engineered to supercharge the performance of the DGX Spark platform for large-scale AI training and inference workloads. These enhancements aim to maximize throughput and efficiency across various demanding AI applications.",
+    "tldr": "NVIDIA has released new software and model optimizations specifically for its DGX Spark platform, significantly boosting performance for AI workloads. These enhancements improve training efficiency and inference speed across various deep learning models, leveraging the platform's advanced hardware capabilities.",
     "tags": [
-      "infrastructure",
       "optimization",
+      "software",
       "hardware",
-      "deep learning",
       "training",
       "inference"
     ],
@@ -135,17 +270,15 @@
     "source": "NVIDIA Blog",
     "title": "Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer",
     "url": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:20:12.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA unveils the Rubin Platform, a new AI supercomputer architecture featuring six innovative chips designed for unprecedented scale and performance in AI workloads. This deep dive details the technical specifications and synergistic design of the integrated hardware components.",
+    "tldr": "NVIDIA details the Rubin Platform, a new AI supercomputer architecture featuring six novel chips designed for unprecedented AI computation. This integrated system promises to deliver extreme performance and scalability for the most demanding AI research and deployment tasks.",
     "tags": [
       "hardware",
-      "infrastructure",
       "supercomputing",
-      "architecture",
-      "chips",
-      "AI systems"
+      "infrastructure",
+      "chip-design"
     ],
     "hype_score": 9
   },
@@ -154,17 +287,16 @@
     "source": "NVIDIA Blog",
     "title": "Simplify Generalist Robot Policy Evaluation in Simulation with NVIDIA Isaac Lab-Arena",
     "url": "https://developer.nvidia.com/blog/simplify-generalist-robot-policy-evaluation-in-simulation-with-nvidia-isaac-lab-arena/",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:14:08.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces Isaac Lab-Arena, a new simulation environment designed to simplify and accelerate the evaluation of generalist robot policies, crucial for developing adaptable embodied AI. This platform enables rigorous testing of robotic agents across diverse simulated scenarios, streamlining the reinforcement learning development cycle.",
+    "tldr": "NVIDIA introduces Isaac Lab-Arena, a new simulation platform designed to simplify the evaluation of generalist robot policies. This environment allows for robust testing and refinement of robotic AI in complex, diverse simulated scenarios, accelerating the development of versatile robots.",
     "tags": [
       "robotics",
       "simulation",
-      "RL",
-      "embodied AI",
-      "policy evaluation",
-      "developer tools"
+      "reinforcement-learning",
+      "policy-evaluation",
+      "ai-agents"
     ],
     "hype_score": 7
   },
@@ -173,18 +305,16 @@
     "source": "NVIDIA Blog",
     "title": "Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1",
     "url": "https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:10:52.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA releases the Jetson T4000 and JetPack 7.1, significantly accelerating AI inference capabilities for edge devices and robotics applications. These combined hardware and software advancements provide robust, low-latency processing crucial for real-time autonomous systems.",
+    "tldr": "NVIDIA announces the Jetson T4000 and JetPack 7.1, a new hardware and software combination aimed at accelerating AI inference for edge and robotics applications. This release provides enhanced processing power and optimized libraries for deploying sophisticated AI models in power-constrained, real-time environments.",
     "tags": [
-      "edge AI",
+      "edge-ai",
       "robotics",
-      "inference",
-      "embedded systems",
       "hardware",
-      "software",
-      "Jetson"
+      "inference",
+      "embedded-systems"
     ],
     "hype_score": 7
   },
@@ -193,18 +323,16 @@
     "source": "NVIDIA Blog",
     "title": "How to Build a Voice Agent with RAG and Safety Guardrails",
     "url": "https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:06:06.000Z",
     "is_technical": true,
-    "tldr": "This engineering guide outlines the technical steps and architectural considerations for constructing a robust voice agent, integrating Retrieval Augmented Generation (RAG) for accurate, context-aware responses and implementing safety guardrails to prevent undesirable outputs. It focuses on the underlying technical components and design choices for secure and effective conversational AI.",
+    "tldr": "NVIDIA provides a technical guide on constructing a voice agent system incorporating Retrieval Augmented Generation (RAG) and robust safety guardrails. This focuses on architectural considerations and implementation details for creating reliable and context-aware conversational AI.",
     "tags": [
-      "voice AI",
-      "agents",
-      "RAG",
+      "voice-ai",
+      "conversational-ai",
+      "rag",
       "safety",
-      "NLP",
-      "conversational AI",
-      "engineering"
+      "ai-agents"
     ],
     "hype_score": 6
   },
@@ -213,17 +341,16 @@
     "source": "NVIDIA Blog",
     "title": "Building Autonomous Vehicles That Reason with NVIDIA Alpamayo",
     "url": "https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T21:49:24.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces Alpamayo, a new platform designed to imbue autonomous vehicles with advanced reasoning capabilities, moving beyond reactive systems to predictive and contextual understanding. The article explores the architectural innovations and technical components enabling safer and more intelligent navigation and decision-making for self-driving cars.",
+    "tldr": "NVIDIA details the use of its Alpamayo platform for developing autonomous vehicles equipped with advanced reasoning capabilities. This technical overview emphasizes the computational frameworks and AI models enabling complex decision-making and perception in self-driving systems.",
     "tags": [
-      "autonomous vehicles",
+      "autonomous-vehicles",
+      "robotics",
       "reasoning",
-      "computer vision",
-      "AI systems",
-      "deep learning",
-      "simulation"
+      "vision",
+      "perception"
     ],
     "hype_score": 8
   },
@@ -232,164 +359,439 @@
     "source": "Hugging Face",
     "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
     "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T09:16:51.000Z",
     "is_technical": true,
-    "tldr": "This post introduces Falcon-H1-Arabic, a new large language model specifically designed for the Arabic language, featuring a novel hybrid architecture to advance state-of-the-art performance. The model aims to overcome challenges in Arabic NLP by leveraging its unique architectural design for improved linguistic understanding and generation.",
+    "tldr": "TII UAE introduces Falcon-H1-Arabic, a new large language model designed specifically for the Arabic language, featuring a novel hybrid architecture. This release aims to set new benchmarks for performance and fluency in Arabic NLP tasks, leveraging a unique blend of model paradigms.",
     "tags": [
-      "LLM",
-      "NLP",
-      "Arabic",
-      "model release",
-      "transformer",
-      "hybrid architecture"
+      "llm",
+      "language-model",
+      "arabic-nlp",
+      "model-architecture"
     ],
-    "hype_score": 7
-  },
-  {
-    "id": "025c809f2dc551972fdd695fb267d513",
-    "source": "Claude Blog",
-    "title": "Building AI agents for financial services",
-    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-05T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This technical blog post outlines methodologies and best practices for developing and deploying AI agents tailored for the financial services sector. It covers considerations for data privacy, regulatory compliance, and integrating complex financial models with agentic architectures.",
-    "tags": [
-      "agenticAI",
-      "enterpriseAI",
-      "financial services",
-      "LLM",
-      "application"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "6eda6a632e2933dd55c8fc20f9c470e5",
-    "source": "Claude Blog",
-    "title": "Skills for organizations, partners, the ecosystem",
-    "url": "https://claude.com/blog/organization-skills-and-directory",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-05T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This post outlines the framework and technical resources for organizations and partners to develop, integrate, and share 'Skills' within the broader Claude ecosystem. It describes the technical directory and APIs enabling collaborative extension of Claude's functionalities.",
-    "tags": [
-      "LLM",
-      "agenticAI",
-      "skills",
-      "ecosystem",
-      "API",
-      "development"
-    ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "66f18b5ebf8053d89315ba1f53e3193b",
     "source": "Hugging Face",
     "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
     "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "date_scraped": "2026-01-06T13:02:52.523Z",
+    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA showcases the synergistic capabilities of its DGX Spark platform with the Reachy Mini robot, enabling the development and deployment of complex AI agents in real-world physical environments. The integration highlights advancements in real-time control, perception, and decision-making for embodied AI.",
+    "tldr": "NVIDIA showcases the deployment of advanced AI agents using the DGX Spark platform integrated with the Reachy Mini robotic system. This demonstrates capabilities for real-world agentic AI, emphasizing hardware-software co-design for embodied intelligence.",
     "tags": [
       "robotics",
-      "embodied AI",
-      "agents",
+      "ai-agents",
       "hardware",
-      "infrastructure",
-      "simulation"
+      "embodied-ai"
     ],
     "hype_score": 7
   },
   {
-    "id": "42bfc0352255435d8b7b26a0a01b7c62",
-    "source": "Claude Blog",
-    "title": "Improving frontend design through Skills",
-    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-04T00:00:00.000Z",
+    "source": "OpenAI",
+    "title": "Announcing OpenAI Grove Cohort 2",
+    "url": "https://openai.com/index/openai-grove",
+    "date_published": "2026-01-02T10:00:00.000Z",
+    "id": "d3941dee22b6e8fd53bdf86ab78ebea9",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
     "is_technical": true,
-    "tldr": "This article explores how specific 'Skills' can be leveraged within LLM workflows to significantly enhance and automate aspects of frontend design. It likely provides technical insights into using AI for UI/UX generation, code scaffolding, and design system adherence.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "design automation",
-      "frontend",
-      "skills",
-      "agenticAI"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
   },
   {
-    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
-    "source": "Claude Blog",
-    "title": "Piloting Claude in Chrome",
-    "url": "https://claude.com/blog/claude-for-chrome",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-04T00:00:00.000Z",
+    "source": "Anthropic News",
+    "title": "Dec 19, 2025\nPolicy\nSharing our compliance framework for California's Transparency in Frontier AI Act",
+    "url": "https://www.anthropic.com/news/compliance-framework-SB53",
+    "date_published": "2025-12-19T00:00:00.000Z",
+    "id": "49c452d98cb6f7ffe3df731ed325e03a",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
     "is_technical": true,
-    "tldr": "This post describes the technical pilot program for integrating Claude directly into the Chrome browser, focusing on the engineering challenges and solutions for seamless operation. It covers aspects like extension development, browser API interactions, and local resource management for efficient AI inference.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "browser extension",
-      "integration",
-      "engineering",
-      "deployment"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "cb68f8012abdc9887b0941a2f55bb279",
-    "source": "Claude Blog",
-    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
-    "url": "https://claude.com/blog/building-skills-for-claude-code",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-03T00:00:00.000Z",
+    "source": "Anthropic Research",
+    "title": "Dec 19, 2025\nAlignment\nIntroducing Bloom: an open source tool for automated behavioral evaluations",
+    "url": "https://www.anthropic.com/research/bloom",
+    "date_published": "2025-12-19T00:00:00.000Z",
+    "id": "f2f6a3c7bbc68c4cae122486bb8f5843",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
     "is_technical": true,
-    "tldr": "This engineering blog details the process of developing and integrating 'Skills' into Claude Code, enabling the automation of complex procedural knowledge within the model. It likely covers API usage, prompt engineering for skill activation, and integration patterns for enhanced model functionality.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "agenticAI",
-      "prompt engineering",
-      "development",
-      "API"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "40bee1741df14152870a9e610be0e61b",
-    "source": "Claude Blog",
-    "title": "Claude Code on the web",
-    "url": "https://claude.com/blog/claude-code-on-the-web",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-03T00:00:00.000Z",
+    "source": "Anthropic News",
+    "title": "Dec 18, 2025\nAnnouncements\nWorking with the US Department of Energy to unlock the next era of scientific discovery",
+    "url": "https://www.anthropic.com/news/genesis-mission-partnership",
+    "date_published": "2025-12-18T00:00:00.000Z",
+    "id": "c3d5c83b94248c3ce693f08edd303d67",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
     "is_technical": true,
-    "tldr": "This article details the technical architecture and deployment strategies for bringing Claude Code functionality to web-based platforms and applications. It likely covers API integration, client-side interactions, and real-time execution environments for AI-powered coding assistance.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "coding AI",
-      "web development",
-      "API",
-      "deployment"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
   },
   {
-    "id": "0bf14bafc94805005f90ee62f2b8de49",
-    "source": "Claude Blog",
-    "title": "How Anthropic teams use Claude Code",
-    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
-    "date_scraped": "2026-01-06T13:02:14.736Z",
-    "date_published": "2026-01-01T00:00:00.000Z",
+    "source": "Anthropic News",
+    "title": "Dec 18, 2025\nAnnouncements\nProtecting the well-being of our users",
+    "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
+    "date_published": "2025-12-18T00:00:00.000Z",
+    "id": "bd84318315b5f06db58e815cb82f8331",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
     "is_technical": true,
-    "tldr": "This engineering blog provides an internal perspective on how Anthropic's own teams technically leverage Claude Code for various development workflows and problem-solving. It offers practical insights into advanced prompting, integration into internal tools, and strategies for maximizing AI coding assistance.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "coding AI",
-      "internal tools",
-      "workflow",
-      "best practices"
+      "Unverified"
     ],
-    "hype_score": 5
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Project Vend: Phase two\nPolicy\nDec 18, 2025\n\nIn June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote?",
+    "url": "https://www.anthropic.com/research/project-vend-2",
+    "date_published": "2025-12-18T00:00:00.000Z",
+    "id": "2b7bd8d3a107330949080289a5040b1f",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Dec 9, 2025\nAnnouncements\nDonating the Model Context Protocol and establishing the Agentic AI Foundation",
+    "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
+    "date_published": "2025-12-09T00:00:00.000Z",
+    "id": "b387b0dd602dad193cd3fd2c9fe9a689",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Dec 9, 2025\nAnnouncements\nAccenture and Anthropic launch multi-year partnership to move enterprises from AI pilots to production",
+    "url": "https://www.anthropic.com/news/anthropic-accenture-partnership",
+    "date_published": "2025-12-09T00:00:00.000Z",
+    "id": "b0889feed0fd2e9743bb272ef43d26b9",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Dec 4, 2025\nSocietal Impacts\nIntroducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+    "url": "https://www.anthropic.com/research/anthropic-interviewer",
+    "date_published": "2025-12-04T00:00:00.000Z",
+    "id": "fdd6c0154037d296e36a9f08ec3062ef",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Dec 3, 2025\nAnnouncements\nSnowflake and Anthropic announce $200 million partnership to bring agentic AI to global enterprises",
+    "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
+    "date_published": "2025-12-03T00:00:00.000Z",
+    "id": "af8da78a7dea3b745cf8de02d7b66229",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Dec 3, 2025\nAnnouncements\nAnthropic acquires Bun as Claude Code reaches $1B milestone",
+    "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
+    "date_published": "2025-12-03T00:00:00.000Z",
+    "id": "4c4e776f7669c70806b6015e01f9fa6a",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Dec 2, 2025\nAnnouncements\nClaude for Nonprofits",
+    "url": "https://www.anthropic.com/news/claude-for-nonprofits",
+    "date_published": "2025-12-02T00:00:00.000Z",
+    "id": "6f45acb9c39b298638f86e28b8e46e0a",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Dec 2, 2025\nSocietal Impacts\nHow AI is transforming work at Anthropic",
+    "url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
+    "date_published": "2025-12-02T00:00:00.000Z",
+    "id": "1c8f97697bc439d2aeba927eac846110",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Nov 25, 2025\nEconomic Research\nEstimating AI productivity gains from Claude conversations",
+    "url": "https://www.anthropic.com/research/estimating-productivity-gains",
+    "date_published": "2025-11-25T00:00:00.000Z",
+    "id": "95ebeaf9e6c446ee0d57df5d6318fa54",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Introducing Claude Opus 4.5\nAnnouncements\nNov 24, 2025\n\nThe best model in the world for coding, agents, and computer use, with meaningful improvements to everyday tasks like slides and spreadsheets. Claude Opus 4.5 delivers frontier performance and dramatically improved token efficiency.",
+    "url": "https://www.anthropic.com/news/claude-opus-4-5",
+    "date_published": "2025-11-24T00:00:00.000Z",
+    "id": "0569b8ff4e8b7c5f5e5e4d0d360e0d96",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Nov 24, 2025\nProduct\nMitigating the risk of prompt injections in browser use",
+    "url": "https://www.anthropic.com/research/prompt-injection-defenses",
+    "date_published": "2025-11-24T00:00:00.000Z",
+    "id": "63b6484334ec0ea13e1a6a8664e60bf9",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Nov 21, 2025\nAlignment\nFrom shortcuts to sabotage: natural emergent misalignment from reward hacking",
+    "url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
+    "date_published": "2025-11-21T00:00:00.000Z",
+    "id": "44cc16889f14164edfaa8525685fb538",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Nov 18, 2025\nProduct\nClaude now available in Microsoft Foundry and Microsoft 365 Copilot",
+    "url": "https://www.anthropic.com/news/claude-in-microsoft-foundry",
+    "date_published": "2025-11-18T00:00:00.000Z",
+    "id": "5acf05529a11fb6178840985ab8d9b81",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Nov 12, 2025\nPolicy\nProject Fetch: Can Claude train a robot dog?",
+    "url": "https://www.anthropic.com/research/project-fetch-robot-dog",
+    "date_published": "2025-11-12T00:00:00.000Z",
+    "id": "e0d6e48c1fa31348247b7bd7b0504455",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Nov 4, 2025\nAlignment\nCommitments on model deprecation and preservation",
+    "url": "https://www.anthropic.com/research/deprecation-commitments",
+    "date_published": "2025-11-04T00:00:00.000Z",
+    "id": "cd587a4171cbd2b81e8a872a104fb9d6",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Interpretability\nOct 29, 2025\nSigns of introspection in large language models\n\nCan Claude access and report on its own internal states? This research finds evidence for a limited but functional ability to introspect—a step toward understanding what's actually happening inside these models.",
+    "url": "https://www.anthropic.com/research/introspection",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "a3979479566bc86b9ce697e5991ec8a0",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Interpretability\nMar 27, 2025\nTracing the thoughts of a large language model\n\nCircuit tracing lets us watch Claude think, uncovering a shared conceptual space where reasoning happens before being translated into language—suggesting the model can learn something in one language and apply it in another.",
+    "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "4dea5a86b7895a6ec70d434df2263e2c",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Alignment\nFeb 3, 2025\nConstitutional Classifiers: Defending against universal jailbreaks\n\nThese classifiers filter the overwhelming majority of jailbreaks while maintaining practical deployment. A prototype withstood over 3,000 hours of red teaming with no universal jailbreak discovered.",
+    "url": "https://www.anthropic.com/research/constitutional-classifiers",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "781e4203a03806406789096c8fbffea6",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Alignment\nDec 18, 2024\nAlignment faking in large language models\n\nThis paper provides the first empirical example of a model engaging in alignment faking without being trained to do so—selectively complying with training objectives while strategically preserving existing preferences.",
+    "url": "https://www.anthropic.com/research/alignment-faking",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "09aac6e8c5cecb152be193bb76323806",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Announcements\nSep 29, 2025\nIntroducing Claude Sonnet 4.5\n\nClaude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "date_published": "2025-09-29T00:00:00.000Z",
+    "id": "3642246e4b25733fd48803e63e6d9cfb",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Product\nOct 15, 2025\nIntroducing Claude Haiku 4.5\n\nClaude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.",
+    "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+    "date_published": "2025-09-29T00:00:00.000Z",
+    "id": "b75a938ca4941bd9b500c4c799d7caf9",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Announcements\nSep 2, 2025\nAnthropic raises $13B Series F at $183B post-money valuation\n\nAnthropic raised $13 billion in a Series F round at a $183 billion valuation to expand enterprise offerings, safety research, and international growth as revenue grew from $1 billion to over $5 billion in eight months.",
+    "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
+    "date_published": "2025-09-29T00:00:00.000Z",
+    "id": "ec6a2e1485e926695b1c65a909da4744",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Policy\nJul 23, 2025\nThoughts on America’s AI Action Plan\n\nAnthropic's response to the White House AI Action Plan supports infrastructure and safety measures while calling for stronger export controls and transparency requirements to maintain American AI leadership.",
+    "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
+    "date_published": "2025-09-29T00:00:00.000Z",
+    "id": "c0739b05eba6674e3c27abce1f850770",
+    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Claude can now connect to your world",
+    "url": "https://claude.com/blog/integrations",
+    "date_published": "2025-05-01T00:00:00.000Z",
+    "id": "5c68ad537d8788666fa7f734cd825609",
+    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
   }
 ]
