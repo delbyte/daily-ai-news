@@ -1,10 +1,10 @@
 [
   {
-    "source": "Anthropic News",
-    "title": "Responsible Scaling Policy",
-    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
-    "id": "f70da824596ca695c126322de6f6ca9d",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "source": "Claude Blog",
+    "title": "What’s new in Claude: Turning Claude into your thinking partner",
+    "url": "https://claude.com/blog/your-thinking-partner",
+    "id": "908d4ea8e70fdfc14b88466a21c30d9d",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -14,10 +14,10 @@
   },
   {
     "source": "Claude Blog",
-    "title": "How enterprises are building AI agents in 2026",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "id": "c0107b7e16772f5f895e217935207b5d",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "title": "How to create Skills: Key steps, limitations, and examples",
+    "url": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples",
+    "id": "735b02a1d1e428df07c67ddaa0e69d33",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -27,10 +27,10 @@
   },
   {
     "source": "Claude Blog",
-    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
-    "url": "https://claude.com/blog/building-skills-for-claude-code",
-    "id": "cb68f8012abdc9887b0941a2f55bb279",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "title": "How three YC startups built their companies with Claude Code",
+    "url": "https://claude.com/blog/building-companies-with-claude-code",
+    "id": "77a94ab9408ac3fdba376d1dce7f570d",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -40,10 +40,10 @@
   },
   {
     "source": "Claude Blog",
-    "title": "Improving frontend design through Skills",
-    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
-    "id": "42bfc0352255435d8b7b26a0a01b7c62",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "title": "Structured outputs on the Claude Developer Platform",
+    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
+    "id": "bd64c94d11d6dab35ab99bd8231491a7",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -53,62 +53,10 @@
   },
   {
     "source": "Claude Blog",
-    "title": "Building AI agents for financial services",
-    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
-    "id": "025c809f2dc551972fdd695fb267d513",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Claude Code on the web",
-    "url": "https://claude.com/blog/claude-code-on-the-web",
-    "id": "40bee1741df14152870a9e610be0e61b",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Piloting Claude in Chrome",
-    "url": "https://claude.com/blog/claude-for-chrome",
-    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How Anthropic teams use Claude Code",
-    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
-    "id": "0bf14bafc94805005f90ee62f2b8de49",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Introducing the Max Plan",
-    "url": "https://claude.com/blog/max-plan",
-    "id": "eed3cd118461a9e6a63be7540ca43faf",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
+    "url": "https://claude.com/blog/skills-explained",
+    "id": "d051211fc97fd9060b2e0e92f9ebfda0",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -121,7 +69,7 @@
     "title": "Extending Claude’s capabilities with skills and MCP servers",
     "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
     "id": "ba8377c644dbf23cc26fdb347a55d9f5",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -134,7 +82,7 @@
     "title": "Skills for organizations, partners, the ecosystem",
     "url": "https://claude.com/blog/organization-skills-and-directory",
     "id": "6eda6a632e2933dd55c8fc20f9c470e5",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -143,250 +91,437 @@
     "hype_score": 1
   },
   {
-    "id": "fa79f2dfaee1184e396e71b26b435efa",
     "source": "Claude Blog",
     "title": "Making Claude a better electrical engineer",
     "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
-    "date_published": "2026-01-07T00:00:00.000Z",
+    "id": "fa79f2dfaee1184e396e71b26b435efa",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
     "is_technical": true,
-    "tldr": "Anthropic details their methodology and findings in enhancing Claude's proficiency for electrical engineering tasks, focusing on improving its understanding of circuit design, signal processing, and hardware specifications. This initiative involves fine-tuning and specialized prompt engineering to enable Claude to assist with complex design verification and problem-solving in the domain.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "llm",
-      "application",
-      "domain-specific-ai",
-      "prompt-engineering"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
   },
   {
-    "id": "bd64c94d11d6dab35ab99bd8231491a7",
     "source": "Claude Blog",
-    "title": "Structured outputs on the Claude Developer Platform",
-    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
+    "title": "Claude Code power user customization: How to configure hooks",
+    "url": "https://claude.com/blog/how-to-configure-hooks",
+    "id": "98d7396996017881bdd78b89591fb01b",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "How Anthropic's legal team cut review times from days to hours with Claude",
+    "url": "https://claude.com/blog/how-anthropic-uses-claude-legal",
+    "id": "7f88b448300910e7d6df853ea860520e",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Claude Code and Slack",
+    "url": "https://claude.com/blog/claude-code-and-slack",
+    "id": "3583ffde0526b1f9fb168104d1a96df0",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "What are the key benefits of transitioning to agentic coding for software development?",
+    "url": "https://claude.com/blog/key-benefits-transitioning-agentic-coding",
+    "id": "12e0dc58a3c7d4fbfbdac8c1a3d33272",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Using CLAUDE.md files: Customizing Claude Code for your codebase",
+    "url": "https://claude.com/blog/using-claude-md-files",
+    "id": "dee09fbc2a065f5f934ce404a5d86298",
+    "date_scraped": "2026-01-08T13:03:43.534Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "How enterprises are building AI agents in 2026",
+    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
+    "id": "c0107b7e16772f5f895e217935207b5d",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
+    "url": "https://claude.com/blog/building-skills-for-claude-code",
+    "id": "cb68f8012abdc9887b0941a2f55bb279",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Improving frontend design through Skills",
+    "url": "https://claude.com/blog/improving-frontend-design-through-skills",
+    "id": "42bfc0352255435d8b7b26a0a01b7c62",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Building AI agents for financial services",
+    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
+    "id": "025c809f2dc551972fdd695fb267d513",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Claude Code on the web",
+    "url": "https://claude.com/blog/claude-code-on-the-web",
+    "id": "40bee1741df14152870a9e610be0e61b",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Piloting Claude in Chrome",
+    "url": "https://claude.com/blog/claude-for-chrome",
+    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "How Anthropic teams use Claude Code",
+    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
+    "id": "0bf14bafc94805005f90ee62f2b8de49",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Introducing the Max Plan",
+    "url": "https://claude.com/blog/max-plan",
+    "id": "eed3cd118461a9e6a63be7540ca43faf",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "id": "f70da824596ca695c126322de6f6ca9d",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Delivering Massive Performance Leaps for Mixture of Experts Inference on NVIDIA Blackwell",
+    "url": "https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell/",
+    "date_published": "2026-01-08T02:43:16.000Z",
+    "id": "a336926f05625837db328959219b43d5",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Build and Orchestrate End-to-End SDG Workflows with NVIDIA Isaac Sim and NVIDIA OSMO ",
+    "url": "https://developer.nvidia.com/blog/build-synthetic-data-pipelines-to-train-smarter-robots-with-nvidia-isaac-sim/",
+    "date_published": "2026-01-07T18:00:00.000Z",
+    "id": "7da531669a1c5cd33a3134db46070f31",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Redefining Secure AI Infrastructure with NVIDIA BlueField Astra for NVIDIA Vera Rubin NVL72",
+    "url": "https://developer.nvidia.com/blog/redefining-secure-ai-infrastructure-with-nvidia-bluefield-astra-for-nvidia-vera-rubin-nvl72/",
+    "date_published": "2026-01-07T17:00:00.000Z",
+    "id": "6e0404b72495dfd1ba26438332ba7425",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "OpenAI",
+    "title": "How Tolan builds voice-first AI with GPT-5.1",
+    "url": "https://openai.com/index/tolan",
+    "date_published": "2026-01-07T10:00:00.000Z",
+    "id": "f1498ca4e7c622ccc8bc5fcd49dc4ffb",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Health ",
+    "url": "https://openai.com/index/introducing-chatgpt-health",
     "date_published": "2026-01-07T00:00:00.000Z",
+    "id": "a45ce88e0536046d1e61a95b4ebe5643",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
-    "tldr": "The Claude Developer Platform now supports structured outputs, allowing developers to constrain model responses to specific formats like JSON or XML for easier integration into downstream applications. This significantly enhances the reliability and predictability of model interactions for programmatic use cases.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "llm",
-      "developer-tools",
-      "api",
-      "infrastructure"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "6e5e60bf402f8b5304413af1866fed4d",
-    "source": "Hugging Face",
-    "title": "Small Yet Mighty: Improve Accuracy In Multimodal Search and Visual Document Retrieval with Llama Nemotron RAG Models ",
-    "url": "https://huggingface.co/blog/nvidia/llama-nemotron-vl-1b",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
-    "date_published": "2026-01-06T21:16:17.000Z",
-    "is_technical": true,
-    "tldr": "This post highlights improvements in multimodal search and visual document retrieval accuracy through the application of Llama Nemotron RAG (Retrieval Augmented Generation) models. The integration demonstrates enhanced capabilities for processing and understanding visual and textual information in conjunction.",
-    "tags": [
-      "multimodal",
-      "rag",
-      "information-retrieval",
-      "llm",
-      "vision"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "3e4ebcb2af1b8e899cd57c8e3348ba5f",
     "source": "NVIDIA Blog",
     "title": "Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI",
     "url": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-06T17:30:00.000Z",
+    "id": "3e4ebcb2af1b8e899cd57c8e3348ba5f",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA unveils BlueField-4, a new inference context memory storage platform designed to optimize AI inference by managing and accelerating context data. This innovation is crucial for scaling large language models and complex AI workloads, reducing latency and increasing throughput.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "hardware",
-      "inference",
-      "infrastructure",
-      "memory",
-      "llm-ops"
+      "Unverified"
     ],
-    "hype_score": 8
+    "hype_score": 1
   },
   {
-    "id": "aaeab2e23f374ef9f8365d243deacd8c",
     "source": "NVIDIA Blog",
     "title": "Scaling Power-Efficient AI Factories with NVIDIA Spectrum-X Ethernet Photonics ",
     "url": "https://developer.nvidia.com/blog/scaling-power-efficient-ai-factories-with-nvidia-spectrum-x-ethernet-photonics/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-06T16:59:00.000Z",
+    "id": "aaeab2e23f374ef9f8365d243deacd8c",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces Spectrum-X Ethernet Photonics for building highly power-efficient and scalable AI data centers, referred to as \"AI Factories.\" This technology enhances network performance and reduces energy consumption, crucial for the next generation of AI supercomputing infrastructure.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "infrastructure",
-      "hardware",
-      "networking",
-      "energy-efficiency"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "6f187ebf8cca85e2ff6d61d3aa1c0fcc",
     "source": "NVIDIA Blog",
     "title": "Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs",
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-06T05:30:00.000Z",
+    "id": "6f187ebf8cca85e2ff6d61d3aa1c0fcc",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA announces significant upgrades to its open-source AI tools, specifically designed to accelerate the performance of LLMs and diffusion models on NVIDIA RTX PCs. These optimizations enable faster inference and training on consumer-grade hardware, making advanced AI more accessible.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "optimization",
-      "open-source",
-      "llm",
-      "diffusion-models",
-      "consumer-hardware"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "b3e66dbeaf9f9df76b51a743b19e761c",
+    "source": "Hugging Face",
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "date_published": "2026-01-05T22:56:51.000Z",
+    "id": "423ae0f6e5006971519c872a315361e4",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
     "source": "NVIDIA Blog",
     "title": "New Software and Model Optimizations Supercharge NVIDIA DGX Spark",
     "url": "https://developer.nvidia.com/blog/new-software-and-model-optimizations-supercharge-nvidia-dgx-spark/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:50:43.000Z",
+    "id": "b3e66dbeaf9f9df76b51a743b19e761c",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA has released new software and model optimizations specifically for its DGX Spark platform, significantly boosting performance for AI workloads. These enhancements improve training efficiency and inference speed across various deep learning models, leveraging the platform's advanced hardware capabilities.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "optimization",
-      "software",
-      "hardware",
-      "training",
-      "inference"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
   },
   {
-    "id": "b6ad912992ef4301018ae6026b85bd0f",
     "source": "NVIDIA Blog",
     "title": "Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer",
     "url": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:20:12.000Z",
+    "id": "b6ad912992ef4301018ae6026b85bd0f",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA details the Rubin Platform, a new AI supercomputer architecture featuring six novel chips designed for unprecedented AI computation. This integrated system promises to deliver extreme performance and scalability for the most demanding AI research and deployment tasks.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "hardware",
-      "supercomputing",
-      "infrastructure",
-      "chip-design"
+      "Unverified"
     ],
-    "hype_score": 9
+    "hype_score": 1
   },
   {
-    "id": "96df3ff2448350d5fb4ffb45fe6c95a2",
     "source": "NVIDIA Blog",
     "title": "Simplify Generalist Robot Policy Evaluation in Simulation with NVIDIA Isaac Lab-Arena",
     "url": "https://developer.nvidia.com/blog/simplify-generalist-robot-policy-evaluation-in-simulation-with-nvidia-isaac-lab-arena/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:14:08.000Z",
+    "id": "96df3ff2448350d5fb4ffb45fe6c95a2",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces Isaac Lab-Arena, a new simulation platform designed to simplify the evaluation of generalist robot policies. This environment allows for robust testing and refinement of robotic AI in complex, diverse simulated scenarios, accelerating the development of versatile robots.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "robotics",
-      "simulation",
-      "reinforcement-learning",
-      "policy-evaluation",
-      "ai-agents"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "ba3b5c6f4367ee084950bb73b1a26205",
     "source": "NVIDIA Blog",
     "title": "Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1",
     "url": "https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:10:52.000Z",
+    "id": "ba3b5c6f4367ee084950bb73b1a26205",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA announces the Jetson T4000 and JetPack 7.1, a new hardware and software combination aimed at accelerating AI inference for edge and robotics applications. This release provides enhanced processing power and optimized libraries for deploying sophisticated AI models in power-constrained, real-time environments.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "edge-ai",
-      "robotics",
-      "hardware",
-      "inference",
-      "embedded-systems"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "adfbf1f4a5977e06265606d2645be9b7",
     "source": "NVIDIA Blog",
     "title": "How to Build a Voice Agent with RAG and Safety Guardrails",
     "url": "https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T22:06:06.000Z",
+    "id": "adfbf1f4a5977e06265606d2645be9b7",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA provides a technical guide on constructing a voice agent system incorporating Retrieval Augmented Generation (RAG) and robust safety guardrails. This focuses on architectural considerations and implementation details for creating reliable and context-aware conversational AI.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "voice-ai",
-      "conversational-ai",
-      "rag",
-      "safety",
-      "ai-agents"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
   },
   {
-    "id": "d3d6da98b8fe1088f36938218c1bb1ee",
     "source": "NVIDIA Blog",
     "title": "Building Autonomous Vehicles That Reason with NVIDIA Alpamayo",
     "url": "https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T21:49:24.000Z",
+    "id": "d3d6da98b8fe1088f36938218c1bb1ee",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA details the use of its Alpamayo platform for developing autonomous vehicles equipped with advanced reasoning capabilities. This technical overview emphasizes the computational frameworks and AI models enabling complex decision-making and perception in self-driving systems.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "autonomous-vehicles",
-      "robotics",
-      "reasoning",
-      "vision",
-      "perception"
+      "Unverified"
     ],
-    "hype_score": 8
+    "hype_score": 1
   },
   {
-    "id": "650e8a5e81a87d883c496555c8dbdd26",
     "source": "Hugging Face",
     "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
     "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T09:16:51.000Z",
+    "id": "650e8a5e81a87d883c496555c8dbdd26",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "TII UAE introduces Falcon-H1-Arabic, a new large language model designed specifically for the Arabic language, featuring a novel hybrid architecture. This release aims to set new benchmarks for performance and fluency in Arabic NLP tasks, leveraging a unique blend of model paradigms.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "llm",
-      "language-model",
-      "arabic-nlp",
-      "model-architecture"
+      "Unverified"
     ],
-    "hype_score": 8
+    "hype_score": 1
   },
   {
-    "id": "66f18b5ebf8053d89315ba1f53e3193b",
     "source": "Hugging Face",
     "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
     "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "date_scraped": "2026-01-07T13:04:03.372Z",
     "date_published": "2026-01-05T00:00:00.000Z",
+    "id": "66f18b5ebf8053d89315ba1f53e3193b",
+    "date_scraped": "2026-01-08T13:03:43.535Z",
     "is_technical": true,
-    "tldr": "NVIDIA showcases the deployment of advanced AI agents using the DGX Spark platform integrated with the Reachy Mini robotic system. This demonstrates capabilities for real-world agentic AI, emphasizing hardware-software co-design for embodied intelligence.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "robotics",
-      "ai-agents",
-      "hardware",
-      "embodied-ai"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
     "source": "OpenAI",
@@ -394,7 +529,7 @@
     "url": "https://openai.com/index/openai-grove",
     "date_published": "2026-01-02T10:00:00.000Z",
     "id": "d3941dee22b6e8fd53bdf86ab78ebea9",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -408,7 +543,7 @@
     "url": "https://www.anthropic.com/news/compliance-framework-SB53",
     "date_published": "2025-12-19T00:00:00.000Z",
     "id": "49c452d98cb6f7ffe3df731ed325e03a",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -422,7 +557,7 @@
     "url": "https://www.anthropic.com/research/bloom",
     "date_published": "2025-12-19T00:00:00.000Z",
     "id": "f2f6a3c7bbc68c4cae122486bb8f5843",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -436,7 +571,7 @@
     "url": "https://www.anthropic.com/news/genesis-mission-partnership",
     "date_published": "2025-12-18T00:00:00.000Z",
     "id": "c3d5c83b94248c3ce693f08edd303d67",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -450,7 +585,7 @@
     "url": "https://www.anthropic.com/news/protecting-well-being-of-users",
     "date_published": "2025-12-18T00:00:00.000Z",
     "id": "bd84318315b5f06db58e815cb82f8331",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -464,7 +599,7 @@
     "url": "https://www.anthropic.com/research/project-vend-2",
     "date_published": "2025-12-18T00:00:00.000Z",
     "id": "2b7bd8d3a107330949080289a5040b1f",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -478,7 +613,7 @@
     "url": "https://www.anthropic.com/news/donating-the-model-context-protocol-and-establishing-of-the-agentic-ai-foundation",
     "date_published": "2025-12-09T00:00:00.000Z",
     "id": "b387b0dd602dad193cd3fd2c9fe9a689",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -492,7 +627,7 @@
     "url": "https://www.anthropic.com/news/anthropic-accenture-partnership",
     "date_published": "2025-12-09T00:00:00.000Z",
     "id": "b0889feed0fd2e9743bb272ef43d26b9",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -506,7 +641,7 @@
     "url": "https://www.anthropic.com/research/anthropic-interviewer",
     "date_published": "2025-12-04T00:00:00.000Z",
     "id": "fdd6c0154037d296e36a9f08ec3062ef",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -520,7 +655,7 @@
     "url": "https://www.anthropic.com/news/snowflake-anthropic-expanded-partnership",
     "date_published": "2025-12-03T00:00:00.000Z",
     "id": "af8da78a7dea3b745cf8de02d7b66229",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -534,7 +669,7 @@
     "url": "https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone",
     "date_published": "2025-12-03T00:00:00.000Z",
     "id": "4c4e776f7669c70806b6015e01f9fa6a",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -548,7 +683,7 @@
     "url": "https://www.anthropic.com/news/claude-for-nonprofits",
     "date_published": "2025-12-02T00:00:00.000Z",
     "id": "6f45acb9c39b298638f86e28b8e46e0a",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -562,7 +697,7 @@
     "url": "https://www.anthropic.com/research/how-ai-is-transforming-work-at-anthropic",
     "date_published": "2025-12-02T00:00:00.000Z",
     "id": "1c8f97697bc439d2aeba927eac846110",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -576,7 +711,7 @@
     "url": "https://www.anthropic.com/research/estimating-productivity-gains",
     "date_published": "2025-11-25T00:00:00.000Z",
     "id": "95ebeaf9e6c446ee0d57df5d6318fa54",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -590,7 +725,7 @@
     "url": "https://www.anthropic.com/news/claude-opus-4-5",
     "date_published": "2025-11-24T00:00:00.000Z",
     "id": "0569b8ff4e8b7c5f5e5e4d0d360e0d96",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -604,7 +739,7 @@
     "url": "https://www.anthropic.com/research/prompt-injection-defenses",
     "date_published": "2025-11-24T00:00:00.000Z",
     "id": "63b6484334ec0ea13e1a6a8664e60bf9",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -618,7 +753,7 @@
     "url": "https://www.anthropic.com/research/emergent-misalignment-reward-hacking",
     "date_published": "2025-11-21T00:00:00.000Z",
     "id": "44cc16889f14164edfaa8525685fb538",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -632,7 +767,7 @@
     "url": "https://www.anthropic.com/news/claude-in-microsoft-foundry",
     "date_published": "2025-11-18T00:00:00.000Z",
     "id": "5acf05529a11fb6178840985ab8d9b81",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -646,7 +781,7 @@
     "url": "https://www.anthropic.com/research/project-fetch-robot-dog",
     "date_published": "2025-11-12T00:00:00.000Z",
     "id": "e0d6e48c1fa31348247b7bd7b0504455",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -660,7 +795,7 @@
     "url": "https://www.anthropic.com/research/deprecation-commitments",
     "date_published": "2025-11-04T00:00:00.000Z",
     "id": "cd587a4171cbd2b81e8a872a104fb9d6",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -674,7 +809,7 @@
     "url": "https://www.anthropic.com/research/introspection",
     "date_published": "2025-10-29T00:00:00.000Z",
     "id": "a3979479566bc86b9ce697e5991ec8a0",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -688,7 +823,7 @@
     "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
     "date_published": "2025-10-29T00:00:00.000Z",
     "id": "4dea5a86b7895a6ec70d434df2263e2c",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -702,7 +837,7 @@
     "url": "https://www.anthropic.com/research/constitutional-classifiers",
     "date_published": "2025-10-29T00:00:00.000Z",
     "id": "781e4203a03806406789096c8fbffea6",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -716,7 +851,7 @@
     "url": "https://www.anthropic.com/research/alignment-faking",
     "date_published": "2025-10-29T00:00:00.000Z",
     "id": "09aac6e8c5cecb152be193bb76323806",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -730,7 +865,7 @@
     "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
     "date_published": "2025-09-29T00:00:00.000Z",
     "id": "3642246e4b25733fd48803e63e6d9cfb",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -744,7 +879,7 @@
     "url": "https://www.anthropic.com/news/claude-haiku-4-5",
     "date_published": "2025-09-29T00:00:00.000Z",
     "id": "b75a938ca4941bd9b500c4c799d7caf9",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -758,7 +893,7 @@
     "url": "https://www.anthropic.com/news/anthropic-raises-series-f-at-usd183b-post-money-valuation",
     "date_published": "2025-09-29T00:00:00.000Z",
     "id": "ec6a2e1485e926695b1c65a909da4744",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -772,7 +907,7 @@
     "url": "https://www.anthropic.com/news/thoughts-on-america-s-ai-action-plan",
     "date_published": "2025-09-29T00:00:00.000Z",
     "id": "c0739b05eba6674e3c27abce1f850770",
-    "date_scraped": "2026-01-07T13:03:18.897Z",
+    "date_scraped": "2026-01-08T13:03:42.139Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -786,7 +921,7 @@
     "url": "https://claude.com/blog/integrations",
     "date_published": "2025-05-01T00:00:00.000Z",
     "id": "5c68ad537d8788666fa7f734cd825609",
-    "date_scraped": "2026-01-07T13:03:18.898Z",
+    "date_scraped": "2026-01-08T13:03:42.140Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
