@@ -1,38 +1,56 @@
 [
   {
+    "id": "4046e3e7b85b9760cef5ed3667a76cc9",
+    "source": "AWS ML",
+    "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
+    "url": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/",
+    "date_scraped": "2026-01-10T12:57:45.319Z",
+    "date_published": "2026-01-10T00:06:16.000Z",
+    "is_technical": true,
+    "tldr": "Amazon introduces Nova Multimodal Embeddings to enable advanced crossmodal search capabilities, allowing users to query and retrieve information across different data modalities like text, image, and audio. This enhances the flexibility and accuracy of multimodal information retrieval systems.",
+    "tags": [
+      "multimodal",
+      "embeddings",
+      "search",
+      "aws"
+    ],
+    "hype_score": 6
+  },
+  {
     "id": "c0107b7e16772f5f895e217935207b5d",
     "source": "Claude Blog",
     "title": "How enterprises are building AI agents in 2026",
     "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
+    "date_scraped": "2026-01-10T12:56:59.079Z",
+    "date_published": "2026-01-10T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog post explores current strategies and technical considerations for enterprises deploying AI agents in 2026. It likely covers practical implementation details, architectural patterns, and advanced agentic system design principles for real-world applications.",
+    "tldr": "This engineering blog post explores current strategies and practical considerations for enterprises developing and deploying AI agents in 2026. It likely delves into architectural patterns, common challenges, and best practices for integrating agentic systems into existing business workflows.",
     "tags": [
-      "agentic_ai",
-      "enterprise_ai",
-      "engineering",
-      "deployment",
-      "best_practices"
+      "agents",
+      "enterprise AI",
+      "MLOps",
+      "system design",
+      "application development",
+      "LLMs"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "cb68f8012abdc9887b0941a2f55bb279",
     "source": "Claude Blog",
     "title": "Building Skills for Claude Code: Automating your procedural knowledge",
     "url": "https://claude.com/blog/building-skills-for-claude-code",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
+    "date_scraped": "2026-01-10T12:56:59.079Z",
+    "date_published": "2026-01-10T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This technical guide details the process of developing and integrating 'Skills' for Claude Code to automate procedural knowledge. It outlines methods for creating custom functionalities and expanding the model's operational scope through programmatic interfaces and tool use.",
+    "tldr": "This technical blog outlines methods and best practices for developing and integrating specialized skills into Claude Code, enabling the automation of procedural knowledge. It focuses on how engineers can extend Claude's capabilities to handle complex, domain-specific tasks and workflows efficiently.",
     "tags": [
-      "code_generation",
-      "agentic_ai",
-      "nlp",
+      "agents",
+      "LLMs",
+      "code generation",
+      "skills",
       "engineering",
-      "sdk",
-      "claude_code"
+      "application development"
     ],
     "hype_score": 7
   },
@@ -41,17 +59,18 @@
     "source": "Claude Blog",
     "title": "Improving frontend design through Skills",
     "url": "https://claude.com/blog/improving-frontend-design-through-skills",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
+    "date_scraped": "2026-01-10T12:56:59.079Z",
+    "date_published": "2026-01-10T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article demonstrates how to enhance frontend design workflows by leveraging advanced 'Skills' within AI agent frameworks like Claude. It likely covers technical patterns for design system integration, UI/UX code generation, and iterative design improvement through AI automation.",
+    "tldr": "An engineering blog post detailing how to enhance frontend design workflows by leveraging specialized AI skills, likely within the Claude ecosystem. It explores techniques for automating design system application, generating UI components, and optimizing user experience through AI assistance.",
     "tags": [
-      "frontend_development",
-      "code_generation",
-      "ui_ux",
-      "agentic_ai",
+      "frontend",
+      "design",
+      "AI applications",
       "engineering",
-      "applied_ai"
+      "LLMs",
+      "agents",
+      "skills"
     ],
     "hype_score": 6
   },
@@ -60,17 +79,18 @@
     "source": "Claude Blog",
     "title": "Building AI agents for financial services",
     "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
+    "date_scraped": "2026-01-10T12:56:59.079Z",
+    "date_published": "2026-01-10T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This technical blog post outlines the methodologies and considerations for developing robust AI agents tailored for financial services. It likely addresses challenges such as stringent data security, regulatory compliance, real-time analytics, and domain-specific knowledge integration.",
+    "tldr": "This article provides an in-depth look at the methodologies and considerations for developing and deploying robust AI agents tailored for the financial services industry. It covers challenges in data privacy, regulatory compliance, and the design of secure and performant agentic systems for complex financial operations.",
     "tags": [
-      "agentic_ai",
-      "financial_ai",
-      "enterprise_ai",
-      "applied_ai",
-      "engineering",
-      "data_privacy"
+      "agents",
+      "enterprise AI",
+      "financial services",
+      "security",
+      "compliance",
+      "MLOps",
+      "LLMs"
     ],
     "hype_score": 7
   },
@@ -79,157 +99,187 @@
     "source": "Claude Blog",
     "title": "Claude Code on the web",
     "url": "https://claude.com/blog/claude-code-on-the-web",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
+    "date_scraped": "2026-01-10T12:56:59.079Z",
+    "date_published": "2026-01-10T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article discusses the technical aspects of deploying and interacting with Claude Code directly within web environments. It likely covers integration APIs, client-side execution challenges, and optimization strategies for web-based code generation and analysis services.",
+    "tldr": "This blog post announces or details the capabilities and integration of Claude Code for web-based development and deployment. It likely covers APIs, SDKs, or specific web frameworks that facilitate the use of Claude Code in online environments, enabling broader accessibility and application.",
     "tags": [
-      "claude_code",
-      "web_development",
-      "api",
-      "deployment",
+      "LLMs",
+      "code generation",
+      "web development",
+      "APIs",
       "engineering",
-      "code_generation"
+      "Claude Code"
     ],
     "hype_score": 6
   },
   {
-    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
-    "source": "Claude Blog",
-    "title": "Piloting Claude in Chrome",
-    "url": "https://claude.com/blog/claude-for-chrome",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
+    "id": "67a1ed63900a296a0dcf508deda97fce",
+    "source": "AWS ML",
+    "title": "Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/",
+    "date_scraped": "2026-01-10T12:57:45.319Z",
+    "date_published": "2026-01-09T18:09:22.000Z",
     "is_technical": true,
-    "tldr": "This blog details the technical pilot program for integrating Claude capabilities directly into the Chrome browser environment. It likely explores challenges and solutions for browser extension development, efficient model inference within limited browser resources, and secure data handling for contextual interactions.",
+    "tldr": "This post details how to accelerate LLM inference on Amazon SageMaker AI by applying post-training weight and activation quantization techniques, specifically AWQ and GPTQ. These methods significantly reduce model size and computational demands while maintaining performance.",
     "tags": [
-      "browser_extension",
-      "web_development",
-      "claude",
-      "engineering",
-      "deployment",
-      "api"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "0bf14bafc94805005f90ee62f2b8de49",
-    "source": "Claude Blog",
-    "title": "How Anthropic teams use Claude Code",
-    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This internal engineering blog post from Anthropic provides insights into how their own teams leverage Claude Code for various development workflows. It likely showcases advanced usage patterns, internal tools, and strategies for maximizing productivity and code quality using AI-driven assistance.",
-    "tags": [
-      "claude_code",
-      "engineering",
-      "development_workflow",
-      "internal_tools",
-      "productivity"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
-    "source": "Claude Blog",
-    "title": "Extending Claude’s capabilities with skills and MCP servers",
-    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This blog post discusses the architectural advancements enabling Claude's new 'skills' framework, including the use of Modular Capability Processors (MCP servers) to integrate and utilize external tools and APIs. This significantly extends Claude's agentic capabilities beyond its base prompt context.",
-    "tags": [
-      "agentic_ai",
-      "architecture",
-      "llms",
-      "tools"
+      "llm",
+      "inference",
+      "optimization",
+      "quantization",
+      "aws",
+      "sagemaker"
     ],
     "hype_score": 7
   },
   {
-    "id": "fa79f2dfaee1184e396e71b26b435efa",
-    "source": "Claude Blog",
-    "title": "Making Claude a better electrical engineer",
-    "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
+    "id": "7bc263c54a7a3cb95b6d74550f01b513",
+    "source": "NVIDIA Blog",
+    "title": "Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-Time",
+    "url": "https://developer.nvidia.com/blog/reimagining-llm-memory-using-context-as-training-data-unlocks-models-that-learn-at-test-time/",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
+    "date_published": "2026-01-09T16:58:31.000Z",
     "is_technical": true,
-    "tldr": "The article details how Claude's reasoning and problem-solving abilities have been enhanced for specialized technical domains, specifically demonstrating its application in complex electrical engineering tasks. This highlights improvements in multi-step problem-solving and domain-specific knowledge integration for advanced applications.",
+    "tldr": "NVIDIA presents a novel approach to LLM memory by treating context as dynamic training data, enabling models to learn and adapt at test-time. This method fundamentally redefines how LLMs can retain and utilize information beyond their initial pre-training, leading to more adaptive and context-aware agents.",
     "tags": [
-      "llms",
-      "reasoning",
-      "domain_adaptation",
-      "engineering"
+      "llm",
+      "memory",
+      "learning",
+      "transfer_learning",
+      "nvidia",
+      "research"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "a536ff18c9268b1430d54819612b5aa2",
+    "source": "AWS ML",
+    "title": "Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions",
+    "url": "https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/",
+    "date_scraped": "2026-01-10T12:57:45.319Z",
+    "date_published": "2026-01-09T16:06:50.000Z",
+    "is_technical": true,
+    "tldr": "This article explores advanced approaches, challenges, and solutions for performing sentiment analysis across both text and audio modalities using AWS Generative AI services. It delves into strategies for handling multimodal data to extract emotional tone and intent effectively.",
+    "tags": [
+      "sentiment_analysis",
+      "multimodal",
+      "nlp",
+      "audio_processing",
+      "aws",
+      "generative_ai"
     ],
     "hype_score": 6
   },
   {
-    "id": "bd64c94d11d6dab35ab99bd8231491a7",
-    "source": "Claude Blog",
-    "title": "Structured outputs on the Claude Developer Platform",
-    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "id": "998a98389fefa676427182d0201d5959",
+    "source": "NVIDIA Blog",
+    "title": "Multi-Agent Warehouse AI Command Layer Enables Operational Excellence and Supply Chain Intelligence",
+    "url": "https://developer.nvidia.com/blog/multi-agent-warehouse-ai-command-layer-enables-operational-excellence-and-supply-chain-intelligence/",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
+    "date_published": "2026-01-09T14:00:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA introduces a multi-agent AI command layer designed to optimize warehouse operations and enhance supply chain intelligence. This system coordinates various AI agents to improve efficiency, reduce bottlenecks, and provide real-time insights for logistical management.",
+    "tags": [
+      "multi_agent",
+      "robotics",
+      "supply_chain",
+      "optimization",
+      "nvidia"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "35ec99b471b3124350d0e9b956922f5c",
+    "source": "NVIDIA Blog",
+    "title": "Build an AI Catalog System That Delivers Localized, Interactive Product Experiences",
+    "url": "https://developer.nvidia.com/blog/build-an-ai-catalog-system-that-delivers-localized-interactive-product-experiences/",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
+    "date_published": "2026-01-09T14:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article outlines the architecture and development of an AI-powered catalog system capable of delivering localized and interactive product experiences. It details how AI models are integrated to personalize content and enhance user engagement within e-commerce and digital platforms.",
+    "tags": [
+      "personalization",
+      "recommendation_systems",
+      "ui_ux",
+      "nvidia"
+    ],
+    "hype_score": 5
+  },
+  {
+    "id": "61d07668ca24e9f47d3723bc5dfb435b",
+    "source": "OpenAI",
+    "title": "Datadog uses Codex for system-level code review",
+    "url": "https://openai.com/index/datadog",
+    "date_scraped": "2026-01-10T12:56:59.078Z",
     "date_published": "2026-01-09T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This technical update announces the availability of structured output capabilities on the Claude Developer Platform, enabling developers to reliably extract data in specified formats like JSON or XML from Claude's responses. This enhancement significantly improves programmatic interaction and integration of LLMs into complex automated workflows.",
+    "tldr": "Datadog leverages OpenAI's Codex model for automated system-level code review, enhancing the efficiency and depth of code analysis across their infrastructure. The integration focuses on identifying potential bugs, security vulnerabilities, and performance bottlenecks early in the development lifecycle.",
     "tags": [
-      "llms",
-      "developer_tools",
-      "api",
-      "structured_data"
+      "LLMs",
+      "code generation",
+      "code review",
+      "MLOps",
+      "enterprise AI",
+      "security"
     ],
     "hype_score": 7
   },
   {
-    "id": "d051211fc97fd9060b2e0e92f9ebfda0",
-    "source": "Claude Blog",
-    "title": "Skills explained: How Skills compares to prompts, Projects, MCP, and subagents ",
-    "url": "https://claude.com/blog/skills-explained",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "id": "7f834fefe700c663d97ba1e938622902",
+    "source": "Anthropic Research",
+    "title": "Jan 9, 2026\nAlignment\nNext-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+    "url": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+    "date_scraped": "2026-01-10T12:56:59.078Z",
     "date_published": "2026-01-09T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post provides a detailed technical explanation of Claude's 'Skills' framework, differentiating it from traditional prompting, projects, Modular Capability Processors (MCPs), and subagents. It elucidates the architectural role and operational advantages of Skills for extending Claude's functionality and enabling more complex agentic behaviors.",
+    "tldr": "Anthropic introduces next-generation Constitutional Classifiers, which provide enhanced and more efficient protection against universal jailbreak attempts in large language models. This research focuses on improving the robustness and computational performance of alignment mechanisms without sacrificing safety.",
     "tags": [
-      "agentic_ai",
-      "llms",
-      "architecture",
-      "concepts"
+      "alignment",
+      "safety",
+      "security",
+      "LLMs",
+      "constitutional AI",
+      "jailbreak",
+      "research paper"
     ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "a336926f05625837db328959219b43d5",
     "source": "NVIDIA Blog",
     "title": "Delivering Massive Performance Leaps for Mixture of Experts Inference on NVIDIA Blackwell",
     "url": "https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-08T19:43:16.000Z",
     "is_technical": true,
-    "tldr": "This post details significant performance optimizations for Mixture-of-Experts (MoE) model inference leveraging NVIDIA Blackwell architecture, achieving massive throughput and latency improvements. It covers advancements in parallelization strategies and memory management crucial for scaling large-scale MoE deployments.",
+    "tldr": "NVIDIA details significant performance enhancements for Mixture of Experts (MoE) model inference when deployed on their Blackwell architecture. These optimizations leverage Blackwell's specialized hardware capabilities to drastically reduce latency and increase throughput for large-scale MoE models.",
     "tags": [
+      "moe",
       "inference",
+      "performance",
+      "nvidia",
       "hardware",
-      "llms",
-      "blackwell",
-      "optimization"
+      "optimization",
+      "transformer"
     ],
-    "hype_score": 9
+    "hype_score": 8
   },
   {
     "id": "72c38e5f5753d41268a6d4f8d4e805f7",
     "source": "NVIDIA Blog",
     "title": "Building Generalist Humanoid Capabilities with NVIDIA Isaac GR00T N1.6 Using a Sim-to-Real Workflow ",
     "url": "https://developer.nvidia.com/blog/building-generalist-humanoid-capabilities-with-nvidia-isaac-gr00t-n1-6-using-a-sim-to-real-workflow/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-08T17:38:53.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA presents advancements in building generalist humanoid robot capabilities using Isaac GR00T N1.6, highlighting a refined sim-to-real workflow for transferring learned policies from simulation to physical robots. This enables more robust and adaptable robot behaviors across diverse, complex environments.",
+    "tldr": "NVIDIA showcases the development of generalist humanoid capabilities using Isaac GR00T N1.6, highlighting an advanced sim-to-real workflow. This approach significantly accelerates the training and deployment of complex robotic behaviors from simulated environments to physical humanoid robots.",
     "tags": [
       "robotics",
-      "embodied_ai",
+      "humanoids",
       "sim_to_real",
-      "reinforcement_learning"
+      "reinforcement_learning",
+      "nvidia",
+      "isaac_gym"
     ],
     "hype_score": 9
   },
@@ -238,35 +288,38 @@
     "source": "NVIDIA Blog",
     "title": "Accelerating LLM and VLM Inference for Automotive and Robotics with NVIDIA TensorRT Edge-LLM",
     "url": "https://developer.nvidia.com/blog/accelerating-llm-and-vlm-inference-for-automotive-and-robotics-with-nvidia-tensorrt-edge-llm/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-08T17:28:49.000Z",
     "is_technical": true,
-    "tldr": "This article introduces NVIDIA TensorRT Edge-LLM, a specialized framework designed to significantly accelerate Large Language Model (LLM) and Vision-Language Model (VLM) inference specifically for edge computing and robotics applications. It focuses on optimizing models for low-latency, high-throughput deployment on constrained hardware environments.",
+    "tldr": "NVIDIA introduces TensorRT Edge-LLM, a specialized solution designed to accelerate large language model (LLM) and vision-language model (VLM) inference for edge applications in automotive and robotics. This optimization framework enables high-performance AI processing on resource-constrained devices, crucial for real-time autonomous systems.",
     "tags": [
+      "llm",
+      "vlm",
       "inference",
       "edge_ai",
-      "llms",
-      "vlms",
+      "automotive",
       "robotics",
-      "tensorrt"
+      "tensorrt",
+      "nvidia"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "3c62a37241b954543d83c3265b3ad956",
     "source": "AWS ML",
     "title": "Detect and redact personally identifiable information using Amazon Bedrock Data Automation and Guardrails",
     "url": "https://aws.amazon.com/blogs/machine-learning/detect-and-redact-personally-identifiable-information-using-amazon-bedrock-data-automation-and-guardrails/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-08T16:14:27.000Z",
     "is_technical": true,
-    "tldr": "This engineering blog details an approach to detect and redact Personally Identifiable Information (PII) using Amazon Bedrock's Data Automation and Guardrails features. It demonstrates leveraging advanced NLP and policy enforcement capabilities to enhance data privacy and compliance within AI applications.",
+    "tldr": "This article describes a technical implementation for detecting and redacting Personally Identifiable Information (PII) using Amazon Bedrock's Data Automation and Guardrails features. It provides guidance on leveraging these services to enhance data privacy and compliance in generative AI applications.",
     "tags": [
-      "nlp",
-      "privacy",
-      "security",
+      "pii_detection",
+      "data_privacy",
+      "guardrails",
       "aws",
-      "mlops"
+      "bedrock",
+      "security"
     ],
     "hype_score": 6
   },
@@ -275,86 +328,73 @@
     "source": "AWS ML",
     "title": "Speed meets scale: Load testing SageMakerAI endpoints with Observe.AI’s testing tool",
     "url": "https://aws.amazon.com/blogs/machine-learning/speed-meets-scale-load-testing-sagemakerai-endpoints-with-observe-ais-testing-tool/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-08T16:12:15.000Z",
     "is_technical": true,
-    "tldr": "The article explores methodologies and tools for robust load testing of SageMaker AI endpoints, showcasing how Observe.AI's testing solution helps achieve speed and scale for production model deployment. It delves into performance benchmarks and infrastructure optimization strategies critical for high-throughput AI services.",
+    "tldr": "This post explores methodologies for load testing Amazon SageMaker AI endpoints at scale, leveraging Observe.AI's specialized testing tool. It details strategies to ensure performance and reliability of deployed machine learning models under high traffic conditions.",
     "tags": [
       "mlops",
-      "performance",
-      "infrastructure",
+      "inference",
+      "deployment",
       "aws",
-      "testing"
+      "sagemaker",
+      "performance"
     ],
-    "hype_score": 6
+    "hype_score": 5
   },
   {
     "id": "52ec0eca2ce43c114603cc8e0938398a",
     "source": "OpenAI",
     "title": "Netomi’s lessons for scaling agentic systems into the enterprise",
     "url": "https://openai.com/index/netomi",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
+    "date_scraped": "2026-01-10T12:56:59.078Z",
     "date_published": "2026-01-08T13:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI details real-world lessons from Netomi on scaling agentic AI systems for enterprise use. The post likely covers architectural choices, deployment strategies, and performance optimization for complex autonomous agents in production environments.",
+    "tldr": "Netomi shares insights and best practices derived from their experience in deploying and scaling advanced agentic AI systems within large enterprise environments. The article discusses architectural patterns, data management strategies, and operational challenges encountered during real-world agent integration.",
     "tags": [
-      "agentic_ai",
-      "enterprise_ai",
-      "scaling",
-      "deployment",
-      "engineering"
+      "agents",
+      "enterprise AI",
+      "MLOps",
+      "LLMs",
+      "system design",
+      "scalability"
     ],
-    "hype_score": 6
-  },
-  {
-    "id": "359738e7b0d6b66d1eafad79959db809",
-    "source": "OpenAI",
-    "title": "OpenAI for Healthcare",
-    "url": "https://openai.com/index/openai-for-healthcare",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
-    "date_published": "2026-01-08T12:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI is expanding its offerings for the healthcare sector, focusing on adapting its models for sensitive data and specialized applications. This likely involves discussions on privacy-preserving techniques, robust fine-tuning methodologies, and domain-specific knowledge integration for clinical workflows.",
-    "tags": [
-      "applied_ai",
-      "healthcare_ai",
-      "enterprise_ai",
-      "fine_tuning",
-      "data_privacy"
-    ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "7da531669a1c5cd33a3134db46070f31",
     "source": "NVIDIA Blog",
     "title": "Build and Orchestrate End-to-End SDG Workflows with NVIDIA Isaac Sim and NVIDIA OSMO ",
     "url": "https://developer.nvidia.com/blog/build-synthetic-data-pipelines-to-train-smarter-robots-with-nvidia-isaac-sim/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-07T18:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog details how to construct and manage end-to-end Synthetic Data Generation (SDG) workflows using NVIDIA Isaac Sim for realistic simulation and NVIDIA OSMO for orchestration. This combined approach enables efficient generation of high-quality training data crucial for robust robot learning and deployment.",
+    "tldr": "NVIDIA details how to build and orchestrate end-to-end Synthetic Data Generation (SDG) workflows using NVIDIA Isaac Sim and NVIDIA OSMO. This integrated approach allows for the creation of high-fidelity synthetic datasets to efficiently train and validate AI models for robotics and autonomous systems.",
     "tags": [
       "synthetic_data",
-      "robotics",
       "simulation",
-      "mlops"
+      "robotics",
+      "mlops",
+      "nvidia",
+      "isaac_sim"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "6e0404b72495dfd1ba26438332ba7425",
     "source": "NVIDIA Blog",
     "title": "Redefining Secure AI Infrastructure with NVIDIA BlueField Astra for NVIDIA Vera Rubin NVL72",
     "url": "https://developer.nvidia.com/blog/redefining-secure-ai-infrastructure-with-nvidia-bluefield-astra-for-nvidia-vera-rubin-nvl72/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-07T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post explores how NVIDIA BlueField Astra integrates with the NVIDIA Vera Rubin NVL72 platform to establish a new paradigm for secure AI infrastructure. It focuses on hardware-accelerated security and isolated computing environments, crucial for protecting sensitive AI workloads and data at scale.",
+    "tldr": "NVIDIA introduces BlueField Astra, a secure AI infrastructure solution designed for the NVIDIA Vera Rubin NVL72 platform, redefining data protection and integrity for large-scale AI workloads. This technology integrates advanced security features directly into the hardware and networking stack, safeguarding sensitive AI computations.",
     "tags": [
-      "infrastructure",
       "security",
+      "infrastructure",
       "hardware",
-      "datacenter_ai"
+      "nvidia",
+      "data_protection"
     ],
     "hype_score": 7
   },
@@ -363,17 +403,17 @@
     "source": "OpenAI",
     "title": "How Tolan builds voice-first AI with GPT-5.1",
     "url": "https://openai.com/index/tolan",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
+    "date_scraped": "2026-01-10T12:56:59.078Z",
     "date_published": "2026-01-07T10:00:00.000Z",
     "is_technical": true,
-    "tldr": "Tolan details their engineering approach to building voice-first AI systems leveraging OpenAI's GPT-5.1. This likely covers challenges in real-time processing, speech-to-text integration, low-latency inference, and advanced prompt engineering for conversational interfaces.",
+    "tldr": "Tolan details their engineering approach to developing voice-first AI applications, leveraging the advanced capabilities of OpenAI's GPT-5.1 model. The post likely covers architectural considerations for real-time speech processing, integration of large language models, and specific challenges in natural language understanding for spoken interactions.",
     "tags": [
-      "voice_ai",
-      "nlp",
-      "gpt-5.1",
+      "LLMs",
+      "speech AI",
+      "voice interfaces",
       "engineering",
-      "applied_ai",
-      "real_time"
+      "GPT",
+      "application development"
     ],
     "hype_score": 7
   },
@@ -382,35 +422,37 @@
     "source": "OpenAI",
     "title": "Introducing ChatGPT Health ",
     "url": "https://openai.com/index/introducing-chatgpt-health",
-    "date_scraped": "2026-01-09T13:03:43.101Z",
+    "date_scraped": "2026-01-10T12:56:59.078Z",
     "date_published": "2026-01-07T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI introduces ChatGPT Health, a specialized variant of ChatGPT designed for the healthcare domain. This likely involves fine-tuning on vast medical datasets, enhanced safety and accuracy protocols for sensitive information, and domain-specific reasoning capabilities.",
+    "tldr": "OpenAI has launched ChatGPT Health, a specialized iteration of their conversational AI model fine-tuned for healthcare applications and clinical support. This release introduces domain-specific knowledge bases and enhanced safety protocols to address the unique requirements of the medical field.",
     "tags": [
-      "chatgpt",
-      "healthcare_ai",
-      "nlp",
-      "model_release",
-      "applied_ai",
-      "fine_tuning"
+      "LLMs",
+      "healthcare AI",
+      "model release",
+      "safety",
+      "fine-tuning",
+      "domain-specific AI"
     ],
-    "hype_score": 8
+    "hype_score": 9
   },
   {
     "id": "3e4ebcb2af1b8e899cd57c8e3348ba5f",
     "source": "NVIDIA Blog",
     "title": "Introducing NVIDIA BlueField-4-Powered Inference Context Memory Storage Platform for the Next Frontier of AI",
     "url": "https://developer.nvidia.com/blog/introducing-nvidia-bluefield-4-powered-inference-context-memory-storage-platform-for-the-next-frontier-of-ai/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-06T17:30:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA unveils the BlueField-4-powered Inference Context Memory Storage Platform, designed to address the increasing memory demands of large AI models during inference by providing high-bandwidth, low-latency context storage. This platform is crucial for scaling next-generation LLMs and complex AI workloads in data centers.",
+    "tldr": "NVIDIA unveils a BlueField-4 powered inference context memory storage platform, engineered to address the escalating memory demands of advanced AI models. This platform optimizes the management and retrieval of large context windows during inference, crucial for next-generation LLMs and multimodal AI.",
     "tags": [
-      "hardware",
       "inference",
-      "memory",
+      "memory_architecture",
+      "hardware",
       "infrastructure",
-      "llms"
+      "nvidia",
+      "llm",
+      "multimodal"
     ],
     "hype_score": 8
   },
@@ -419,15 +461,16 @@
     "source": "NVIDIA Blog",
     "title": "Scaling Power-Efficient AI Factories with NVIDIA Spectrum-X Ethernet Photonics ",
     "url": "https://developer.nvidia.com/blog/scaling-power-efficient-ai-factories-with-nvidia-spectrum-x-ethernet-photonics/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-06T16:59:00.000Z",
     "is_technical": true,
-    "tldr": "This article details the use of NVIDIA Spectrum-X Ethernet Photonics to scale power-efficient AI factories, emphasizing innovations in network architecture and optical interconnects for massive AI workloads. This technology optimizes data throughput and significantly reduces energy consumption in large-scale AI clusters.",
+    "tldr": "NVIDIA discusses scaling power-efficient AI factories through the integration of Spectrum-X Ethernet Photonics technology. This innovation aims to drastically reduce the energy consumption of large-scale AI data centers while improving network throughput and efficiency.",
     "tags": [
       "infrastructure",
       "networking",
+      "energy_efficiency",
       "hardware",
-      "datacenter_ai"
+      "nvidia"
     ],
     "hype_score": 7
   },
@@ -436,51 +479,75 @@
     "source": "NVIDIA Blog",
     "title": "Open-Source AI Tool Upgrades Speed Up LLM and Diffusion Models on NVIDIA RTX PCs",
     "url": "https://developer.nvidia.com/blog/open-source-ai-tool-upgrades-speed-up-llm-and-diffusion-models-on-nvidia-rtx-pcs/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-06T05:30:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA announces significant open-source AI tool upgrades that substantially accelerate the performance of Large Language Models (LLMs) and Diffusion Models on consumer-grade NVIDIA RTX PCs. These optimizations focus on improving local inference speed and efficiency, enabling advanced AI capabilities directly on personal computers.",
+    "tldr": "NVIDIA announces significant upgrades to open-source AI tools, specifically optimized to accelerate inference for LLM and diffusion models on NVIDIA RTX PCs. These enhancements provide performance boosts for local AI development and deployment, making advanced models more accessible to individual users.",
     "tags": [
-      "llms",
+      "llm",
       "diffusion_models",
+      "inference",
       "optimization",
-      "local_inference",
-      "open_source"
+      "open_source",
+      "nvidia",
+      "hardware",
+      "desktop_ai"
     ],
-    "hype_score": 7
+    "hype_score": 6
+  },
+  {
+    "id": "423ae0f6e5006971519c872a315361e4",
+    "source": "Hugging Face",
+    "title": "NVIDIA Cosmos Reason 2 Brings Advanced Reasoning To Physical AI",
+    "url": "https://huggingface.co/blog/nvidia/nvidia-cosmos-reason-2-brings-advanced-reasoning",
+    "date_scraped": "2026-01-10T12:57:45.319Z",
+    "date_published": "2026-01-05T22:56:51.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA Cosmos Reason 2 significantly enhances physical AI capabilities by integrating advanced reasoning frameworks, enabling more complex and nuanced interactions in robotic and embodied AI systems. This new iteration focuses on improving decision-making and cognitive processes for real-world applications.",
+    "tags": [
+      "reasoning",
+      "physical_ai",
+      "robotics",
+      "agents",
+      "model_release"
+    ],
+    "hype_score": 8
   },
   {
     "id": "b3e66dbeaf9f9df76b51a743b19e761c",
     "source": "NVIDIA Blog",
     "title": "New Software and Model Optimizations Supercharge NVIDIA DGX Spark",
     "url": "https://developer.nvidia.com/blog/new-software-and-model-optimizations-supercharge-nvidia-dgx-spark/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.320Z",
     "date_published": "2026-01-05T22:50:43.000Z",
     "is_technical": true,
-    "tldr": "This blog describes new software and model optimizations specifically designed to supercharge the NVIDIA DGX Spark platform, delivering enhanced training and inference performance for complex AI workloads. These advancements maximize the throughput and efficiency of the DGX Spark system for demanding AI research and development.",
+    "tldr": "NVIDIA releases new software and model optimizations specifically designed to enhance the performance of NVIDIA DGX Spark systems. These updates aim to supercharge training and inference workloads, providing significant speedups for complex AI applications running on DGX infrastructure.",
     "tags": [
-      "hardware",
+      "infrastructure",
       "optimization",
+      "performance",
+      "nvidia",
+      "dgx",
       "training",
-      "inference",
-      "datacenter_ai"
+      "inference"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "b6ad912992ef4301018ae6026b85bd0f",
     "source": "NVIDIA Blog",
     "title": "Inside the NVIDIA Rubin Platform: Six New Chips, One AI Supercomputer",
     "url": "https://developer.nvidia.com/blog/inside-the-nvidia-rubin-platform-six-new-chips-one-ai-supercomputer/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:57.290Z",
     "date_published": "2026-01-05T22:20:12.000Z",
     "is_technical": true,
-    "tldr": "This post provides an in-depth look at the NVIDIA Rubin Platform, revealing the architectural details of its six new integrated chips that collectively form a powerful AI supercomputer. This technical overview covers innovations in processing, memory, and interconnects designed for extreme-scale AI computation.",
+    "tldr": "NVIDIA introduces the Rubin AI platform, featuring six new chips including next-generation GPUs and CPUs, designed to power advanced AI supercomputing with unprecedented performance and efficiency. This platform aims to accelerate the development and deployment of large-scale AI models and complex workloads.",
     "tags": [
       "hardware",
-      "architecture",
-      "supercomputing",
-      "datacenter_ai"
+      "infrastructure",
+      "ai supercomputing",
+      "gpu",
+      "datacenter"
     ],
     "hype_score": 9
   },
@@ -489,15 +556,15 @@
     "source": "NVIDIA Blog",
     "title": "Simplify Generalist Robot Policy Evaluation in Simulation with NVIDIA Isaac Lab-Arena",
     "url": "https://developer.nvidia.com/blog/simplify-generalist-robot-policy-evaluation-in-simulation-with-nvidia-isaac-lab-arena/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:57.290Z",
     "date_published": "2026-01-05T22:14:08.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces Isaac Lab-Arena, a new framework designed to simplify and standardize the evaluation of generalist robot policies within simulated environments. This tool provides robust metrics and diverse scenarios for benchmarking and iterating on various robotic capabilities efficiently.",
+    "tldr": "NVIDIA Isaac Lab-Arena simplifies the evaluation of generalist robot policies within simulated environments, offering a scalable framework for benchmarking performance across diverse robotic tasks and scenarios. This advancement aids in accelerating the development and validation of robust, transferable robot control policies.",
     "tags": [
       "robotics",
       "simulation",
-      "reinforcement_learning",
-      "mlops"
+      "reinforcement learning",
+      "policy evaluation"
     ],
     "hype_score": 7
   },
@@ -506,52 +573,34 @@
     "source": "NVIDIA Blog",
     "title": "Accelerate AI Inference for Edge and Robotics with NVIDIA Jetson T4000 and NVIDIA JetPack 7.1",
     "url": "https://developer.nvidia.com/blog/accelerate-ai-inference-for-edge-and-robotics-with-nvidia-jetson-t4000-and-nvidia-jetpack-7-1/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:57.290Z",
     "date_published": "2026-01-05T22:10:52.000Z",
     "is_technical": true,
-    "tldr": "This announcement covers the NVIDIA Jetson T4000 and JetPack 7.1, a new hardware and software stack designed to significantly accelerate AI inference at the edge, particularly for robotics applications. The release focuses on enhancing performance and power efficiency for embedded AI deployments in demanding real-world scenarios.",
+    "tldr": "NVIDIA has launched the Jetson T4000, a new platform for edge AI and robotics, coupled with JetPack 7.1, designed to significantly accelerate AI inference capabilities on embedded devices. This release provides enhanced computing power and optimized software tools for deploying complex AI models in real-world edge applications.",
     "tags": [
-      "edge_ai",
+      "edge ai",
       "robotics",
       "hardware",
       "inference",
-      "jetson"
+      "embedded systems"
     ],
-    "hype_score": 8
-  },
-  {
-    "id": "adfbf1f4a5977e06265606d2645be9b7",
-    "source": "NVIDIA Blog",
-    "title": "How to Build a Voice Agent with RAG and Safety Guardrails",
-    "url": "https://developer.nvidia.com/blog/how-to-build-a-voice-agent-with-rag-and-safety-guardrails/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
-    "date_published": "2026-01-05T22:06:06.000Z",
-    "is_technical": true,
-    "tldr": "This blog outlines a technical blueprint for constructing robust voice agents by integrating Retrieval-Augmented Generation (RAG) for enhanced knowledge retrieval and implementing comprehensive safety guardrails. It focuses on architectural considerations for developing responsible, effective, and secure conversational AI systems.",
-    "tags": [
-      "conversational_ai",
-      "rag",
-      "safety",
-      "agentic_ai",
-      "architecture"
-    ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "d3d6da98b8fe1088f36938218c1bb1ee",
     "source": "NVIDIA Blog",
     "title": "Building Autonomous Vehicles That Reason with NVIDIA Alpamayo",
     "url": "https://developer.nvidia.com/blog/building-autonomous-vehicles-that-reason-with-nvidia-alpamayo/",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:57.290Z",
     "date_published": "2026-01-05T21:49:24.000Z",
     "is_technical": true,
-    "tldr": "This article explores the development of autonomous vehicles capable of advanced reasoning using the NVIDIA Alpamayo platform, detailing the underlying AI models and computational architectures that enable complex decision-making in dynamic driving environments. This pushes the frontier of cognitive autonomy for self-driving cars.",
+    "tldr": "NVIDIA introduces Alpamayo, a new platform designed to enhance the reasoning capabilities of autonomous vehicles, moving beyond reactive systems towards more proactive and intelligent decision-making. This system leverages advanced AI models to enable complex environmental understanding and sophisticated path planning for improved autonomy.",
     "tags": [
-      "autonomous_vehicles",
+      "autonomous vehicles",
       "reasoning",
+      "computer vision",
       "robotics",
-      "perception",
-      "simulation"
+      "ai platform"
     ],
     "hype_score": 8
   },
@@ -560,32 +609,33 @@
     "source": "Hugging Face",
     "title": "Introducing Falcon-H1-Arabic: Pushing the Boundaries of Arabic Language AI with Hybrid Architecture",
     "url": "https://huggingface.co/blog/tiiuae/falcon-h1-arabic",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.319Z",
     "date_published": "2026-01-05T09:16:51.000Z",
     "is_technical": true,
-    "tldr": "Introduces Falcon-H1-Arabic, a new large language model designed for Arabic language processing, which leverages a novel hybrid architecture to achieve state-of-the-art performance. This model pushes the boundaries for culturally and linguistically nuanced AI applications in the Arabic-speaking world.",
+    "tldr": "The Falcon-H1-Arabic model introduces a novel hybrid architecture, significantly advancing Arabic language AI capabilities. This release pushes state-of-the-art performance for large language models in the Arabic domain.",
     "tags": [
-      "llms",
-      "nlp",
-      "arabic",
-      "model_architecture"
+      "llm",
+      "arabic_nlp",
+      "model_architecture",
+      "model_release"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "66f18b5ebf8053d89315ba1f53e3193b",
     "source": "Hugging Face",
     "title": "NVIDIA brings agents to life with DGX Spark and Reachy Mini",
     "url": "https://huggingface.co/blog/nvidia-reachy-mini",
-    "date_scraped": "2026-01-09T13:04:29.941Z",
+    "date_scraped": "2026-01-10T12:57:45.319Z",
     "date_published": "2026-01-05T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA demonstrates the integration of DGX Spark infrastructure with the Reachy Mini robot to develop and deploy advanced AI agents capable of complex physical interactions. This showcases a complete stack for bringing embodied AI agents from simulation to reality, focusing on real-time performance.",
+    "tldr": "NVIDIA announces new capabilities for embodied AI agents, leveraging DGX Spark infrastructure with Reachy Mini robots. This development aims to accelerate the deployment and experimentation of intelligent agents in physical environments.",
     "tags": [
       "robotics",
-      "embodied_ai",
+      "agents",
       "hardware",
-      "agentic_ai"
+      "infrastructure",
+      "embodied_ai"
     ],
     "hype_score": 7
   }
