@@ -1,55 +1,164 @@
 [
   {
-    "id": "11caa8f9632f58de281661cdddf6670a",
-    "source": "Anthropic Research",
-    "title": "Jan 15, 2026\nEconomic Research\nAnthropic Economic Index: new building blocks for understanding AI use",
-    "url": "https://www.anthropic.com/research/economic-index-primitives",
-    "date_scraped": "2026-01-15T13:04:05.659Z",
-    "date_published": "2026-01-15T00:00:00.000Z",
+    "id": "ba684b4dbec8a1feddcf404eb521146d",
+    "source": "Hugging Face",
+    "title": "Introducing OptiMind, a research model designed for optimization",
+    "url": "https://huggingface.co/blog/microsoft/optimind",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
+    "date_published": "2026-01-15T18:49:16.000Z",
     "is_technical": true,
-    "tldr": "Anthropic Research introduced new \"economic primitives\" for their Economic Index, establishing foundational building blocks to quantitatively understand and measure the impact and integration of AI systems across various applications. This framework aims to provide a robust, data-driven approach to analyzing AI's economic effects.",
+    "tldr": "Hugging Face announced the availability of Microsoft's OptiMind, a research model specifically trained to excel in optimization tasks. This model provides a specialized tool for developers and researchers to tackle complex optimization challenges using a compact language model.",
     "tags": [
-      "economic research",
-      "AI impact",
-      "measurement",
-      "framework",
-      "methodology"
+      "llm",
+      "nlp",
+      "optimization",
+      "specialized_models",
+      "huggingface",
+      "microsoft"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "cc15281f8064a9a300a60cd4475949e0",
+    "source": "NVIDIA Blog",
+    "title": "How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning",
+    "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
+    "date_published": "2026-01-15T16:00:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA published a technical guide on training AI agents to automate command-line tasks, leveraging synthetic data generation and reinforcement learning. The blog post covers methodology for creating effective training environments and optimizing agent policies for robust CLI automation.",
+    "tags": [
+      "ai_agents",
+      "reinforcement_learning",
+      "synthetic_data",
+      "devops",
+      "nvidia"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "c82ca9a069ba5c2b76ff44425136846c",
+    "source": "AWS ML",
+    "title": "How the Amazon AMET Payments team accelerates test case generation with Strands Agents",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
+    "date_published": "2026-01-15T15:55:35.000Z",
+    "is_technical": true,
+    "tldr": "Amazon's AMET Payments team detailed their method for accelerating test case generation using Strands Agents, an AI-powered solution. This approach leverages agentic AI to automate and optimize the creation of comprehensive test scenarios, improving development efficiency and software quality.",
+    "tags": [
+      "llm",
+      "ai_agents",
+      "software_engineering",
+      "devops",
+      "aws"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "ba3a19b863e57cadf27baeea5bb2940d",
+    "source": "AWS ML",
+    "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
+    "date_published": "2026-01-15T15:53:15.000Z",
+    "is_technical": true,
+    "tldr": "AWS demonstrated how to construct a generative AI-powered business reporting solution utilizing Amazon Bedrock. The post outlines architectural patterns and implementation steps for leveraging large language models to automate and enhance business intelligence reporting.",
+    "tags": [
+      "generative_ai",
+      "llm",
+      "business_intelligence",
+      "aws",
+      "platform"
     ],
     "hype_score": 5
   },
   {
-    "id": "4b8fffa27e50706653bbc96ad42b19f7",
-    "source": "Anthropic Research",
-    "title": "Jan 15, 2026\nEconomic Research\nAnthropic Economic Index report: economic primitives",
-    "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
-    "date_scraped": "2026-01-15T13:04:05.659Z",
+    "id": "556faa028ba7c35618af2385eaa5bc1c",
+    "source": "AWS ML",
+    "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
+    "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
+    "date_published": "2026-01-15T15:50:54.000Z",
+    "is_technical": true,
+    "tldr": "AWS introduced Amazon Bedrock Guardrails, a new feature designed to enforce safety policies and responsible AI practices within generative AI applications. This technical deep dive explains how to configure and deploy guardrails to prevent harmful or off-topic content generation, crucial for enterprise adoption.",
+    "tags": [
+      "ai_safety",
+      "generative_ai",
+      "llm",
+      "aws",
+      "security"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "6f1ff7d246014fbbea3c83078938ce96",
+    "source": "AWS ML",
+    "title": "Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search",
+    "url": "https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
+    "date_published": "2026-01-15T15:45:02.000Z",
+    "is_technical": true,
+    "tldr": "AWS announced Amazon Nova Multimodal Embeddings, providing a unified vector search capability to scale creative asset discovery. This feature allows for efficient cross-modal retrieval by embedding diverse data types (text, image, audio) into a single vector space, enabling advanced semantic search.",
+    "tags": [
+      "multimodal",
+      "embeddings",
+      "vector_search",
+      "information_retrieval",
+      "aws"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "b1db0c4242ddc5be20d148a1368ffb2b",
+    "source": "Microsoft Research",
+    "title": "OptiMind: A small language model with optimization expertise",
+    "url": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
+    "date_published": "2026-01-15T14:00:00.000Z",
+    "is_technical": true,
+    "tldr": "Microsoft Research introduced OptiMind, a specialized small language model engineered for solving complex optimization problems. This research explores tailoring LLMs for domain-specific tasks, demonstrating its expertise in generating and evaluating optimization solutions.",
+    "tags": [
+      "llm",
+      "nlp",
+      "optimization",
+      "specialized_models",
+      "microsoft"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "f04c2f0226eee97b08a803966ef98d10",
+    "source": "Hugging Face",
+    "title": "Open Responses: What you need to know",
+    "url": "https://huggingface.co/blog/open-responses",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-15T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic released its January 2026 Economic Index report, detailing the practical application and findings derived from their newly introduced \"economic primitives\" for AI use. The report provides initial insights and data-driven analyses on the measured economic impacts of AI adoption and integration.",
+    "tldr": "Hugging Face launched \"Open Responses,\" a new platform initiative designed to foster transparent and collaborative evaluation of AI models and their outputs. This aims to standardize and democratize model feedback, improving research and development efficiency.",
     "tags": [
-      "economic research",
-      "AI impact",
-      "report",
-      "data analysis",
-      "methodology"
+      "ml_platforms",
+      "open_source",
+      "evaluation",
+      "community",
+      "huggingface"
     ],
-    "hype_score": 5
+    "hype_score": 6
   },
   {
     "id": "9424761a3771f113016eef0202b75956",
     "source": "AWS ML",
     "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
     "url": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-14T21:24:09.000Z",
     "is_technical": true,
-    "tldr": "AutoScout24 leveraged Amazon Bedrock to establish a \"Bot Factory,\" a standardized framework for developing and deploying AI agents at scale. This initiative focuses on streamlining the lifecycle of agent creation, emphasizing reusability and consistent operational practices.",
+    "tldr": "AutoScout24 shared their strategy for building a \"Bot Factory\" on Amazon Bedrock to standardize and scale AI agent development. This engineering blog details the architectural patterns and best practices for creating a robust framework for agent lifecycle management and deployment.",
     "tags": [
-      "AI agents",
-      "MLOps",
-      "generative AI",
-      "cloud infrastructure",
-      "Amazon Bedrock"
+      "ai_agents",
+      "llm",
+      "platform",
+      "aws",
+      "infrastructure"
     ],
     "hype_score": 6
   },
@@ -58,87 +167,87 @@
     "source": "AWS ML",
     "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
     "url": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-14T21:13:42.000Z",
     "is_technical": true,
-    "tldr": "Amazon SageMaker introduces new features enhancing AI model customization and large-scale training workflows, enabling developers to fine-tune models with greater precision and manage distributed training jobs more efficiently. These updates aim to accelerate the development of specialized AI solutions and handle massive datasets.",
+    "tldr": "AWS introduced significant enhancements to Amazon SageMaker AI, focusing on advanced model customization and expanded large-scale training capabilities. These updates provide researchers and developers with more granular control over model fine-tuning and the infrastructure to handle massive datasets for training.",
     "tags": [
-      "cloud ML",
-      "model training",
-      "SageMaker",
-      "MLOps",
-      "distributed training",
-      "platform update"
+      "ml_platforms",
+      "infrastructure",
+      "model_training",
+      "fine_tuning",
+      "aws"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "1c9f81f4f4f74fd6d5f57fbdc8a9c0ee",
     "source": "Meta AI",
     "title": "Adapting the Facebook Reels RecSys AI Model Based on User Feedback",
     "url": "https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-14T20:51:33.000Z",
     "is_technical": true,
-    "tldr": "Meta's engineering team details methods for dynamically adapting the Facebook Reels recommendation system AI model, leveraging continuous user feedback loops to refine content delivery. The article explores specific ML techniques and system architectures employed to ensure robust model evolution and personalization at scale.",
+    "tldr": "Meta AI detailed their methodology for adapting the Facebook Reels recommendation system using explicit and implicit user feedback signals. The engineering blog explains the iterative process and architectural changes to dynamically evolve the RecSys model.",
     "tags": [
-      "recommendation systems",
-      "machine learning",
-      "user feedback",
-      "MLOps",
-      "model adaptation"
+      "recommendation_systems",
+      "ml_systems",
+      "user_feedback",
+      "meta"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "f21d964c0c46e6e2f7da1e107bc839af",
     "source": "NVIDIA Blog",
     "title": "How to Write High-Performance Matrix Multiply in NVIDIA CUDA Tile",
     "url": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-14T20:41:37.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA provides an in-depth guide on optimizing high-performance matrix multiplication using CUDA Tile programming, detailing techniques for maximizing GPU utilization and memory access patterns. This technical blog offers practical insights for developers to achieve significant performance gains in computationally intensive AI workloads.",
+    "tldr": "NVIDIA provided an in-depth guide on implementing high-performance matrix multiplication using NVIDIA CUDA Tile, demonstrating optimization techniques for GPU acceleration. The article details memory access patterns, thread block management, and tiling strategies to maximize throughput on NVIDIA hardware.",
     "tags": [
-      "CUDA",
-      "GPU optimization",
-      "deep learning",
-      "performance engineering",
-      "hardware acceleration"
+      "gpu_computing",
+      "cuda",
+      "performance_optimization",
+      "linear_algebra",
+      "infrastructure",
+      "nvidia"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "e8acaafea3bb5cb3ac9c8e439ac0f4f7",
     "source": "LangChain",
     "title": "Choosing the Right Multi-Agent Architecture",
     "url": "https://www.blog.langchain.com/choosing-the-right-multi-agent-architecture/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-14T18:06:14.000Z",
     "is_technical": true,
-    "tldr": "LangChain's latest blog post offers a deep dive into selecting optimal multi-agent architectures, providing a technical framework for understanding design tradeoffs and implementation patterns. It discusses various paradigms for agent communication and coordination, crucial for building complex autonomous systems.",
+    "tldr": "LangChain provided a comprehensive guide on selecting the optimal multi-agent architecture for various AI applications, detailing design considerations and trade-offs. The post evaluates different collaboration and communication paradigms for complex agentic systems.",
     "tags": [
-      "AI agents",
-      "multi-agent systems",
+      "ai_agents",
       "architecture",
-      "LangChain",
-      "generative AI"
+      "llm",
+      "framework",
+      "langchain"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "33cb87dbd94ec9b25057c58eaa920a07",
     "source": "OpenAI",
     "title": "OpenAI partners with Cerebras  ",
     "url": "https://openai.com/index/cerebras-partnership",
-    "date_scraped": "2026-01-15T13:04:05.659Z",
+    "date_scraped": "2026-01-16T13:02:56.526Z",
     "date_published": "2026-01-14T14:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI announced a strategic partnership with Cerebras, integrating their WSE-3 AI accelerators to enhance compute infrastructure for training and deploying advanced frontier models. This collaboration aims to significantly scale AI research capabilities and accelerate the development of next-generation AI systems.",
+    "tldr": "OpenAI announced a strategic partnership with Cerebras, integrating Cerebras's specialized AI hardware into its infrastructure. This collaboration aims to accelerate the training and inference of large-scale AI models, potentially leading to advancements in computational efficiency and model capabilities.",
     "tags": [
       "infrastructure",
       "hardware",
-      "LLM training",
+      "large_models",
+      "compute",
       "partnership"
     ],
     "hype_score": 7
@@ -148,17 +257,16 @@
     "source": "NVIDIA Blog",
     "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
     "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-14T14:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces DLSS 4.5, bringing significant advancements in super resolution and a novel dynamic multi-frame generation technique, further enhancing real-time rendering quality and performance. This update leverages sophisticated AI algorithms to upscale images and synthesize intermediate frames, delivering a more immersive visual experience.",
+    "tldr": "NVIDIA announced DLSS 4.5, featuring significant super-resolution upgrades and the introduction of Dynamic Multi Frame Generation, further enhancing real-time rendering performance. This iteration refines AI-powered upscaling algorithms and introduces more intelligent frame interpolation for smoother visuals and higher frame rates.",
     "tags": [
-      "computer graphics",
-      "AI graphics",
-      "deep learning",
-      "DLSS",
-      "model release",
-      "vision"
+      "computer_graphics",
+      "deep_learning",
+      "vision",
+      "performance_optimization",
+      "nvidia"
     ],
     "hype_score": 8
   },
@@ -167,16 +275,16 @@
     "source": "AWS ML",
     "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
     "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-13T23:13:18.000Z",
     "is_technical": true,
-    "tldr": "AWS details advanced security protocols for Amazon Bedrock's cross-Region inference, outlining strategies for both geographic redundancy and global access patterns. The post delves into architectural considerations and best practices for safeguarding sensitive data and ensuring compliance in distributed generative AI deployments.",
+    "tldr": "AWS published an engineering blog detailing strategies for securing cross-Region inference on Amazon Bedrock, addressing both geographic and global deployment scenarios. The article outlines architectural best practices, encryption methods, and access controls essential for robust and compliant distributed AI applications.",
     "tags": [
-      "cloud security",
-      "inference",
-      "generative AI",
-      "cloud infrastructure",
-      "Amazon Bedrock"
+      "infrastructure",
+      "security",
+      "ml_systems",
+      "aws",
+      "deployment"
     ],
     "hype_score": 6
   },
@@ -185,70 +293,69 @@
     "source": "NVIDIA Blog",
     "title": "Learn How NVIDIA cuOpt Accelerates Mixed Integer Optimization using Primal Heuristics",
     "url": "https://developer.nvidia.com/blog/learn-how-nvidia-cuopt-accelerates-mixed-integer-optimization-using-primal-heuristics/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-13T20:32:44.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA's cuOpt is showcased for its ability to significantly accelerate Mixed Integer Optimization problems through the implementation of advanced primal heuristics on GPU hardware. This technical deep dive explains how these heuristics guide the search space, enabling faster convergence and more efficient solutions for complex optimization tasks.",
+    "tldr": "NVIDIA showcased how cuOpt accelerates Mixed Integer Optimization (MIO) problems through the implementation of advanced primal heuristics on GPUs. This technical deep dive explains how these heuristics guide the search process, significantly reducing solution times for complex combinatorial optimization challenges.",
     "tags": [
       "optimization",
-      "operations research",
-      "GPU acceleration",
-      "CUDA",
-      "algorithms"
+      "gpu_computing",
+      "algorithms",
+      "nvidia",
+      "operations_research"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "e4501773a4193ce4e3681947982104dc",
     "source": "DeepMind",
     "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
     "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-13T17:00:18.000Z",
     "is_technical": true,
-    "tldr": "DeepMind unveils Veo 3.1, a significant upgrade to their video generation model, emphasizing improved consistency, enhanced creative control, and higher fidelity in synthesized outputs. This release focuses on addressing key challenges in long-form video coherence and user-guided content creation.",
+    "tldr": "DeepMind announced Veo 3.1, enhancing its video generation model with improved consistency, creative control, and finer-grained parameter adjustments. This update focuses on advancing the quality and controllability of generated video content.",
     "tags": [
-      "video generation",
-      "generative AI",
-      "deep learning",
-      "model release",
-      "multimodal AI"
+      "generative_ai",
+      "video_generation",
+      "deep_learning",
+      "multimodal",
+      "deepmind"
     ],
-    "hype_score": 9
+    "hype_score": 8
   },
   {
     "id": "4b12f1852fe8e9a495ab2605dd9faaff",
     "source": "LangChain",
     "title": "Now GA: LangSmith Agent Builder",
     "url": "https://www.blog.langchain.com/langsmith-agent-builder-generally-available/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-13T16:00:38.000Z",
     "is_technical": true,
-    "tldr": "LangChain announces the General Availability of LangSmith Agent Builder, a new tool designed to streamline the development and deployment of robust AI agents. This platform offers features for iterative prompting, evaluation, and monitoring, empowering developers to build sophisticated agentic workflows efficiently.",
+    "tldr": "LangChain announced the General Availability of LangSmith Agent Builder, a tool designed to streamline the development and deployment of robust AI agents. This release provides enhanced features for constructing, testing, and monitoring complex multi-agent workflows.",
     "tags": [
-      "AI agents",
-      "LangChain",
-      "developer tools",
-      "MLOps",
-      "generative AI",
-      "platform release"
+      "ai_agents",
+      "ml_platforms",
+      "framework",
+      "deployment",
+      "langchain"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "892741743eea1c0058f86186ac16de91",
     "source": "Anthropic News",
     "title": "Jan 13, 2026\nAnnouncements\nIntroducing Labs",
     "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
-    "date_scraped": "2026-01-15T13:04:05.659Z",
+    "date_scraped": "2026-01-16T13:02:56.526Z",
     "date_published": "2026-01-13T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic announced the launch of \"Labs,\" a new initiative dedicated to exploring frontier AI capabilities and pushing the boundaries of safe and capable AI systems. This division will focus on experimental research and novel applications, distinct from their core product development.",
+    "tldr": "Anthropic launched \"Anthropic Labs,\" a new division focused on high-risk, high-reward frontier AI research and development. This initiative aims to explore future AI capabilities and address long-term safety challenges, pushing the boundaries of current AI technology.",
     "tags": [
-      "research initiative",
-      "AI safety",
-      "frontier AI",
-      "R&D"
+      "research_initiative",
+      "frontier_ai",
+      "AI_safety",
+      "long_term_research"
     ],
     "hype_score": 6
   },
@@ -257,207 +364,91 @@
     "source": "AWS ML",
     "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
     "url": "https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-12T16:56:12.000Z",
     "is_technical": true,
-    "tldr": "Omada Health successfully scaled patient care solutions by fine-tuning Llama models on Amazon SageMaker, optimizing them for specific healthcare applications. The article describes the technical process of leveraging SageMaker's capabilities for efficient data handling, distributed training, and deployment of specialized large language models.",
+    "tldr": "Omada Health showcased their successful approach to scaling patient care by fine-tuning Llama models on Amazon SageMaker AI. The case study delves into the specific techniques and challenges overcome in adapting large language models for specialized healthcare applications and achieving efficient deployment.",
     "tags": [
-      "fine-tuning",
-      "LLM",
-      "healthcare AI",
-      "SageMaker",
-      "model deployment",
-      "ML applications"
+      "llm",
+      "fine_tuning",
+      "healthcare_ai",
+      "aws",
+      "case_study"
     ],
-    "hype_score": 7
+    "hype_score": 6
+  },
+  {
+    "id": "adfbc2deadd36e98a905751e9b077560",
+    "source": "Anthropic News",
+    "title": "Jan 11, 2026\nAnnouncements\nAdvancing Claude in healthcare and the life sciences",
+    "url": "https://www.anthropic.com/news/healthcare-life-sciences",
+    "date_scraped": "2026-01-16T13:02:56.526Z",
+    "date_published": "2026-01-11T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "Anthropic detailed efforts to enhance Claude's utility in healthcare and life sciences through specialized adaptations and fine-tuning. This work involves optimizing models for domain-specific tasks and leveraging unique datasets to improve performance and reliability in these critical fields.",
+    "tags": [
+      "domain_specific_ai",
+      "healthcare",
+      "life_sciences",
+      "fine_tuning",
+      "applied_ai"
+    ],
+    "hype_score": 6
   },
   {
     "id": "27899396a6aaeb8fb75fddab9b3c2889",
     "source": "LangChain",
     "title": "In software, the code documents the app. In AI, the traces do.",
     "url": "https://www.blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-10T17:39:27.000Z",
     "is_technical": true,
-    "tldr": "This LangChain blog post highlights the critical role of execution traces in understanding and debugging complex AI systems, particularly agentic applications, contrasting it with traditional software documentation. It emphasizes that detailed tracing provides invaluable insights into an AI's decision-making process, tool utilization, and overall operational flow.",
+    "tldr": "LangChain emphasized the critical role of comprehensive tracing in understanding and debugging AI applications, contrasting it with traditional software documentation. The article argues that operational traces provide the essential \"documentation\" for complex, non-deterministic AI behaviors, crucial for development and reliability.",
     "tags": [
-      "MLOps",
-      "AI agents",
-      "observability",
+      "ml_ops",
       "debugging",
-      "LangChain",
-      "AI engineering"
+      "interpretability",
+      "ai_systems",
+      "tracing",
+      "langchain"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "4046e3e7b85b9760cef5ed3667a76cc9",
     "source": "AWS ML",
     "title": "Crossmodal search with Amazon Nova Multimodal Embeddings",
     "url": "https://aws.amazon.com/blogs/machine-learning/crossmodal-search-with-amazon-nova-multimodal-embeddings/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:45.178Z",
     "date_published": "2026-01-10T00:06:16.000Z",
     "is_technical": true,
-    "tldr": "AWS unveils Amazon Nova Multimodal Embeddings, enabling advanced crossmodal search capabilities that allow users to query across different data types like text, image, and audio using a unified embedding space. This service facilitates more intuitive and comprehensive data retrieval by capturing semantic relationships across modalities.",
+    "tldr": "AWS unveiled new capabilities for crossmodal search powered by Amazon Nova Multimodal Embeddings, enabling users to query across different data types seamlessly. This allows for unified semantic search where, for example, text queries can retrieve relevant images or audio, bridging modality gaps in information retrieval.",
     "tags": [
-      "multimodal AI",
+      "multimodal",
       "embeddings",
-      "search",
-      "generative AI",
-      "AWS",
-      "platform update"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "67a1ed63900a296a0dcf508deda97fce",
-    "source": "AWS ML",
-    "title": "Accelerating LLM inference with post-training weight and activation using AWQ and GPTQ on Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-inference-with-post-training-weight-and-activation-using-awq-and-gptq-on-amazon-sagemaker-ai/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
-    "date_published": "2026-01-09T18:09:22.000Z",
-    "is_technical": true,
-    "tldr": "This technical deep-dive demonstrates how to accelerate LLM inference on Amazon SageMaker by applying post-training quantization techniques, specifically AWQ and GPTQ, to optimize weight and activation parameters. The article provides methods for reducing model size and computational demands while maintaining performance for large language models.",
-    "tags": [
-      "LLM inference",
-      "quantization",
-      "AWQ",
-      "GPTQ",
-      "SageMaker",
-      "model optimization",
-      "deep learning"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "7bc263c54a7a3cb95b6d74550f01b513",
-    "source": "NVIDIA Blog",
-    "title": "Reimagining LLM Memory: Using Context as Training Data Unlocks Models That Learn at Test-Time",
-    "url": "https://developer.nvidia.com/blog/reimagining-llm-memory-using-context-as-training-data-unlocks-models-that-learn-at-test-time/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
-    "date_published": "2026-01-09T16:58:31.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA explores a groundbreaking approach to LLM memory, proposing the use of in-context information as dynamic training data to enable models to \"learn\" and adapt at test-time. This methodology has the potential to unlock more fluid and context-aware behavior in large language models, moving beyond static pre-training.",
-    "tags": [
-      "LLM",
-      "memory",
-      "in-context learning",
-      "meta-learning",
-      "deep learning",
-      "research"
-    ],
-    "hype_score": 9
-  },
-  {
-    "id": "36aeb9e65912acf65341be88dc4a0828",
-    "source": "AWS ML",
-    "title": "How Beekeeper by LumApps optimized user personalization with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-beekeeper-optimized-user-personalization-with-amazon-bedrock/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
-    "date_published": "2026-01-09T16:10:52.000Z",
-    "is_technical": true,
-    "tldr": "Beekeeper by LumApps enhanced user personalization by integrating Amazon Bedrock, leveraging its generative AI capabilities to tailor content and experiences. The article outlines the technical approach to implementing Bedrock for dynamic content generation and personalized interactions within their platform.",
-    "tags": [
-      "personalization",
-      "generative AI",
-      "Amazon Bedrock",
-      "ML applications"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "a536ff18c9268b1430d54819612b5aa2",
-    "source": "AWS ML",
-    "title": "Sentiment Analysis with Text and Audio Using AWS Generative AI Services: Approaches, Challenges, and Solutions",
-    "url": "https://aws.amazon.com/blogs/machine-learning/sentiment-analysis-with-text-and-audio-using-aws-generative-ai-services-approaches-challenges-and-solutions/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
-    "date_published": "2026-01-09T16:06:50.000Z",
-    "is_technical": true,
-    "tldr": "This AWS ML blog post explores comprehensive approaches to performing sentiment analysis across both text and audio modalities, leveraging AWS Generative AI services. It delves into the technical challenges inherent in multimodal sentiment detection and presents practical solutions for robust implementation.",
-    "tags": [
-      "sentiment analysis",
-      "multimodal AI",
-      "generative AI",
-      "natural language processing",
-      "speech recognition",
-      "AWS"
+      "vector_search",
+      "information_retrieval",
+      "aws"
     ],
     "hype_score": 7
-  },
-  {
-    "id": "29385fe072a75a64511eab03b1c0b493",
-    "source": "AWS ML",
-    "title": "Architecting TrueLook’s AI-powered construction safety system on Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/architecting-truelooks-ai-powered-construction-safety-system-on-amazon-sagemaker-ai/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
-    "date_published": "2026-01-09T16:03:36.000Z",
-    "is_technical": true,
-    "tldr": "TrueLook architected an AI-powered construction safety system on Amazon SageMaker, detailing the technical blueprint for integrating computer vision and machine learning models for hazard detection and prevention. The article covers the scalable infrastructure and ML pipeline design crucial for real-time safety monitoring.",
-    "tags": [
-      "computer vision",
-      "safety AI",
-      "SageMaker",
-      "MLOps",
-      "architecture",
-      "ML applications"
-    ],
-    "hype_score": 6
   },
   {
     "id": "998a98389fefa676427182d0201d5959",
     "source": "NVIDIA Blog",
     "title": "Multi-Agent Warehouse AI Command Layer Enables Operational Excellence and Supply Chain Intelligence",
     "url": "https://developer.nvidia.com/blog/multi-agent-warehouse-ai-command-layer-enables-operational-excellence-and-supply-chain-intelligence/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
+    "date_scraped": "2026-01-16T13:03:53.088Z",
     "date_published": "2026-01-09T14:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA presents a multi-agent AI command layer designed to optimize warehouse operations and enhance supply chain intelligence, coordinating autonomous agents for tasks like inventory management and routing. This system leverages advanced AI planning and control to achieve operational excellence and real-time decision-making in complex logistical environments.",
+    "tldr": "This NVIDIA developer blog details a multi-agent AI command layer for orchestrating complex warehouse operations, leveraging real-time data to optimize task scheduling and resource allocation. The system aims to enhance operational efficiency and provide comprehensive supply chain intelligence through a centralized, intelligent control framework.",
     "tags": [
-      "AI agents",
-      "robotics",
+      "multi-agent systems",
       "supply chain",
       "logistics",
-      "multi-agent systems",
-      "operational AI"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "35ec99b471b3124350d0e9b956922f5c",
-    "source": "NVIDIA Blog",
-    "title": "Build an AI Catalog System That Delivers Localized, Interactive Product Experiences",
-    "url": "https://developer.nvidia.com/blog/build-an-ai-catalog-system-that-delivers-localized-interactive-product-experiences/",
-    "date_scraped": "2026-01-15T13:06:22.487Z",
-    "date_published": "2026-01-09T14:00:00.000Z",
-    "is_technical": true,
-    "tldr": "NVIDIA outlines the architecture for an AI-powered catalog system capable of delivering highly localized and interactive product experiences, leveraging generative AI and recommendation engines. The post details the technical components required for dynamic content generation, personalization, and seamless integration across various user interfaces.",
-    "tags": [
-      "recommendation systems",
-      "generative AI",
-      "personalization",
-      "AI applications",
-      "e-commerce",
-      "architecture"
+      "optimization",
+      "infrastructure",
+      "robotics"
     ],
     "hype_score": 6
-  },
-  {
-    "id": "7f834fefe700c663d97ba1e938622902",
-    "source": "Anthropic Research",
-    "title": "Jan 9, 2026\nAlignment\nNext-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
-    "url": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
-    "date_scraped": "2026-01-15T13:04:05.659Z",
-    "date_published": "2026-01-09T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic Research released a paper on \"Next-generation Constitutional Classifiers,\" presenting advancements in developing more efficient and robust methods to protect against universal jailbreaks in large language models. This research details improved techniques for maintaining model alignment and safety through enhanced filtering mechanisms.",
-    "tags": [
-      "alignment",
-      "AI safety",
-      "constitutional AI",
-      "LLM security",
-      "robustness",
-      "research paper"
-    ],
-    "hype_score": 8
   }
 ]
