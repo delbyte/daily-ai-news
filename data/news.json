@@ -1,658 +1,369 @@
 [
   {
-    "source": "Claude Blog",
-    "title": "Claude Code on the web",
-    "url": "https://claude.com/blog/claude-code-on-the-web",
-    "id": "40bee1741df14152870a9e610be0e61b",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Piloting Claude in Chrome",
-    "url": "https://claude.com/blog/claude-for-chrome",
-    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How Anthropic teams use Claude Code",
-    "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
-    "id": "0bf14bafc94805005f90ee62f2b8de49",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Extending Claude’s capabilities with skills and MCP servers",
-    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Skills for organizations, partners, the ecosystem",
-    "url": "https://claude.com/blog/organization-skills-and-directory",
-    "id": "6eda6a632e2933dd55c8fc20f9c470e5",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Making Claude a better electrical engineer",
-    "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "id": "fa79f2dfaee1184e396e71b26b435efa",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Claude Code power user customization: How to configure hooks",
-    "url": "https://claude.com/blog/how-to-configure-hooks",
-    "id": "98d7396996017881bdd78b89591fb01b",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How Anthropic's legal team cut review times from days to hours with Claude",
-    "url": "https://claude.com/blog/how-anthropic-uses-claude-legal",
-    "id": "7f88b448300910e7d6df853ea860520e",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Claude Code and Slack",
-    "url": "https://claude.com/blog/claude-code-and-slack",
-    "id": "3583ffde0526b1f9fb168104d1a96df0",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "What are the key benefits of transitioning to agentic coding for software development?",
-    "url": "https://claude.com/blog/key-benefits-transitioning-agentic-coding",
-    "id": "12e0dc58a3c7d4fbfbdac8c1a3d33272",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Using CLAUDE.md files: Customizing Claude Code for your codebase",
-    "url": "https://claude.com/blog/using-claude-md-files",
-    "id": "dee09fbc2a065f5f934ce404a5d86298",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "What’s new in Claude: Turning Claude into your thinking partner",
-    "url": "https://claude.com/blog/your-thinking-partner",
-    "id": "908d4ea8e70fdfc14b88466a21c30d9d",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How to create Skills: Key steps, limitations, and examples",
-    "url": "https://claude.com/blog/how-to-create-skills-key-steps-limitations-and-examples",
-    "id": "735b02a1d1e428df07c67ddaa0e69d33",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "How three YC startups built their companies with Claude Code",
-    "url": "https://claude.com/blog/building-companies-with-claude-code",
-    "id": "77a94ab9408ac3fdba376d1dce7f570d",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Structured outputs on the Claude Developer Platform",
-    "url": "https://claude.com/blog/structured-outputs-on-the-claude-developer-platform",
-    "id": "bd64c94d11d6dab35ab99bd8231491a7",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "c0107b7e16772f5f895e217935207b5d",
-    "source": "Claude Blog",
-    "title": "How enterprises are building AI agents in 2026",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "date_scraped": "2026-01-17T12:56:53.321Z",
-    "date_published": "2026-01-17T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This engineering blog post details the technical approaches enterprises are adopting for building and deploying advanced AI agents in 2026. It likely covers key architectural patterns, integration challenges, and scalable infrastructure strategies for agentic systems.",
-    "tags": [
-      "AI agents",
-      "enterprise AI",
-      "architecture",
-      "LLM applications",
-      "engineering blog",
-      "deployment"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "cb68f8012abdc9887b0941a2f55bb279",
-    "source": "Claude Blog",
-    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
-    "url": "https://claude.com/blog/building-skills-for-claude-code",
-    "date_scraped": "2026-01-17T12:56:53.321Z",
-    "date_published": "2026-01-17T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "A technical guide on developing and integrating \"skills\" for Claude Code, focusing on automating complex procedural knowledge within agentic workflows. The article likely explores API design, tool integration frameworks, and methods for extending Claude's functionality.",
-    "tags": [
-      "LLM development",
-      "agentic AI",
-      "tool use",
-      "API integration",
-      "engineering blog",
-      "skills"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "025c809f2dc551972fdd695fb267d513",
-    "source": "Claude Blog",
-    "title": "Building AI agents for financial services",
-    "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
-    "date_scraped": "2026-01-17T12:56:53.321Z",
-    "date_published": "2026-01-17T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This technical deep-dive examines the specific challenges and solutions for constructing AI agents tailored for the financial services industry. It likely addresses domain-specific data handling, regulatory compliance within agent architectures, and specialized model fine-tuning for sensitive financial operations.",
-    "tags": [
-      "AI agents",
-      "financial AI",
-      "enterprise AI",
-      "LLM applications",
-      "domain-specific AI",
-      "regulatory compliance"
-    ],
-    "hype_score": 6
-  },
-  {
+    "id": "47e8cdb4cf80b10581ede87a131f1b22",
     "source": "AWS ML",
     "title": "Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale",
     "url": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-16T15:51:21.000Z",
-    "id": "47e8cdb4cf80b10581ede87a131f1b22",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AWS ML blog detailed advanced fine-tuning techniques for orchestrating multi-agent systems at scale, sharing patterns and insights from Amazon's internal practices. This offers valuable technical guidance for building robust and performant AI agent architectures.",
     "tags": [
-      "Unverified"
+      "multi-agent systems",
+      "fine-tuning",
+      "large language models",
+      "infrastructure",
+      "distributed systems",
+      "engineering"
     ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "How Palo Alto Networks enhanced device security infra log analysis with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-palo-alto-networks-enhanced-device-security-infra-log-analysis-with-amazon-bedrock/",
-    "date_published": "2026-01-16T15:46:36.000Z",
-    "id": "48557470095e6869e38dec0dfd47bc8a",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "From beginner to champion: A student’s journey through the AWS AI League ASEAN finals",
-    "url": "https://aws.amazon.com/blogs/machine-learning/from-beginner-to-champion-a-students-journey-through-the-aws-ai-league-asean-finals/",
-    "date_published": "2026-01-16T15:41:55.000Z",
-    "id": "1bdf1bad206d7d4e985f10d792c34963",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Deploy AI agents on Amazon Bedrock AgentCore using GitHub Actions",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-ai-agents-on-amazon-bedrock-agentcore-using-github-actions/",
-    "date_published": "2026-01-16T15:37:37.000Z",
-    "id": "832d207cf9d146cf2a08ad50b345075a",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
+    "hype_score": 7
   },
   {
     "id": "9de6d84c57af7165a85469d3de682469",
     "source": "OpenAI",
     "title": "Introducing ChatGPT Go, now available worldwide",
     "url": "https://openai.com/index/introducing-chatgpt-go",
-    "date_scraped": "2026-01-17T12:56:53.321Z",
+    "date_scraped": "2026-01-18T12:56:28.036Z",
     "date_published": "2026-01-16T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has launched ChatGPT Go, a new, globally available model variant optimized for widespread access and potentially resource-constrained environments. This release likely incorporates advanced efficiency techniques like distillation or quantization to achieve frontier performance in a leaner package.",
+    "tldr": "OpenAI has launched ChatGPT Go, a new lightweight and globally accessible version of its flagship conversational AI model. This iteration likely incorporates significant optimizations for performance and reduced resource consumption, targeting broader accessibility in diverse computing environments.",
     "tags": [
-      "model release",
+      "product release",
       "LLM",
       "optimization",
-      "efficiency",
-      "edge AI"
+      "global deployment",
+      "accessibility"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "ba684b4dbec8a1feddcf404eb521146d",
+    "source": "Hugging Face",
+    "title": "Introducing OptiMind, a research model designed for optimization",
+    "url": "https://huggingface.co/blog/microsoft/optimind",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
+    "date_published": "2026-01-15T18:49:16.000Z",
+    "is_technical": true,
+    "tldr": "Hugging Face announced Microsoft's OptiMind, a new research model specialized in solving optimization problems. It aims to provide advanced capabilities for tackling complex optimization tasks, marking a significant step in applying LLMs to operational research.",
+    "tags": [
+      "large language models",
+      "small language models",
+      "optimization",
+      "machine learning",
+      "model release"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "cc15281f8064a9a300a60cd4475949e0",
+    "source": "NVIDIA Blog",
+    "title": "How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning",
+    "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
+    "date_published": "2026-01-15T16:00:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA published a technical guide on training AI agents for command-line tasks, leveraging synthetic data generation and reinforcement learning techniques. The article provides methodology and insights into developing agents capable of automating complex terminal operations.",
+    "tags": [
+      "reinforcement learning",
+      "agentic AI",
+      "synthetic data",
+      "machine learning",
+      "developer tools"
     ],
     "hype_score": 7
   },
   {
-    "source": "Hugging Face",
-    "title": "Introducing OptiMind, a research model designed for optimization",
-    "url": "https://huggingface.co/blog/microsoft/optimind",
-    "date_published": "2026-01-15T18:49:16.000Z",
-    "id": "ba684b4dbec8a1feddcf404eb521146d",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "NVIDIA Blog",
-    "title": "How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning",
-    "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
-    "date_published": "2026-01-15T16:00:00.000Z",
-    "id": "cc15281f8064a9a300a60cd4475949e0",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "How the Amazon AMET Payments team accelerates test case generation with Strands Agents",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-amet-payments-team-accelerates-test-case-generation-with-strands-agents/",
-    "date_published": "2026-01-15T15:55:35.000Z",
-    "id": "c82ca9a069ba5c2b76ff44425136846c",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Build a generative AI-powered business reporting solution with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-generative-ai-powered-business-reporting-solution-with-amazon-bedrock/",
-    "date_published": "2026-01-15T15:53:15.000Z",
-    "id": "ba3a19b863e57cadf27baeea5bb2940d",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
+    "id": "556faa028ba7c35618af2385eaa5bc1c",
     "source": "AWS ML",
     "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
     "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-15T15:50:54.000Z",
-    "id": "556faa028ba7c35618af2385eaa5bc1c",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AWS showcased how to implement robust safety measures for generative AI applications using Amazon Bedrock Guardrails. The post likely delves into the technical configurations and strategies for defining and enforcing content policies to mitigate risks in AI-generated outputs.",
     "tags": [
-      "Unverified"
+      "generative AI",
+      "AI safety",
+      "responsible AI",
+      "infrastructure",
+      "cloud computing"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
+    "id": "6f1ff7d246014fbbea3c83078938ce96",
     "source": "AWS ML",
     "title": "Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search",
     "url": "https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-15T15:45:02.000Z",
-    "id": "6f1ff7d246014fbbea3c83078938ce96",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AWS introduced methods to scale creative asset discovery utilizing Amazon Nova Multimodal Embeddings and unified vector search capabilities. This technical update allows for more efficient and comprehensive retrieval of diverse creative content by unifying different modalities into a single vector space.",
     "tags": [
-      "Unverified"
+      "multimodal AI",
+      "embeddings",
+      "vector databases",
+      "search",
+      "information retrieval",
+      "machine learning"
     ],
-    "hype_score": 1
+    "hype_score": 7
   },
   {
+    "id": "b1db0c4242ddc5be20d148a1368ffb2b",
     "source": "Microsoft Research",
     "title": "OptiMind: A small language model with optimization expertise",
     "url": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-15T14:00:00.000Z",
-    "id": "b1db0c4242ddc5be20d148a1368ffb2b",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "Microsoft Research introduced OptiMind, a specialized small language model designed with expertise in optimization problems. This SLM can tackle complex optimization challenges, leveraging its focused knowledge base for efficient problem-solving.",
     "tags": [
-      "Unverified"
+      "large language models",
+      "small language models",
+      "optimization",
+      "machine learning",
+      "research"
     ],
-    "hype_score": 1
+    "hype_score": 8
   },
   {
+    "id": "f04c2f0226eee97b08a803966ef98d10",
     "source": "Hugging Face",
     "title": "Open Responses: What you need to know",
     "url": "https://huggingface.co/blog/open-responses",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-15T00:00:00.000Z",
-    "id": "f04c2f0226eee97b08a803966ef98d10",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "Hugging Face published guidance on 'Open Responses,' likely detailing technical considerations and best practices for leveraging and contributing to open-source model outputs. This initiative aims to foster greater transparency and collaborative development within the ML community.",
     "tags": [
-      "Unverified"
+      "open source",
+      "data management",
+      "ethics",
+      "model evaluation",
+      "platform update"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
-    "source": "AWS ML",
-    "title": "How AutoScout24 built a Bot Factory to standardize AI agent development with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-autoscout24-built-a-bot-factory-to-standardize-ai-agent-development-with-amazon-bedrock/",
-    "date_published": "2026-01-14T21:24:09.000Z",
-    "id": "9424761a3771f113016eef0202b75956",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
+    "id": "cab4cdb03fe459984ed4f33dd37f53a4",
     "source": "AWS ML",
     "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
     "url": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-14T21:13:42.000Z",
-    "id": "cab4cdb03fe459984ed4f33dd37f53a4",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AWS announced significant enhancements to Amazon SageMaker, introducing new capabilities for AI model customization and large-scale training. These updates aim to streamline and accelerate the development cycle for complex AI models, offering greater flexibility and efficiency to developers.",
     "tags": [
-      "Unverified"
+      "MLOps",
+      "model training",
+      "distributed training",
+      "infrastructure",
+      "cloud computing",
+      "machine learning"
     ],
-    "hype_score": 1
+    "hype_score": 7
   },
   {
+    "id": "1c9f81f4f4f74fd6d5f57fbdc8a9c0ee",
     "source": "Meta AI",
     "title": "Adapting the Facebook Reels RecSys AI Model Based on User Feedback",
     "url": "https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-14T20:51:33.000Z",
-    "id": "1c9f81f4f4f74fd6d5f57fbdc8a9c0ee",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "Meta Engineering detailed improvements to the Facebook Reels recommendation system, focusing on adapting the underlying AI model based on user feedback. This involves technical strategies for integrating user signals to refine model behavior and enhance content relevance.",
     "tags": [
-      "Unverified"
+      "recommendation systems",
+      "machine learning",
+      "deep learning",
+      "engineering",
+      "feedback loops"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
+    "id": "f21d964c0c46e6e2f7da1e107bc839af",
     "source": "NVIDIA Blog",
     "title": "How to Write High-Performance Matrix Multiply in NVIDIA CUDA Tile",
     "url": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-14T20:41:37.000Z",
-    "id": "f21d964c0c46e6e2f7da1e107bc839af",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "NVIDIA released a technical deep dive explaining how to implement high-performance matrix multiplication using NVIDIA CUDA Tile programming. The guide covers optimizing kernel execution and memory access patterns for crucial operations in deep learning and scientific computing.",
     "tags": [
-      "Unverified"
+      "CUDA",
+      "GPU programming",
+      "deep learning",
+      "performance optimization",
+      "hardware acceleration"
     ],
-    "hype_score": 1
+    "hype_score": 8
   },
   {
+    "id": "e8acaafea3bb5cb3ac9c8e439ac0f4f7",
     "source": "LangChain",
     "title": "Choosing the Right Multi-Agent Architecture",
     "url": "https://www.blog.langchain.com/choosing-the-right-multi-agent-architecture/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-14T18:06:14.000Z",
-    "id": "e8acaafea3bb5cb3ac9c8e439ac0f4f7",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "LangChain published a technical guide on selecting optimal multi-agent architectures, outlining various design patterns and their implications for AI system development. The article likely explores trade-offs and considerations for building effective collaborative agent frameworks.",
     "tags": [
-      "Unverified"
+      "multi-agent systems",
+      "agentic AI",
+      "architecture",
+      "software engineering",
+      "LLMs"
     ],
-    "hype_score": 1
+    "hype_score": 7
   },
   {
+    "id": "33cb87dbd94ec9b25057c58eaa920a07",
+    "source": "OpenAI",
+    "title": "OpenAI partners with Cerebras  ",
+    "url": "https://openai.com/index/cerebras-partnership",
+    "date_scraped": "2026-01-18T12:56:28.036Z",
+    "date_published": "2026-01-14T14:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI announced a strategic partnership with Cerebras, a company specializing in wafer-scale AI processors. This collaboration is poised to enhance OpenAI's computational infrastructure, potentially accelerating the training and development of future large language models.",
+    "tags": [
+      "hardware",
+      "infrastructure",
+      "partnership",
+      "LLM training",
+      "AI accelerators"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "fcd04b4cc18dc9e698a8b0b93ca5329e",
     "source": "NVIDIA Blog",
     "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
     "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-14T14:00:00.000Z",
-    "id": "fcd04b4cc18dc9e698a8b0b93ca5329e",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "NVIDIA announced DLSS 4.5, bringing advanced super-resolution upgrades and a novel dynamic multi-frame generation technique. This iteration further enhances real-time rendering performance and visual fidelity in gaming and professional applications through sophisticated AI upscaling.",
     "tags": [
-      "Unverified"
+      "computer graphics",
+      "deep learning",
+      "super resolution",
+      "generative AI",
+      "real-time rendering",
+      "hardware acceleration"
     ],
-    "hype_score": 1
+    "hype_score": 8
   },
   {
+    "id": "5e1ad17a1acfa2744f3fa73c30e67df8",
     "source": "AWS ML",
     "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
     "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-13T23:13:18.000Z",
-    "id": "5e1ad17a1acfa2744f3fa73c30e67df8",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "AWS detailed technical strategies for securing Amazon Bedrock's cross-Region inference capabilities, addressing both geographic and global security considerations. The post outlines architectural patterns and best practices for safeguarding sensitive data and models during distributed inference operations.",
     "tags": [
-      "Unverified"
+      "AI security",
+      "cloud computing",
+      "infrastructure",
+      "MLOps",
+      "distributed systems"
     ],
-    "hype_score": 1
+    "hype_score": 6
   },
   {
     "id": "713a1f7f53fb36b389d3264b3eb9e49f",
     "source": "NVIDIA Blog",
     "title": "Learn How NVIDIA cuOpt Accelerates Mixed Integer Optimization using Primal Heuristics",
     "url": "https://developer.nvidia.com/blog/learn-how-nvidia-cuopt-accelerates-mixed-integer-optimization-using-primal-heuristics/",
-    "date_scraped": "2026-01-17T12:57:40.434Z",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-13T20:32:44.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA's latest engineering blog details how their cuOpt library significantly accelerates Mixed Integer Optimization (MIO) problems, which are critical for complex combinatorial challenges. The post focuses on the integration of advanced primal heuristics to achieve faster convergence and improve solution quality on GPU-accelerated platforms.",
+    "tldr": "NVIDIA detailed how its cuOpt library significantly accelerates Mixed Integer Optimization problems by leveraging advanced primal heuristics. This technical breakdown explains the algorithmic foundations and performance gains for solving complex combinatorial optimization tasks on NVIDIA GPUs.",
     "tags": [
       "optimization",
       "algorithms",
-      "gpu computing",
+      "CUDA",
+      "GPU acceleration",
       "operations research",
-      "software engineering"
+      "machine learning"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
+    "id": "e4501773a4193ce4e3681947982104dc",
     "source": "DeepMind",
     "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
     "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-13T17:00:18.000Z",
-    "id": "e4501773a4193ce4e3681947982104dc",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "DeepMind announced Veo 3.1, enhancing video generation with improved consistency, creativity, and finer control mechanisms. This iteration focuses on refining the underlying 'ingredients' for more robust and expressive video synthesis.",
     "tags": [
-      "Unverified"
+      "video generation",
+      "generative AI",
+      "deep learning",
+      "computer vision",
+      "model update"
     ],
-    "hype_score": 1
+    "hype_score": 7
   },
   {
+    "id": "4b12f1852fe8e9a495ab2605dd9faaff",
     "source": "LangChain",
     "title": "Now GA: LangSmith Agent Builder",
     "url": "https://www.blog.langchain.com/langsmith-agent-builder-generally-available/",
+    "date_scraped": "2026-01-18T12:57:15.607Z",
     "date_published": "2026-01-13T16:00:38.000Z",
-    "id": "4b12f1852fe8e9a495ab2605dd9faaff",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "LangChain announced the General Availability of LangSmith Agent Builder, a tool designed to simplify the construction and deployment of robust AI agents. This release provides developers with enhanced capabilities for developing, evaluating, and iterating on agentic workflows.",
     "tags": [
-      "Unverified"
+      "agentic AI",
+      "MLOps",
+      "LLM tools",
+      "developer tools",
+      "platform release"
     ],
-    "hype_score": 1
+    "hype_score": 7
   },
   {
     "id": "892741743eea1c0058f86186ac16de91",
     "source": "Anthropic News",
     "title": "Jan 13, 2026\nAnnouncements\nIntroducing Labs",
     "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
-    "date_scraped": "2026-01-17T12:56:53.321Z",
+    "date_scraped": "2026-01-18T12:56:28.036Z",
     "date_published": "2026-01-13T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic unveils \"Labs,\" a new dedicated division established to accelerate frontier AI research and development. This initiative will likely focus on highly experimental projects to push the boundaries of AI capabilities and safety mechanisms.",
+    "tldr": "Anthropic has unveiled \"Labs,\" a new research division dedicated to exploring frontier AI capabilities and high-impact, potentially riskier experimental projects. This initiative aims to push the boundaries of AI safety and general intelligence, providing a platform for advanced R&D.",
     "tags": [
       "research initiative",
       "AI safety",
       "frontier AI",
       "R&D",
-      "organizational structure"
+      "model development"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "adfbc2deadd36e98a905751e9b077560",
+    "source": "Anthropic News",
+    "title": "Jan 11, 2026\nAnnouncements\nAdvancing Claude in healthcare and the life sciences",
+    "url": "https://www.anthropic.com/news/healthcare-life-sciences",
+    "date_scraped": "2026-01-18T12:56:28.036Z",
+    "date_published": "2026-01-11T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "Anthropic detailed specific advancements in deploying and refining the Claude model for highly specialized applications within the healthcare and life sciences sectors. These efforts likely involve domain-specific fine-tuning, enhanced data privacy, and robust safety mechanisms tailored for critical medical and biological research contexts.",
+    "tags": [
+      "domain-specific AI",
+      "LLM application",
+      "fine-tuning",
+      "safety",
+      "healthcare",
+      "life sciences",
+      "responsible AI"
     ],
     "hype_score": 6
-  },
-  {
-    "source": "Meta AI",
-    "title": "CSS at Scale With StyleX",
-    "url": "https://engineering.fb.com/2026/01/12/web/css-at-scale-with-stylex/",
-    "date_published": "2026-01-12T18:34:59.000Z",
-    "id": "aed436b3afe46872da4cd4e4b7980e27",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "How Omada Health scaled patient care by fine-tuning Llama models on Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-omada-health-scaled-patient-care-by-fine-tuning-llama-models-on-amazon-sagemaker-ai/",
-    "date_published": "2026-01-12T16:56:12.000Z",
-    "id": "18327d3b1eaefa16168c4b5fd1a1ea5f",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "LangChain",
-    "title": "In software, the code documents the app. In AI, the traces do.",
-    "url": "https://www.blog.langchain.com/in-software-the-code-documents-the-app-in-ai-the-traces-do/",
-    "date_published": "2026-01-10T17:39:27.000Z",
-    "id": "27899396a6aaeb8fb75fddab9b3c2889",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Claude can now connect to your world",
-    "url": "https://claude.com/blog/integrations",
-    "date_published": "2025-05-01T00:00:00.000Z",
-    "id": "5c68ad537d8788666fa7f734cd825609",
-    "date_scraped": "2026-01-17T12:57:34.437Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
   }
 ]
