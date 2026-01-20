@@ -1,56 +1,56 @@
 [
   {
-    "id": "6bc268f5339cb45c46679eb3015e9993",
-    "source": "Claude Blog",
-    "title": "Cowork: Claude Code for the rest of your work",
-    "url": "https://claude.com/blog/cowork-research-preview",
-    "date_scraped": "2026-01-19T13:08:46.722Z",
-    "date_published": "2026-01-19T00:00:00.000Z",
+    "id": "63594910be6966a501ef26db7f491735",
+    "source": "Hugging Face",
+    "title": "Differential Transformer V2",
+    "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
+    "date_published": "2026-01-20T03:20:57.000Z",
     "is_technical": true,
-    "tldr": "Anthropic has introduced 'Cowork: Claude Code,' a research preview of a specialized AI agent designed for advanced coding and generalized workflow automation. This system aims to integrate robust programming capabilities with broader task execution, significantly extending Claude's functional utility.",
+    "tldr": "Microsoft, via Hugging Face, releases Differential Transformer V2, an updated transformer architecture. This iteration likely features enhanced attention mechanisms or computational optimizations, aiming to improve performance and efficiency in various sequence modeling tasks.",
     "tags": [
-      "LLM",
-      "code_generation",
-      "agents",
-      "research_preview",
-      "automation"
+      "transformer",
+      "deep_learning",
+      "model_architecture",
+      "natural_language_processing",
+      "computer_vision"
     ],
     "hype_score": 8
   },
   {
-    "id": "cb68f8012abdc9887b0941a2f55bb279",
-    "source": "Claude Blog",
-    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
-    "url": "https://claude.com/blog/building-skills-for-claude-code",
-    "date_scraped": "2026-01-19T13:08:46.722Z",
+    "id": "a3106a5a73e3756d124a7b7c11fcc7db",
+    "source": "Anthropic Research",
+    "title": "Jan 19, 2026\nInterpretability\nThe assistant axis: situating and stabilizing the character of large language models",
+    "url": "https://www.anthropic.com/research/assistant-axis",
+    "date_scraped": "2026-01-20T13:09:02.620Z",
     "date_published": "2026-01-19T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This engineering blog post details the technical methodologies for developing and integrating custom skills for Anthropic's newly introduced 'Claude Code' AI agent. It provides guidance for developers on effectively automating procedural knowledge and extending the agent's capabilities within various technical workflows.",
+    "tldr": "This research introduces the 'assistant axis' framework for situating and stabilizing the character of large language models. It explores methods to define and control an LLM's behavioral persona, aiming to improve consistency and alignment in conversational AI systems.",
     "tags": [
-      "agents",
-      "code_generation",
-      "SDK",
-      "development",
-      "engineering_blog",
-      "customization"
+      "interpretability",
+      "alignment",
+      "llm",
+      "character control",
+      "research paper"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "47e8cdb4cf80b10581ede87a131f1b22",
     "source": "AWS ML",
     "title": "Advanced fine-tuning techniques for multi-agent orchestration: Patterns from Amazon at scale",
     "url": "https://aws.amazon.com/blogs/machine-learning/advanced-fine-tuning-techniques-for-multi-agent-orchestration-patterns-from-amazon-at-scale/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-16T15:51:21.000Z",
     "is_technical": true,
-    "tldr": "This blog post details advanced fine-tuning methodologies specifically tailored for orchestrating complex multi-agent AI systems at Amazon's scale. It covers patterns and best practices for optimizing agent interactions and performance through sophisticated fine-tuning strategies.",
+    "tldr": "AWS shares advanced fine-tuning methodologies and architectural patterns for orchestrating multiple AI agents at Amazon's scale. The blog dives into specific techniques for improving inter-agent communication, task decomposition, and collaborative learning in complex, distributed AI systems.",
     "tags": [
-      "fine_tuning",
       "multi_agent_systems",
-      "llm",
-      "mlops",
-      "aws"
+      "fine_tuning",
+      "distributed_ai",
+      "aws",
+      "machine_learning",
+      "system_architecture"
     ],
     "hype_score": 7
   },
@@ -59,15 +59,14 @@
     "source": "OpenAI",
     "title": "Introducing ChatGPT Go, now available worldwide",
     "url": "https://openai.com/index/introducing-chatgpt-go",
-    "date_scraped": "2026-01-19T13:08:46.722Z",
+    "date_scraped": "2026-01-20T13:09:02.620Z",
     "date_published": "2026-01-16T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has officially launched ChatGPT Go, a new iteration aimed at significantly broadening global access to its flagship conversational AI. This release emphasizes expanded availability and optimized performance, suggesting architectural refinements for wider deployment.",
+    "tldr": "OpenAI has launched ChatGPT Go globally, offering a new, potentially optimized version of its conversational AI for widespread accessibility. This release expands the reach of ChatGPT, likely incorporating efficiencies for broader deployment across various regions.",
     "tags": [
-      "LLM",
-      "product_release",
-      "access",
+      "model release",
       "deployment",
+      "llm",
       "optimization"
     ],
     "hype_score": 7
@@ -77,16 +76,17 @@
     "source": "NVIDIA Blog",
     "title": "How to Train an AI Agent for Command-Line Tasks with Synthetic Data and Reinforcement Learning",
     "url": "https://developer.nvidia.com/blog/how-to-train-an-ai-agent-for-command-line-tasks-with-synthetic-data-and-reinforcement-learning/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-15T16:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA details a methodology for training AI agents to perform command-line tasks, leveraging synthetic data generation and reinforcement learning techniques. This approach enables agents to learn complex sequential decision-making for automating system administration and development workflows without extensive real-world interaction.",
+    "tldr": "NVIDIA details a method for training AI agents to perform command-line tasks, leveraging synthetic data generation and reinforcement learning. The approach focuses on creating robust agents capable of interacting with complex terminal environments, demonstrating techniques for efficient policy learning and generalization.",
     "tags": [
       "reinforcement_learning",
-      "synthetic_data",
       "ai_agents",
+      "synthetic_data",
+      "machine_learning",
       "nvidia",
-      "llm_applications"
+      "command_line_interface"
     ],
     "hype_score": 7
   },
@@ -95,16 +95,17 @@
     "source": "AWS ML",
     "title": "Safeguard generative AI applications with Amazon Bedrock Guardrails",
     "url": "https://aws.amazon.com/blogs/machine-learning/safeguard-generative-ai-applications-with-amazon-bedrock-guardrails/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-15T15:50:54.000Z",
     "is_technical": true,
-    "tldr": "AWS introduces Amazon Bedrock Guardrails, a technical feature designed to implement safety policies and mitigate risks within generative AI applications. These guardrails allow developers to define explicit content policies and filter undesirable outputs, enhancing responsible AI deployment at scale.",
+    "tldr": "AWS introduces Guardrails for Amazon Bedrock, providing a robust mechanism to implement safety policies and control outputs for generative AI applications. These guardrails help filter unwanted content, enforce specific topics, and ensure responsible AI deployments at scale by defining rules for model interactions.",
     "tags": [
+      "responsible_ai",
+      "safety",
       "generative_ai",
-      "ai_safety",
-      "bedrock",
+      "aws",
       "mlops",
-      "responsible_ai"
+      "infrastructure"
     ],
     "hype_score": 7
   },
@@ -113,33 +114,35 @@
     "source": "AWS ML",
     "title": "Scale creative asset discovery with Amazon Nova Multimodal Embeddings unified vector search",
     "url": "https://aws.amazon.com/blogs/machine-learning/scale-creative-asset-discovery-with-amazon-nova-multimodal-embeddings-unified-vector-search/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-15T15:45:02.000Z",
     "is_technical": true,
-    "tldr": "AWS announces Amazon Nova Multimodal Embeddings, providing a unified vector search capability to scale creative asset discovery through multimodal representations. This new service enables more efficient and semantically rich retrieval of diverse creative assets by embedding them into a shared vector space.",
+    "tldr": "AWS unveils Amazon Nova Multimodal Embeddings, a new service offering unified vector search for creative asset discovery. This feature leverages advanced multimodal embeddings to represent various data types (text, image, audio) in a common vector space, enabling efficient and semantically rich cross-modal search.",
     "tags": [
-      "multimodal",
+      "multimodal_ai",
       "embeddings",
       "vector_search",
       "information_retrieval",
-      "aws"
+      "aws",
+      "machine_learning"
     ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "b1db0c4242ddc5be20d148a1368ffb2b",
     "source": "Microsoft Research",
     "title": "OptiMind: A small language model with optimization expertise",
     "url": "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-15T14:00:00.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research introduces OptiMind, a specialized small language model engineered with expertise in optimization problems, aimed at efficient problem-solving in various domains. This model is designed to leverage its domain-specific knowledge to generate superior solutions for complex optimization tasks, showcasing the efficacy of specialized LLMs.",
+    "tldr": "Microsoft Research introduces OptiMind, a specialized small language model designed to provide expertise in optimization problems. The model is fine-tuned to understand and generate solutions for complex optimization tasks, demonstrating efficiency in resource-constrained environments.",
     "tags": [
       "llm",
+      "small_models",
       "optimization",
-      "specialized_models",
-      "microsoft_research"
+      "research",
+      "machine_learning"
     ],
     "hype_score": 7
   },
@@ -148,15 +151,16 @@
     "source": "Hugging Face",
     "title": "Open Responses: What you need to know",
     "url": "https://huggingface.co/blog/open-responses",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-15T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Hugging Face introduces \"Open Responses,\" a new platform feature designed to facilitate the collection and sharing of diverse model outputs for evaluation and fine-tuning purposes. This initiative aims to foster a collaborative environment for improving model quality and understanding through community-contributed response datasets.",
+    "tldr": "Hugging Face introduces \"Open Responses,\" a new initiative aimed at providing transparent and accessible mechanisms for interacting with and evaluating diverse AI models. This platform offers standardized methods for collecting and analyzing model outputs, fostering reproducibility and collaborative research in AI.",
     "tags": [
-      "platform",
-      "data_collection",
-      "llm_evaluation",
-      "fine_tuning"
+      "open_source_ai",
+      "model_evaluation",
+      "mlops",
+      "community",
+      "research"
     ],
     "hype_score": 6
   },
@@ -165,16 +169,17 @@
     "source": "AWS ML",
     "title": "Transform AI development with new Amazon SageMaker AI model customization and large-scale training capabilities",
     "url": "https://aws.amazon.com/blogs/machine-learning/transform-ai-development-with-new-amazon-sagemaker-ai-model-customization-and-large-scale-training-capabilities/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-14T21:13:42.000Z",
     "is_technical": true,
-    "tldr": "AWS has enhanced Amazon SageMaker with new capabilities for AI model customization and large-scale training, empowering developers to more efficiently tailor and scale their machine learning workflows. These updates facilitate advanced fine-tuning, distributed training, and robust model management for complex AI projects.",
+    "tldr": "AWS announces significant enhancements to Amazon SageMaker, introducing new capabilities for AI model customization and large-scale distributed training. These updates empower developers with more granular control over model architectures and enable efficient training of massive models across distributed infrastructure, accelerating AI development cycles.",
     "tags": [
       "sagemaker",
       "mlops",
       "distributed_training",
-      "fine_tuning",
-      "platform"
+      "model_customization",
+      "infrastructure",
+      "aws"
     ],
     "hype_score": 7
   },
@@ -183,15 +188,16 @@
     "source": "Meta AI",
     "title": "Adapting the Facebook Reels RecSys AI Model Based on User Feedback",
     "url": "https://engineering.fb.com/2026/01/14/ml-applications/adapting-the-facebook-reels-recsys-ai-model-based-on-user-feedback/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-14T20:51:33.000Z",
     "is_technical": true,
-    "tldr": "Meta AI details an adaptive strategy for its Facebook Reels recommendation system, utilizing continuous user feedback to refine model behavior and improve relevance. This involves dynamic model adjustments and potentially online learning mechanisms to ensure the system remains responsive to evolving user preferences.",
+    "tldr": "Meta details technical advancements in adapting their Facebook Reels recommendation system by incorporating direct user feedback signals. This involves modifying model architectures and training strategies to better align recommendations with explicit user preferences, improving content relevance and engagement.",
     "tags": [
-      "recommender_systems",
-      "mlops",
-      "reinforcement_learning",
-      "personalization"
+      "recommendation_systems",
+      "machine_learning",
+      "deep_learning",
+      "user_feedback",
+      "system_architecture"
     ],
     "hype_score": 6
   },
@@ -200,131 +206,72 @@
     "source": "NVIDIA Blog",
     "title": "How to Write High-Performance Matrix Multiply in NVIDIA CUDA Tile",
     "url": "https://developer.nvidia.com/blog/how-to-write-high-performance-matrix-multiply-in-nvidia-cuda-tile/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-14T20:41:37.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA provides an in-depth guide on implementing high-performance matrix multiplication using NVIDIA CUDA Tile, showcasing advanced optimization techniques for maximizing GPU throughput. The post delves into memory tiling, warp-level programming, and instruction scheduling to achieve optimal computational efficiency critical for deep learning workloads.",
+    "tldr": "NVIDIA provides an in-depth guide on optimizing matrix multiplication routines using CUDA Tile programming for maximum performance on NVIDIA GPUs. The article covers specific memory access patterns, thread block organization, and kernel tuning techniques crucial for high-efficiency deep learning operations.",
     "tags": [
       "cuda",
       "gpu_programming",
-      "optimization",
-      "deep_learning_primitives",
+      "performance_optimization",
+      "matrix_multiplication",
+      "deep_learning",
       "hardware_acceleration"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "e8acaafea3bb5cb3ac9c8e439ac0f4f7",
     "source": "LangChain",
     "title": "Choosing the Right Multi-Agent Architecture",
     "url": "https://www.blog.langchain.com/choosing-the-right-multi-agent-architecture/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
     "date_published": "2026-01-14T18:06:14.000Z",
     "is_technical": true,
-    "tldr": "This article provides a technical deep dive into various multi-agent architectures, offering guidance on selecting the optimal design for different AI agentic applications. It explores trade-offs, patterns, and considerations for effective agent collaboration and system scalability.",
+    "tldr": "LangChain provides a guide on evaluating and selecting appropriate multi-agent architectures for various AI applications. The article discusses trade-offs, design patterns, and considerations for effective agent collaboration, offering insights into building robust agentic systems.",
     "tags": [
       "multi_agent_systems",
-      "agent_architecture",
-      "llm",
+      "architecture",
+      "LangChain",
+      "engineering_best_practices",
       "design_patterns"
     ],
     "hype_score": 6
   },
   {
-    "source": "NVIDIA Blog",
-    "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
-    "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
+    "id": "33cb87dbd94ec9b25057c58eaa920a07",
+    "source": "OpenAI",
+    "title": "OpenAI partners with Cerebras  ",
+    "url": "https://openai.com/index/cerebras-partnership",
+    "date_scraped": "2026-01-20T13:09:02.620Z",
     "date_published": "2026-01-14T14:00:00.000Z",
-    "id": "fcd04b4cc18dc9e698a8b0b93ca5329e",
-    "date_scraped": "2026-01-19T13:09:25.166Z",
     "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
+    "tldr": "OpenAI has announced a strategic partnership with Cerebras, a leader in specialized AI hardware. This collaboration is likely aimed at leveraging Cerebras's wafer-scale engines for advanced AI model training and scaling, potentially pushing the boundaries of computational efficiency and model size.",
     "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "5e1ad17a1acfa2744f3fa73c30e67df8",
-    "source": "AWS ML",
-    "title": "Securing Amazon Bedrock cross-Region inference: Geographic and global",
-    "url": "https://aws.amazon.com/blogs/machine-learning/securing-amazon-bedrock-cross-region-inference-geographic-and-global/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
-    "date_published": "2026-01-13T23:13:18.000Z",
-    "is_technical": true,
-    "tldr": "This technical post outlines strategies and best practices for securing Amazon Bedrock inference across multiple geographic regions, focusing on data residency, access control, and network isolation. It addresses the architectural considerations necessary for robust and compliant global AI deployments.",
-    "tags": [
-      "bedrock",
-      "security",
       "infrastructure",
-      "mlops",
-      "distributed_systems"
-    ],
-    "hype_score": 6
-  },
-  {
-    "source": "NVIDIA Blog",
-    "title": "Learn How NVIDIA cuOpt Accelerates Mixed Integer Optimization using Primal Heuristics",
-    "url": "https://developer.nvidia.com/blog/learn-how-nvidia-cuopt-accelerates-mixed-integer-optimization-using-primal-heuristics/",
-    "date_published": "2026-01-13T20:32:44.000Z",
-    "id": "713a1f7f53fb36b389d3264b3eb9e49f",
-    "date_scraped": "2026-01-19T13:09:25.166Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "id": "e4501773a4193ce4e3681947982104dc",
-    "source": "DeepMind",
-    "title": "Veo 3.1 Ingredients to Video: More consistency, creativity and control",
-    "url": "https://deepmind.google/blog/veo-3-1-ingredients-to-video-more-consistency-creativity-and-control/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
-    "date_published": "2026-01-13T17:00:18.000Z",
-    "is_technical": true,
-    "tldr": "DeepMind has released Veo 3.1, enhancing its video generation model with improved consistency, creative control, and finer-grained parameter management. This update focuses on generating more coherent and controllable video sequences, addressing key challenges in long-form video synthesis.",
-    "tags": [
-      "generative_ai",
-      "video_generation",
-      "deep_learning",
-      "model_release"
+      "hardware",
+      "training",
+      "partnership"
     ],
     "hype_score": 8
   },
   {
-    "id": "4b12f1852fe8e9a495ab2605dd9faaff",
-    "source": "LangChain",
-    "title": "Now GA: LangSmith Agent Builder",
-    "url": "https://www.blog.langchain.com/langsmith-agent-builder-generally-available/",
-    "date_scraped": "2026-01-19T13:09:23.319Z",
-    "date_published": "2026-01-13T16:00:38.000Z",
+    "id": "fcd04b4cc18dc9e698a8b0b93ca5329e",
+    "source": "NVIDIA Blog",
+    "title": "NVIDIA DLSS 4.5 Delivers Super Resolution Upgrades and New Dynamic Multi Frame Generation",
+    "url": "https://developer.nvidia.com/blog/nvidia-dlss-4-5-delivers-super-resolution-upgrades-and-new-dynamic-multi-frame-generation/",
+    "date_scraped": "2026-01-20T13:09:51.854Z",
+    "date_published": "2026-01-14T14:00:00.000Z",
     "is_technical": true,
-    "tldr": "LangChain announces the General Availability of LangSmith Agent Builder, a comprehensive platform designed to streamline the development, testing, and deployment of robust AI agents. This tool provides advanced features for orchestrating complex agent behaviors and ensuring their reliability in production environments.",
+    "tldr": "NVIDIA announces DLSS 4.5, featuring significant super resolution upgrades and the introduction of Dynamic Multi Frame Generation. This update enhances AI-powered upscaling techniques, providing improved image fidelity and introducing dynamic frame generation methods to further boost graphics performance and visual quality in real-time applications.",
     "tags": [
-      "agent_development",
-      "langchain",
-      "mlops",
-      "platform",
-      "llm_ops"
+      "computer_graphics",
+      "deep_learning",
+      "super_resolution",
+      "generative_ai",
+      "nvidia",
+      "real_time_rendering"
     ],
-    "hype_score": 7
-  },
-  {
-    "id": "892741743eea1c0058f86186ac16de91",
-    "source": "Anthropic News",
-    "title": "Jan 13, 2026\nAnnouncements\nIntroducing Labs",
-    "url": "https://www.anthropic.com/news/introducing-anthropic-labs",
-    "date_scraped": "2026-01-19T13:08:46.722Z",
-    "date_published": "2026-01-13T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic has announced the establishment of 'Anthropic Labs,' a new dedicated division focused on accelerating frontier AI research and development. This initiative aims to foster innovation and facilitate the rapid prototyping of advanced AI systems and capabilities.",
-    "tags": [
-      "research_infrastructure",
-      "R&D",
-      "AI_development"
-    ],
-    "hype_score": 5
+    "hype_score": 8
   }
 ]
