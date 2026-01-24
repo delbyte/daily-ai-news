@@ -1,40 +1,76 @@
 [
   {
-    "id": "8cb5ad2290d4bb8392cbd3a780655f8b",
-    "source": "NVIDIA Blog",
-    "title": "Overcoming Compute and Memory Bottlenecks with FlashAttention-4 on NVIDIA Blackwell ",
-    "url": "https://developer.nvidia.com/blog/overcoming-compute-and-memory-bottlenecks-with-flashattention-4-on-nvidia-blackwell/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
-    "date_published": "2026-01-22T22:22:01.000Z",
+    "id": "ff7f93e3363eac9534d81ac29e796567",
+    "source": "AWS ML",
+    "title": "Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
+    "date_published": "2026-01-23T17:54:02.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA detailed FlashAttention-4, an optimized attention mechanism designed to significantly overcome compute and memory bottlenecks on their new Blackwell architecture. This advancement promises substantial speedups and memory efficiency for large-scale transformer models, enabling the training and inference of even larger AI models.",
+    "tldr": "AWS released an engineering blog detailing the robust provisioning and management of AI agents with Amazon Bedrock AgentCore using AWS CloudFormation. This post provides technical patterns for deploying complex agentic workflows as secure, scalable, and reproducible infrastructure-as-code.",
     "tags": [
-      "hardware acceleration",
-      "transformers",
-      "optimization",
-      "FlashAttention",
-      "NVIDIA",
+      "AI agents",
       "infrastructure",
-      "engineering blog"
+      "cloud formation",
+      "AWS Bedrock",
+      "deployment"
     ],
-    "hype_score": 9
+    "hype_score": 6
+  },
+  {
+    "id": "df040834e32264a666bc79011c9fd401",
+    "source": "AWS ML",
+    "title": "How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
+    "date_published": "2026-01-23T17:49:37.000Z",
+    "is_technical": true,
+    "tldr": "The Amazon.com Catalog Team shared an engineering deep-dive on building self-learning generative AI at scale using Amazon Bedrock, detailing architectural decisions and deployment strategies. This offers valuable insights into operationalizing large-scale generative AI systems for critical enterprise functions.",
+    "tags": [
+      "generative AI",
+      "scaling",
+      "enterprise AI",
+      "AWS Bedrock",
+      "case study",
+      "engineering"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "4d2f2d9410429793d61f829325ffbacc",
+    "source": "OpenAI",
+    "title": "Unrolling the Codex agent loop",
+    "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
+    "date_scraped": "2026-01-24T12:58:03.506Z",
+    "date_published": "2026-01-23T12:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI details the technical process of \"unrolling\" agent loops, a method designed to enhance the robustness and predictability of AI agents like Codex. This approach aims to explicitly manage multi-step reasoning and action sequences, improving performance and mitigating emergent failures in complex autonomous systems.",
+    "tags": [
+      "agents",
+      "AI architecture",
+      "control flow",
+      "software engineering",
+      "LLMs"
+    ],
+    "hype_score": 7
   },
   {
     "id": "4df67ba79edea2c07e7e72c371c46053",
     "source": "NVIDIA Blog",
     "title": "Scaling NVFP4 Inference for FLUX.2 on NVIDIA Blackwell Data Center GPUs",
     "url": "https://developer.nvidia.com/blog/scaling-nvfp4-inference-for-flux-2-on-nvidia-blackwell-data-center-gpus/",
-    "date_scraped": "2026-01-23T13:06:56.407Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-22T19:21:07.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA details advanced techniques for significantly accelerating inference of the FLUX.2 model by leveraging NVFP4 quantization on their new Blackwell Data Center GPUs. This engineering blog post explores the architectural optimizations and software stack enhancements crucial for deploying large language models with greater efficiency and reduced memory footprint in production environments.",
+    "tldr": "NVIDIA detailed a technical approach to scaling NVFP4 inference for their FLUX.2 model on the new Blackwell Data Center GPUs, showcasing significant advancements in optimizing low-precision computation for high-performance AI. This engineering deep-dive provides critical insights into leveraging cutting-edge hardware for efficient large model deployment.",
     "tags": [
       "inference",
-      "quantization",
-      "hardware",
-      "gpu",
       "optimization",
-      "llm"
+      "hardware",
+      "GPUs",
+      "low-precision",
+      "NVIDIA",
+      "infrastructure"
     ],
     "hype_score": 8
   },
@@ -43,17 +79,16 @@
     "source": "AWS ML",
     "title": "How PDI built an enterprise-grade RAG system for AI applications with AWS",
     "url": "https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-22T17:11:47.000Z",
     "is_technical": true,
-    "tldr": "PDI detailed their implementation of an enterprise-grade Retrieval Augmented Generation (RAG) system using AWS services, outlining the architecture and challenges in scaling AI applications. The blog post emphasizes best practices for building robust and performant RAG pipelines for real-world enterprise use cases.",
+    "tldr": "PDI detailed their engineering process for constructing an enterprise-grade Retrieval Augmented Generation (RAG) system for AI applications on AWS, emphasizing architectural choices for reliability and scalability. This technical deep-dive provides insights into robust RAG implementation for production use cases.",
     "tags": [
       "RAG",
       "enterprise AI",
-      "infrastructure",
       "AWS",
-      "MLOps",
-      "engineering blog"
+      "architecture",
+      "engineering"
     ],
     "hype_score": 6
   },
@@ -62,16 +97,16 @@
     "source": "OpenAI",
     "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
     "url": "https://openai.com/index/scaling-postgresql",
-    "date_scraped": "2026-01-23T13:06:04.607Z",
+    "date_scraped": "2026-01-24T12:58:03.506Z",
     "date_published": "2026-01-22T12:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI published an engineering blog detailing their strategies and solutions for scaling PostgreSQL to efficiently support 800 million ChatGPT users globally. This technical deep dive covers sharding, connection pooling, and performance optimization techniques for high-throughput, large-scale database infrastructure powering AI applications.",
+    "tldr": "OpenAI's engineering team outlines their strategies for massive-scale PostgreSQL deployment to support 800 million ChatGPT users, addressing critical infrastructure challenges. The article delves into architectural decisions, sharding techniques, and performance optimizations required for high-throughput and low-latency operation of core AI services.",
     "tags": [
       "infrastructure",
       "database",
-      "scalability",
+      "scaling",
       "engineering",
-      "deployment"
+      "PostgreSQL"
     ],
     "hype_score": 6
   },
@@ -80,16 +115,16 @@
     "source": "Anthropic News",
     "title": "Jan 22, 2026\nAnnouncements\nClaude's new constitution",
     "url": "https://www.anthropic.com/news/claude-new-constitution",
-    "date_scraped": "2026-01-23T13:06:04.607Z",
+    "date_scraped": "2026-01-24T12:58:03.506Z",
     "date_published": "2026-01-22T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic announced an update to Claude's constitution, detailing refined principles and technical methods for internal alignment and safety guiding their AI models. This pivotal development underpins how Claude ensures ethical behavior and mitigates harmful outputs, shaping the future of deployable AI systems.",
+    "tldr": "Anthropic announced an updated \"constitution\" for its Claude AI, signifying advancements in its Constitutional AI framework for model alignment and safety. This update refines the principles governing the AI's self-correction mechanisms, further enhancing its ability to filter undesirable outputs and adhere to ethical guidelines.",
     "tags": [
-      "alignment",
-      "ethical_ai",
-      "safety",
-      "LLM",
-      "governance"
+      "AI alignment",
+      "constitutional AI",
+      "ethics",
+      "LLMs",
+      "safety"
     ],
     "hype_score": 8
   },
@@ -98,55 +133,51 @@
     "source": "AWS ML",
     "title": "How Thomson Reuters built an Agentic Platform Engineering Hub with Amazon Bedrock AgentCore",
     "url": "https://aws.amazon.com/blogs/machine-learning/how-thomson-reuters-built-an-agentic-platform-engineering-hub-with-amazon-bedrock-agentcore/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-21T21:39:42.000Z",
     "is_technical": true,
-    "tldr": "Thomson Reuters detailed the creation of an \"Agentic Platform Engineering Hub\" utilizing Amazon Bedrock AgentCore, outlining the architectural choices and engineering practices involved. This initiative focuses on developing scalable and robust AI agent solutions for complex enterprise workflows.",
+    "tldr": "Thomson Reuters shared their engineering methodology for establishing an Agentic Platform Engineering Hub leveraging Amazon Bedrock AgentCore, focusing on the infrastructure and tooling to support complex multi-agent systems. The article provides a blueprint for building scalable and manageable platforms for AI agent development and deployment.",
     "tags": [
-      "agents",
-      "infrastructure",
-      "AWS",
-      "MLOps",
+      "AI agents",
       "platform engineering",
-      "engineering blog"
+      "AWS Bedrock",
+      "infrastructure",
+      "enterprise AI"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "97b587e7188e00122b1ba246a2fcff65",
     "source": "NVIDIA Blog",
     "title": "Streamlining CUB with a Single-Call API",
     "url": "https://developer.nvidia.com/blog/streamlining-cub-with-a-single-call-api/",
-    "date_scraped": "2026-01-23T13:06:56.407Z",
+    "date_scraped": "2026-01-24T12:58:53.054Z",
     "date_published": "2026-01-21T21:28:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces a streamlined, single-call API for CUB (CUDA Unbound), simplifying the development and optimization of GPU-accelerated algorithms. This enhancement aims to reduce boilerplate code and improve developer productivity when implementing parallel primitives such as sorting, scanning, and reductions on CUDA-enabled GPUs.",
+    "tldr": "NVIDIA has introduced a new single-call API for CUB (CUDA Unbound), simplifying complex kernel launch sequences for common operations like sort, scan, and reduce. This significantly reduces boilerplate code and potential error points, enhancing developer productivity and GPU programming efficiency by abstracting away intricate CUDA launch details.",
     "tags": [
-      "gpu",
       "cuda",
-      "library",
-      "programming",
-      "optimization",
-      "developer_tools"
+      "gpu_programming",
+      "infrastructure",
+      "performance_optimization"
     ],
-    "hype_score": 6
+    "hype_score": 5
   },
   {
     "id": "46e3ec6f68b3b2c85ce616bd520d5c83",
     "source": "AWS ML",
     "title": "Build agents to learn from experiences using Amazon Bedrock AgentCore episodic memory",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-agents-to-learn-from-experiences-using-amazon-bedrock-agentcore-episodic-memory/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-21T19:45:04.000Z",
     "is_technical": true,
-    "tldr": "This post elaborates on building AI agents capable of learning from experiences using Amazon Bedrock AgentCore's new episodic memory feature. It details how this mechanism enables agents to retain and leverage past interactions and observations, significantly enhancing their long-term reasoning and decision-making abilities.",
+    "tldr": "AWS introduced how developers can leverage Amazon Bedrock AgentCore's new episodic memory feature, enabling AI agents to learn from past experiences and improve decision-making over time. This technical guide explains the implementation of persistent memory structures crucial for more sophisticated and adaptive agent behavior.",
     "tags": [
-      "agents",
+      "AI agents",
       "memory",
-      "reinforcement learning",
-      "AWS",
-      "LLM",
-      "feature release"
+      "episodic memory",
+      "AWS Bedrock",
+      "agent architecture"
     ],
     "hype_score": 7
   },
@@ -155,18 +186,16 @@
     "source": "AWS ML",
     "title": "Using Strands Agents to create a multi-agent solution with Meta’s Llama 4 and Amazon Bedrock",
     "url": "https://aws.amazon.com/blogs/machine-learning/using-strands-agents-to-create-a-multi-agent-solution-with-metas-llama-4-and-amazon-bedrock/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-21T17:47:44.000Z",
     "is_technical": true,
-    "tldr": "This technical guide demonstrates the construction of a multi-agent solution by integrating Strands Agents with Meta’s Llama 4 and Amazon Bedrock. It details the orchestration patterns and communication protocols necessary for complex distributed agent systems, providing insights into leveraging different LLMs and platforms for collaborative AI tasks.",
+    "tldr": "An engineering blog demonstrates the creation of a multi-agent solution by integrating Strands Agents with Meta's Llama 4 and Amazon Bedrock, providing a technical blueprint for complex AI orchestrations. This showcases practical methods for combining advanced models and platforms to build sophisticated agentic systems.",
     "tags": [
       "multi-agent systems",
-      "LLM",
-      "Llama",
-      "AWS",
-      "agents",
-      "orchestration",
-      "engineering blog"
+      "Llama 4",
+      "AWS Bedrock",
+      "integration",
+      "agent architecture"
     ],
     "hype_score": 7
   },
@@ -175,36 +204,33 @@
     "source": "LangChain",
     "title": "Deploy agents instantly with Agent Builder templates",
     "url": "https://www.blog.langchain.com/introducing-agent-builder-template-library/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-21T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "LangChain introduced an Agent Builder Template Library, designed to accelerate the development and deployment of AI agents by providing pre-configured, modular templates. This initiative simplifies agent creation, allowing developers to quickly scaffold and customize agentic workflows for various applications.",
+    "tldr": "LangChain introduced an Agent Builder template library, enabling developers to rapidly deploy pre-configured AI agents for various use cases with minimal setup. This new feature significantly streamlines the development and deployment process for agentic applications, abstracting away underlying complexities.",
     "tags": [
-      "agents",
+      "AI agents",
       "frameworks",
-      "MLOps",
       "LangChain",
-      "tooling",
-      "feature release"
+      "deployment",
+      "developer tools"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "1698d8941074e4eaba9c4f15e2eb1a3f",
     "source": "LangChain",
     "title": "Building Multi-Agent Applications with Deep Agents",
     "url": "https://www.blog.langchain.com/building-multi-agent-applications-with-deep-agents/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-21T16:30:00.000Z",
     "is_technical": true,
-    "tldr": "This LangChain blog provides a technical deep dive into constructing multi-agent applications using \"Deep Agents\" within the LangChain ecosystem. It covers architectural patterns, communication strategies, and orchestration techniques essential for developing complex, collaborative AI agent systems.",
+    "tldr": "LangChain published a technical guide on constructing complex multi-agent applications using their \"Deep Agents\" paradigm, offering insights into orchestrating specialized AI agents for collaborative task execution. The post delves into architectural considerations and practical implementation strategies for robust multi-agent systems.",
     "tags": [
       "multi-agent systems",
-      "agents",
       "LangChain",
-      "architecture",
-      "frameworks",
-      "engineering blog"
+      "agent architecture",
+      "frameworks"
     ],
     "hype_score": 7
   },
@@ -213,16 +239,15 @@
     "source": "Hugging Face",
     "title": "AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality",
     "url": "https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-21T06:25:31.000Z",
     "is_technical": true,
-    "tldr": "IBM Research introduces AssetOpsBench, a new benchmark designed to evaluate AI agents in industrial operational settings, bridging the gap between theoretical benchmarks and real-world complexity. It provides a playground on Hugging Face for assessing agent performance on tasks relevant to asset management and operational intelligence.",
+    "tldr": "IBM Research introduces AssetOpsBench, a new benchmark specifically designed to bridge the gap between theoretical AI agent benchmarks and industrial reality. It focuses on evaluating agent performance in complex, multi-modal operational tasks, providing a more robust assessment of AI agents for enterprise deployment.",
     "tags": [
-      "agents",
       "benchmarking",
-      "evaluation",
+      "AI agents",
       "industrial AI",
-      "dataset",
+      "evaluation",
       "research"
     ],
     "hype_score": 7
@@ -232,18 +257,16 @@
     "source": "AWS ML",
     "title": "Introducing multimodal retrieval for Amazon Bedrock Knowledge Bases",
     "url": "https://aws.amazon.com/blogs/machine-learning/introducing-multimodal-retrieval-for-amazon-bedrock-knowledge-bases/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-20T18:22:25.000Z",
     "is_technical": true,
-    "tldr": "AWS introduced multimodal retrieval capabilities for Amazon Bedrock Knowledge Bases, enabling systems to retrieve relevant information from a combination of text, images, and other data types. This enhancement significantly improves the context understanding and accuracy of RAG systems by leveraging diverse input modalities.",
+    "tldr": "AWS announced the introduction of multimodal retrieval capabilities for Amazon Bedrock Knowledge Bases, allowing users to query and retrieve information across text, images, and audio data types. This enhancement significantly expands the scope and utility of RAG systems by enabling comprehensive, cross-modal understanding.",
     "tags": [
-      "multimodal",
+      "multimodal AI",
       "RAG",
       "knowledge bases",
-      "AWS",
-      "retrieval",
-      "embeddings",
-      "feature release"
+      "AWS Bedrock",
+      "information retrieval"
     ],
     "hype_score": 8
   },
@@ -252,35 +275,34 @@
     "source": "LangChain",
     "title": "From Traces to Insights: Understanding Agent Behavior at Scale",
     "url": "https://www.blog.langchain.com/from-traces-to-insights-understanding-agent-behavior-at-scale/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-20T17:16:56.000Z",
     "is_technical": true,
-    "tldr": "LangChain explores advanced techniques for understanding and analyzing AI agent behavior at scale, focusing on transforming execution traces into actionable insights. This involves methodologies for debugging, performance monitoring, and ensuring reliable operation of complex agentic workflows.",
+    "tldr": "LangChain released an engineering blog focusing on tools and methodologies for understanding and analyzing AI agent behavior at scale, leveraging tracing capabilities to gain insights into complex agentic workflows. This addresses the critical challenge of observability and debugging for production-grade agent deployments.",
     "tags": [
-      "agents",
+      "AI agents",
       "observability",
       "debugging",
-      "MLOps",
+      "scaling",
       "LangChain",
-      "engineering blog"
+      "engineering"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "bf4a9258178f57bd95ef0faa9d42bc5d",
     "source": "Microsoft Research",
     "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
     "url": "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents/",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-20T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research introduces a novel approach for multimodal reinforcement learning that incorporates an agentic verifier to improve AI agent performance. This system leverages multimodal inputs for enhanced understanding and decision-making, while the verifier mechanism ensures more robust and reliable agent behavior through dynamic validation.",
+    "tldr": "Microsoft Research unveils a novel framework for multimodal reinforcement learning, integrating an agentic verifier to enhance the reliability and performance of AI agents. This approach addresses challenges in complex, real-world environments by enabling agents to evaluate and refine their actions based on diverse sensory inputs.",
     "tags": [
-      "multimodal",
       "reinforcement learning",
-      "agents",
-      "verification",
-      "LLM",
+      "multimodal AI",
+      "agentic AI",
+      "verifier",
       "research"
     ],
     "hype_score": 8
@@ -290,17 +312,16 @@
     "source": "Hugging Face",
     "title": "Differential Transformer V2",
     "url": "https://huggingface.co/blog/microsoft/diff-attn-v2",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-20T03:20:57.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research announced Differential Transformer V2, an architectural update designed to enhance the efficiency and performance of Transformer models. This iteration likely features refinements in its attention mechanism or gradient propagation, aiming for faster training or improved representation learning.",
+    "tldr": "Microsoft introduces Differential Transformer V2 (Diff-Attn-v2), an architectural advancement in transformer models that refines differential attention mechanisms. This update aims to significantly improve efficiency and performance, particularly for large-scale language and multimodal models by optimizing computational costs.",
     "tags": [
-      "transformers",
+      "transformer",
       "architecture",
-      "neural networks",
-      "deep learning",
-      "NLP",
-      "research"
+      "attention mechanisms",
+      "efficiency",
+      "model release"
     ],
     "hype_score": 8
   },
@@ -309,34 +330,33 @@
     "source": "OpenAI",
     "title": "Our approach to age prediction",
     "url": "https://openai.com/index/our-approach-to-age-prediction",
-    "date_scraped": "2026-01-23T13:06:04.607Z",
+    "date_scraped": "2026-01-24T12:58:03.506Z",
     "date_published": "2026-01-20T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI released a technical post outlining their methodology and considerations for developing AI models capable of age prediction. The article discusses data handling, model architectures, and the ethical implications and bias mitigation strategies inherent in such sensitive applications.",
+    "tldr": "OpenAI presents its technical approach to age prediction, likely covering the methodologies, model architectures, and data considerations involved in accurately estimating age from various inputs. This includes discussions on balancing predictive accuracy with ethical implications, privacy, and responsible AI deployment.",
     "tags": [
-      "computer_vision",
-      "ethical_ai",
-      "bias_mitigation",
-      "application",
-      "data_science"
+      "computer vision",
+      "multimodal AI",
+      "model architecture",
+      "ethics",
+      "prediction"
     ],
-    "hype_score": 5
+    "hype_score": 6
   },
   {
     "id": "4d1007eb2a2c4d77b906d92bf209a26a",
     "source": "Hugging Face",
     "title": "Introducing Waypoint-1: Real-time interactive video diffusion from Overworld",
     "url": "https://huggingface.co/blog/waypoint-1",
-    "date_scraped": "2026-01-23T13:06:49.888Z",
+    "date_scraped": "2026-01-24T12:58:48.493Z",
     "date_published": "2026-01-20T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Overworld introduced Waypoint-1, a novel real-time interactive video diffusion model capable of generating dynamic visual content with immediate user feedback. This breakthrough enables more fluid and creative control over video synthesis, pushing the boundaries of interactive generative AI.",
+    "tldr": "Overworld unveils Waypoint-1, a pioneering real-time interactive video diffusion model capable of generating dynamic video content with immediate user input. This breakthrough represents a significant leap in creative AI, enabling fluid human-computer co-creation and instant visual synthesis.",
     "tags": [
       "video generation",
       "diffusion models",
       "real-time AI",
-      "generative AI",
-      "vision",
+      "interactive AI",
       "model release"
     ],
     "hype_score": 9
@@ -346,17 +366,17 @@
     "source": "Anthropic Research",
     "title": "Jan 19, 2026\nInterpretability\nThe assistant axis: situating and stabilizing the character of large language models",
     "url": "https://www.anthropic.com/research/assistant-axis",
-    "date_scraped": "2026-01-23T13:06:04.607Z",
+    "date_scraped": "2026-01-24T12:58:03.506Z",
     "date_published": "2026-01-19T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic research introduced 'The Assistant Axis,' a novel interpretability framework for precisely situating and stabilizing the character and behavioral traits of large language models. This work provides technical mechanisms to achieve fine-grained control over AI persona consistency, crucial for reliable and predictable model interactions.",
+    "tldr": "Anthropic research introduces \"the assistant axis,\" a novel interpretability framework for characterizing and stabilizing the behavioral attributes of large language models. This work focuses on identifying and controlling latent dimensions of model behavior to achieve more consistent and aligned responses across varying interaction contexts.",
     "tags": [
       "interpretability",
-      "alignment",
-      "LLM",
-      "control",
-      "behavioral_ai"
+      "AI alignment",
+      "LLMs",
+      "model control",
+      "behavioral science"
     ],
-    "hype_score": 7
+    "hype_score": 8
   }
 ]
