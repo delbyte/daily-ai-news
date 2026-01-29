@@ -1,73 +1,166 @@
 [
   {
+    "id": "f42a9084192813b4943101335343710b",
+    "source": "NVIDIA Blog",
+    "title": "Ensuring Balanced GPU Allocation in Kubernetes Clusters with Time-Based Fairshare",
+    "url": "https://developer.nvidia.com/blog/ensuring-balanced-gpu-allocation-in-kubernetes-clusters-with-time-based-fairshare/",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
+    "date_published": "2026-01-28T17:00:00.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA details a \"Time-Based Fairshare\" mechanism for ensuring balanced GPU allocation within Kubernetes clusters, optimizing resource utilization for AI workloads. This approach aims to prevent resource starvation and improve throughput for multiple users or jobs sharing GPU infrastructure.",
+    "tags": [
+      "infrastructure",
+      "GPU",
+      "Kubernetes",
+      "resource management",
+      "distributed computing"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "6e0b2fa75c719701a17bebe18d707e3a",
+    "source": "NVIDIA Blog",
+    "title": "Speeding Up Variable-Length Training with Dynamic Context Parallelism and NVIDIA Megatron Core",
+    "url": "https://developer.nvidia.com/blog/speeding-up-variable-length-training-with-dynamic-context-parallelism-and-nvidia-megatron-core/",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
+    "date_published": "2026-01-28T16:28:06.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA presents methods for accelerating variable-length training of large language models by employing Dynamic Context Parallelism with NVIDIA Megatron Core. This technical deep dive explains how to efficiently handle varying input sizes, leading to significant speedups and improved GPU utilization during model training.",
+    "tags": [
+      "large language models",
+      "model training",
+      "distributed training",
+      "GPU",
+      "optimization",
+      "Megatron"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "3bd7288f6071eb736d7bff5cf5349b63",
+    "source": "NVIDIA Blog",
+    "title": "Updating Classifier Evasion for Vision Language Models",
+    "url": "https://developer.nvidia.com/blog/updating-classifier-evasion-for-vision-language-models/",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
+    "date_published": "2026-01-28T16:19:12.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA explores updated techniques for classifier evasion in Vision Language Models, addressing the ongoing challenge of adversarial robustness in multimodal AI. The blog details new methods for understanding and defending against attacks that attempt to manipulate model classifications through subtle input perturbations.",
+    "tags": [
+      "vision language models",
+      "adversarial attacks",
+      "AI safety",
+      "robustness",
+      "multimodal AI"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "8ac92abc848e1dd84ec06bff256d8709",
+    "source": "LangChain",
+    "title": "Context Management for Deep Agents",
+    "url": "https://www.blog.langchain.com/context-management-for-deepagents/",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
+    "date_published": "2026-01-28T16:11:29.000Z",
+    "is_technical": true,
+    "tldr": "LangChain discusses advanced strategies for context management in \"Deep Agents,\" addressing a critical challenge in building robust and long-running autonomous AI systems. The post explores techniques to maintain relevant information over extended interactions and complex tasks, enhancing agent reliability and performance.",
+    "tags": [
+      "agentic AI",
+      "context window",
+      "large language models",
+      "infrastructure",
+      "AI architecture"
+    ],
+    "hype_score": 7
+  },
+  {
     "id": "7d0bdfd7adc69f7660bdf800ed0b305e",
     "source": "Hugging Face",
     "title": "Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI",
     "url": "https://huggingface.co/blog/nvidia/nemotron-personas-brazil",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-28T00:56:10.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA, in collaboration with Brazil, announces Nemotron-Personas-Brazil, a co-designed dataset aimed at facilitating sovereign AI development tailored to local linguistic and cultural contexts. This initiative focuses on creating robust, ethically aligned data for training country-specific large language models.",
+    "tldr": "NVIDIA, via Hugging Face, introduces Nemotron-Personas-Brazil, highlighting a co-designed data approach to develop sovereign AI capabilities tailored for specific regions. This initiative focuses on creating culturally and linguistically relevant datasets to improve model performance and autonomy for local applications.",
     "tags": [
+      "large language models",
       "data engineering",
-      "LLM",
-      "sovereign AI",
-      "ethics"
+      "responsible AI",
+      "localized AI",
+      "sovereign AI"
     ],
     "hype_score": 7
   },
   {
-    "id": "c0107b7e16772f5f895e217935207b5d",
-    "source": "Claude Blog",
-    "title": "How enterprises are building AI agents in 2026",
-    "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
-    "date_scraped": "2026-01-28T13:10:08.286Z",
+    "id": "ce43bcebacd259570eab000b173650fe",
+    "source": "OpenAI",
+    "title": "Keeping your data safe when an AI agent clicks a link",
+    "url": "https://openai.com/index/ai-agent-link-safety",
+    "date_scraped": "2026-01-29T13:16:57.421Z",
     "date_published": "2026-01-28T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog post explores the current landscape of enterprise AI agent development in 2026, detailing various architectural patterns and implementation strategies. It provides insights into how organizations are leveraging advanced LLM capabilities and agentic frameworks to automate complex workflows and integrate AI into business processes.",
+    "tldr": "OpenAI published an engineering blog detailing technical strategies for safeguarding user data when AI agents autonomously interact with web links. The post likely covers implementation details for sandboxing, access control mechanisms, and other robust security measures to prevent data leakage or compromise during agentic web navigation.",
     "tags": [
-      "agents",
-      "enterprise_AI",
+      "agent",
+      "security",
+      "privacy",
       "LLM",
-      "architecture",
-      "engineering",
-      "best_practices"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "cb68f8012abdc9887b0941a2f55bb279",
-    "source": "Claude Blog",
-    "title": "Building Skills for Claude Code: Automating your procedural knowledge",
-    "url": "https://claude.com/blog/building-skills-for-claude-code",
-    "date_scraped": "2026-01-28T13:10:08.286Z",
-    "date_published": "2026-01-28T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This technical guide focuses on developing and integrating custom skills into Claude Code, enabling the automation of procedural knowledge for complex tasks. It delves into the methodologies for defining and implementing domain-specific capabilities, thereby enhancing Claude's utility in specialized coding environments and applications.",
-    "tags": [
-      "agents",
-      "LLM",
-      "code_generation",
-      "prompt_engineering",
-      "skills",
-      "development_tools"
+      "engineering"
     ],
     "hype_score": 6
+  },
+  {
+    "id": "a734e86927bfae8cf8357481710805e8",
+    "source": "Anthropic Research",
+    "title": "Jan 28, 2026\nAlignment\nDisempowerment patterns in real-world AI usage",
+    "url": "https://www.anthropic.com/research/disempowerment-patterns",
+    "date_scraped": "2026-01-29T13:16:57.421Z",
+    "date_published": "2026-01-28T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "Anthropic released research on 'Disempowerment patterns in real-world AI usage,' examining instances where AI system deployments inadvertently reduce human agency or control. The paper likely details methodological approaches for identifying such patterns through empirical analysis and proposes technical interventions within AI alignment strategies to mitigate these effects.",
+    "tags": [
+      "alignment",
+      "safety",
+      "ethics",
+      "human_AI_interaction",
+      "LLM",
+      "research"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "419cdcf844282d47cb9508b7897864c6",
+    "source": "Hugging Face",
+    "title": "We Got Claude to Build CUDA Kernels and teach open models!",
+    "url": "https://huggingface.co/blog/upskill",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
+    "date_published": "2026-01-28T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "A Hugging Face blog demonstrates using Claude to generate complex CUDA kernels, effectively leveraging LLMs for low-level performance-critical code synthesis. This work also explores how these generated kernels can then be used to teach and improve open-source models, bridging advanced model capabilities with infrastructure optimization.",
+    "tags": [
+      "code generation",
+      "large language models",
+      "CUDA",
+      "agentic AI",
+      "model training",
+      "open-source AI"
+    ],
+    "hype_score": 9
   },
   {
     "id": "8131d2840716f1c0680478784392e75c",
     "source": "NVIDIA Blog",
     "title": "Accelerating Diffusion Models with an Open, Plug-and-Play Offering",
     "url": "https://developer.nvidia.com/blog/accelerating-diffusion-models-with-an-open-plug-and-play-offering/",
-    "date_scraped": "2026-01-28T13:11:01.091Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-27T19:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces a new open, plug-and-play offering designed to significantly accelerate the inference and training of diffusion models. This technical release provides optimized libraries and frameworks, allowing developers to integrate high-performance diffusion capabilities into their applications with reduced computational overhead.",
+    "tldr": "NVIDIA introduces an open, plug-and-play offering designed to significantly accelerate diffusion models, providing developers with optimized tools and frameworks. This initiative aims to streamline the deployment and enhance the performance of generative AI applications, making diffusion models more accessible and efficient.",
     "tags": [
       "diffusion models",
-      "AI acceleration",
-      "deep learning inference",
-      "NVIDIA"
+      "generative AI",
+      "GPU",
+      "optimization",
+      "frameworks"
     ],
     "hype_score": 7
   },
@@ -76,15 +169,16 @@
     "source": "Microsoft Research",
     "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
     "url": "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning/",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-27T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research introduces UniRG, a system designed to scale medical imaging report generation using multimodal reinforcement learning. UniRG leverages visual and textual inputs to produce high-quality, clinically relevant reports, addressing challenges in data scarcity and human-in-the-loop feedback.",
+    "tldr": "Microsoft Research introduces UniRG, a novel system leveraging multimodal reinforcement learning to scale the generation of medical imaging reports. This approach aims to improve the accuracy and efficiency of diagnostic processes by combining visual and textual data.",
     "tags": [
       "multimodal AI",
       "reinforcement learning",
       "medical AI",
-      "report generation"
+      "computer vision",
+      "natural language generation"
     ],
     "hype_score": 8
   },
@@ -93,15 +187,16 @@
     "source": "Hugging Face",
     "title": "Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek ",
     "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-27T15:01:45.000Z",
     "is_technical": true,
-    "tldr": "This blog post explores the fundamental architectural choices shaping China's open-source AI ecosystem, particularly discussing developments and strategies beyond the influence of DeepSeek. It analyzes trends in model design, infrastructure, and community collaboration that are driving innovation in the region.",
+    "tldr": "This Hugging Face blog provides an in-depth analysis of the architectural trends and choices within China's rapidly evolving open-source AI ecosystem, expanding beyond the impact of DeepSeek. It discusses the unique development paradigms and infrastructural considerations shaping the next generation of Chinese AI models.",
     "tags": [
       "open-source AI",
       "architecture",
-      "LLM ecosystem",
-      "regional AI"
+      "LLMs",
+      "AI ecosystem",
+      "China AI"
     ],
     "hype_score": 6
   },
@@ -110,32 +205,34 @@
     "source": "Meta AI",
     "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
     "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-27T15:00:09.000Z",
     "is_technical": true,
-    "tldr": "Meta details the strategic integration of Rust at scale within WhatsApp to enhance security, leveraging Rust's memory safety and concurrency features. This engineering decision fortifies critical infrastructure, which is foundational for large-scale applications including AI components.",
+    "tldr": "Meta AI details their adoption of Rust to enhance security and reliability for WhatsApp at scale. This engineering blog post delves into the benefits and challenges of integrating Rust into a large, existing codebase for critical infrastructure.",
     "tags": [
       "infrastructure",
       "security",
       "systems engineering",
-      "rust"
+      "programming language"
     ],
-    "hype_score": 5
+    "hype_score": 6
   },
   {
     "id": "17f2648ca24de4f0b52c62ecb00fe4b7",
     "source": "Hugging Face",
     "title": "Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs",
     "url": "https://huggingface.co/blog/tiiuae/emirati-benchmarks",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-27T10:26:42.000Z",
     "is_technical": true,
-    "tldr": "TII UAE introduces Alyah, a new benchmark suite designed for the robust evaluation of Emirati dialect capabilities within Arabic Large Language Models. This work addresses the critical need for fine-grained linguistic assessment, enabling more accurate and culturally relevant LLMs for specific regional nuances.",
+    "tldr": "Hugging Face features Alyah, a new benchmark designed to robustly evaluate the capabilities of Arabic Large Language Models in understanding and generating Emirati dialect. This work addresses the critical need for fine-grained linguistic assessment, improving LLMs for underrepresented Arabic dialects.",
     "tags": [
-      "LLM evaluation",
-      "multilingual AI",
-      "benchmarking",
-      "dialectal AI"
+      "large language models",
+      "evaluation",
+      "NLP",
+      "dialectology",
+      "benchmarks",
+      "Arabic AI"
     ],
     "hype_score": 7
   },
@@ -144,14 +241,15 @@
     "source": "Hugging Face",
     "title": "Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective",
     "url": "https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-27T01:53:15.000Z",
     "is_technical": true,
-    "tldr": "LinkedIn presents a practical retrospective on implementing agentic reinforcement learning training for open-source GPT models. The article delves into the challenges and successful strategies for developing and optimizing RL-driven agent behaviors, highlighting key lessons learned from real-world applications.",
+    "tldr": "This Hugging Face blog, presented by LinkedIn, offers a practical retrospective on unlocking agentic reinforcement learning for open-source GPT models. It details challenges and successful strategies for implementing advanced RL techniques to enhance the autonomous capabilities of LLMs.",
     "tags": [
       "reinforcement learning",
       "agentic AI",
-      "LLM training",
+      "large language models",
+      "model training",
       "open-source AI"
     ],
     "hype_score": 8
@@ -161,15 +259,16 @@
     "source": "OpenAI",
     "title": "Introducing Prism",
     "url": "https://openai.com/index/introducing-prism",
-    "date_scraped": "2026-01-28T13:10:08.286Z",
+    "date_scraped": "2026-01-29T13:16:57.421Z",
     "date_published": "2026-01-27T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has introduced \"Prism,\" a new AI system designed to significantly enhance multimodal capabilities and advanced reasoning across diverse data types. This release marks a strategic expansion of their foundational model offerings, targeting improved performance in complex perception and generation tasks.",
+    "tldr": "OpenAI has announced the release of 'Prism,' a new advanced AI model or framework. While specific capabilities are not detailed, 'Prism' is positioned as a significant advancement, likely offering enhanced performance in complex multimodal reasoning, efficient task execution for agents, or a new paradigm in model architecture.",
     "tags": [
-      "foundation_model",
-      "multimodal",
       "model_release",
-      "LLM"
+      "LLM",
+      "infrastructure",
+      "multi_modal",
+      "frontier_model"
     ],
     "hype_score": 8
   },
@@ -178,86 +277,36 @@
     "source": "NVIDIA Blog",
     "title": "Adaptive Inference in NVIDIA TensorRT for RTX Enables Automatic Optimization",
     "url": "https://developer.nvidia.com/blog/adaptive-inference-in-nvidia-tensorrt-for-rtx-enables-automatic-optimization/",
-    "date_scraped": "2026-01-28T13:11:01.091Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-26T21:00:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA announces adaptive inference capabilities within TensorRT for RTX GPUs, enabling automatic optimization of AI models at runtime. This advancement dynamically adjusts model execution to maximize performance and efficiency across varying workloads and hardware configurations.",
+    "tldr": "NVIDIA announces Adaptive Inference capabilities in TensorRT for RTX, which automates and optimizes the inference process for AI models on consumer GPUs. This feature dynamically adjusts execution parameters to achieve the best performance, simplifying deployment for developers and maximizing throughput for real-time applications.",
     "tags": [
       "inference optimization",
       "TensorRT",
-      "GPU computing",
-      "deep learning deployment"
+      "GPU",
+      "deployment",
+      "deep learning",
+      "edge AI"
     ],
     "hype_score": 7
-  },
-  {
-    "id": "d1c989681d7d902510b81b6719bb30b1",
-    "source": "AWS ML",
-    "title": "Build a serverless AI Gateway architecture with AWS AppSync Events",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
-    "date_published": "2026-01-26T17:20:27.000Z",
-    "is_technical": true,
-    "tldr": "AWS details the construction of a serverless AI Gateway architecture utilizing AWS AppSync Events, focusing on scalable and efficient interaction patterns for AI services. The architecture aims to provide a robust and extensible front-end for various generative AI and machine learning applications.",
-    "tags": [
-      "infrastructure",
-      "serverless",
-      "AI deployment",
-      "architecture"
-    ],
-    "hype_score": 6
   },
   {
     "id": "c332681672656eabc5a477fe21a51418",
     "source": "NVIDIA Blog",
     "title": "How to Unlock Local Detail in Coarse Climate Projections with NVIDIA Earth-2",
     "url": "https://developer.nvidia.com/blog/how-to-unlock-local-detail-in-coarse-climate-projections-with-nvidia-earth-2/",
-    "date_scraped": "2026-01-28T13:11:10.262Z",
+    "date_scraped": "2026-01-29T13:17:42.149Z",
     "date_published": "2026-01-26T14:00:00.000Z",
     "is_technical": true,
-    "tldr": "This NVIDIA blog details a technical approach within the Earth-2 platform to downscale coarse climate models, enabling the generation of high-resolution local weather and climate projections. It likely leverages AI/ML techniques for super-resolution or conditional generation to enhance predictive granularity and improve climate impact assessments.",
+    "tldr": "NVIDIA details how its Earth-2 platform can be used to unlock fine-grained local detail from coarse climate projections, improving the accuracy of climate modeling. This technical exploration showcases advanced AI techniques applied to complex scientific simulations for more precise environmental predictions.",
     "tags": [
-      "climate_modeling",
-      "scientific_computing",
-      "ai_for_science",
-      "downscaling",
-      "nvidia",
-      "inference",
-      "hpc"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "ff7f93e3363eac9534d81ac29e796567",
-    "source": "AWS ML",
-    "title": "Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
-    "date_published": "2026-01-23T17:54:02.000Z",
-    "is_technical": true,
-    "tldr": "AWS demonstrates how to deploy AI agents built with Amazon Bedrock AgentCore using AWS CloudFormation for infrastructure-as-code automation. This technical guide outlines the declarative provisioning of agent resources, streamlining the deployment and management of complex agentic AI systems.",
-    "tags": [
-      "agentic AI",
-      "infrastructure-as-code",
-      "AI deployment",
-      "AWS"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "df040834e32264a666bc79011c9fd401",
-    "source": "AWS ML",
-    "title": "How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/",
-    "date_scraped": "2026-01-28T13:11:01.090Z",
-    "date_published": "2026-01-23T17:49:37.000Z",
-    "is_technical": true,
-    "tldr": "The Amazon.com Catalog Team details their engineering journey in building a self-learning generative AI system at scale using Amazon Bedrock. This blog post elucidates the architectural patterns, data pipelines, and continuous learning mechanisms employed to manage and generate vast amounts of catalog content efficiently.",
-    "tags": [
-      "generative AI",
-      "scaling AI",
-      "MLOps",
-      "enterprise AI"
+      "scientific computing",
+      "climate AI",
+      "simulation",
+      "deep learning",
+      "Earth-2",
+      "environmental AI"
     ],
     "hype_score": 7
   },
@@ -266,68 +315,16 @@
     "source": "OpenAI",
     "title": "Unrolling the Codex agent loop",
     "url": "https://openai.com/index/unrolling-the-codex-agent-loop",
-    "date_scraped": "2026-01-28T13:10:08.286Z",
+    "date_scraped": "2026-01-29T13:16:57.421Z",
     "date_published": "2026-01-23T12:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI's latest engineering blog details the technical architecture and operational mechanics behind \"unrolling the Codex agent loop.\" This post explores the iterative process and computational graph involved in autonomous code generation and execution, providing insights into improving the reliability and efficiency of AI agents.",
+    "tldr": "This technical deep-dive from OpenAI explores the intricate workings of the 'Codex agent loop,' elucidating the sequential and iterative processes by which the agent plans, executes, and refines complex tasks. It likely covers the underlying architectural design, state management, and feedback mechanisms that enable robust, multi-step problem-solving capabilities.",
     "tags": [
-      "agents",
+      "agent",
       "LLM",
       "engineering",
       "architecture",
-      "code_generation"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "5cb1047b539ca6775910831e0d3a0801",
-    "source": "AWS ML",
-    "title": "How PDI built an enterprise-grade RAG system for AI applications with AWS",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/",
-    "date_scraped": "2026-01-28T13:11:01.091Z",
-    "date_published": "2026-01-22T17:11:47.000Z",
-    "is_technical": true,
-    "tldr": "PDI outlines the technical blueprint and implementation challenges of constructing an enterprise-grade Retrieval Augmented Generation (RAG) system for AI applications on AWS. The article details best practices for data indexing, retrieval optimization, and integration strategies to ensure scalable and accurate information synthesis for large language models.",
-    "tags": [
-      "RAG",
-      "LLM applications",
-      "enterprise AI",
-      "information retrieval"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "93ae90489e60d596ada5db662d240ebd",
-    "source": "OpenAI",
-    "title": "Scaling PostgreSQL to power 800 million ChatGPT users",
-    "url": "https://openai.com/index/scaling-postgresql",
-    "date_scraped": "2026-01-28T13:10:08.286Z",
-    "date_published": "2026-01-22T12:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI has published an engineering deep-dive on scaling PostgreSQL to accommodate 800 million ChatGPT users. The article details the infrastructural challenges, architectural solutions, and database optimization strategies employed to manage massive user loads reliably and efficiently.",
-    "tags": [
-      "infrastructure",
-      "scaling",
-      "database",
-      "engineering",
-      "backend"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "6b11fc6d9c8bb95416fb4572f8226801",
-    "source": "Anthropic News",
-    "title": "Jan 22, 2026\nAnnouncements\nClaude's new constitution",
-    "url": "https://www.anthropic.com/news/claude-new-constitution",
-    "date_scraped": "2026-01-28T13:10:08.286Z",
-    "date_published": "2026-01-22T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic announced an update to \"Claude's new constitution,\" detailing advancements or refinements in its Constitutional AI framework. This update aims to enhance the model's safety, alignment, and adherence to guiding principles through refined self-correction mechanisms, critical for robust AI system development.",
-    "tags": [
-      "alignment",
-      "safety",
-      "constitutional_ai",
-      "LLM",
+      "planning",
       "research"
     ],
     "hype_score": 7
