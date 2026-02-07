@@ -1,75 +1,202 @@
 [
   {
-    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
-    "source": "Claude Blog",
-    "title": "Extending Claude’s capabilities with skills and MCP servers",
-    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
-    "date_published": "2026-02-06T00:00:00.000Z",
+    "source": "Anthropic News",
+    "title": "Responsible Scaling Policy",
+    "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
+    "id": "f70da824596ca695c126322de6f6ca9d",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
     "is_technical": true,
-    "tldr": "Anthropic details methods for extending Claude's functionality using custom skills and integrating with MCP (Multi-Cloud Platform) servers. This allows developers to equip agents for specialized tasks and build more complex, domain-specific AI systems by leveraging external tools and compute resources.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "agents",
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Cowork: Claude Code for the rest of your work",
+    "url": "https://claude.com/blog/cowork-research-preview",
+    "id": "6bc268f5339cb45c46679eb3015e9993",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "id": "bbba82491e9b670348ad0122284f619f",
+    "source": "Claude Blog",
+    "title": "Advancing finance with Claude Opus 4.6",
+    "url": "https://claude.com/blog/opus-4-6-finance",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
+    "date_published": "2026-02-07T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "Anthropic has released Claude Opus 4.6, a new iteration of its large language model, specifically highlighting its advanced capabilities for financial applications. This release likely includes architectural improvements or fine-tuning techniques optimized for complex financial analysis and reasoning.",
+    "tags": [
       "LLM",
-      "infrastructure",
+      "model_release",
+      "finance",
+      "transformer"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "07f6101b3bd38826443131b3dccb3e6d",
+    "source": "AWS ML",
+    "title": "Structured outputs on Amazon Bedrock: Schema-compliant AI responses",
+    "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
+    "date_published": "2026-02-06T20:12:14.000Z",
+    "is_technical": true,
+    "tldr": "AWS ML announces a new capability on Amazon Bedrock for generating structured, schema-compliant AI responses, enabling more reliable and integratable outputs from large language models. This feature allows developers to enforce specific data formats, enhancing the predictability and usability of generative AI in applications.",
+    "tags": [
+      "LLM",
+      "MLOps",
       "API",
-      "skills",
-      "platform"
+      "structured_output",
+      "Bedrock",
+      "engineering"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "ac75664d9ded661d10a9d126a3519998",
+    "source": "AWS ML",
+    "title": "Manage Amazon SageMaker HyperPod clusters using the HyperPod CLI and SDK",
+    "url": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-clusters-using-the-hyperpod-cli-and-sdk/",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
+    "date_published": "2026-02-06T19:27:45.000Z",
+    "is_technical": true,
+    "tldr": "AWS ML released an update detailing the management of Amazon SageMaker HyperPod clusters through new CLI and SDK capabilities, simplifying the orchestration of distributed training jobs. This enhancement provides fine-grained control over hyperparameter optimization infrastructure, improving efficiency for large-scale ML experiments.",
+    "tags": [
+      "MLOps",
+      "infrastructure",
+      "SageMaker",
+      "distributed_training",
+      "CLI",
+      "SDK"
     ],
     "hype_score": 6
   },
   {
-    "id": "fa79f2dfaee1184e396e71b26b435efa",
-    "source": "Claude Blog",
-    "title": "Making Claude a better electrical engineer",
-    "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
-    "date_published": "2026-02-06T00:00:00.000Z",
+    "id": "3e46996d56f2a93bf31aee7f45ca5324",
+    "source": "AWS ML",
+    "title": "Evaluate generative AI models with an Amazon Nova rubric-based LLM judge on Amazon SageMaker AI (Part 2)",
+    "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-generative-ai-models-with-an-amazon-nova-rubric-based-llm-judge-on-amazon-sagemaker-ai-part-2/",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
+    "date_published": "2026-02-06T16:29:45.000Z",
     "is_technical": true,
-    "tldr": "This post explores technical approaches to enhance Claude's proficiency in electrical engineering, likely focusing on specialized training, data augmentation, or novel prompting strategies. The goal is to improve its ability to understand and generate content relevant to the field's complex concepts and problem-solving scenarios.",
+    "tldr": "AWS ML presents the second part of their series on evaluating generative AI models, introducing an Amazon Nova rubric-based LLM judge on Amazon SageMaker AI. This system provides a scalable and consistent framework for assessing model quality by leveraging an LLM to apply human-defined rubrics, crucial for MLOps.",
     "tags": [
+      "generative_AI",
+      "evaluation",
       "LLM",
-      "fine-tuning",
-      "domain-specific AI",
-      "applications",
-      "prompt engineering"
+      "MLOps",
+      "SageMaker",
+      "benchmarks"
     ],
-    "hype_score": 5
+    "hype_score": 7
+  },
+  {
+    "id": "a31fffadb1a8a29d8927a4be4f9e419e",
+    "source": "NVIDIA Blog",
+    "title": "3 Ways NVFP4 Accelerates AI Training and Inference",
+    "url": "https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference/",
+    "date_scraped": "2026-02-07T13:09:07.848Z",
+    "date_published": "2026-02-06T16:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This article details three methods by which the new NVFP4 floating-point format significantly enhances AI training and inference performance. It elaborates on how NVFP4 improves memory efficiency, reduces compute requirements, and maintains accuracy across various deep learning workloads, providing a key advancement in hardware-software co-design.",
+    "tags": [
+      "hardware",
+      "acceleration",
+      "fp4",
+      "inference",
+      "training",
+      "nvidia"
+    ],
+    "hype_score": 8
+  },
+  {
+    "source": "OpenAI",
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "url": "https://openai.com/index/our-approach-to-localization",
+    "date_published": "2026-02-06T10:00:00.000Z",
+    "id": "1118bd5abc31ff39c0b9654db5ac1aee",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "OpenAI",
+    "title": "Korea privacy policy",
+    "url": "https://openai.com/policies/kr-privacy-policy",
+    "date_published": "2026-02-06T10:00:00.000Z",
+    "id": "16dd9c7f63e8fb585bb32ec53336802d",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "id": "ccf4551e9db7dbbbb7c244ce8eed78f6",
+    "source": "AWS ML",
+    "title": "A practical guide to Amazon Nova Multimodal Embeddings",
+    "url": "https://aws.amazon.com/blogs/machine-learning/a-practical-guide-to-amazon-nova-multimodal-embeddings/",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
+    "date_published": "2026-02-05T20:35:34.000Z",
+    "is_technical": true,
+    "tldr": "AWS ML offers a practical guide to Amazon Nova Multimodal Embeddings, detailing their architecture and optimal usage for integrating diverse data types across AI applications. This resource explains how these embeddings enable unified representations of text, image, and other modalities, facilitating advanced retrieval and understanding tasks.",
+    "tags": [
+      "multimodal",
+      "embeddings",
+      "Nova",
+      "AWS",
+      "practical_guide",
+      "engineering"
+    ],
+    "hype_score": 7
   },
   {
     "id": "5c7d3ddb3cc94133c8a16628269b245b",
     "source": "NVIDIA Blog",
     "title": "How to Build License-Compliant Synthetic Data Pipelines for AI Model Distillation",
     "url": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
-    "date_scraped": "2026-02-06T13:20:18.414Z",
+    "date_scraped": "2026-02-07T13:09:07.848Z",
     "date_published": "2026-02-05T18:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article details engineering approaches to construct synthetic data pipelines that ensure license compliance, critical for AI model distillation. It outlines methodologies for generating high-quality, legally sound synthetic datasets suitable for training smaller, specialized models.",
+    "tldr": "This post explores the technical construction of synthetic data pipelines designed for AI model distillation, with a focus on ensuring license compliance. It outlines architectural considerations, data generation techniques, and validation strategies crucial for creating high-quality, legally sound datasets to improve smaller model performance.",
     "tags": [
-      "synthetic data",
-      "data engineering",
-      "model distillation",
-      "ethical AI",
-      "pipeline"
+      "synthetic-data",
+      "model-distillation",
+      "data-pipelines",
+      "mlops"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "d204da77546c0cfb93078a00f3e417e2",
     "source": "Microsoft Research",
     "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
     "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-05T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research proposes a new paradigm for imitation learning using Predictive Inverse Dynamics Models to improve sample efficiency and robustness in complex environments. This approach aims to better infer expert actions and underlying task dynamics from observational data, advancing robot learning capabilities.",
+    "tldr": "Microsoft Research introduces Predictive Inverse Dynamics Models to rethink traditional imitation learning paradigms, enhancing robotic control and task acquisition. This approach models the inverse dynamics directly, allowing for more robust and data-efficient learning from expert demonstrations.",
     "tags": [
-      "reinforcement learning",
-      "imitation learning",
+      "imitation_learning",
       "robotics",
+      "reinforcement_learning",
       "control",
-      "ML research",
-      "dynamics models"
+      "inverse_dynamics"
     ],
     "hype_score": 7
   },
@@ -78,197 +205,186 @@
     "source": "Hugging Face",
     "title": "Introducing SyGra Studio",
     "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-05T16:52:28.000Z",
     "is_technical": true,
-    "tldr": "Hugging Face, in collaboration with ServiceNow AI, introduces SyGra Studio, a new platform aimed at simplifying the development and deployment of graph-based AI models. It offers tools for data preparation, model training, and evaluation for graph neural networks and related architectures, streamlining GNN workflows.",
+    "tldr": "ServiceNow AI, in collaboration with Hugging Face, has introduced SyGra Studio, a new platform designed to streamline the development and deployment of AI models. It likely offers integrated tools for data management, model training, and evaluation, facilitating MLOps workflows.",
     "tags": [
-      "graph neural networks",
+      "MLOps",
       "platform",
-      "MLops",
       "tools",
-      "GNN"
+      "model_development"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
-    "id": "58ece560ececab941948bc0600d13cac",
-    "source": "NVIDIA Blog",
-    "title": "How Painkiller RTX Uses Generative AI to Modernize Game Assets at Scale",
-    "url": "https://developer.nvidia.com/blog/how-painkiller-rtx-uses-generative-ai-to-modernize-game-assets-at-scale/",
-    "date_scraped": "2026-02-06T13:20:18.414Z",
-    "date_published": "2026-02-05T14:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This blog explores how the game \"Painkiller RTX\" leverages generative AI to modernize legacy game assets efficiently and at scale. It details the technical pipeline and methods employed for AI-powered asset generation and enhancement in game development.",
-    "tags": [
-      "generative AI",
-      "computer graphics",
-      "game development",
-      "application",
-      "pipeline"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "abf99c21c726f3e9daa74eeba451330f",
     "source": "OpenAI",
     "title": "GPT-5 lowers the cost of cell-free protein synthesis",
     "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
     "date_published": "2026-02-05T11:00:00.000Z",
+    "id": "abf99c21c726f3e9daa74eeba451330f",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "OpenAI's GPT-5 model has demonstrated a significant capability to reduce the cost associated with cell-free protein synthesis, a crucial process in biotechnology. This advancement highlights the potential of large language models to optimize complex biochemical reactions and accelerate research in biomolecular engineering.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "biotechnology",
-      "application",
-      "scientific discovery",
-      "GPT-5"
+      "Unverified"
     ],
-    "hype_score": 9
+    "hype_score": 1
   },
   {
-    "id": "461c4074761603f34586e7cf0338d1d9",
     "source": "OpenAI",
     "title": "Introducing Trusted Access for Cyber",
     "url": "https://openai.com/index/trusted-access-for-cyber",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
     "date_published": "2026-02-05T10:00:00.000Z",
+    "id": "461c4074761603f34586e7cf0338d1d9",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "OpenAI introduced 'Trusted Access for Cyber,' detailing new security paradigms and access controls designed for deploying AI systems in sensitive cybersecurity contexts. This initiative aims to enhance the trustworthiness, integrity, and operational security of AI models when handling critical cyber-related tasks and data.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "security",
-      "deployment",
-      "AI ethics",
-      "infrastructure",
-      "cybersecurity"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
   },
   {
-    "id": "1a4bc4ca02801ab57687c64d1a12243a",
     "source": "OpenAI",
     "title": "Introducing OpenAI Frontier",
     "url": "https://openai.com/index/introducing-openai-frontier",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
     "date_published": "2026-02-05T06:00:00.000Z",
+    "id": "1a4bc4ca02801ab57687c64d1a12243a",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "OpenAI unveiled 'OpenAI Frontier,' a new strategic initiative focused on pushing the boundaries of AI capabilities beyond current state-of-the-art models. This likely involves advancements in fundamental architectural designs, novel training methodologies, and scaling approaches to achieve next-generation artificial intelligence.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "foundation model",
-      "research",
-      "scaling",
-      "strategy",
-      "next-gen AI"
+      "Unverified"
     ],
-    "hype_score": 9
+    "hype_score": 1
   },
   {
     "id": "f93e244a6f53fb06a34f87de2d1b24cb",
     "source": "Microsoft Research",
     "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
     "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-05T05:07:55.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research unveils \"Paza,\" a new suite of automatic speech recognition benchmarks and models specifically designed for languages with limited data resources. This initiative provides critical tools and datasets to advance ASR development and improve language inclusivity for underrepresented linguistic communities globally.",
+    "tldr": "Microsoft Research unveils \"Paza,\" a new initiative introducing automatic speech recognition (ASR) benchmarks and models specifically designed for low-resource languages. This work addresses the critical need for robust ASR in languages with limited data, fostering greater linguistic inclusion in AI technologies.",
     "tags": [
       "ASR",
+      "speech_recognition",
       "NLP",
-      "low-resource languages",
-      "benchmarking",
-      "speech recognition",
-      "multilingual"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "51498c9b8bb41a9e323523c380993157",
-    "source": "OpenAI",
-    "title": "Introducing GPT-5.3-Codex",
-    "url": "https://openai.com/index/introducing-gpt-5-3-codex",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
-    "date_published": "2026-02-05T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI officially introduced GPT-5.3-Codex, a specialized variant of its latest GPT-5 model series, engineered for advanced code generation and comprehension. This release promises enhanced capabilities in tackling complex programming challenges, automated debugging, and multi-language code translation.",
-    "tags": [
-      "LLM",
-      "code generation",
-      "model release",
-      "programming",
-      "Codex"
+      "low_resource_languages",
+      "benchmarks"
     ],
     "hype_score": 8
   },
   {
-    "id": "c714f23bce255f19ee673822990d238d",
+    "source": "OpenAI",
+    "title": "Navigating health questions with ChatGPT",
+    "url": "https://openai.com/index/navigating-health-questions",
+    "date_published": "2026-02-05T00:00:00.000Z",
+    "id": "42d80ec95c72ec841a925dfb6a9d012e",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
     "source": "OpenAI",
     "title": "GPT-5.3-Codex System Card",
     "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
     "date_published": "2026-02-05T00:00:00.000Z",
+    "id": "c714f23bce255f19ee673822990d238d",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "OpenAI published the System Card for GPT-5.3-Codex, offering a comprehensive technical deep-dive into the model's architecture, training data, and performance characteristics. The document also details its safety mitigations, limitations, and ethical considerations for responsible deployment in development environments.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "system card",
-      "model architecture",
-      "safety",
-      "evaluation"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
-    "id": "ffb4fb0646fb7fd6698cca7ba97ed35f",
+    "source": "OpenAI",
+    "title": "Introducing GPT-5.3-Codex",
+    "url": "https://openai.com/index/introducing-gpt-5-3-codex",
+    "date_published": "2026-02-05T00:00:00.000Z",
+    "id": "51498c9b8bb41a9e323523c380993157",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
     "source": "Anthropic News",
     "title": "Introducing Claude Opus 4.6\nAnnouncements\nFeb 5, 2026\n\nWe’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
     "url": "https://www.anthropic.com/news/claude-opus-4-6",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
     "date_published": "2026-02-05T00:00:00.000Z",
+    "id": "ffb4fb0646fb7fd6698cca7ba97ed35f",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "Anthropic announced the release of Claude Opus 4.6, an upgraded version of their most intelligent model, setting new industry benchmarks across various advanced tasks. Its capabilities span agentic coding, sophisticated computer and tool use, enhanced search, and complex financial analysis, showcasing significant advancements in general intelligence.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "LLM",
-      "model release",
-      "agentic AI",
-      "benchmarks",
-      "tool use"
+      "Unverified"
     ],
-    "hype_score": 9
+    "hype_score": 1
   },
   {
     "id": "66811e7fdca66c72ddc252beec4d784c",
     "source": "Meta AI",
     "title": "No Display? No Problem: Cross-Device Passkey Authentication for XR Devices",
     "url": "https://engineering.fb.com/2026/02/04/security/cross-device-passkey-authentication-for-xr-devices-meta-quest/",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-04T22:00:07.000Z",
     "is_technical": true,
-    "tldr": "Meta engineering introduces a novel cross-device passkey authentication method specifically designed for XR devices lacking traditional displays. This technical solution enhances security and user experience by enabling seamless authentication across different hardware form factors in augmented and virtual reality environments.",
+    "tldr": "Meta AI's engineering blog details a novel cross-device passkey authentication method for XR devices, such as Meta Quest, that lack traditional displays. This system enables secure, seamless user authentication by leveraging companion devices for key management and interaction within a distributed XR environment.",
     "tags": [
       "XR",
       "security",
       "authentication",
-      "engineering",
-      "hardware"
+      "engineering"
     ],
-    "hype_score": 4
+    "hype_score": 6
+  },
+  {
+    "id": "2340d8c9ed152148cf8813d7032d7091",
+    "source": "NVIDIA Blog",
+    "title": "Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints ",
+    "url": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
+    "date_scraped": "2026-02-07T13:09:07.848Z",
+    "date_published": "2026-02-04T19:46:33.000Z",
+    "is_technical": true,
+    "tldr": "This post introduces Kimi K2.5, a new multimodal Visual Language Model (VLM), and provides technical guidance on its deployment and optimization using NVIDIA GPU-accelerated endpoints. It covers strategies for leveraging the VLM's capabilities for complex multimodal tasks and maximizing inference performance on NVIDIA hardware.",
+    "tags": [
+      "multimodal-ai",
+      "vlm",
+      "llm",
+      "inference",
+      "gpu-acceleration",
+      "nvidia"
+    ],
+    "hype_score": 7
   },
   {
     "id": "4e8f164ec85f3ffabb6f3b07864fa691",
     "source": "NVIDIA Blog",
     "title": "How to Build a Document Processing Pipeline for RAG with Nemotron ",
     "url": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/",
-    "date_scraped": "2026-02-06T13:20:18.414Z",
+    "date_scraped": "2026-02-07T13:09:07.848Z",
     "date_published": "2026-02-04T16:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog details the technical construction of a document processing pipeline specifically engineered for Retrieval-Augmented Generation (RAG) using NVIDIA's Nemotron models. It focuses on the architectural considerations and implementation strategies for efficient document ingestion, indexing, and retrieval to enhance RAG system performance.",
+    "tldr": "This article details the engineering process for constructing a robust document processing pipeline specifically optimized for Retrieval-Augmented Generation (RAG) systems, leveraging the Nemotron model. It covers data ingestion, chunking, embedding generation, and indexing strategies crucial for enhancing the relevance and accuracy of RAG outputs.",
     "tags": [
-      "RAG",
-      "LLM",
-      "natural language processing",
-      "pipeline",
-      "infrastructure"
+      "rag",
+      "llm",
+      "data-pipelines",
+      "nlp",
+      "nemotron",
+      "mlops"
     ],
     "hype_score": 7
   },
@@ -277,54 +393,104 @@
     "source": "Hugging Face",
     "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
     "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-04T15:00:40.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA (via Hugging Face) announces Nemotron ColEmbed V2, a new state-of-the-art multimodal embedding model, significantly improving retrieval performance. This release integrates with ViDoRe V3's top model, demonstrating advancements in cross-modal understanding and information retrieval capabilities across text, image, and video data.",
+    "tldr": "NVIDIA and Hugging Face announce Nemotron ColEmbed V2, a new state-of-the-art multimodal embedding model that significantly improves retrieval performance. This release, integrating with ViDoRe V3's top model, advances capabilities for complex cross-modal search and understanding.",
     "tags": [
       "multimodal",
       "embeddings",
       "retrieval",
-      "computer vision",
-      "NLP",
-      "model release",
-      "SOTA"
+      "vision_language",
+      "model_release"
     ],
     "hype_score": 8
   },
   {
-    "id": "8207a8a99cd476ecce6f5f81bc25aed8",
     "source": "OpenAI",
     "title": "Unlocking the Codex harness: how we built the App Server",
     "url": "https://openai.com/index/unlocking-the-codex-harness",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
     "date_published": "2026-02-04T13:00:00.000Z",
+    "id": "8207a8a99cd476ecce6f5f81bc25aed8",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "This engineering blog post details the intricate technical process behind building the App Server designed to power the Codex harness for GPT-5.3-Codex. It delves into the architectural choices, infrastructure challenges, and optimization strategies employed to ensure scalable and efficient inference for the code generation model.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "infrastructure",
-      "engineering",
-      "deployment",
-      "system architecture",
-      "backend"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
+  },
+  {
+    "source": "OpenAI",
+    "title": "VfL Wolfsburg turns ChatGPT into a club-wide capability",
+    "url": "https://openai.com/index/vfl-wolfsburg",
+    "date_published": "2026-02-04T00:00:00.000Z",
+    "id": "8a585390ee5647dde989a79fe30b8a16",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Announcements\nFeb 4, 2026\nClaude is a space to think\n\nWe’ve made a choice: Claude will remain ad-free. We explain why advertising incentives are incompatible with a genuinely helpful AI assistant, and how we plan to expand access without compromising user trust.",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "date_published": "2026-02-04T00:00:00.000Z",
+    "id": "0073cb028a74b084437b320e8bbcc4d3",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Announcements\nSep 29, 2025\nIntroducing Claude Sonnet 4.5\n\nClaude Sonnet 4.5 sets new benchmark records in coding, reasoning, and computer use while being Anthropic's most aligned model, accompanied by the release of the Claude Agent SDK for building capable agents",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-5",
+    "date_published": "2026-02-04T00:00:00.000Z",
+    "id": "3642246e4b25733fd48803e63e6d9cfb",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Product\nOct 15, 2025\nIntroducing Claude Haiku 4.5\n\nClaude Haiku 4.5 matches state-of-the-art coding capabilities from months ago while delivering unprecedented speed and cost-efficiency for complex tasks.",
+    "url": "https://www.anthropic.com/news/claude-haiku-4-5",
+    "date_published": "2026-02-04T00:00:00.000Z",
+    "id": "b75a938ca4941bd9b500c4c799d7caf9",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
   },
   {
     "id": "54a2e4d63e7f2c9f9eeb830439ab32e8",
     "source": "Hugging Face",
     "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
     "url": "https://huggingface.co/blog/community-evals",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-04T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Hugging Face launches \"Community Evals,\" a new framework promoting transparent and community-driven evaluation of AI models as an alternative to proprietary black-box leaderboards. This initiative aims to foster more robust and trustworthy model assessment through collaborative and open evaluation protocols, enhancing reproducibility and fairness.",
+    "tldr": "Hugging Face introduces \"Community Evals,\" a new initiative to foster transparent and community-driven evaluation of AI models, moving beyond opaque leaderboards. This aims to provide more reliable and context-rich assessments by leveraging collective intelligence and diverse evaluation perspectives.",
     "tags": [
       "evaluation",
-      "benchmarking",
-      "model transparency",
-      "MLops",
-      "open-source"
+      "benchmarks",
+      "MLOps",
+      "community",
+      "transparency"
     ],
     "hype_score": 7
   },
@@ -333,17 +499,16 @@
     "source": "Hugging Face",
     "title": "H Company's new Holo2 model takes the lead in UI Localization",
     "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-03T17:40:14.000Z",
     "is_technical": true,
-    "tldr": "H Company unveils its new Holo2 model, which achieves state-of-the-art performance in UI localization tasks, significantly improving the automation and accuracy of adapting user interfaces for different languages and cultures. This model likely employs advanced vision-language techniques for understanding UI elements and translating text within their visual context.",
+    "tldr": "H Company has released Holo2, a new 235 billion parameter model (Holo2-235b-a22b) that sets a new standard for UI localization. This model likely incorporates advanced multimodal capabilities to accurately translate and adapt user interface elements across different languages and cultural contexts.",
     "tags": [
-      "computer vision",
+      "LLM",
+      "multimodal",
       "NLP",
       "localization",
-      "model release",
-      "UI",
-      "multilingual"
+      "model_release"
     ],
     "hype_score": 7
   },
@@ -352,114 +517,408 @@
     "source": "NVIDIA Blog",
     "title": "Accelerating Long-Context Model Training in JAX and XLA",
     "url": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
-    "date_scraped": "2026-02-06T13:20:18.414Z",
+    "date_scraped": "2026-02-07T13:09:07.848Z",
     "date_published": "2026-02-03T17:30:00.000Z",
     "is_technical": true,
-    "tldr": "This article investigates advanced optimization techniques to accelerate the training of long-context models within the JAX and XLA frameworks. It details strategies for improving computational efficiency and memory utilization to handle extended input sequences during model training.",
+    "tldr": "This technical blog post explores advanced techniques for significantly accelerating the training of long-context models within the JAX and XLA frameworks. It delves into memory optimization, distributed training strategies, and custom kernel development to overcome computational bottlenecks associated with extended sequence lengths.",
     "tags": [
-      "LLM",
-      "transformer",
+      "training",
+      "long-context",
+      "jax",
+      "xla",
       "optimization",
-      "JAX",
-      "XLA",
-      "deep learning",
-      "infrastructure"
+      "distributed-training"
     ],
     "hype_score": 8
+  },
+  {
+    "id": "838c5e68469361d1e22c569e2c9cd3b5",
+    "source": "AWS ML",
+    "title": "Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent",
+    "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-for-healthcare-data-analysis-with-amazon-sagemaker-data-agent/",
+    "date_scraped": "2026-02-07T13:09:07.848Z",
+    "date_published": "2026-02-03T16:22:19.000Z",
+    "is_technical": true,
+    "tldr": "This article describes an architecture for agentic AI in healthcare data analysis using Amazon SageMaker Data Agent. It details how the agent can automate complex data workflows, integrate with various AWS services, and provide scalable solutions for processing and interpreting medical data.",
+    "tags": [
+      "agentic-ai",
+      "healthcare",
+      "aws",
+      "data-processing",
+      "mlops"
+    ],
+    "hype_score": 6
   },
   {
     "id": "a0998dd5fe9d56db42304cddb20d99ef",
     "source": "Hugging Face",
     "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
     "url": "https://huggingface.co/blog/Photoroom/prx-part2",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
+    "date_scraped": "2026-02-07T13:08:47.732Z",
     "date_published": "2026-02-03T11:25:53.000Z",
     "is_technical": true,
-    "tldr": "This technical blog post from Photoroom, shared via Hugging Face, delves into optimal training design principles for text-to-image models, presenting key insights derived from extensive ablation studies. It details how various architectural and training choices impact model performance, stability, and generation quality, offering practical guidance for researchers.",
+    "tldr": "PhotoRoom's blog post, part 2 of the PRX series, details crucial training design considerations for text-to-image models, drawing lessons from extensive ablation studies. The research provides insights into architectural choices, loss functions, and data augmentation strategies that optimize generative performance.",
     "tags": [
-      "generative AI",
-      "text-to-image",
-      "diffusion models",
+      "text2image",
+      "generative_AI",
+      "diffusion_models",
       "training",
-      "research",
-      "computer vision",
-      "ablation studies"
+      "architecture"
     ],
     "hype_score": 7
   },
   {
-    "id": "a4890222abaa6854b6626ebb50b23ed3",
+    "source": "OpenAI",
+    "title": "The Sora feed philosophy",
+    "url": "https://openai.com/index/sora-feed-philosophy",
+    "date_published": "2026-02-03T00:00:00.000Z",
+    "id": "4d9450ab9ccf696eb09be15d4a74ed55",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
     "source": "Anthropic News",
     "title": "Feb 3, 2026\nProduct\nApple’s Xcode now supports the Claude Agent SDK",
     "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
-    "date_scraped": "2026-02-06T13:19:28.890Z",
     "date_published": "2026-02-03T00:00:00.000Z",
+    "id": "a4890222abaa6854b6626ebb50b23ed3",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
     "is_technical": true,
-    "tldr": "Anthropic announced that Apple's Xcode now offers native support for the Claude Agent SDK, streamlining the integration of Claude's agentic capabilities into Apple applications. This move empowers developers to more easily build sophisticated AI agents for iOS and macOS platforms, fostering innovation in the Apple ecosystem.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "SDK",
-      "agentic AI",
-      "developer tools",
-      "integration",
-      "mobile AI"
+      "Unverified"
     ],
-    "hype_score": 7
+    "hype_score": 1
   },
   {
     "id": "b564891f6e13ba714ddf4764a6472b40",
     "source": "NVIDIA Blog",
     "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
     "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
-    "date_scraped": "2026-02-06T13:20:18.414Z",
+    "date_scraped": "2026-02-07T13:09:07.848Z",
     "date_published": "2026-02-02T18:43:08.000Z",
     "is_technical": true,
-    "tldr": "This technical deep dive presents a novel \"Hybrid Expert Parallel\" approach designed to significantly optimize communication overhead in Mixture-of-Experts (MoE) model training. It outlines strategies to enhance data and expert parallelism, leading to more efficient distributed training of large MoE architectures.",
+    "tldr": "This article presents a Hybrid Expert Parallel approach to optimize communication overhead during the training of Mixture-of-Experts (MoE) models. It details how this strategy efficiently manages data transfer and synchronization across distributed systems, significantly enhancing training throughput and scalability for large-scale MoE architectures.",
     "tags": [
-      "MoE",
-      "distributed training",
-      "LLM",
+      "moe",
+      "distributed-training",
       "optimization",
-      "parallel computing",
-      "infrastructure"
+      "llm",
+      "parallel-computing"
     ],
     "hype_score": 9
   },
   {
-    "id": "14d0def2a071ab0d68a7ddee077bb233",
-    "source": "AWS ML",
-    "title": "Evaluating generative AI models with Amazon Nova LLM-as-a-Judge on Amazon SageMaker AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/evaluating-generative-ai-models-with-amazon-nova-llm-as-a-judge-on-amazon-sagemaker-ai/",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
-    "date_published": "2026-01-30T21:07:34.000Z",
+    "source": "OpenAI",
+    "title": "Snowflake and OpenAI partner to bring frontier intelligence to enterprise data",
+    "url": "https://openai.com/index/snowflake-partnership",
+    "date_published": "2026-02-02T06:00:00.000Z",
+    "id": "cb03906252fb90da2e748f65d8fb016c",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "AWS introduces a technical approach for evaluating generative AI models leveraging Amazon Nova LLM-as-a-Judge functionality within SageMaker AI. This method utilizes an LLM to assess the quality and performance of other generative models, providing a scalable and nuanced evaluation framework for complex AI outputs.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "evaluation",
-      "generative AI",
-      "LLM",
-      "benchmarking",
-      "MLOps",
-      "SageMaker"
+      "Unverified"
     ],
-    "hype_score": 6
+    "hype_score": 1
   },
   {
-    "id": "f3d2a2c12b4564629963d5e1a87db940",
-    "source": "AWS ML",
-    "title": "Simplify ModelOps with Amazon SageMaker AI Projects using Amazon S3-based templates",
-    "url": "https://aws.amazon.com/blogs/machine-learning/simplify-modelops-with-amazon-sagemaker-ai-projects-using-amazon-s3-based-templates/",
-    "date_scraped": "2026-02-06T13:20:01.865Z",
-    "date_published": "2026-01-30T17:18:57.000Z",
+    "source": "OpenAI",
+    "title": "Introducing the Codex app",
+    "url": "https://openai.com/index/introducing-the-codex-app",
+    "date_published": "2026-02-02T00:00:00.000Z",
+    "id": "a0060c5667e9d966381ef95fda608280",
+    "date_scraped": "2026-02-07T13:08:07.710Z",
     "is_technical": true,
-    "tldr": "AWS simplifies ModelOps workflows with new features in Amazon SageMaker AI Projects, enabling the use of Amazon S3-based templates for streamlined model development and deployment. This aims to standardize and accelerate the operationalization of machine learning models within enterprises, improving consistency and efficiency.",
+    "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
-      "MLOps",
-      "infrastructure",
-      "SageMaker",
-      "deployment",
-      "workflow",
-      "cloud"
+      "Unverified"
     ],
-    "hype_score": 5
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Feb 2, 2026\nSocietal Impacts\nAnthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "date_published": "2026-02-02T00:00:00.000Z",
+    "id": "04862c1c4a043692ef67966014ed2600",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Jan 29, 2026\nAlignment\nHow AI assistance impacts the formation of coding skills",
+    "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "date_published": "2026-01-29T00:00:00.000Z",
+    "id": "9d279b5c7b9b09523e334adc45fd9859",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Jan 28, 2026\nAnnouncements\nServiceNow chooses Claude to power customer apps and increase internal productivity",
+    "url": "https://www.anthropic.com/news/servicenow-anthropic-claude",
+    "date_published": "2026-01-28T00:00:00.000Z",
+    "id": "eb18c216d342a80879a7e1c75e0fe0b5",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Jan 28, 2026\nAlignment\nDisempowerment patterns in real-world AI usage",
+    "url": "https://www.anthropic.com/research/disempowerment-patterns",
+    "date_published": "2026-01-28T00:00:00.000Z",
+    "id": "a734e86927bfae8cf8357481710805e8",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Jan 27, 2026\nAnnouncements\nAnthropic partners with the UK Government to bring AI assistance to GOV.UK services",
+    "url": "https://www.anthropic.com/news/gov-UK-partnership",
+    "date_published": "2026-01-27T00:00:00.000Z",
+    "id": "1b065b563516e72d93e44956de602e40",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Jan 22, 2026\nAnnouncements\nClaude's new constitution",
+    "url": "https://www.anthropic.com/news/claude-new-constitution",
+    "date_published": "2026-01-22T00:00:00.000Z",
+    "id": "6b11fc6d9c8bb95416fb4572f8226801",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Jan 21, 2026\nAnnouncements\nMariano-Florentino Cuéllar appointed to Anthropic’s Long-Term Benefit Trust",
+    "url": "https://www.anthropic.com/news/mariano-florentino-long-term-benefit-trust",
+    "date_published": "2026-01-21T00:00:00.000Z",
+    "id": "0894ef058e01f79c03e6964fe96d921a",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Jan 21, 2026\nAnnouncements\nAnthropic and Teach For All launch global AI training initiative for educators",
+    "url": "https://www.anthropic.com/news/anthropic-teach-for-all",
+    "date_published": "2026-01-21T00:00:00.000Z",
+    "id": "5868a9f161a0841b9de11805f29166dd",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Jan 19, 2026\nInterpretability\nThe assistant axis: situating and stabilizing the character of large language models",
+    "url": "https://www.anthropic.com/research/assistant-axis",
+    "date_published": "2026-01-19T00:00:00.000Z",
+    "id": "a3106a5a73e3756d124a7b7c11fcc7db",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Jan 16, 2026\nAnnouncements\nAnthropic appoints Irina Ghose as Managing Director of India ahead of Bengaluru office opening",
+    "url": "https://www.anthropic.com/news/anthropic-appoints-irina-ghose-as-managing-director-of-india",
+    "date_published": "2026-01-16T00:00:00.000Z",
+    "id": "6573bf599524694189af7820a2c36fc1",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Jan 15, 2026\nEconomic Research\nAnthropic Economic Index: New building blocks for understanding AI use",
+    "url": "https://www.anthropic.com/research/economic-index-primitives",
+    "date_published": "2026-01-15T00:00:00.000Z",
+    "id": "11caa8f9632f58de281661cdddf6670a",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Jan 15, 2026\nEconomic Research\nAnthropic Economic Index report: economic primitives",
+    "url": "https://www.anthropic.com/research/anthropic-economic-index-january-2026-report",
+    "date_published": "2026-01-15T00:00:00.000Z",
+    "id": "4b8fffa27e50706653bbc96ad42b19f7",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Jan 9, 2026\nAlignment\nNext-generation Constitutional Classifiers: More efficient protection against universal jailbreaks",
+    "url": "https://www.anthropic.com/research/next-generation-constitutional-classifiers",
+    "date_published": "2026-01-09T00:00:00.000Z",
+    "id": "7f834fefe700c663d97ba1e938622902",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Dec 19, 2025\nAlignment\nIntroducing Bloom: an open source tool for automated behavioral evaluations",
+    "url": "https://www.anthropic.com/research/bloom",
+    "date_published": "2025-12-19T00:00:00.000Z",
+    "id": "f2f6a3c7bbc68c4cae122486bb8f5843",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Project Vend: Phase two\nPolicy\nDec 18, 2025\n\nIn June, we revealed that we’d set up a small shop in our San Francisco office lunchroom, run by an AI shopkeeper. It was part of Project Vend, a free-form experiment exploring how well AIs could do on complex, real-world tasks. How has Claude's business been since we last wrote?",
+    "url": "https://www.anthropic.com/research/project-vend-2",
+    "date_published": "2025-12-18T00:00:00.000Z",
+    "id": "2b7bd8d3a107330949080289a5040b1f",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Dec 4, 2025\nSocietal Impacts\nIntroducing Anthropic Interviewer: What 1,250 professionals told us about working with AI",
+    "url": "https://www.anthropic.com/research/anthropic-interviewer",
+    "date_published": "2025-12-04T00:00:00.000Z",
+    "id": "fdd6c0154037d296e36a9f08ec3062ef",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Interpretability\nOct 29, 2025\nSigns of introspection in large language models\n\nCan Claude access and report on its own internal states? This research finds evidence for a limited but functional ability to introspect—a step toward understanding what's actually happening inside these models.",
+    "url": "https://www.anthropic.com/research/introspection",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "a3979479566bc86b9ce697e5991ec8a0",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Interpretability\nMar 27, 2025\nTracing the thoughts of a large language model\n\nCircuit tracing lets us watch Claude think, uncovering a shared conceptual space where reasoning happens before being translated into language—suggesting the model can learn something in one language and apply it in another.",
+    "url": "https://www.anthropic.com/research/tracing-thoughts-language-model",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "4dea5a86b7895a6ec70d434df2263e2c",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Alignment\nFeb 3, 2025\nConstitutional Classifiers: Defending against universal jailbreaks\n\nThese classifiers filter the overwhelming majority of jailbreaks while maintaining practical deployment. A prototype withstood over 3,000 hours of red teaming with no universal jailbreak discovered.",
+    "url": "https://www.anthropic.com/research/constitutional-classifiers",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "781e4203a03806406789096c8fbffea6",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Alignment\nDec 18, 2024\nAlignment faking in large language models\n\nThis paper provides the first empirical example of a model engaging in alignment faking without being trained to do so—selectively complying with training objectives while strategically preserving existing preferences.",
+    "url": "https://www.anthropic.com/research/alignment-faking",
+    "date_published": "2025-10-29T00:00:00.000Z",
+    "id": "09aac6e8c5cecb152be193bb76323806",
+    "date_scraped": "2026-02-07T13:08:07.711Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
   }
 ]
