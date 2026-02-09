@@ -1,88 +1,36 @@
 [
   {
-    "id": "40bee1741df14152870a9e610be0e61b",
+    "id": "cfb3d4de1cda07059a996b2a64080e59",
     "source": "Claude Blog",
-    "title": "Claude Code on the web",
-    "url": "https://claude.com/blog/claude-code-on-the-web",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
+    "title": "Building multi-agent systems: when and how to use them",
+    "url": "https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
+    "date_published": "2026-02-09T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic announced \"Claude Code\" is now available on the web, extending its coding capabilities to broader online access. This move enhances developer experience by providing direct browser-based interaction with Claude's advanced code generation and analysis features.",
+    "tldr": "Anthropic provides technical insights on the design and application of multi-agent systems, detailing when and how to effectively deploy them for complex tasks. This article explores architectural considerations and interaction patterns crucial for building scalable and robust AI agent ecosystems.",
     "tags": [
-      "llm",
-      "code generation",
-      "deployment",
-      "agent"
+      "ai_agents",
+      "multi_agent_systems",
+      "architecture",
+      "generative_ai"
     ],
     "hype_score": 7
   },
   {
-    "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
+    "id": "b8c9c96054d7d6c2717bc5b4355aa96a",
     "source": "Claude Blog",
-    "title": "Piloting Claude in Chrome",
-    "url": "https://claude.com/blog/claude-for-chrome",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
+    "title": "Building agents with Skills: Equipping agents for specialized work",
+    "url": "https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
+    "date_published": "2026-02-09T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic is piloting a new Claude integration for Chrome, allowing users to leverage Claude's capabilities directly within their web browser. This development streamlines workflows and brings advanced AI assistance closer to daily browsing activities.",
+    "tldr": "This technical blog from Anthropic delves into the methodology for equipping AI agents with specialized 'Skills,' enabling them to perform targeted, complex tasks more effectively. It covers the technical framework for skill development and integration to enhance agent capabilities for domain-specific work.",
     "tags": [
-      "llm",
-      "integration",
-      "browser extension",
-      "api"
-    ],
-    "hype_score": 6
-  },
-  {
-    "id": "bbba82491e9b670348ad0122284f619f",
-    "source": "Claude Blog",
-    "title": "Advancing finance with Claude Opus 4.6",
-    "url": "https://claude.com/blog/opus-4-6-finance",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic has released Claude Opus 4.6, a new iteration of its flagship model, specifically tuned for financial applications. This update likely incorporates advancements in reasoning and data processing relevant to complex financial tasks.",
-    "tags": [
-      "llm",
-      "model release",
-      "finance ai",
-      "nlp"
-    ],
-    "hype_score": 8
-  },
-  {
-    "id": "cc0a355dcfb839e1496515781cc613dd",
-    "source": "Claude Blog",
-    "title": "Customize Cowork with plugins",
-    "url": "https://claude.com/blog/cowork-plugins",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "The \"Cowork\" platform now supports custom plugins, allowing users to extend its functionalities and tailor it to specific workflows. This technical update significantly enhances the platform's modularity and integration capabilities.",
-    "tags": [
-      "platform",
-      "plugins",
-      "api",
-      "extensibility",
-      "agent"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "4743ed63baade95ae97a57cf2857e4cf",
-    "source": "Claude Blog",
-    "title": "Your favorite work tools are now interactive inside Claude",
-    "url": "https://claude.com/blog/interactive-tools-in-claude",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Claude now offers interactive integration with various work tools, allowing users to directly manipulate applications from within the Claude interface. This represents an advancement in AI agent capabilities, fostering more seamless human-AI collaboration across different platforms.",
-    "tags": [
-      "llm",
-      "integration",
-      "agent",
-      "api",
-      "tool use"
+      "ai_agents",
+      "skills",
+      "agent_architecture",
+      "llms",
+      "specialized_ai"
     ],
     "hype_score": 7
   },
@@ -91,165 +39,161 @@
     "source": "Claude Blog",
     "title": "Extending Claude’s capabilities with skills and MCP servers",
     "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
+    "date_published": "2026-02-09T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic is enabling developers to extend Claude's capabilities further through \"Skills\" and specialized \"MCP servers.\" This allows for more complex integrations and custom AI workflows, leveraging distributed infrastructure for enhanced performance and specialized tasks.",
+    "tldr": "Anthropic details advanced methods for extending Claude's capabilities through integrated 'skills' and specialized MCP (Model Control Plane) servers. This technical deep dive explains how these components work in concert to enhance model functionality and enable sophisticated new applications.",
     "tags": [
-      "llm",
-      "api",
-      "agent",
+      "llms",
+      "model_architecture",
+      "skills",
+      "inference",
       "infrastructure",
-      "extensibility"
+      "api"
     ],
-    "hype_score": 7
-  },
-  {
-    "id": "6eda6a632e2933dd55c8fc20f9c470e5",
-    "source": "Claude Blog",
-    "title": "Skills for organizations, partners, the ecosystem",
-    "url": "https://claude.com/blog/organization-skills-and-directory",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic has introduced a comprehensive \"Skills\" framework and directory designed for organizations, partners, and the broader ecosystem. This initiative aims to standardize and facilitate the development and deployment of advanced, specialized capabilities for Claude.",
-    "tags": [
-      "llm",
-      "platform",
-      "ecosystem",
-      "api",
-      "agent"
-    ],
-    "hype_score": 6
+    "hype_score": 8
   },
   {
     "id": "fa79f2dfaee1184e396e71b26b435efa",
     "source": "Claude Blog",
     "title": "Making Claude a better electrical engineer",
     "url": "https://claude.com/blog/making-claude-a-better-electrical-engineer",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
-    "date_published": "2026-02-08T00:00:00.000Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
+    "date_published": "2026-02-09T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic details efforts to significantly enhance Claude's proficiency in electrical engineering, focusing on specialized reasoning and problem-solving within the domain. This likely involves fine-tuning or novel architectural adjustments to handle complex engineering tasks and schematics.",
+    "tldr": "Anthropic explores the technical strategies and methodologies used to significantly improve Claude's proficiency in electrical engineering tasks. The article likely discusses specialized training, fine-tuning techniques, and data curation approaches to enhance the model's domain-specific reasoning and problem-solving abilities.",
     "tags": [
-      "llm",
-      "domain adaptation",
-      "fine-tuning",
-      "reasoning",
-      "engineering"
+      "llms",
+      "domain_adaptation",
+      "fine_tuning",
+      "engineering_ai",
+      "specialized_ai"
     ],
-    "hype_score": 7
-  },
-  {
-    "id": "6bc268f5339cb45c46679eb3015e9993",
-    "source": "Claude Blog",
-    "title": "Cowork: Claude Code for the rest of your work",
-    "url": "https://claude.com/blog/cowork-research-preview",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
-    "date_published": "2026-02-07T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "Anthropic has introduced 'Cowork,' a new offering that expands Claude's coding capabilities to integrate across a broader range of professional tasks. This initiative extends Claude Code's utility beyond pure development, aiming to streamline diverse workflows through advanced AI assistance.",
-    "tags": [
-      "models",
-      "nlp",
-      "coding",
-      "agentic AI",
-      "productivity",
-      "developer tools"
-    ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "07f6101b3bd38826443131b3dccb3e6d",
     "source": "AWS ML",
     "title": "Structured outputs on Amazon Bedrock: Schema-compliant AI responses",
     "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-06T20:12:14.000Z",
     "is_technical": true,
-    "tldr": "Amazon Bedrock now supports structured outputs, allowing generative AI models to produce schema-compliant responses for reliable integration into applications. This technical enhancement significantly improves the predictability and usability of LLM outputs for developers, reducing post-processing overhead.",
+    "tldr": "AWS introduces new capabilities for structured outputs on Amazon Bedrock, enabling large language models (LLMs) to generate responses that strictly adhere to predefined schemas. This enhancement is crucial for developing reliable and predictable AI applications that require specific data formats for downstream processing and integration.",
     "tags": [
-      "genai",
-      "llm",
+      "llms",
       "api",
-      "structured data",
-      "prompt engineering",
-      "aws"
+      "bedrock",
+      "ml_platform",
+      "structured_data",
+      "generative_ai"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "ac75664d9ded661d10a9d126a3519998",
     "source": "AWS ML",
     "title": "Manage Amazon SageMaker HyperPod clusters using the HyperPod CLI and SDK",
     "url": "https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-clusters-using-the-hyperpod-cli-and-sdk/",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-06T19:27:45.000Z",
     "is_technical": true,
-    "tldr": "AWS has introduced new CLI and SDK capabilities for managing Amazon SageMaker HyperPod clusters, streamlining the orchestration of distributed ML training jobs. These tools provide enhanced programmatic control for data scientists and MLOps engineers over their high-performance computing environments.",
+    "tldr": "AWS has released updated CLI and SDK tools for managing Amazon SageMaker HyperPod clusters, streamlining the deployment and operation of distributed machine learning training workloads. These tools provide enhanced programmatic control and automation capabilities for researchers and engineers utilizing high-performance computing in ML.",
     "tags": [
       "mlops",
       "infrastructure",
-      "distributed training",
-      "aws",
-      "sdk",
-      "cli"
+      "distributed_training",
+      "sagemaker",
+      "cloud_ml"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "3e46996d56f2a93bf31aee7f45ca5324",
     "source": "AWS ML",
     "title": "Evaluate generative AI models with an Amazon Nova rubric-based LLM judge on Amazon SageMaker AI (Part 2)",
     "url": "https://aws.amazon.com/blogs/machine-learning/evaluate-generative-ai-models-with-an-amazon-nova-rubric-based-llm-judge-on-amazon-sagemaker-ai-part-2/",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-06T16:29:45.000Z",
     "is_technical": true,
-    "tldr": "AWS introduces a new evaluation method on Amazon SageMaker AI, utilizing an Amazon Nova rubric-based LLM judge to assess generative AI models. This novel approach enables automated, nuanced, and scalable evaluation of complex model outputs against defined criteria.",
+    "tldr": "AWS details an advanced method for evaluating generative AI models using an Amazon Nova rubric-based LLM judge within SageMaker AI. This approach leverages the intelligence of an LLM to conduct nuanced, automated assessments of generative model outputs against defined criteria, improving evaluation objectivity and efficiency.",
     "tags": [
-      "genai",
-      "llm",
+      "generative_ai",
+      "llms",
       "evaluation",
       "benchmarking",
-      "aws",
-      "mlops"
+      "sagemaker"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "a31fffadb1a8a29d8927a4be4f9e419e",
     "source": "NVIDIA Blog",
     "title": "3 Ways NVFP4 Accelerates AI Training and Inference",
     "url": "https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference/",
-    "date_scraped": "2026-02-08T13:10:13.184Z",
+    "date_scraped": "2026-02-09T13:41:51.837Z",
     "date_published": "2026-02-06T16:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article details three distinct methods by which the new NVFP4 floating-point format significantly enhances AI model training and inference efficiency. It elaborates on its benefits for memory bandwidth, computational throughput, and energy consumption across various GPU architectures.",
+    "tldr": "NVIDIA introduces NVFP4, a new 4-bit floating-point format designed to significantly boost AI training and inference performance. This format aims to improve throughput and memory efficiency, enabling larger models and faster computation on NVIDIA GPUs.",
     "tags": [
-      "hardware_acceleration",
-      "nvidia",
-      "deep_learning",
+      "hardware",
+      "deep learning",
+      "optimization",
       "inference",
-      "training",
-      "fp4"
+      "training"
     ],
-    "hype_score": 7
+    "hype_score": 8
+  },
+  {
+    "id": "1118bd5abc31ff39c0b9654db5ac1aee",
+    "source": "OpenAI",
+    "title": "Making AI work for everyone, everywhere: our approach to localization",
+    "url": "https://openai.com/index/our-approach-to-localization",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
+    "date_published": "2026-02-06T10:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI outlines its technical strategy for localizing AI, focusing on adapting models and infrastructure to diverse linguistic and cultural contexts to ensure global accessibility and performance. This involves advancements in multilingual understanding, data synthesis, and regionally optimized deployment mechanisms.",
+    "tags": [
+      "natural_language_processing",
+      "localization",
+      "infrastructure",
+      "multilingual_models",
+      "product_engineering"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "ccf4551e9db7dbbbb7c244ce8eed78f6",
+    "source": "AWS ML",
+    "title": "A practical guide to Amazon Nova Multimodal Embeddings",
+    "url": "https://aws.amazon.com/blogs/machine-learning/a-practical-guide-to-amazon-nova-multimodal-embeddings/",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
+    "date_published": "2026-02-05T20:35:34.000Z",
+    "is_technical": true,
+    "tldr": "AWS provides a comprehensive technical guide to utilizing Amazon Nova Multimodal Embeddings, detailing their integration and application for unifying disparate data types. This resource offers engineers and data scientists practical insights into leveraging these advanced embeddings for enhanced multimodal AI capabilities.",
+    "tags": [
+      "multimodal",
+      "embeddings",
+      "generative_ai",
+      "ml_platform",
+      "practical_guide"
+    ],
+    "hype_score": 6
   },
   {
     "id": "5c7d3ddb3cc94133c8a16628269b245b",
     "source": "NVIDIA Blog",
     "title": "How to Build License-Compliant Synthetic Data Pipelines for AI Model Distillation",
     "url": "https://developer.nvidia.com/blog/how-to-build-license-compliant-synthetic-data-pipelines-for-ai-model-distillation/",
-    "date_scraped": "2026-02-08T13:10:13.184Z",
+    "date_scraped": "2026-02-09T13:41:51.837Z",
     "date_published": "2026-02-05T18:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog outlines methodologies for constructing synthetic data pipelines that ensure license compliance for subsequent AI model distillation. It focuses on technical strategies for data generation and transformation to produce high-quality, legally permissible datasets suitable for optimizing smaller models.",
+    "tldr": "This article details the construction of synthetic data pipelines engineered to ensure license compliance during AI model distillation. It addresses technical challenges in generating privacy-preserving yet effective data for training smaller, performant models.",
     "tags": [
-      "synthetic_data",
-      "data_generation",
-      "model_distillation",
-      "data_governance",
-      "nvidia"
+      "data generation",
+      "synthetic data",
+      "model distillation",
+      "data engineering"
     ],
     "hype_score": 6
   },
@@ -258,16 +202,15 @@
     "source": "Microsoft Research",
     "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
     "url": "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models/",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-05T17:00:00.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research introduces a new paradigm for imitation learning using Predictive Inverse Dynamics Models, aiming to overcome limitations of traditional behavior cloning. This approach models the actions required to achieve desired future states, enhancing agent generalization and performance in complex environments.",
+    "tldr": "Microsoft Research unveils Predictive Inverse Dynamics Models, a novel approach to imitation learning that aims to overcome limitations in current methods. This research focuses on improving how AI agents learn complex behaviors by predicting the underlying dynamics from observed demonstrations, offering advancements in reinforcement learning.",
     "tags": [
-      "reinforcement learning",
-      "imitation learning",
+      "reinforcement_learning",
+      "imitation_learning",
       "robotics",
-      "control theory",
-      "predictive models"
+      "ml_research"
     ],
     "hype_score": 8
   },
@@ -276,34 +219,52 @@
     "source": "Hugging Face",
     "title": "Introducing SyGra Studio",
     "url": "https://huggingface.co/blog/ServiceNow-AI/sygra-studio",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-05T16:52:28.000Z",
     "is_technical": true,
-    "tldr": "ServiceNow AI, in collaboration with Hugging Face, has launched \"SyGra Studio,\" a new development environment likely tailored for building and deploying generative AI applications. This platform aims to streamline the lifecycle of enterprise AI model development and integration.",
+    "tldr": "Hugging Face, in collaboration with ServiceNow AI, announces SyGra Studio, a new development environment aimed at accelerating the creation and deployment of enterprise AI solutions. The studio likely provides advanced tools for managing and building complex AI workflows, potentially leveraging graph-based AI techniques.",
     "tags": [
       "platform",
-      "genai",
-      "mlops",
-      "development tools",
-      "enterprise ai"
+      "ml_devops",
+      "enterprise_ai",
+      "graph_ml",
+      "developer_tools"
     ],
-    "hype_score": 7
+    "hype_score": 6
+  },
+  {
+    "id": "58ece560ececab941948bc0600d13cac",
+    "source": "NVIDIA Blog",
+    "title": "How Painkiller RTX Uses Generative AI to Modernize Game Assets at Scale",
+    "url": "https://developer.nvidia.com/blog/how-painkiller-rtx-uses-generative-ai-to-modernize-game-assets-at-scale/",
+    "date_scraped": "2026-02-09T13:41:51.837Z",
+    "date_published": "2026-02-05T14:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This piece explores how the game \"Painkiller RTX\" leverages generative AI to efficiently modernize its game assets across a large scale. It details the technical approaches and pipelines used to integrate AI-driven asset enhancement into game development workflows.",
+    "tags": [
+      "generative AI",
+      "computer graphics",
+      "game development",
+      "application",
+      "computer vision"
+    ],
+    "hype_score": 6
   },
   {
     "id": "abf99c21c726f3e9daa74eeba451330f",
     "source": "OpenAI",
     "title": "GPT-5 lowers the cost of cell-free protein synthesis",
     "url": "https://openai.com/index/gpt-5-lowers-protein-synthesis-cost",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-05T11:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI's GPT-5 has demonstrated significant advancements in biotechnological applications, specifically by reducing the cost associated with cell-free protein synthesis. This showcases the model's capability for complex scientific problem-solving and optimization in molecular biology.",
+    "tldr": "OpenAI's GPT-5 model has demonstrated a significant capability in optimizing and reducing the cost of cell-free protein synthesis. This technical advancement involves leveraging the model's predictive power for designing more efficient biochemical pathways and reaction parameters.",
     "tags": [
-      "models",
-      "scientific computing",
-      "biology",
-      "gpt",
-      "applications"
+      "large_language_models",
+      "bioinformatics",
+      "scientific_discovery",
+      "gpt_applications",
+      "optimization"
     ],
     "hype_score": 8
   },
@@ -312,32 +273,34 @@
     "source": "OpenAI",
     "title": "Introducing Trusted Access for Cyber",
     "url": "https://openai.com/index/trusted-access-for-cyber",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-05T10:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has introduced 'Trusted Access for Cyber,' an initiative or framework aimed at enhancing cybersecurity through advanced AI models. This suggests the integration of sophisticated AI for bolstering secure access protocols and improving threat detection mechanisms.",
+    "tldr": "OpenAI introduces \"Trusted Access for Cyber,\" a new technical framework designed to secure AI interactions and data within cybersecurity contexts. This system likely incorporates advanced authentication, access control mechanisms, and AI-driven threat detection to protect sensitive cyber operations.",
     "tags": [
-      "security",
-      "AI applications",
+      "cybersecurity",
+      "ai_security",
       "infrastructure",
-      "framework"
+      "product_release",
+      "access_control"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "1a4bc4ca02801ab57687c64d1a12243a",
     "source": "OpenAI",
     "title": "Introducing OpenAI Frontier",
     "url": "https://openai.com/index/introducing-openai-frontier",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-05T06:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has unveiled 'OpenAI Frontier,' indicating a major new research initiative, platform, or a foundational model pushing the boundaries of current AI capabilities. This announcement likely signifies a substantial leap in areas such as scaling, multi-modality, or general intelligence.",
+    "tldr": "OpenAI unveils \"OpenAI Frontier,\" a new initiative or platform aimed at pushing the boundaries of AI research and deployment, potentially focusing on pre-AGI capabilities and advanced model development. This likely involves significant computational infrastructure and novel research paradigms to accelerate discovery.",
     "tags": [
-      "models",
-      "research initiative",
-      "frontier AI",
-      "infrastructure"
+      "agi_research",
+      "foundation_models",
+      "infrastructure",
+      "research_initiative",
+      "model_development"
     ],
     "hype_score": 9
   },
@@ -346,36 +309,35 @@
     "source": "Microsoft Research",
     "title": "Paza: Introducing automatic speech recognition benchmarks and models for low resource languages",
     "url": "https://www.microsoft.com/en-us/research/blog/paza-introducing-automatic-speech-recognition-benchmarks-and-models-for-low-resource-languages/",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-05T05:07:55.000Z",
     "is_technical": true,
-    "tldr": "Microsoft Research unveils \"Paza,\" a new initiative featuring automatic speech recognition (ASR) benchmarks and models specifically designed for low-resource languages. This effort addresses the critical challenge of extending robust ASR capabilities to underserved linguistic communities, promoting inclusivity in AI.",
+    "tldr": "Microsoft Research introduces Paza, a significant initiative providing new automatic speech recognition (ASR) benchmarks and models specifically tailored for low-resource languages. This work is critical for expanding AI accessibility globally, fostering more inclusive language technologies, and advancing fairness in ASR systems.",
     "tags": [
       "asr",
-      "nlp",
-      "low-resource languages",
+      "speech_recognition",
+      "low_resource_ml",
       "benchmarking",
-      "model release",
-      "speech processing"
+      "nlp"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "c714f23bce255f19ee673822990d238d",
     "source": "OpenAI",
     "title": "GPT-5.3-Codex System Card",
     "url": "https://openai.com/index/gpt-5-3-codex-system-card",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-05T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has released the System Card for GPT-5.3-Codex, providing in-depth technical documentation of the model's architecture, training methodology, performance benchmarks, and safety considerations. This card is crucial for understanding the model's capabilities, limitations, and deployment protocols for coding applications.",
+    "tldr": "OpenAI releases the System Card for GPT-5.3-Codex, providing a comprehensive technical overview of its architecture, training methodology, and performance characteristics. The document details its enhanced coding capabilities, potential biases, and safety mitigations for developers and researchers.",
     "tags": [
-      "models",
-      "system cards",
-      "safety",
-      "nlp",
-      "coding",
-      "documentation"
+      "large_language_models",
+      "code_generation",
+      "model_release",
+      "system_card",
+      "model_architecture",
+      "safety"
     ],
     "hype_score": 8
   },
@@ -384,35 +346,35 @@
     "source": "OpenAI",
     "title": "Introducing GPT-5.3-Codex",
     "url": "https://openai.com/index/introducing-gpt-5-3-codex",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-05T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has officially launched GPT-5.3-Codex, a specialized variant of its flagship model designed for advanced code generation, understanding, and debugging. This release signifies a significant enhancement in AI's capability to assist and automate complex software development tasks.",
+    "tldr": "OpenAI officially launches GPT-5.3-Codex, marking a significant advancement in AI for code generation, understanding, and debugging. This model is expected to set new benchmarks in developer productivity and complex software engineering tasks.",
     "tags": [
-      "models",
-      "nlp",
-      "coding",
-      "gpt",
-      "frontier AI"
+      "large_language_models",
+      "code_generation",
+      "model_release",
+      "software_engineering",
+      "developer_tools"
     ],
-    "hype_score": 9
+    "hype_score": 10
   },
   {
     "id": "ffb4fb0646fb7fd6698cca7ba97ed35f",
     "source": "Anthropic News",
-    "title": "Introducing Claude Opus 4.6\nAnnouncements\nFeb 5, 2026\n\nWe’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
+    "title": "Announcements\nFeb 5, 2026\nIntroducing Claude Opus 4.6\n\nWe’re upgrading our smartest model. Across agentic coding, computer use, tool use, search, and finance, Opus 4.6 is an industry-leading model, often by wide margin.",
     "url": "https://www.anthropic.com/news/claude-opus-4-6",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-05T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Anthropic has released Claude Opus 4.6, an upgraded version of its flagship model, achieving industry-leading performance across agentic coding, computer use, tool use, search, and finance. This release signifies substantial advancements in complex reasoning and practical application domains.",
+    "tldr": "Anthropic announces Claude Opus 4.6, a significant upgrade to their flagship model, demonstrating industry-leading performance across agentic coding, computer and tool use, search, and finance domains. This release highlights substantial advancements in multi-modal reasoning and complex task execution for AI agents.",
     "tags": [
-      "models",
-      "nlp",
-      "agentic AI",
+      "large_language_models",
+      "model_release",
+      "agentic_ai",
+      "tool_use",
       "coding",
-      "tool use",
-      "frontier AI"
+      "multimodal"
     ],
     "hype_score": 10
   },
@@ -421,73 +383,51 @@
     "source": "Meta AI",
     "title": "No Display? No Problem: Cross-Device Passkey Authentication for XR Devices",
     "url": "https://engineering.fb.com/2026/02/04/security/cross-device-passkey-authentication-for-xr-devices-meta-quest/",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-04T22:00:07.000Z",
     "is_technical": true,
-    "tldr": "Meta AI has engineered a novel cross-device passkey authentication system for XR devices, addressing the challenge of secure login on devices without traditional displays. This technical solution enhances security and user experience by leveraging external devices for authentication in the XR ecosystem.",
+    "tldr": "Meta AI introduces a robust cross-device passkey authentication system for XR devices, designed to enable secure logins even on devices without a display. This engineering solution significantly enhances user security and accessibility within the extended reality ecosystem by leveraging innovative authentication protocols.",
     "tags": [
       "security",
       "xr",
       "authentication",
-      "human-computer interaction",
-      "hardware integration"
+      "engineering"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "2340d8c9ed152148cf8813d7032d7091",
     "source": "NVIDIA Blog",
     "title": "Build with Kimi K2.5 Multimodal VLM Using NVIDIA GPU-Accelerated Endpoints ",
     "url": "https://developer.nvidia.com/blog/build-with-kimi-k2-5-multimodal-vlm-using-nvidia-gpu-accelerated-endpoints/",
-    "date_scraped": "2026-02-08T13:10:13.184Z",
+    "date_scraped": "2026-02-09T13:41:51.837Z",
     "date_published": "2026-02-04T19:46:33.000Z",
     "is_technical": true,
-    "tldr": "This article introduces developers to building applications with the newly released Kimi K2.5 Multimodal VLM, leveraging NVIDIA GPU-accelerated endpoints for optimal performance. It details the model's capabilities in handling diverse visual and linguistic inputs and provides guidance on efficient deployment strategies.",
+    "tldr": "NVIDIA announces the release of Kimi K2.5, a new multimodal Vision-Language Model, accessible via GPU-accelerated endpoints. The article details how developers can integrate and leverage this VLM's capabilities for applications requiring sophisticated visual and linguistic understanding.",
     "tags": [
-      "multimodal_ai",
-      "vlm",
-      "llm",
-      "nvidia",
-      "gpu_acceleration",
-      "model_deployment"
+      "multimodal AI",
+      "vision-language model",
+      "model release",
+      "GPU",
+      "inference"
     ],
     "hype_score": 7
-  },
-  {
-    "id": "4e8f164ec85f3ffabb6f3b07864fa691",
-    "source": "NVIDIA Blog",
-    "title": "How to Build a Document Processing Pipeline for RAG with Nemotron ",
-    "url": "https://developer.nvidia.com/blog/how-to-build-a-document-processing-pipeline-for-rag-with-nemotron/",
-    "date_scraped": "2026-02-08T13:10:13.184Z",
-    "date_published": "2026-02-04T16:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This guide details the construction of a robust document processing pipeline optimized for Retrieval Augmented Generation (RAG) systems using the Nemotron model. It covers critical steps such as data ingestion, chunking strategies, embedding generation, and integration with vector databases to enhance context retrieval for LLMs.",
-    "tags": [
-      "rag",
-      "llm_applications",
-      "nemotron",
-      "data_pipelines",
-      "document_processing",
-      "nvidia"
-    ],
-    "hype_score": 6
   },
   {
     "id": "5a59b4d62fc805adaee51c4e6a0706ca",
     "source": "Hugging Face",
     "title": "Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model",
     "url": "https://huggingface.co/blog/nvidia/nemotron-colembed-v2",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-04T15:00:40.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA has released Nemotron ColEmbed V2, an advanced multimodal embedding model, leveraging ViDoRe V3 to set new benchmarks in multimodal retrieval. This iteration significantly improves the ability to understand and match information across different data types, such as text and images.",
+    "tldr": "NVIDIA releases Nemotron ColEmbed V2, a new state-of-the-art model for multimodal retrieval, incorporating the top-performing ViDoRe V3 architecture. This release significantly enhances the capability to efficiently search and relate information across diverse modalities, setting new benchmarks for multimodal embedding performance.",
     "tags": [
-      "multimodal ai",
+      "multimodal",
       "embeddings",
-      "retrieval",
-      "model release",
-      "nlp",
-      "computer vision"
+      "information_retrieval",
+      "model_release",
+      "transformer"
     ],
     "hype_score": 8
   },
@@ -496,16 +436,16 @@
     "source": "OpenAI",
     "title": "Unlocking the Codex harness: how we built the App Server",
     "url": "https://openai.com/index/unlocking-the-codex-harness",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-04T13:00:00.000Z",
     "is_technical": true,
-    "tldr": "This engineering blog post from OpenAI details the technical challenges and solutions involved in building the App Server to effectively harness the power of Codex. It provides insights into the scalable infrastructure and system design required for deploying large language models for complex applications.",
+    "tldr": "This engineering blog post details the technical challenges and solutions involved in building the App Server for the Codex harness, optimizing its performance and scalability for AI-powered code execution environments. It covers critical infrastructure decisions and deployment strategies for a demanding AI service.",
     "tags": [
       "infrastructure",
-      "engineering",
-      "deployment",
-      "models",
-      "coding"
+      "engineering_blog",
+      "code_generation",
+      "system_architecture",
+      "scalability"
     ],
     "hype_score": 7
   },
@@ -514,54 +454,72 @@
     "source": "Hugging Face",
     "title": "Community Evals: Because we're done trusting black-box leaderboards over the community",
     "url": "https://huggingface.co/blog/community-evals",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-04T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Hugging Face introduced \"Community Evals,\" a new initiative to foster more transparent and community-driven evaluation of AI models, moving beyond opaque leaderboards. This platform aims to provide more robust and trustworthy assessment methodologies by engaging the broader ML community.",
+    "tldr": "Hugging Face launches 'Community Evals,' a new initiative designed to foster transparent and collaborative AI model evaluation, moving away from opaque black-box leaderboards. This platform empowers the community to contribute to and scrutinize model assessments, enhancing trust and reproducibility in AI development.",
     "tags": [
       "evaluation",
       "benchmarking",
-      "mlops",
-      "open science",
-      "community"
+      "ml_devops",
+      "community",
+      "transparency"
     ],
     "hype_score": 7
+  },
+  {
+    "id": "b8a3308500e3f5a0600d34e9a92fb0fa",
+    "source": "AWS ML",
+    "title": "AI agents in enterprises: Best practices with Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/ai-agents-in-enterprises-best-practices-with-amazon-bedrock-agentcore/",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
+    "date_published": "2026-02-03T18:44:43.000Z",
+    "is_technical": true,
+    "tldr": "AWS outlines best practices for deploying and managing AI agents within enterprise environments using Amazon Bedrock AgentCore. This technical guide covers architectural considerations, security protocols, and operational strategies to ensure robust, scalable, and compliant agentic AI implementations.",
+    "tags": [
+      "ai_agents",
+      "enterprise_ai",
+      "bedrock",
+      "best_practices",
+      "architecture"
+    ],
+    "hype_score": 6
   },
   {
     "id": "bb1053f90aba4cf99912c794e5311472",
     "source": "Hugging Face",
     "title": "H Company's new Holo2 model takes the lead in UI Localization",
     "url": "https://huggingface.co/blog/Hcompany/introducing-holo2-235b-a22b",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-03T17:40:14.000Z",
     "is_technical": true,
-    "tldr": "H Company has unveiled \"Holo2,\" a new 235-billion parameter model that has reportedly achieved state-of-the-art performance in UI Localization. This large language model is designed to automate and improve the translation and adaptation of user interfaces across diverse languages and cultures.",
+    "tldr": "H Company introduces Holo2, a new 235B parameter model that has achieved leading performance in UI Localization tasks. This model represents a significant technical leap in automatically adapting user interfaces for diverse linguistic and cultural contexts, streamlining global software deployment.",
     "tags": [
-      "llm",
-      "model release",
       "nlp",
       "localization",
-      "ui/ux ai"
+      "model_release",
+      "generative_ai",
+      "multilingual"
     ],
-    "hype_score": 8
+    "hype_score": 6
   },
   {
     "id": "611d96edaf0956a58589e03294a62986",
     "source": "NVIDIA Blog",
     "title": "Accelerating Long-Context Model Training in JAX and XLA",
     "url": "https://developer.nvidia.com/blog/accelerating-long-context-model-training-in-jax-and-xla/",
-    "date_scraped": "2026-02-08T13:10:13.184Z",
+    "date_scraped": "2026-02-09T13:41:51.837Z",
     "date_published": "2026-02-03T17:30:00.000Z",
     "is_technical": true,
-    "tldr": "This article explores advanced techniques for accelerating the training of long-context AI models within the JAX and XLA frameworks. It details specific optimizations for memory management, computational graph compilation, and distributed communication to efficiently handle extended input sequences.",
+    "tldr": "This engineering blog explores advanced techniques for accelerating the training of long-context models within the JAX and XLA ecosystems. It focuses on optimizations that enhance throughput and memory efficiency, critical for pushing the boundaries of contextual understanding in large language models.",
     "tags": [
-      "llm_training",
-      "long_context",
-      "jax",
-      "xla",
+      "LLM",
+      "training",
       "optimization",
-      "deep_learning",
-      "nvidia"
+      "JAX",
+      "XLA",
+      "long context",
+      "infrastructure"
     ],
     "hype_score": 7
   },
@@ -570,17 +528,16 @@
     "source": "AWS ML",
     "title": "Agentic AI for healthcare data analysis with Amazon SageMaker Data Agent",
     "url": "https://aws.amazon.com/blogs/machine-learning/agentic-ai-for-healthcare-data-analysis-with-amazon-sagemaker-data-agent/",
-    "date_scraped": "2026-02-08T13:10:13.184Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-03T16:22:19.000Z",
     "is_technical": true,
-    "tldr": "This blog details the architecture and implementation of an agentic AI system for healthcare data analysis using Amazon SageMaker Data Agent. It outlines how to leverage LLMs and retrieval augmentation to process complex medical queries and generate insights from diverse healthcare datasets.",
+    "tldr": "AWS showcases the application of agentic AI for advanced healthcare data analysis, leveraging the Amazon SageMaker Data Agent. This technical deep dive illustrates how specialized AI agents can automate complex data extraction, processing, and insight generation, significantly enhancing efficiency in healthcare analytics.",
     "tags": [
-      "agentic_ai",
+      "ai_agents",
       "healthcare_ai",
-      "aws",
-      "llm",
-      "data_processing",
-      "sagemaker"
+      "data_analysis",
+      "sagemaker",
+      "application"
     ],
     "hype_score": 6
   },
@@ -589,17 +546,16 @@
     "source": "Hugging Face",
     "title": "Training Design for Text-to-Image Models: Lessons from Ablations",
     "url": "https://huggingface.co/blog/Photoroom/prx-part2",
-    "date_scraped": "2026-02-08T13:09:51.626Z",
+    "date_scraped": "2026-02-09T13:41:35.099Z",
     "date_published": "2026-02-03T11:25:53.000Z",
     "is_technical": true,
-    "tldr": "Photoroom has published an engineering blog detailing critical insights into the training design of text-to-image models, derived from extensive ablation studies. This work provides valuable lessons on optimizing architectural choices and training procedures for enhanced generative performance and quality.",
+    "tldr": "Photoroom shares critical insights on optimal training design for text-to-image models, based on extensive ablation studies and empirical findings. This technical blog post provides valuable lessons and best practices for researchers and engineers aiming to improve the performance and quality of generative image models.",
     "tags": [
-      "generative ai",
-      "text-to-image",
-      "diffusion models",
-      "training",
-      "ablation study",
-      "computer vision"
+      "generative_ai",
+      "text_to_image",
+      "training_techniques",
+      "model_optimization",
+      "computer_vision"
     ],
     "hype_score": 7
   },
@@ -608,36 +564,35 @@
     "source": "Anthropic News",
     "title": "Feb 3, 2026\nProduct\nApple’s Xcode now supports the Claude Agent SDK",
     "url": "https://www.anthropic.com/news/apple-xcode-claude-agent-sdk",
-    "date_scraped": "2026-02-08T13:08:58.894Z",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
     "date_published": "2026-02-03T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Apple's Xcode development environment has integrated support for Anthropic's Claude Agent SDK, empowering developers to build intelligent agents directly within the Apple ecosystem. This integration facilitates the creation of sophisticated AI-powered applications leveraging Claude's agentic capabilities.",
+    "tldr": "Apple's Xcode now officially supports the Claude Agent SDK, enabling developers to natively integrate Anthropic's advanced AI agent capabilities into iOS and macOS applications. This integration streamlines the development of sophisticated AI-powered tools and features within the Apple ecosystem.",
     "tags": [
-      "SDK",
-      "agentic AI",
-      "developer tools",
-      "integration"
+      "agentic_ai",
+      "developer_tools",
+      "sdk",
+      "integration",
+      "mobile_ai"
     ],
     "hype_score": 7
   },
   {
-    "id": "b564891f6e13ba714ddf4764a6472b40",
-    "source": "NVIDIA Blog",
-    "title": "Optimizing Communication for Mixture-of-Experts Training with Hybrid Expert Parallel",
-    "url": "https://developer.nvidia.com/blog/optimizing-communication-for-mixture-of-experts-training-with-hybrid-expert-parallel/",
-    "date_scraped": "2026-02-08T13:10:13.184Z",
-    "date_published": "2026-02-02T18:43:08.000Z",
+    "id": "04862c1c4a043692ef67966014ed2600",
+    "source": "Anthropic News",
+    "title": "Feb 2, 2026\nSocietal Impacts\nAnthropic partners with Allen Institute and Howard Hughes Medical Institute to accelerate scientific discovery",
+    "url": "https://www.anthropic.com/news/anthropic-partners-with-allen-institute-and-howard-hughes-medical-institute",
+    "date_scraped": "2026-02-09T13:40:48.360Z",
+    "date_published": "2026-02-02T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This article introduces and elaborates on Hybrid Expert Parallelism, a novel strategy for optimizing communication overhead during Mixture-of-Experts (MoE) model training. It details how this approach reduces inter-node data transfer and improves scalability for large-scale sparse models.",
+    "tldr": "Anthropic has partnered with the Allen Institute and Howard Hughes Medical Institute to leverage its AI models for accelerating fundamental scientific discovery. This collaboration aims to apply advanced AI techniques to complex biological and research challenges, potentially through model fine-tuning and data analysis.",
     "tags": [
-      "moe",
-      "distributed_training",
-      "llm_training",
-      "parallelization",
-      "optimization",
-      "deep_learning",
-      "nvidia"
+      "scientific_discovery",
+      "partnerships",
+      "bioinformatics",
+      "research_applications",
+      "societal_impact"
     ],
-    "hype_score": 8
+    "hype_score": 7
   }
 ]
