@@ -1,70 +1,129 @@
 [
   {
+    "id": "a77fd95bde1f67688056bf1752f4be2f",
+    "source": "AWS ML",
+    "title": "Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser",
+    "url": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
+    "date_published": "2026-02-13T22:57:34.000Z",
+    "is_technical": true,
+    "tldr": "AWS introduced advanced customization options for AI agent browsing within Amazon Bedrock AgentCore Browser, including support for proxies, profiles, and browser extensions. These features enable developers to fine-tune agent interactions with web environments, enhancing their ability to perform complex tasks securely and efficiently.",
+    "tags": [
+      "agentic-ai",
+      "AWS",
+      "Bedrock",
+      "developer-tools",
+      "customization"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "f01e7b0996ca2c650d506aa2396012ba",
+    "source": "OpenAI",
+    "title": "GPT-5.2 derives a new result in theoretical physics",
+    "url": "https://openai.com/index/new-result-theoretical-physics",
+    "date_scraped": "2026-02-14T13:08:10.557Z",
+    "date_published": "2026-02-13T11:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI's GPT-5.2 has achieved a significant milestone by autonomously deriving a novel result in theoretical physics, showcasing advanced reasoning and problem-solving beyond previously observed LLM capabilities. This demonstrates the model's potential to accelerate scientific research and contribute to fundamental knowledge discovery.",
+    "tags": [
+      "llm",
+      "scientific-discovery",
+      "physics",
+      "gpt",
+      "model-capabilities"
+    ],
+    "hype_score": 10
+  },
+  {
+    "id": "4fafadd15590fd4d21c4434e2d5d6cea",
+    "source": "OpenAI",
+    "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
+    "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
+    "date_scraped": "2026-02-14T13:08:10.557Z",
+    "date_published": "2026-02-13T10:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI has introduced \"Lockdown Mode\" and \"Elevated Risk labels\" for ChatGPT, implementing enhanced security and safety protocols for sensitive interactions. These features aim to increase model reliability and user trust by explicitly flagging potentially high-risk outputs or restricting certain functionalities.",
+    "tags": [
+      "safety",
+      "alignment",
+      "security",
+      "llm",
+      "chatgpt",
+      "feature-release"
+    ],
+    "hype_score": 6
+  },
+  {
+    "id": "2beba19a0ac8956782754a094bde17e8",
+    "source": "OpenAI",
+    "title": "Beyond rate limits: scaling access to Codex and Sora",
+    "url": "https://openai.com/index/beyond-rate-limits",
+    "date_scraped": "2026-02-14T13:08:10.557Z",
+    "date_published": "2026-02-13T09:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI details new infrastructure and system optimizations designed to significantly scale access to their Codex and Sora models, moving beyond traditional rate limits. This initiative focuses on engineering solutions to ensure high availability and efficient resource allocation for advanced AI services.",
+    "tags": [
+      "infrastructure",
+      "scaling",
+      "engineering",
+      "codex",
+      "sora",
+      "api"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "ab9909aef08da6ec3b85078d246aa06d",
+    "source": "OpenAI",
+    "title": "Scaling social science research",
+    "url": "https://openai.com/index/scaling-social-science-research",
+    "date_scraped": "2026-02-14T13:08:10.557Z",
+    "date_published": "2026-02-13T09:00:00.000Z",
+    "is_technical": true,
+    "tldr": "OpenAI is exploring methodologies and tools to enable the scaling of social science research through AI, likely involving automated data analysis, simulation, or large-scale content generation for studies. This initiative aims to accelerate insights and broaden the scope of research in social sciences using advanced AI capabilities.",
+    "tags": [
+      "ai-for-science",
+      "social-science",
+      "research-tools",
+      "application"
+    ],
+    "hype_score": 5
+  },
+  {
     "id": "1eaf00d7a315d346c022439856d7d021",
     "source": "LangChain",
     "title": "On Agent Frameworks and Agent Observability",
     "url": "https://blog.langchain.com/on-agent-frameworks-and-agent-observability/",
-    "date_scraped": "2026-02-13T13:21:37.525Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-13T02:23:40.000Z",
     "is_technical": true,
-    "tldr": "This LangChain blog post provides a technical analysis of current agent frameworks and the critical need for robust agent observability in complex AI systems. It discusses architectural patterns for monitoring agent decision-making, tool interactions, and state evolution, essential for debugging, understanding, and improving autonomous agents.",
+    "tldr": "LangChain published a deep dive into the critical concepts of agent frameworks and agent observability, essential for developing and debugging reliable AI agents. The post discusses architectural patterns and tools for monitoring agent behavior, understanding decision-making, and ensuring operational transparency in complex autonomous systems.",
     "tags": [
-      "agentic AI",
-      "frameworks",
+      "agentic-ai",
+      "framework",
       "observability",
-      "system design",
-      "debugging"
+      "developer-tools",
+      "LangChain"
     ],
     "hype_score": 7
   },
   {
-    "id": "cfb3d4de1cda07059a996b2a64080e59",
-    "source": "Claude Blog",
-    "title": "Building multi-agent systems: when and how to use them",
-    "url": "https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "id": "7553ddfa4241b1318c80c67db03b5ff6",
+    "source": "Hugging Face",
+    "title": "Custom Kernels for All from Codex and Claude",
+    "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-13T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post explores the design considerations and application contexts for building multi-agent AI systems, detailing architectural patterns and interaction strategies. It provides insights into orchestrating specialized agents to achieve complex tasks more robustly than single-agent approaches.",
+    "tldr": "Hugging Face announced a new capability enabling the generation of custom CUDA kernels for AI agents, drawing on advancements from models like Codex and Claude. This allows for highly optimized, task-specific computations directly within agent workflows, enhancing performance and flexibility.",
     "tags": [
-      "multi-agent systems",
-      "agentic AI",
-      "system design"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "b8c9c96054d7d6c2717bc5b4355aa96a",
-    "source": "Claude Blog",
-    "title": "Building agents with Skills: Equipping agents for specialized work",
-    "url": "https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
-    "date_published": "2026-02-13T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This article delves into methodologies for endowing AI agents with specialized skills, enabling them to perform complex, domain-specific tasks. It covers the technical approaches to integrating tools and knowledge bases, transforming general-purpose LLMs into highly capable assistants.",
-    "tags": [
-      "agentic AI",
-      "tool use",
-      "LLMs",
-      "capabilities"
-    ],
-    "hype_score": 7
-  },
-  {
-    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
-    "source": "Claude Blog",
-    "title": "Extending Claude’s capabilities with skills and MCP servers",
-    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
-    "date_published": "2026-02-13T00:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This post details how to extend Claude's core capabilities through custom skills and integration with \"MCP servers,\" which likely refers to custom computational or data processing backends. It highlights the architectural patterns for building robust external interfaces that allow Claude to interact with specialized functions and external systems.",
-    "tags": [
-      "LLMs",
-      "capabilities",
-      "system integration",
-      "agentic AI",
-      "tool use"
+      "LLM",
+      "agentic-ai",
+      "custom-kernels",
+      "CUDA",
+      "optimization",
+      "developer-tools"
     ],
     "hype_score": 7
   },
@@ -73,16 +132,16 @@
     "source": "AWS ML",
     "title": "Build long-running MCP servers on Amazon Bedrock AgentCore with Strands Agents integration",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-12T20:16:20.000Z",
     "is_technical": true,
-    "tldr": "This AWS blog post provides a technical guide on architecting and deploying long-running Multi-Component Processing (MCP) servers on Amazon Bedrock AgentCore, featuring integration with Strands Agents. It details the infrastructure and programming patterns required to create persistent, stateful AI agents capable of continuous operation and complex workflows.",
+    "tldr": "AWS detailed the integration of Strands Agents with Amazon Bedrock AgentCore to facilitate the deployment of long-running MCP (Multi-Computation Process) servers. This enables more persistent and complex multi-agent systems, enhancing the capability for continuous AI operations and advanced workflow automation.",
     "tags": [
-      "agentic AI",
-      "AWS Bedrock",
-      "cloud infrastructure",
-      "system design",
-      "LLM orchestration"
+      "agentic-ai",
+      "AWS",
+      "Bedrock",
+      "infrastructure",
+      "multi-agent-systems"
     ],
     "hype_score": 7
   },
@@ -91,34 +150,34 @@
     "source": "DeepMind",
     "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
     "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-12T16:15:09.000Z",
     "is_technical": true,
-    "tldr": "DeepMind announces Gemini 3 Deep Think, a significant advancement designed to accelerate scientific, research, and engineering discovery. This iteration focuses on enhanced reasoning, complex problem-solving, and a deeper understanding of scientific domains, pushing the boundaries of multimodal AI applications in research.",
+    "tldr": "DeepMind announced Gemini 3 Deep Think, a new iteration of their foundational AI model engineered for accelerated scientific discovery and complex problem-solving. This advanced model demonstrates enhanced capabilities in research and engineering domains, pushing the boundaries of AI-driven innovation.",
     "tags": [
-      "LLMs",
-      "multimodal",
-      "scientific AI",
-      "reasoning",
-      "major model release"
+      "transformer",
+      "large-language-model",
+      "scientific-discovery",
+      "foundation-model",
+      "deep-learning"
     ],
-    "hype_score": 10
+    "hype_score": 9
   },
   {
     "id": "882674348fab9ca8a4414208b8358584",
     "source": "OpenAI",
     "title": "Introducing GPT-5.3-Codex-Spark",
     "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-    "date_scraped": "2026-02-13T13:20:47.013Z",
+    "date_scraped": "2026-02-14T13:08:10.557Z",
     "date_published": "2026-02-12T10:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has officially launched GPT-5.3-Codex-Spark, a new generation model specifically engineered for advanced code generation and complex agentic workflows. This release focuses on significantly enhancing capabilities for multi-turn coding, sophisticated problem-solving, and seamless integration within developer toolchains.",
+    "tldr": "OpenAI has released GPT-5.3-Codex-Spark, a new iteration of their foundational language model, likely featuring enhanced capabilities in code generation, multi-modal reasoning, or real-time interaction. This release represents a significant advancement in general-purpose AI development, integrating specialized proficiencies like coding (Codex) with a new 'Spark' capability.",
     "tags": [
-      "model release",
-      "code generation",
-      "large language model",
-      "agentic AI",
-      "developer tools"
+      "llm",
+      "model-release",
+      "gpt",
+      "codex",
+      "multi-modal"
     ],
     "hype_score": 9
   },
@@ -127,35 +186,35 @@
     "source": "Hugging Face",
     "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
     "url": "https://huggingface.co/blog/openenv-turing",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-12T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Hugging Face introduces \"OpenEnv,\" a practical framework for rigorously evaluating tool-using AI agents within simulated real-world environments, akin to a Turing test for agent capabilities. This initiative aims to standardize and improve the assessment of agent performance, robustness, and ability to interact with complex external systems.",
+    "tldr": "Hugging Face introduced OpenEnv, a framework for robustly evaluating tool-using AI agents in diverse real-world environments. This initiative provides critical benchmarks and methodologies for assessing agent performance beyond synthetic tasks, pushing towards more reliable and capable autonomous systems.",
     "tags": [
-      "agentic AI",
+      "agentic-ai",
       "evaluation",
       "benchmarks",
-      "tool use",
+      "tool-use",
       "research"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "d71f8bb7385f510a5c4f82674337486b",
     "source": "AWS ML",
     "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
     "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-11T19:38:47.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA's Nemotron 3 Nano 30B Mixture-of-Experts (MoE) model has been integrated into Amazon SageMaker JumpStart, making this powerful, efficient model readily accessible for researchers and developers. This availability facilitates accelerated development and deployment of advanced generative AI applications, leveraging MoE architecture for improved inference efficiency.",
+    "tldr": "AWS announced the NVIDIA Nemotron 3 Nano 30B MoE model is now accessible via Amazon SageMaker JumpStart, making this mixture-of-experts model readily available for developers. This integration facilitates rapid deployment and fine-tuning of a powerful, efficient large language model for various AI applications.",
     "tags": [
-      "LLMs",
+      "LLM",
+      "model-release",
       "MoE",
-      "model release",
       "NVIDIA",
-      "AWS SageMaker",
-      "inference"
+      "AWS",
+      "SageMaker"
     ],
     "hype_score": 8
   },
@@ -164,91 +223,105 @@
     "source": "Meta AI",
     "title": "The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old Field, JiTTesting Can Revive It",
     "url": "https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-11T17:00:05.000Z",
     "is_technical": true,
-    "tldr": "Meta's engineering blog discusses how agentic AI development challenges traditional software testing paradigms, proposing Just-in-Time Testing (JiTTesting) as a solution. JiTTesting leverages AI to dynamically generate and execute tests, adapting to the non-deterministic nature of agentic systems and enhancing quality assurance.",
+    "tldr": "Meta AI's engineering blog discussed the paradigm shift in software testing caused by agentic development, challenging traditional methods. They propose JiTTesting (Just-in-Time Testing) as a novel approach to adapt and revive testing practices in the era of AI agents.",
     "tags": [
-      "agentic AI",
-      "software engineering",
+      "software-engineering",
+      "agentic-ai",
       "testing",
-      "developer tools",
-      "AI for coding"
+      "developer-tools"
     ],
-    "hype_score": 8
+    "hype_score": 7
   },
   {
     "id": "a907074aa26b63fce4a59ab7f910b528",
     "source": "AWS ML",
     "title": "Mastering Amazon Bedrock throttling and service availability: A comprehensive guide",
     "url": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-11T15:52:54.000Z",
     "is_technical": true,
-    "tldr": "This comprehensive guide from AWS provides deep technical insights into understanding and managing throttling mechanisms and ensuring high service availability for applications built on Amazon Bedrock. It details strategies and best practices for optimizing API call rates, implementing robust retry logic, and designing resilient architectures to handle production workloads effectively.",
+    "tldr": "AWS published a comprehensive guide to mastering throttling and ensuring high service availability for applications built on Amazon Bedrock. The guide provides technical strategies and best practices for managing API request rates and optimizing deployments to maintain robust and scalable AI services.",
     "tags": [
-      "AWS Bedrock",
-      "cloud infrastructure",
-      "operations",
+      "AWS",
+      "Bedrock",
+      "infrastructure",
       "reliability",
-      "system design"
+      "performance-tuning"
     ],
-    "hype_score": 6
+    "hype_score": 5
   },
   {
     "id": "118cb8ef5426d14c08ec2e59eb611b0b",
     "source": "OpenAI",
     "title": "Harness engineering: leveraging Codex in an agent-first world",
     "url": "https://openai.com/index/harness-engineering",
-    "date_scraped": "2026-02-13T13:20:47.013Z",
+    "date_scraped": "2026-02-14T13:08:10.557Z",
     "date_published": "2026-02-11T09:00:00.000Z",
     "is_technical": true,
-    "tldr": "This engineering blog post details best practices and advanced methodologies for leveraging OpenAI's Codex series within an agent-first paradigm. It covers strategies for effective prompt engineering, robust tool integration, and managing intricate multi-step reasoning processes to build resilient autonomous agents.",
+    "tldr": "OpenAI outlines \"Harness engineering\" principles for effectively integrating and leveraging Codex within emerging agent-first AI architectures. The blog post likely details best practices, design patterns, and technical considerations for developing robust and intelligent autonomous agents using large language models.",
     "tags": [
-      "agentic AI",
-      "code generation",
-      "engineering blog",
-      "tool use",
-      "prompt engineering"
+      "ai-agents",
+      "engineering",
+      "codex",
+      "llm",
+      "system-design"
     ],
     "hype_score": 7
+  },
+  {
+    "id": "e125cb1140ff9c58cf6cf8bdda9ac967",
+    "source": "AWS ML",
+    "title": "How Amazon uses Amazon Nova models to automate operational readiness testing for new fulfillment centers",
+    "url": "https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-amazon-nova-models-to-automate-operational-readiness-testing-for-new-fulfillment-centers/",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
+    "date_published": "2026-02-10T18:34:09.000Z",
+    "is_technical": true,
+    "tldr": "Amazon detailed its internal methodology for automating operational readiness testing in new fulfillment centers using their proprietary Nova models. This technical application streamlines the complex validation process, ensuring efficient and safe deployment of large-scale logistics infrastructure.",
+    "tags": [
+      "LLM",
+      "automation",
+      "enterprise-ai",
+      "internal-tools",
+      "operational-AI"
+    ],
+    "hype_score": 6
   },
   {
     "id": "5c976378b6f4222da831f5f8f065bac6",
     "source": "NVIDIA Blog",
     "title": "R²D²: Scaling Multimodal Robot Learning with NVIDIA Isaac Lab",
     "url": "https://developer.nvidia.com/blog/r2d2-scaling-multimodal-robot-learning-with-nvidia-isaac-lab/",
-    "date_scraped": "2026-02-13T13:21:37.525Z",
+    "date_scraped": "2026-02-14T13:09:05.826Z",
     "date_published": "2026-02-10T18:30:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA introduces R²D², a framework enabling scalable multimodal robot learning through tight integration with NVIDIA Isaac Lab, a powerful simulation environment. This advancement allows for training complex robotic agents using diverse sensory inputs, significantly accelerating the development and testing of robust AI behaviors in simulated and real-world scenarios.",
+    "tldr": "This post introduces R²D², a novel approach designed to scale multimodal robot learning by effectively integrating diverse sensory data and action spaces. It details how R²D² leverages NVIDIA Isaac Lab for high-fidelity simulation and data generation, enabling more robust and generalized policies for complex robotic tasks.",
     "tags": [
       "robotics",
-      "reinforcement learning",
-      "multimodal AI",
+      "multimodal",
+      "reinforcement_learning",
       "simulation",
-      "NVIDIA",
-      "Isaac Lab"
+      "nvidia"
     ],
-    "hype_score": 9
+    "hype_score": 8
   },
   {
     "id": "f0cc9530f5e800ccc481ab95290c8bbd",
     "source": "AWS ML",
     "title": "Building real-time voice assistants with Amazon Nova Sonic compared to cascading architectures",
     "url": "https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-10T18:29:05.000Z",
     "is_technical": true,
-    "tldr": "This AWS blog post provides a technical deep dive into building real-time voice assistants, specifically comparing the performance and architectural benefits of using Amazon Nova Sonic against traditional cascading architectures. It highlights Nova Sonic's integrated approach for lower latency and improved conversational flow by optimizing speech recognition, natural language understanding, and text-to-speech within a unified model.",
+    "tldr": "AWS published a technical comparison of building real-time voice assistants using their Amazon Nova Sonic models versus traditional cascading architectures. The post details architectural benefits and performance implications of Nova Sonic for low-latency, highly responsive conversational AI systems.",
     "tags": [
-      "voice AI",
-      "real-time AI",
+      "conversational-ai",
+      "voice-assistants",
+      "real-time-AI",
       "architecture",
-      "ASR",
-      "TTS",
-      "NLP",
-      "Amazon Nova"
+      "Nova-models"
     ],
     "hype_score": 7
   },
@@ -257,33 +330,33 @@
     "source": "NVIDIA Blog",
     "title": "Using Accelerated Computing to Live-Steer Scientific Experiments at Massive Research Facilities",
     "url": "https://developer.nvidia.com/blog/using-accelerated-computing-to-live-steer-scientific-experiments-at-massive-research-facilities/",
-    "date_scraped": "2026-02-13T13:21:45.688Z",
+    "date_scraped": "2026-02-14T13:09:05.826Z",
     "date_published": "2026-02-10T17:30:00.000Z",
     "is_technical": true,
-    "tldr": "This NVIDIA blog details how accelerated computing, leveraging GPUs, enables real-time steering and analysis of complex scientific experiments at large-scale research facilities. It describes the technical architecture and methodologies for integrating high-performance data processing with experimental control loops to optimize discovery workflows.",
+    "tldr": "This article explores how accelerated computing, specifically GPUs, is being deployed to enable real-time steering and optimization of complex scientific experiments at large-scale research facilities. It outlines the architectural and algorithmic advancements required to process massive data streams and provide immediate feedback, significantly enhancing experimental efficiency and discovery.",
     "tags": [
+      "accelerated_computing",
+      "hpc",
+      "scientific_computing",
       "infrastructure",
-      "accelerated computing",
-      "scientific computing",
-      "real-time systems"
+      "real_time_systems"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "1f6f9376ef2b317cb8374b0cad07137f",
     "source": "LangChain",
     "title": "The two patterns by which agents connect sandboxes",
     "url": "https://blog.langchain.com/the-two-patterns-by-which-agents-connect-sandboxes/",
-    "date_scraped": "2026-02-13T13:21:37.525Z",
+    "date_scraped": "2026-02-14T13:09:05.826Z",
     "date_published": "2026-02-10T16:32:35.000Z",
     "is_technical": true,
-    "tldr": "This LangChain post technically dissects two primary patterns for how AI agents securely connect and operate within sandboxed environments, crucial for managing computational resources and mitigating security risks. It explores the architectural implications of these patterns for agent development, emphasizing isolation, communication, and dynamic execution strategies.",
+    "tldr": "This post discusses two architectural patterns for connecting AI agents to external execution environments (sandboxes): \"tool-first\" where agents execute pre-defined functions, and \"shell-first\" where agents operate with direct command-line access. It analyzes the trade-offs in security, flexibility, and complexity for building robust agentic systems.",
     "tags": [
-      "agentic AI",
-      "sandboxing",
-      "security",
-      "system architecture",
-      "execution environments"
+      "agents",
+      "llm_ops",
+      "architecture",
+      "security"
     ],
     "hype_score": 7
   },
@@ -292,126 +365,125 @@
     "source": "AWS ML",
     "title": "Automated Reasoning checks rewriting chatbot reference implementation",
     "url": "https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-09T19:34:05.000Z",
     "is_technical": true,
-    "tldr": "This AWS article explores the integration of automated reasoning checks within a rewriting chatbot reference implementation, enhancing the bot's logical consistency and factual accuracy. It details how formal verification techniques and rule-based systems can be employed to validate and refine chatbot responses, particularly in conversational AI scenarios requiring high reliability.",
+    "tldr": "AWS explored the use of automated reasoning for verifying and improving rewriting chatbot reference implementations. This technical deep dive showcases methods for ensuring logical consistency and correctness in conversational AI systems, enhancing their reliability and performance.",
     "tags": [
-      "automated reasoning",
-      "chatbots",
-      "conversational AI",
-      "LLMs",
-      "reference implementation"
+      "chatbot",
+      "automated-reasoning",
+      "formal-methods",
+      "conversational-ai",
+      "reliability"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "ed4e64cdca13cf38c8333f77fbf35cf1",
     "source": "NVIDIA Blog",
     "title": "Automating Inference Optimizations with NVIDIA TensorRT LLM AutoDeploy",
     "url": "https://developer.nvidia.com/blog/automating-inference-optimizations-with-nvidia-tensorrt-llm-autodeploy/",
-    "date_scraped": "2026-02-13T13:21:45.688Z",
+    "date_scraped": "2026-02-14T13:09:05.826Z",
     "date_published": "2026-02-09T18:30:00.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA's TensorRT LLM AutoDeploy introduces an automated framework for optimizing the deployment of Large Language Models, abstracting complex inference optimization techniques. It aims to simplify and accelerate the process of achieving high-performance, low-latency LLM inference across various hardware configurations.",
+    "tldr": "This engineering blog introduces NVIDIA TensorRT LLM AutoDeploy, a new framework designed to automate the complex process of optimizing Large Language Model (LLM) inference for deployment. It details how AutoDeploy intelligently applies TensorRT's optimization techniques to achieve significant latency reduction and throughput improvements without manual fine-tuning.",
     "tags": [
-      "LLM",
-      "inference",
+      "llm_inference",
       "optimization",
       "deployment",
-      "infrastructure",
-      "engineering"
+      "nvidia",
+      "infrastructure"
     ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "18e45e5a8aea88fed324cbeb96816d01",
     "source": "Meta AI",
     "title": "Building Prometheus: How Backend Aggregation Enables Gigawatt-Scale AI Clusters",
     "url": "https://engineering.fb.com/2026/02/09/data-center-engineering/building-prometheus-how-backend-aggregation-enables-gigawatt-scale-ai-clusters/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-09T17:00:33.000Z",
     "is_technical": true,
-    "tldr": "Meta's engineering blog details \"Project Prometheus,\" a backend aggregation architecture critical for enabling gigawatt-scale AI clusters, showcasing advanced data center design and power management. This infrastructure innovation is crucial for sustaining the computational demands of increasingly large and complex AI models, optimizing resource utilization and scalability.",
+    "tldr": "Meta AI detailed the engineering efforts behind \"Prometheus,\" a new backend aggregation system designed to power gigawatt-scale AI clusters. This infrastructure breakthrough is critical for efficiently managing and scaling the immense computational demands of next-generation AI models.",
     "tags": [
       "infrastructure",
-      "data centers",
-      "hardware",
-      "large-scale AI",
-      "engineering"
+      "data-center",
+      "distributed-systems",
+      "AI-hardware",
+      "scaling"
     ],
-    "hype_score": 9
+    "hype_score": 8
   },
   {
     "id": "e21bb244689050a66997286c9cb81637",
     "source": "AWS ML",
     "title": "Scale LLM fine-tuning with Hugging Face and Amazon SageMaker AI",
     "url": "https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-09T16:48:46.000Z",
     "is_technical": true,
-    "tldr": "This technical guide from AWS and Hugging Face illustrates how to scale LLM fine-tuning efficiently using Amazon SageMaker AI, addressing computational and data management challenges. It outlines best practices for distributed training, data parallelism, and optimizing resource utilization to fine-tune large models effectively for custom applications.",
+    "tldr": "AWS provided technical guidance on scaling large language model fine-tuning workflows by leveraging Hugging Face libraries on Amazon SageMaker AI. The post details infrastructure configurations and optimization strategies for efficient, distributed training of custom LLMs.",
     "tags": [
-      "LLMs",
+      "LLM",
       "fine-tuning",
-      "AWS SageMaker",
-      "Hugging Face",
-      "distributed training",
-      "infrastructure"
+      "HuggingFace",
+      "AWS",
+      "SageMaker",
+      "distributed-training",
+      "scaling"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "e4bdb8560deb2bf69d3af36f180e01f9",
     "source": "AWS ML",
     "title": "Accelerate agentic application development with a full-stack starter template for Amazon Bedrock AgentCore",
     "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-application-development-with-a-full-stack-starter-template-for-amazon-bedrock-agentcore/",
-    "date_scraped": "2026-02-13T13:21:37.525Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-09T16:40:58.000Z",
     "is_technical": true,
-    "tldr": "AWS introduces a full-stack starter template for Amazon Bedrock AgentCore, designed to significantly accelerate the development and deployment of agentic AI applications. This template provides a complete, opinionated architecture, simplifying the setup of backend services, agent orchestration, and frontend interfaces for rapid prototyping and production readiness.",
+    "tldr": "AWS released a full-stack starter template designed to accelerate the development of agentic applications on Amazon Bedrock AgentCore. This resource provides a pre-configured architecture and codebase, streamlining the creation and deployment of AI agents for various enterprise use cases.",
     "tags": [
-      "agentic AI",
-      "AWS Bedrock",
-      "developer tools",
-      "full-stack",
-      "rapid development"
+      "agentic-ai",
+      "AWS",
+      "Bedrock",
+      "developer-tools",
+      "application-development"
     ],
-    "hype_score": 7
+    "hype_score": 6
   },
   {
     "id": "4b3366d32699c774ef83e839e2cae0ac",
     "source": "DeepMind",
     "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
     "url": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-09T16:12:06.000Z",
     "is_technical": true,
-    "tldr": "This post elaborates on Gemini Deep Think's capacity to significantly accelerate advancements in mathematics and various scientific fields. It details how the model's advanced reasoning and knowledge integration capabilities are applied to complex scientific problems, aiding in hypothesis generation and experimental design.",
+    "tldr": "DeepMind detailed how Gemini Deep Think is being leveraged to significantly accelerate mathematical and scientific breakthroughs. The model's advanced reasoning and processing capabilities enable faster hypothesis generation and validation in complex research environments.",
     "tags": [
-      "LLMs",
-      "scientific AI",
+      "large-language-model",
+      "scientific-discovery",
       "reasoning",
-      "mathematics",
-      "applications"
+      "deep-learning"
     ],
-    "hype_score": 9
+    "hype_score": 8
   },
   {
     "id": "9299ee70205b227ea018cbf5cecaec4e",
     "source": "AWS ML",
     "title": "Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems",
     "url": "https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/",
-    "date_scraped": "2026-02-13T13:21:37.525Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-09T16:00:28.000Z",
     "is_technical": true,
-    "tldr": "This technical article delves into building sophisticated multi-agent systems by leveraging Amazon Nova 2 Lite and Amazon Nova Act for robust agent-to-agent collaboration. It outlines architectural patterns and communication protocols that enable distinct AI agents to interact, share information, and cooperatively solve complex tasks, demonstrating enhanced collective intelligence.",
+    "tldr": "AWS explored advanced agent-to-agent collaboration techniques leveraging Amazon Nova 2 Lite and Amazon Nova Act models for building sophisticated multi-agent systems. The article details how these specialized models facilitate communication, task delegation, and coordinated decision-making among AI agents to tackle complex problems.",
     "tags": [
-      "multi-agent systems",
-      "agentic AI",
-      "Amazon Nova",
-      "collaboration",
-      "system design"
+      "multi-agent-systems",
+      "agentic-ai",
+      "AWS",
+      "Nova-models",
+      "collaboration"
     ],
     "hype_score": 8
   },
@@ -420,37 +492,17 @@
     "source": "Hugging Face",
     "title": "Transformers.js v4 Preview: Now Available on NPM!",
     "url": "https://huggingface.co/blog/transformersjs-v4",
-    "date_scraped": "2026-02-13T13:21:37.524Z",
+    "date_scraped": "2026-02-14T13:08:53.926Z",
     "date_published": "2026-02-09T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Hugging Face announces the v4 Preview of Transformers.js, now available on NPM, bringing advanced transformer models and their functionalities directly to JavaScript environments. This release significantly lowers the barrier for integrating powerful generative AI capabilities into web and Node.js applications, enabling client-side inference and streamlined deployment.",
+    "tldr": "Hugging Face announced the v4 Preview release of Transformers.js, making the popular machine learning library available on NPM. This update brings enhanced performance and new features for running transformer models directly in JavaScript environments, extending their accessibility for web and edge applications.",
     "tags": [
+      "library-release",
       "transformers",
-      "JavaScript",
-      "library",
-      "inference",
-      "developer tools",
-      "on-device AI"
+      "javascript",
+      "web-development",
+      "developer-tools"
     ],
-    "hype_score": 7
-  },
-  {
-    "id": "a31fffadb1a8a29d8927a4be4f9e419e",
-    "source": "NVIDIA Blog",
-    "title": "3 Ways NVFP4 Accelerates AI Training and Inference",
-    "url": "https://developer.nvidia.com/blog/3-ways-nvfp4-accelerates-ai-training-and-inference/",
-    "date_scraped": "2026-02-13T13:21:45.688Z",
-    "date_published": "2026-02-06T16:00:00.000Z",
-    "is_technical": true,
-    "tldr": "This article details the technical advantages of NVIDIA's NVFP4 floating-point format in accelerating AI training and inference workloads. It elucidates how the reduced precision format enhances memory efficiency, throughput, and computational speed for neural networks, while maintaining model accuracy.",
-    "tags": [
-      "hardware",
-      "training",
-      "inference",
-      "optimization",
-      "deep learning",
-      "numerical precision"
-    ],
-    "hype_score": 8
+    "hype_score": 6
   }
 ]
