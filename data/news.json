@@ -1,19 +1,54 @@
 [
   {
-    "id": "f389e5593e836d37921da593df5dc8bc",
-    "source": "Anthropic News",
-    "title": "Feb 17, 2026\nAnnouncements\nAnthropic and Infosys collaborate to build AI agents for telecommunications and other regulated industries",
-    "url": "https://www.anthropic.com/news/anthropic-infosys",
-    "date_scraped": "2026-02-17T13:23:59.611Z",
-    "date_published": "2026-02-17T00:00:00.000Z",
+    "id": "619cb284e9e537b36ebab2d6b4155b55",
+    "source": "LangChain",
+    "title": "monday Service + LangSmith: Building a Code-First Evaluation Strategy from Day 1",
+    "url": "https://blog.langchain.com/customers-monday/",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-18T08:05:53.000Z",
     "is_technical": true,
-    "tldr": "Anthropic and Infosys are partnering to engineer and deploy advanced AI agents specifically tailored for the telecommunications and other highly regulated industries. This collaboration aims to develop robust, domain-specific agentic solutions addressing complex operational challenges and compliance requirements within these critical sectors.",
+    "tldr": "This post details a \"Code-First Evaluation Strategy\" developed in collaboration with monday.com, leveraging LangSmith for robust and systematic assessment of AI application performance. It emphasizes integrating evaluation directly into the development workflow from inception, ensuring continuous quality and reliability.",
     "tags": [
-      "AI agents",
-      "enterprise AI",
-      "application",
-      "engineering",
-      "telecom"
+      "LangChain",
+      "evaluation",
+      "LLM-ops",
+      "software-engineering",
+      "tooling"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "eba1b811ace4b2f305d3b696d5a2d551",
+    "source": "Claude Blog",
+    "title": "Behind the model launch: What customers discovered testing Claude Opus 4.6 early",
+    "url": "https://claude.com/blog/behind-model-launch-what-customers-discovered-testing-claude-opus-4-6-early",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-18T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This blog post offers technical insights gleaned from early customer testing of Claude Opus 4.6, focusing on observed performance characteristics and real-world application behavior. It likely details specific strengths, weaknesses, or emergent capabilities identified during its initial deployment phases.",
+    "tags": [
+      "LLM",
+      "model-evaluation",
+      "AI-agent",
+      "performance"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "2bf4e83dd32c2cf54be3369c5950d90c",
+    "source": "Claude Blog",
+    "title": "Understand Claude Code’s impact with contribution metrics",
+    "url": "https://claude.com/blog/contribution-metrics",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-18T00:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This post explores the impact of Claude Code through a detailed analysis of contribution metrics, shedding light on the efficacy and utility of its code generation and completion capabilities. It likely discusses the methodology for quantifying developer productivity and code quality improvements attributed to the AI.",
+    "tags": [
+      "LLM",
+      "code-generation",
+      "evaluation",
+      "metrics",
+      "AI-agent"
     ],
     "hype_score": 6
   },
@@ -22,69 +57,138 @@
     "source": "Claude Blog",
     "title": "Building multi-agent systems: When and how to use them",
     "url": "https://claude.com/blog/building-multi-agent-systems-when-and-how-to-use-them",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
-    "date_published": "2026-02-17T00:00:00.000Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-18T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post explores the architectural considerations and strategic applications of multi-agent systems, outlining scenarios where cooperative AI agents can significantly enhance complex workflows. It discusses common patterns and decision frameworks for deploying such systems effectively.",
+    "tldr": "This article delves into the architectural considerations and practical applications of building multi-agent AI systems, providing guidance on their design principles and deployment strategies. It explores scenarios where such complex agentic setups offer significant advantages over monolithic AI approaches.",
     "tags": [
-      "agents",
-      "multi-agent systems",
+      "multi-agent",
+      "AI-agent",
       "architecture",
-      "LLM",
-      "system design"
+      "LLM"
     ],
-    "hype_score": 6
+    "hype_score": 7
   },
   {
     "id": "b8c9c96054d7d6c2717bc5b4355aa96a",
     "source": "Claude Blog",
     "title": "Building agents with Skills: Equipping agents for specialized work",
     "url": "https://claude.com/blog/building-agents-with-skills-equipping-agents-for-specialized-work",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
-    "date_published": "2026-02-17T00:00:00.000Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-18T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This blog post details the methodology for developing specialized AI agents by integrating \"Skills,\" which enable agents to perform targeted tasks efficiently. It covers the technical considerations for equipping agents with specific functionalities and knowledge domains.",
+    "tldr": "This post details the methodology for endowing AI agents with specialized \"skills,\" enabling them to perform complex, domain-specific tasks more effectively. It covers the technical considerations for skill definition, integration, and execution within an agentic framework.",
     "tags": [
-      "agents",
+      "AI-agent",
+      "skills",
+      "tool-use",
       "LLM",
-      "tool use",
-      "system design"
+      "agentic-AI"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "b3f5c52502cb7f0b13a830cfd746ae88",
+    "source": "Hugging Face",
+    "title": "NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル",
+    "url": "https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-17T23:28:52.000Z",
+    "is_technical": true,
+    "tldr": "NVIDIA has released Nemotron 2 Nano 9B Japanese, a state-of-the-art small language model specifically optimized for the Japanese language, aiming to support sovereign AI initiatives. This 9-billion parameter model offers localized advanced generative AI capabilities for various applications.",
+    "tags": [
+      "LLM",
+      "NVIDIA",
+      "model-release",
+      "multilingual",
+      "edge-AI"
+    ],
+    "hype_score": 7
+  },
+  {
+    "id": "6efa3330e1b796c305ea15d0950e919f",
+    "source": "NVIDIA Blog",
+    "title": "Build AI-Ready Knowledge Systems Using 5 Essential Multimodal RAG Capabilities",
+    "url": "https://developer.nvidia.com/blog/build-ai-ready-knowledge-systems-using-5-essential-multimodal-rag-capabilities/",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-17T18:00:00.000Z",
+    "is_technical": true,
+    "tldr": "This NVIDIA blog outlines five critical multimodal Retrieval Augmented Generation (RAG) capabilities essential for constructing robust, AI-ready knowledge systems. It discusses the technical considerations for integrating diverse data types and enhancing retrieval accuracy and generation quality in complex information environments.",
+    "tags": [
+      "RAG",
+      "multimodal",
+      "knowledge-systems",
+      "architecture",
+      "NVIDIA"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "7a5dfe218d6c6bd791f8b0906244c926",
+    "source": "LangChain",
+    "title": "Improving Deep Agents with harness engineering",
+    "url": "https://blog.langchain.com/improving-deep-agents-with-harness-engineering/",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-17T16:15:28.000Z",
+    "is_technical": true,
+    "tldr": "This LangChain blog explores \"harness engineering\" as a critical methodology for systematically improving the performance and reliability of deep AI agents. It likely details techniques for constructing controlled environments and sophisticated testing frameworks to iteratively refine agent behaviors and capabilities.",
+    "tags": [
+      "AI-agent",
+      "reliability",
+      "testing",
+      "software-engineering",
+      "LangChain"
+    ],
+    "hype_score": 8
+  },
+  {
+    "id": "4978aba89f0e2818f71137858d7ea468",
+    "source": "DeepMind",
+    "title": "Accelerating discovery in India through AI-powered science and education",
+    "url": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
+    "date_published": "2026-02-17T13:42:20.000Z",
+    "is_technical": true,
+    "tldr": "This DeepMind article highlights advancements in AI-powered systems tailored for scientific discovery and education, specifically in India. It likely details novel AI methodologies or model architectures developed to accelerate research workflows and enhance learning outcomes across various scientific domains.",
+    "tags": [
+      "AI-for-science",
+      "education-AI",
+      "application"
     ],
     "hype_score": 6
   },
   {
-    "id": "ba8377c644dbf23cc26fdb347a55d9f5",
-    "source": "Claude Blog",
-    "title": "Extending Claude’s capabilities with skills and MCP servers",
-    "url": "https://claude.com/blog/extending-claude-capabilities-with-skills-mcp-servers",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "id": "509dbec071b6fc7bdc3f037d15c28b5a",
+    "source": "Anthropic News",
+    "title": "Introducing Claude Sonnet 4.6\nProduct\nFeb 17, 2026\n\nSonnet 4.6 delivers frontier performance across coding, agents, and professional work at scale.",
+    "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
+    "date_scraped": "2026-02-18T13:26:15.964Z",
     "date_published": "2026-02-17T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This post details the technical framework for extending Claude's functionality through custom \"skills\" and scalable Multi-Context Processing (MCP) servers. It describes architectural patterns and engineering considerations for integrating specialized capabilities and handling complex, long-running agentic tasks.",
+    "tldr": "Anthropic has launched Claude Sonnet 4.6, a new model variant engineered for high-performance in coding, autonomous agent tasks, and professional applications. This release signifies advancements in model architecture and training, enabling enhanced capabilities for complex problem-solving at scale.",
     "tags": [
-      "agents",
       "LLM",
-      "infrastructure",
-      "tool use",
-      "system design",
-      "cloud"
+      "model release",
+      "coding",
+      "AI agents",
+      "frontier model"
     ],
-    "hype_score": 7
+    "hype_score": 9
   },
   {
     "id": "a77fd95bde1f67688056bf1752f4be2f",
     "source": "AWS ML",
     "title": "Customize AI agent browsing with proxies, profiles, and extensions in Amazon Bedrock AgentCore Browser",
     "url": "https://aws.amazon.com/blogs/machine-learning/customize-ai-agent-browsing-with-proxies-profiles-and-extensions-in-amazon-bedrock-agentcore-browser/",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-13T22:57:34.000Z",
     "is_technical": true,
-    "tldr": "AWS announces advanced customization capabilities for AI agents using Amazon Bedrock AgentCore Browser, allowing developers to configure browsing behavior with proxies, user profiles, and extensions. These features provide granular control over agent interactions with web environments, enhancing their adaptability and security for specialized tasks.",
+    "tldr": "AWS announces enhanced customization options for AI agent browsing within Amazon Bedrock's AgentCore Browser, enabling detailed configuration with proxies, profiles, and extensions. This provides developers granular control over agent interaction with web environments for specialized tasks and improved security.",
     "tags": [
-      "agents",
-      "cloud",
+      "AI-agent",
       "AWS",
-      "tool use",
+      "Bedrock",
+      "tool-use",
       "infrastructure",
       "security"
     ],
@@ -95,16 +199,16 @@
     "source": "OpenAI",
     "title": "GPT-5.2 derives a new result in theoretical physics",
     "url": "https://openai.com/index/new-result-theoretical-physics",
-    "date_scraped": "2026-02-17T13:23:59.611Z",
+    "date_scraped": "2026-02-18T13:26:15.964Z",
     "date_published": "2026-02-13T11:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI's GPT-5.2 has achieved a significant milestone by autonomously deriving a novel result in theoretical physics, showcasing advanced reasoning and problem-solving capabilities beyond current human-programmed methods. This demonstrates the model's potential for accelerating scientific discovery and pushing the boundaries of AI-driven research.",
+    "tldr": "OpenAI's GPT-5.2 has achieved a significant scientific milestone by independently deriving a novel result in theoretical physics, showcasing advanced reasoning and problem-solving capabilities beyond pattern recognition. This development highlights the growing potential of frontier large language models as tools for fundamental scientific discovery, potentially accelerating research in complex domains.",
     "tags": [
       "LLM",
       "scientific discovery",
       "theoretical physics",
-      "model capabilities",
-      "GPT-5.2"
+      "frontier model",
+      "AI capabilities"
     ],
     "hype_score": 10
   },
@@ -113,16 +217,16 @@
     "source": "OpenAI",
     "title": "Introducing Lockdown Mode and Elevated Risk labels in ChatGPT",
     "url": "https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt",
-    "date_scraped": "2026-02-17T13:23:59.611Z",
+    "date_scraped": "2026-02-18T13:26:15.964Z",
     "date_published": "2026-02-13T10:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has introduced Lockdown Mode and Elevated Risk labels in ChatGPT to enhance safety and control, providing users with stricter operational parameters and clearer indications of potentially sensitive outputs. These features represent advancements in model alignment and responsible AI deployment, enabling more robust risk management for diverse applications.",
+    "tldr": "OpenAI has implemented \"Lockdown Mode\" and \"Elevated Risk labels\" in ChatGPT, enhancing safety protocols and user control over potentially sensitive interactions. This technical update aims to mitigate misuse and improve model reliability by providing explicit warnings and restricted operational modes for high-stakes applications.",
     "tags": [
-      "alignment",
       "safety",
+      "alignment",
       "LLM",
-      "responsible AI",
-      "model control"
+      "product engineering",
+      "risk management"
     ],
     "hype_score": 7
   },
@@ -131,16 +235,16 @@
     "source": "OpenAI",
     "title": "Beyond rate limits: scaling access to Codex and Sora",
     "url": "https://openai.com/index/beyond-rate-limits",
-    "date_scraped": "2026-02-17T13:23:59.611Z",
+    "date_scraped": "2026-02-18T13:26:15.964Z",
     "date_published": "2026-02-13T09:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI is implementing new architectural and operational strategies to scale access for its advanced models, Codex and Sora, moving beyond traditional rate limits to accommodate increasing demand. This involves significant infrastructure enhancements and resource allocation optimizations to ensure high availability and performance for diverse user bases.",
+    "tldr": "OpenAI is enhancing its infrastructure to scale access for its advanced models, Codex and Sora, moving beyond traditional rate limits to support broader enterprise and developer adoption. This initiative involves significant backend engineering to optimize resource allocation and throughput, ensuring stable and high-performance access for demanding applications.",
     "tags": [
       "infrastructure",
-      "scaling",
       "API",
-      "Codex",
-      "Sora"
+      "scaling",
+      "LLM",
+      "generative AI"
     ],
     "hype_score": 6
   },
@@ -149,15 +253,15 @@
     "source": "OpenAI",
     "title": "Scaling social science research",
     "url": "https://openai.com/index/scaling-social-science-research",
-    "date_scraped": "2026-02-17T13:23:59.611Z",
+    "date_scraped": "2026-02-18T13:26:15.964Z",
     "date_published": "2026-02-13T09:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI is exploring methods to scale social science research using advanced AI, focusing on leveraging large language models and computational tools to analyze complex social phenomena more efficiently. This involves developing new paradigms for data collection, analysis, and hypothesis testing, potentially accelerating insights in various social science domains.",
+    "tldr": "OpenAI is exploring methods to leverage AI for scaling social science research, potentially through automated data analysis, simulation, or hypothesis generation. This effort focuses on developing technical frameworks and tools that enable researchers to conduct studies at unprecedented scales and uncover insights more efficiently.",
     "tags": [
-      "AI application",
+      "AI for science",
       "social science",
-      "research tools",
-      "LLM"
+      "methodology",
+      "data analysis"
     ],
     "hype_score": 5
   },
@@ -166,17 +270,16 @@
     "source": "LangChain",
     "title": "On Agent Frameworks and Agent Observability",
     "url": "https://blog.langchain.com/on-agent-frameworks-and-agent-observability/",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-13T02:23:40.000Z",
     "is_technical": true,
-    "tldr": "This LangChain blog post delves into the design principles and challenges of robust agent frameworks, emphasizing the critical importance of comprehensive agent observability for debugging, performance analysis, and reliability. It outlines architectural considerations for building transparent and manageable multi-agent systems.",
+    "tldr": "This LangChain post offers a deep dive into the architecture and design principles of AI agent frameworks, emphasizing the crucial role of observability in understanding and debugging complex agent behaviors. It covers methods for monitoring internal states, tool usage, and decision-making processes within agentic systems.",
     "tags": [
-      "agents",
-      "LLM",
-      "frameworks",
+      "AI-agent",
+      "architecture",
       "observability",
-      "MLOps",
-      "system design"
+      "LLM-ops",
+      "LangChain"
     ],
     "hype_score": 7
   },
@@ -185,18 +288,17 @@
     "source": "Hugging Face",
     "title": "Custom Kernels for All from Codex and Claude",
     "url": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-13T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "This Hugging Face blog post unveils a method to democratize custom CUDA kernel development, enabling their generation and deployment via AI models like Codex and Claude for optimizing agent skills. This innovation aims to accelerate specialized hardware-level computations for AI workloads, making performance tuning more accessible.",
+    "tldr": "This Hugging Face blog details a novel approach to generating custom CUDA kernels for diverse AI tasks, leveraging advanced large language models like Codex and Claude. The technique aims to democratize low-level GPU optimization, allowing developers to create specialized, highly efficient kernels with AI assistance.",
     "tags": [
-      "hardware",
       "CUDA",
       "optimization",
-      "agents",
       "LLM",
-      "infrastructure",
-      "developer tools"
+      "code-generation",
+      "GPU-programming",
+      "infrastructure"
     ],
     "hype_score": 8
   },
@@ -205,17 +307,16 @@
     "source": "AWS ML",
     "title": "Build long-running MCP servers on Amazon Bedrock AgentCore with Strands Agents integration",
     "url": "https://aws.amazon.com/blogs/machine-learning/build-long-running-mcp-servers-on-amazon-bedrock-agentcore-with-strands-agents-integration/",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-12T20:16:20.000Z",
     "is_technical": true,
-    "tldr": "AWS details the process of deploying long-running Multi-Context Processing (MCP) servers on Amazon Bedrock AgentCore, leveraging integration with Strands Agents for persistent, stateful agentic workflows. This enables developers to architect sophisticated, multi-step AI agents that maintain context across extended interactions and complex tasks.",
+    "tldr": "AWS details the integration of Strands Agents with Amazon Bedrock AgentCore, enabling the deployment of robust, long-running Multi-Context Processing (MCP) servers for persistent AI agent operations. This allows for more complex, stateful agentic workflows suitable for enterprise-grade applications.",
     "tags": [
-      "agents",
-      "cloud",
+      "AI-agent",
       "AWS",
+      "Bedrock",
       "infrastructure",
-      "system design",
-      "LLM"
+      "persistence"
     ],
     "hype_score": 7
   },
@@ -224,17 +325,16 @@
     "source": "DeepMind",
     "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
     "url": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-12T16:15:09.000Z",
     "is_technical": true,
-    "tldr": "DeepMind introduced Gemini 3 Deep Think, a new iteration of their foundational model, specifically engineered to accelerate scientific discovery, complex research analysis, and advanced engineering problem-solving. This release emphasizes enhanced reasoning, multi-modality, and robust performance on highly technical tasks.",
+    "tldr": "DeepMind announces \"Gemini 3 Deep Think,\" a new iteration of their Gemini model series, specifically engineered to excel in complex scientific, research, and engineering problem-solving. This release likely details architectural enhancements and training methodologies enabling deeper reasoning and advanced knowledge acquisition.",
     "tags": [
       "LLM",
-      "foundational model",
-      "research",
-      "science",
-      "engineering",
-      "multimodal"
+      "Gemini",
+      "reasoning",
+      "AI-for-science",
+      "model-release"
     ],
     "hype_score": 9
   },
@@ -243,17 +343,16 @@
     "source": "OpenAI",
     "title": "Introducing GPT-5.3-Codex-Spark",
     "url": "https://openai.com/index/introducing-gpt-5-3-codex-spark",
-    "date_scraped": "2026-02-17T13:23:59.611Z",
+    "date_scraped": "2026-02-18T13:26:15.964Z",
     "date_published": "2026-02-12T10:00:00.000Z",
     "is_technical": true,
-    "tldr": "OpenAI has announced GPT-5.3-Codex-Spark, a new foundational model specifically designed for advanced code generation and complex multi-modal reasoning, building upon the capabilities of the GPT-5 series and Codex family. This release promises significant improvements in developer productivity, agentic coding, and the ability to process and generate diverse content beyond just code.",
+    "tldr": "OpenAI has unveiled GPT-5.3-Codex-Spark, a new iteration of its large language model specialized for code generation and intricate reasoning tasks. This model likely features architectural advancements and expanded training data, aiming for superior performance in complex programming challenges and multi-modal understanding.",
     "tags": [
-      "model release",
       "LLM",
       "code generation",
-      "multi-modal",
-      "agentic AI",
-      "GPT-5.3"
+      "model release",
+      "frontier model",
+      "AI capabilities"
     ],
     "hype_score": 9
   },
@@ -262,37 +361,35 @@
     "source": "Hugging Face",
     "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
     "url": "https://huggingface.co/blog/openenv-turing",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-12T00:00:00.000Z",
     "is_technical": true,
-    "tldr": "Hugging Face introduces \"OpenEnv,\" a practical framework for rigorously evaluating AI agents that leverage external tools within complex, real-world operational environments. The post details methodologies for assessing agent performance, robustness, and reliability in dynamic scenarios, pushing the boundaries of autonomous agent deployment.",
+    "tldr": "This Hugging Face post introduces practical applications and evaluation methodologies for OpenEnv, a framework designed to rigorously test tool-using AI agents in real-world scenarios. It focuses on the challenges and insights gained from assessing agent performance and robustness in complex, dynamic environments.",
     "tags": [
-      "agents",
+      "AI-agent",
       "evaluation",
-      "tool use",
+      "tool-use",
       "benchmarking",
-      "research",
-      "LLM"
+      "research"
     ],
-    "hype_score": 7
+    "hype_score": 8
   },
   {
     "id": "d71f8bb7385f510a5c4f82674337486b",
     "source": "AWS ML",
     "title": "NVIDIA Nemotron 3 Nano 30B MoE model is now available in Amazon SageMaker JumpStart",
     "url": "https://aws.amazon.com/blogs/machine-learning/nvidia-nemotron-3-nano-30b-is-now-available-in-amazon-sagemaker-jumpstart/",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-11T19:38:47.000Z",
     "is_technical": true,
-    "tldr": "NVIDIA's Nemotron 3 Nano 30B MoE model, a Mixture-of-Experts architecture designed for efficiency and performance, has been made available on Amazon SageMaker JumpStart. This provides developers with easier access to a powerful, compact model for fine-tuning and deployment within AWS's managed MLOps environment.",
+    "tldr": "NVIDIA's Nemotron 3 Nano 30B, a Mixture-of-Experts (MoE) model, is now integrated into Amazon SageMaker JumpStart, providing developers with a powerful and efficient large language model for various AI tasks. This release facilitates easier access and deployment of advanced MoE architectures on the AWS platform.",
     "tags": [
       "LLM",
       "MoE",
-      "model release",
       "NVIDIA",
       "AWS",
       "SageMaker",
-      "MLOps"
+      "model-release"
     ],
     "hype_score": 8
   },
@@ -301,16 +398,16 @@
     "source": "Meta AI",
     "title": "The Death of Traditional Testing: Agentic Development Broke a 50-Year-Old Field, JiTTesting Can Revive It",
     "url": "https://engineering.fb.com/2026/02/11/developer-tools/the-death-of-traditional-testing-agentic-development-jit-testing-revival/",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-11T17:00:05.000Z",
     "is_technical": true,
-    "tldr": "This Meta AI engineering post discusses how the rise of agentic development has challenged traditional software testing methodologies, a field largely unchanged for decades. It introduces \"JiTTesting\" (Just-in-Time Testing) as a novel approach designed to integrate seamlessly with AI agents and dynamic code generation workflows, aiming to restore testing efficacy.",
+    "tldr": "This Meta AI engineering blog post critically examines the breakdown of traditional software testing methodologies in the face of agentic development paradigms. It introduces JiTTesting (Just-in-Time Testing) as a novel approach designed to dynamically adapt and effectively validate complex AI-driven systems.",
     "tags": [
-      "agents",
-      "software engineering",
+      "agentic-AI",
       "testing",
-      "developer tools",
-      "MLOps"
+      "software-engineering",
+      "developer-tools",
+      "AI-agent"
     ],
     "hype_score": 8
   },
@@ -319,36 +416,17 @@
     "source": "AWS ML",
     "title": "Mastering Amazon Bedrock throttling and service availability: A comprehensive guide",
     "url": "https://aws.amazon.com/blogs/machine-learning/mastering-amazon-bedrock-throttling-and-service-availability-a-comprehensive-guide/",
-    "date_scraped": "2026-02-17T13:24:43.872Z",
+    "date_scraped": "2026-02-18T13:27:01.430Z",
     "date_published": "2026-02-11T15:52:54.000Z",
     "is_technical": true,
-    "tldr": "This comprehensive guide from AWS addresses the critical operational challenges of managing Amazon Bedrock's service availability and throttling mechanisms for production AI workloads. It provides deep technical insights and best practices for configuring, monitoring, and optimizing Bedrock usage to ensure consistent performance and reliability.",
+    "tldr": "This comprehensive guide from AWS provides in-depth strategies for managing throttling and ensuring high service availability when deploying applications on Amazon Bedrock. It details technical best practices for optimizing API call rates and architecting resilient AI solutions.",
     "tags": [
-      "cloud",
       "AWS",
-      "MLOps",
+      "Bedrock",
       "infrastructure",
-      "system design",
-      "reliability"
+      "reliability",
+      "performance"
     ],
-    "hype_score": 5
-  },
-  {
-    "id": "118cb8ef5426d14c08ec2e59eb611b0b",
-    "source": "OpenAI",
-    "title": "Harness engineering: leveraging Codex in an agent-first world",
-    "url": "https://openai.com/index/harness-engineering",
-    "date_scraped": "2026-02-17T13:23:59.611Z",
-    "date_published": "2026-02-11T09:00:00.000Z",
-    "is_technical": true,
-    "tldr": "OpenAI's \"Harness Engineering\" initiative details best practices and novel architectural patterns for effectively integrating and leveraging Codex within nascent agent-first AI systems. The article explores techniques for optimizing model interactions, managing complex workflows, and ensuring robust performance in autonomous agent deployments.",
-    "tags": [
-      "agentic AI",
-      "engineering",
-      "Codex",
-      "system design",
-      "LLM application"
-    ],
-    "hype_score": 7
+    "hype_score": 6
   }
 ]
