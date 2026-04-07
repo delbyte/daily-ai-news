@@ -4,7 +4,7 @@
     "title": "Audit Claude Platform activity with the Compliance API",
     "url": "https://claude.com/blog/claude-platform-compliance-api",
     "id": "93e631284ffdaa8334a3dd8b77b5b85b",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -17,7 +17,7 @@
     "title": "Auto mode for Claude Code",
     "url": "https://claude.com/blog/auto-mode",
     "id": "92c0a8ec6071ea196bf48f3583466969",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -30,7 +30,7 @@
     "title": "Put Claude to work on your computer",
     "url": "https://claude.com/blog/dispatch-and-computer-use",
     "id": "cdf4b94ba640f0be51e53fe82f8a6512",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -43,7 +43,7 @@
     "title": "Product management on the AI exponential ",
     "url": "https://claude.com/blog/product-management-on-the-ai-exponential",
     "id": "4842d16865d3ec761b60f2a91b4e5732",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -56,7 +56,7 @@
     "title": "Code with Claude comes to San Francisco, London, and Tokyo",
     "url": "https://claude.com/blog/code-with-claude-san-francisco-london-tokyo",
     "id": "eadfd703b55ae590da5c01f8a4db2345",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -69,7 +69,7 @@
     "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
     "url": "https://claude.com/blog/1m-context-ga",
     "id": "5ee0f49e73fa6c5a6eed23eca31b5aa1",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -82,7 +82,7 @@
     "title": "Advancing Claude for Excel and PowerPoint",
     "url": "https://claude.com/blog/claude-excel-powerpoint-updates",
     "id": "d20f4bc28ee29fdba27c7292316ae15d",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -95,7 +95,7 @@
     "title": "Bringing Code Review to Claude Code",
     "url": "https://claude.com/blog/code-review",
     "id": "79b49434b327cb0960746b3928ee6625",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -108,7 +108,7 @@
     "title": "Common workflow patterns for AI agents—and when to use them",
     "url": "https://claude.com/blog/common-workflow-patterns-for-ai-agents-and-when-to-use-them",
     "id": "baec19f049861788467544de476062d8",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -121,7 +121,7 @@
     "title": "Improving skill-creator: Test, measure, and refine Agent Skills",
     "url": "https://claude.com/blog/improving-skill-creator-test-measure-and-refine-agent-skills",
     "id": "96f23e52cb53cbd3f133420940295bce",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -134,7 +134,7 @@
     "title": "Cowork and plugins for finance ",
     "url": "https://claude.com/blog/cowork-plugins-finance",
     "id": "5d10f430faa8ee96cf62e1f292fbf2e2",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -147,7 +147,7 @@
     "title": "Cowork and plugins for teams across the enterprise",
     "url": "https://claude.com/blog/cowork-plugins-across-enterprise",
     "id": "89e262591ce7a0c5ecd0e219851d2b0a",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -160,20 +160,7 @@
     "title": "How AI helps break the cost barrier to COBOL modernization",
     "url": "https://claude.com/blog/how-ai-helps-break-cost-barrier-cobol-modernization",
     "id": "f7bbc255b764dd3f31b4ad525e19ea3d",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Claude Blog",
-    "title": "Bringing automated preview, review, and merge to Claude Code on desktop",
-    "url": "https://claude.com/blog/preview-review-and-merge-with-claude-code",
-    "id": "ebacab927cbd050e0f4984d7681221a8",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -186,7 +173,20 @@
     "title": "Responsible Scaling Policy",
     "url": "https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy",
     "id": "f70da824596ca695c126322de6f6ca9d",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Claude Blog",
+    "title": "Harnessing Claude’s intelligence",
+    "url": "https://claude.com/blog/harnessing-claudes-intelligence",
+    "id": "99fb5308d61b62ac6cba8ec948365bab",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -199,7 +199,7 @@
     "title": "Claude now creates interactive charts, diagrams and visualizations",
     "url": "https://claude.com/blog/claude-builds-visuals",
     "id": "6260224e2b1d1e3294b1f479dd8b35ad",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -212,7 +212,7 @@
     "title": "How enterprises are building AI agents in 2026",
     "url": "https://claude.com/blog/how-enterprises-are-building-ai-agents-in-2026",
     "id": "c0107b7e16772f5f895e217935207b5d",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -225,7 +225,7 @@
     "title": "Improving frontend design through Skills",
     "url": "https://claude.com/blog/improving-frontend-design-through-skills",
     "id": "42bfc0352255435d8b7b26a0a01b7c62",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -238,7 +238,7 @@
     "title": "Building AI agents for financial services",
     "url": "https://claude.com/blog/building-ai-agents-in-financial-services",
     "id": "025c809f2dc551972fdd695fb267d513",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -251,7 +251,7 @@
     "title": "Claude Code on the web",
     "url": "https://claude.com/blog/claude-code-on-the-web",
     "id": "40bee1741df14152870a9e610be0e61b",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -264,7 +264,7 @@
     "title": "Piloting Claude in Chrome",
     "url": "https://claude.com/blog/claude-for-chrome",
     "id": "fdf5df5bef502dc4d9a1fc65e8a2e311",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -277,7 +277,7 @@
     "title": "How Anthropic teams use Claude Code",
     "url": "https://claude.com/blog/how-anthropic-teams-use-claude-code",
     "id": "0bf14bafc94805005f90ee62f2b8de49",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -286,11 +286,12 @@
     "hype_score": 1
   },
   {
-    "source": "Claude Blog",
-    "title": "Introducing the Max Plan",
-    "url": "https://claude.com/blog/max-plan",
-    "id": "eed3cd118461a9e6a63be7540ca43faf",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "source": "AWS ML",
+    "title": "Build AI-powered employee onboarding agents with Amazon Quick",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/",
+    "date_published": "2026-04-06T18:00:06.000Z",
+    "id": "b98fe22aac1d273d3a0659c7fc57d9a8",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -299,12 +300,40 @@
     "hype_score": 1
   },
   {
-    "source": "Hugging Face",
-    "title": "TRL v1.0: Post-Training Library That Holds When the Field Invalidates Its Own Assumptions",
-    "url": "https://huggingface.co/blog/trl-v1",
-    "date_published": "2026-03-31T00:00:00.000Z",
-    "id": "77b9cd00420de61d38cf4b9ba0b92ff0",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "source": "AWS ML",
+    "title": "Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/",
+    "date_published": "2026-04-06T17:54:00.000Z",
+    "id": "436569577e4d4fcf15556a4ff691f0e9",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/",
+    "date_published": "2026-04-06T17:49:32.000Z",
+    "id": "a930c4d89f59da4891144c6363471dc7",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "From isolated alerts to contextual intelligence: Agentic maritime anomaly analysis with generative AI",
+    "url": "https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/",
+    "date_published": "2026-04-06T17:48:54.000Z",
+    "id": "d36b1c0f91097865c1bf5c47f58f4a03",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -314,11 +343,11 @@
   },
   {
     "source": "Meta AI",
-    "title": "AI for American-Produced Cement and Concrete",
-    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-    "date_published": "2026-03-30T16:00:34.000Z",
-    "id": "a038489320189f2660aab7465f90a46d",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "title": "How Meta Used AI to Map Tribal Knowledge in Large-Scale Data Pipelines",
+    "url": "https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/",
+    "date_published": "2026-04-06T16:00:50.000Z",
+    "id": "5c76a0d630392fb994323193abdb2b03",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -328,53 +357,11 @@
   },
   {
     "source": "AWS ML",
-    "title": "How Ring scales global customer support with Amazon Bedrock Knowledge Bases",
-    "url": "https://aws.amazon.com/blogs/machine-learning/how-ring-scales-global-customer-support-with-amazon-bedrock-knowledge-bases/",
-    "date_published": "2026-03-30T15:29:02.000Z",
-    "id": "e65d1c05fe250e65336326a11a1e1a77",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Reimagine marketing at Volkswagen Group with generative AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/reimagine-marketing-at-volkswagen-group-with-generative-ai/",
-    "date_published": "2026-03-30T15:24:17.000Z",
-    "id": "f884af6446e5f71216ff0610e87ec072",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Build a solar flare detection system on SageMaker AI LSTM networks and ESA STIX data",
-    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-solar-flare-detection-system-on-sagemaker-ai-lstm-networks-and-esa-stix-data/",
-    "date_published": "2026-03-30T15:20:24.000Z",
-    "id": "35fad16cad943f720a7a4a649eb75bb2",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Deliver hyper-personalized viewer experiences with an agentic AI movie assistant using Amazon Bedrock AgentCore and Amazon Nova Sonic 2.0",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deliver-hyper-personalized-viewer-experiences-with-an-agentic-ai-movie-assistant-using-amazon-bedrock-agentcore-and-amazon-nova-sonic-2-0/",
-    "date_published": "2026-03-30T15:17:26.000Z",
-    "id": "4760563b5641c3fbf199a56889ce8f3c",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "title": "Connecting MCP servers to Amazon Bedrock AgentCore Gateway using Authorization Code flow",
+    "url": "https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/",
+    "date_published": "2026-04-06T14:41:46.000Z",
+    "id": "4795e3c950af7954ffce42f2a95ede1c",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -384,11 +371,11 @@
   },
   {
     "source": "OpenAI",
-    "title": "Helping disaster response teams turn AI into action across Asia",
-    "url": "https://openai.com/index/helping-disaster-response-teams-asia",
-    "date_published": "2026-03-29T22:15:00.000Z",
-    "id": "2648137715dd1fc6e827fc8619c3632d",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "title": "Announcing the OpenAI Safety Fellowship",
+    "url": "https://openai.com/index/introducing-openai-safety-fellowship",
+    "date_published": "2026-04-06T10:00:00.000Z",
+    "id": "f6c272c7f0d807d2afa56cf4c3637bb1",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -398,11 +385,25 @@
   },
   {
     "source": "OpenAI",
-    "title": "STADLER reshapes knowledge work at a 230-year-old company",
-    "url": "https://openai.com/index/stadler",
-    "date_published": "2026-03-27T22:00:00.000Z",
-    "id": "7543ce1b7448b7d1ec7f7ad3abd94efe",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "title": "Industrial policy for the Intelligence Age",
+    "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
+    "date_published": "2026-04-06T02:30:00.000Z",
+    "id": "65edefcb4544d6f43dd6399f0fc893f7",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Apr 6, 2026\nAnnouncements\nAnthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
+    "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+    "date_published": "2026-04-06T00:00:00.000Z",
+    "id": "765cbd076c3c74e042127dc5954f66f2",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -412,11 +413,221 @@
   },
   {
     "source": "LangChain",
-    "title": "Agent Evaluation Readiness Checklist",
-    "url": "https://blog.langchain.com/agent-evaluation-readiness-checklist/",
-    "date_published": "2026-03-27T14:00:00.000Z",
-    "id": "d8b8575c683a9c0f42d57a22e7e09710",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
+    "title": "Continual learning for AI agents",
+    "url": "https://blog.langchain.com/continual-learning-for-ai-agents/",
+    "date_published": "2026-04-05T21:46:30.000Z",
+    "id": "d502689b879d1cdaafdf2b12c45ebb92",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "LangChain",
+    "title": "How My Agents Self-Heal in Production",
+    "url": "https://blog.langchain.com/production-agents-self-heal/",
+    "date_published": "2026-04-03T17:01:03.000Z",
+    "id": "80e709346d564b999e180561b98c7530",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Accelerating Vision AI Pipelines with Batch Mode VC-6 and NVIDIA Nsight",
+    "url": "https://developer.nvidia.com/blog/accelerating-vision-ai-pipelines-with-batch-mode-vc-6-and-nvidia-nsight/",
+    "date_published": "2026-04-02T20:00:00.000Z",
+    "id": "4a9ca749b312c8e35ddfdf889ca280c6",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Meta AI",
+    "title": "KernelEvolve: How Meta’s Ranking Engineer Agent Optimizes AI Infrastructure",
+    "url": "https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/",
+    "date_published": "2026-04-02T19:59:46.000Z",
+    "id": "8302b9d33b600fe3ebac7e5c68ac94d4",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "LangChain",
+    "title": "Open Models have crossed a threshold",
+    "url": "https://blog.langchain.com/open-models-have-crossed-a-threshold/",
+    "date_published": "2026-04-02T17:51:54.000Z",
+    "id": "a5f3e4644ce3970b99b529aa561f5eba",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Simulate realistic users to evaluate multi-turn AI agents in Strands Evals",
+    "url": "https://aws.amazon.com/blogs/machine-learning/simulate-realistic-users-to-evaluate-multi-turn-ai-agents-in-strands-evals/",
+    "date_published": "2026-04-02T17:34:02.000Z",
+    "id": "4d517d7493be918d24709dda1fc2b97f",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Bringing AI Closer to the Edge and On-Device with Gemma 4 ",
+    "url": "https://developer.nvidia.com/blog/bringing-ai-closer-to-the-edge-and-on-device-with-gemma-4/",
+    "date_published": "2026-04-02T16:27:46.000Z",
+    "id": "25d115e5950db6cabd30838c23594e49",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "DeepMind",
+    "title": "Gemma 4: Byte for byte, the most capable open models",
+    "url": "https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/",
+    "date_published": "2026-04-02T16:00:49.000Z",
+    "id": "c64eb2c5c4694bc9d537c09ed0f1aa66",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Achieving Single-Digit Microsecond Latency Inference for Capital Markets",
+    "url": "https://developer.nvidia.com/blog/achieving-single-digit-microsecond-latency-inference-for-capital-markets/",
+    "date_published": "2026-04-02T16:00:00.000Z",
+    "id": "7ea68746ced500b77b422cd7c704057f",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Scaling seismic foundation models on AWS: Distributed training with Amazon SageMaker HyperPod and expanding context windows",
+    "url": "https://aws.amazon.com/blogs/machine-learning/scaling-seismic-foundation-models-on-aws-distributed-training-with-amazon-sagemaker-hyperpod-and-expanding-context-windows/",
+    "date_published": "2026-04-02T13:30:57.000Z",
+    "id": "836092b9ed7fae393d74d6060aa6eef1",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Control which domains your AI agents can access",
+    "url": "https://aws.amazon.com/blogs/machine-learning/control-which-domains-your-ai-agents-can-access/",
+    "date_published": "2026-04-02T13:28:19.000Z",
+    "id": "68041c737bc63b2a20199b9c28d90e2d",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Rocket Close transforms mortgage document processing with Amazon Bedrock and Amazon Textract",
+    "url": "https://aws.amazon.com/blogs/machine-learning/rocket-close-transforms-mortgage-document-processing-with-amazon-bedrock-and-amazon-textract/",
+    "date_published": "2026-04-02T12:59:31.000Z",
+    "id": "61897eeaf72c6c78b9b83624be01df98",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Persist session state with filesystem configuration and execute shell commands",
+    "url": "https://aws.amazon.com/blogs/machine-learning/persist-session-state-with-filesystem-configuration-and-execute-shell-commands/",
+    "date_published": "2026-04-02T12:52:07.000Z",
+    "id": "bcbc1ea2001403783fcfc0f030ad2482",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "OpenAI",
+    "title": "OpenAI acquires TBPN",
+    "url": "https://openai.com/index/openai-acquires-tbpn",
+    "date_published": "2026-04-02T10:30:00.000Z",
+    "id": "b487a1bf1364fd5380c805e4b10395ab",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "OpenAI",
+    "title": "Codex now offers more flexible pricing for teams",
+    "url": "https://openai.com/index/codex-flexible-pricing-for-teams",
+    "date_published": "2026-04-02T10:00:00.000Z",
+    "id": "c32a08ac79edfba3ef1c2e3b44462a31",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Apr 2, 2026\nInterpretability\nEmotion concepts and their function in a large language model",
+    "url": "https://www.anthropic.com/research/emotion-concepts-function",
+    "date_published": "2026-04-02T00:00:00.000Z",
+    "id": "a8078d3648377364b64c0cbcb0c38d01",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -426,25 +637,11 @@
   },
   {
     "source": "Hugging Face",
-    "title": "Liberate your OpenClaw",
-    "url": "https://huggingface.co/blog/liberate-your-openclaw",
-    "date_published": "2026-03-27T00:00:00.000Z",
-    "id": "f380ae2cb7f1787cd6235f6e59a6824a",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Run Generative AI inference with Amazon Bedrock in Asia Pacific (New Zealand)",
-    "url": "https://aws.amazon.com/blogs/machine-learning/run-generative-ai-inference-with-amazon-bedrock-in-asia-pacific-new-zealand/",
-    "date_published": "2026-03-26T23:08:53.000Z",
-    "id": "4510b401214bba3f3fb91b8db6333be6",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "title": "Welcome Gemma 4: Frontier multimodal intelligence on device",
+    "url": "https://huggingface.co/blog/gemma4",
+    "date_published": "2026-04-02T00:00:00.000Z",
+    "id": "a38a6a43bd72f6fe5d180c4eaf9bf982",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -454,11 +651,39 @@
   },
   {
     "source": "LangChain",
-    "title": "How Kensho built a multi-agent framework with LangGraph to solve trusted financial data retrieval",
-    "url": "https://blog.langchain.com/customers-kensho/",
-    "date_published": "2026-03-26T19:39:21.000Z",
-    "id": "81f3b7cc79bba7a9b50e960c89510e9a",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
+    "title": "March 2026: LangChain Newsletter",
+    "url": "https://blog.langchain.com/march-2026-langchain-newsletter/",
+    "date_published": "2026-04-01T21:24:29.000Z",
+    "id": "9791b926c6b9b5dcdd2e7d197daf820c",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Automating competitive price intelligence with Amazon Nova Act",
+    "url": "https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/",
+    "date_published": "2026-04-01T18:57:01.000Z",
+    "id": "fd979db45ca6dbdeb3546d8ccc4baac3",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Holo3: Breaking the Computer Use Frontier",
+    "url": "https://huggingface.co/blog/Hcompany/holo3",
+    "date_published": "2026-04-01T16:36:15.000Z",
+    "id": "93167e0cfa611458938be47703627e18",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -468,165 +693,11 @@
   },
   {
     "source": "Microsoft Research",
-    "title": "AsgardBench: A benchmark for visually grounded interactive planning",
-    "url": "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning/",
-    "date_published": "2026-03-26T19:02:53.000Z",
-    "id": "b6097aee872b3c15576cbae44cec9ecb",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Building age-responsive, context-aware AI with Amazon Bedrock Guardrails",
-    "url": "https://aws.amazon.com/blogs/machine-learning/building-age-responsive-context-aware-ai-with-amazon-bedrock-guardrails/",
-    "date_published": "2026-03-26T17:26:23.000Z",
-    "id": "56fd6354e9a8a4c7934bca52438da932",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Accelerating LLM fine-tuning with unstructured data using SageMaker Unified Studio and S3",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-llm-fine-tuning-with-unstructured-data-using-sagemaker-unified-studio-and-s3/",
-    "date_published": "2026-03-26T17:20:26.000Z",
-    "id": "87ce837adc3518c7f09552d6211f78cc",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Introducing Amazon Polly Bidirectional Streaming: Real-time speech synthesis for conversational AI",
-    "url": "https://aws.amazon.com/blogs/machine-learning/introducing-amazon-polly-bidirectional-streaming-real-time-speech-synthesis-for-conversational-ai/",
-    "date_published": "2026-03-26T17:10:20.000Z",
-    "id": "e245bf3b71dd8776ec69cff1fb0c5a80",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Microsoft Research",
-    "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
-    "url": "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation/",
-    "date_published": "2026-03-26T16:03:56.000Z",
-    "id": "f3bf558746c77c668ee26e84bddbc5bb",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "DeepMind",
-    "title": "Gemini 3.1 Flash Live: Making audio AI more natural and reliable",
-    "url": "https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/",
-    "date_published": "2026-03-26T15:23:35.000Z",
-    "id": "161f77b8cd2329df0b91ed205e11abe7",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "LangChain",
-    "title": "How we build evals for Deep Agents",
-    "url": "https://blog.langchain.com/how-we-build-evals-for-deep-agents/",
-    "date_published": "2026-03-26T15:18:56.000Z",
-    "id": "dfa5c5d701815febe6dfe7523da80554",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "LangChain",
-    "title": "How Middleware Lets You Customize Your Agent Harness",
-    "url": "https://blog.langchain.com/how-middleware-lets-you-customize-your-agent-harness/",
-    "date_published": "2026-03-26T14:53:27.000Z",
-    "id": "98e945b3eb56908b034fd2a67dde47ab",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Unlocking video insights at scale with Amazon Bedrock multimodal models",
-    "url": "https://aws.amazon.com/blogs/machine-learning/unlocking-video-insights-at-scale-with-amazon-bedrock-multimodal-models/",
-    "date_published": "2026-03-25T18:57:15.000Z",
-    "id": "d17dc8261012018fe5c59f27a50bbd69",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part 1",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-voice-agents-with-pipecat-and-amazon-bedrock-agentcore-runtime-part-1/",
-    "date_published": "2026-03-25T18:52:59.000Z",
-    "id": "b768cda3ad9f8e8b4586d4e21f02cfd3",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Reinforcement fine-tuning on Amazon Bedrock with OpenAI-Compatible APIs: a technical walkthrough",
-    "url": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-with-openai-compatible-apis-a-technical-walkthrough/",
-    "date_published": "2026-03-25T17:30:56.000Z",
-    "id": "d1286095f9e313b4638b510a422f1967",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "DeepMind",
-    "title": "Protecting people from harmful manipulation",
-    "url": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
-    "date_published": "2026-03-25T16:46:20.000Z",
-    "id": "c6f8811a85b31a38f6ca835a6a9b3089",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "title": "ADeLe: Predicting and explaining AI performance across tasks",
+    "url": "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks/",
+    "date_published": "2026-04-01T16:00:58.000Z",
+    "id": "675336bc2a7469c553a74cf865ecbeeb",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -636,39 +707,11 @@
   },
   {
     "source": "NVIDIA Blog",
-    "title": "Maximize AI Infrastructure Throughput by Consolidating Underutilized GPU Workloads",
-    "url": "https://developer.nvidia.com/blog/maximize-ai-infrastructure-throughput-by-consolidating-underutilized-gpu-workloads/",
-    "date_published": "2026-03-25T16:35:43.000Z",
-    "id": "5dd3a65de532ef12e7619c510dfbd191",
-    "date_scraped": "2026-03-31T13:54:20.939Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "LangChain",
-    "title": "Skills in LangSmith Fleet",
-    "url": "https://blog.langchain.com/skills-in-langsmith-fleet/",
-    "date_published": "2026-03-25T16:10:11.000Z",
-    "id": "136aeddb16e7e44578bd4cf2f7aedc85",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "DeepMind",
-    "title": "Lyria 3 Pro: Create longer tracks in more",
-    "url": "https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/",
-    "date_published": "2026-03-25T16:01:39.000Z",
-    "id": "48227e4cc2c6eb0ba33faa289a25bd20",
-    "date_scraped": "2026-03-31T13:54:20.772Z",
+    "title": "CUDA Tile Programming Now Available for BASIC!",
+    "url": "https://developer.nvidia.com/blog/cuda-tile-programming-now-available-for-basic/",
+    "date_published": "2026-04-01T16:00:00.000Z",
+    "id": "88bb5c6db1072201bdfa27056a1df629",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -678,11 +721,11 @@
   },
   {
     "source": "NVIDIA Blog",
-    "title": "How Centralized Radar Processing on NVIDIA DRIVE Enables Safer, Smarter Level 4 Autonomy",
-    "url": "https://developer.nvidia.com/blog/how-centralized-radar-processing-on-nvidia-drive-enables-safer-smarter-level-4-autonomy/",
-    "date_published": "2026-03-25T16:00:00.000Z",
-    "id": "1db9e486595683983953f9a3171b21ea",
-    "date_scraped": "2026-03-31T13:54:20.939Z",
+    "title": "NVIDIA Platform Delivers Lowest Token Cost Enabled by Extreme Co-Design",
+    "url": "https://developer.nvidia.com/blog/nvidia-platform-delivers-lowest-token-cost-enabled-by-extreme-co-design/",
+    "date_published": "2026-04-01T15:00:48.000Z",
+    "id": "d7c0c2aa084d8889cc7233ec6e7470eb",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -692,11 +735,11 @@
   },
   {
     "source": "NVIDIA Blog",
-    "title": "Designing Protein Binders Using the Generative Model Proteina-Complexa",
-    "url": "https://developer.nvidia.com/blog/designing-protein-binders-using-the-generative-model-proteina-complexa/",
-    "date_published": "2026-03-25T13:00:00.000Z",
-    "id": "d03d27b4f4d5f9f6950b6787bf9bef51",
-    "date_scraped": "2026-03-31T13:54:20.939Z",
+    "title": "Accelerate Token Production in AI Factories Using Unified Services and Real-Time AI",
+    "url": "https://developer.nvidia.com/blog/accelerate-token-production-in-ai-factories-using-unified-services-and-real-time-ai/",
+    "date_published": "2026-04-01T15:00:00.000Z",
+    "id": "f0b7187039abd7cccc600775b1bc839d",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -705,12 +748,12 @@
     "hype_score": 1
   },
   {
-    "source": "NVIDIA Blog",
-    "title": "Scaling Token Factory Revenue and AI Efficiency by Maximizing Performance per Watt",
-    "url": "https://developer.nvidia.com/blog/scaling-token-factory-revenue-and-ai-efficiency-by-maximizing-performance-per-watt/",
-    "date_published": "2026-03-25T11:00:00.000Z",
-    "id": "3d1f5c220daf2e660ffd8a9956adc465",
-    "date_scraped": "2026-03-31T13:54:20.939Z",
+    "source": "Hugging Face",
+    "title": "Falcon Perception",
+    "url": "https://huggingface.co/blog/tiiuae/falcon-perception",
+    "date_published": "2026-04-01T07:13:20.000Z",
+    "id": "a6e2823e605a667ed7879fe0db3ed53c",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -720,11 +763,11 @@
   },
   {
     "source": "OpenAI",
-    "title": "Inside our approach to the Model Spec",
-    "url": "https://openai.com/index/our-approach-to-the-model-spec",
-    "date_published": "2026-03-25T10:00:00.000Z",
-    "id": "7434cb8ffb0c90aefd106942f4ad7dfb",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "title": "Gradient Labs gives every bank customer an AI account manager",
+    "url": "https://openai.com/index/gradient-labs",
+    "date_published": "2026-04-01T02:00:00.000Z",
+    "id": "0f9835b177f9b6da1864e1382f4b1b38",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -733,26 +776,12 @@
     "hype_score": 1
   },
   {
-    "source": "OpenAI",
-    "title": "Introducing the OpenAI Safety Bug Bounty program",
-    "url": "https://openai.com/index/safety-bug-bounty",
-    "date_published": "2026-03-25T00:00:00.000Z",
-    "id": "a1bdc83d63f1a4ac3f169d47530874ae",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "AWS ML",
-    "title": "Deploy SageMaker AI inference endpoints with set GPU capacity using training plans",
-    "url": "https://aws.amazon.com/blogs/machine-learning/deploy-sagemaker-ai-inference-endpoints-with-set-gpu-capacity-using-training-plans/",
-    "date_published": "2026-03-24T20:27:49.000Z",
-    "id": "e006ae3d18a7527622e675fd00f20931",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
+    "source": "Hugging Face",
+    "title": "Any Custom Frontend with Gradio's Backend",
+    "url": "https://huggingface.co/blog/introducing-gradio-server",
+    "date_published": "2026-04-01T00:00:00.000Z",
+    "id": "7c794031ef8493e63fc10be5e2c5d8d0",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -762,25 +791,11 @@
   },
   {
     "source": "AWS ML",
-    "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
-    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/",
-    "date_published": "2026-03-24T17:56:00.000Z",
-    "id": "781ffd68693cf9f9a576a945bdfa1a0a",
-    "date_scraped": "2026-03-31T13:54:20.773Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "LangChain",
-    "title": "How Moda Builds Production-Grade AI Design Agents with Deep Agents",
-    "url": "https://blog.langchain.com/how-moda-builds-production-grade-ai-design-agents-with-deep-agents/",
-    "date_published": "2026-03-24T17:07:54.000Z",
-    "id": "7aaaffa6be9ef1234ad453aae9609b3c",
-    "date_scraped": "2026-03-31T13:54:20.939Z",
+    "title": "Build reliable AI agents with Amazon Bedrock AgentCore Evaluations",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
+    "date_published": "2026-03-31T22:11:23.000Z",
+    "id": "bc9fbe0cd4a105bc70d3782477403acc",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -790,11 +805,165 @@
   },
   {
     "source": "NVIDIA Blog",
-    "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
-    "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety/",
-    "date_published": "2026-03-24T16:00:00.000Z",
-    "id": "e997baba8447dd596749e1d5f21efb2a",
-    "date_scraped": "2026-03-31T13:54:20.939Z",
+    "title": "Stream High-Fidelity Spatial Computing Content to Any Device with NVIDIA CloudXR 6.0",
+    "url": "https://developer.nvidia.com/blog/stream-high-fidelity-spatial-computing-content-to-any-device-with-nvidia-cloudxr-6-0/",
+    "date_published": "2026-03-31T18:14:50.000Z",
+    "id": "478829164b264848d2f99b07c29032e6",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Build a FinOps agent using Amazon Bedrock AgentCore",
+    "url": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
+    "date_published": "2026-03-31T17:57:16.000Z",
+    "id": "e55e5f9325de7987567f9a7d949a34b5",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Building an AI powered system for compliance evidence collection",
+    "url": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/",
+    "date_published": "2026-03-31T17:52:15.000Z",
+    "id": "711331d7cce7daf8681949bf5c578e84",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act",
+    "url": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/",
+    "date_published": "2026-03-31T17:46:50.000Z",
+    "id": "5758c54d063df681d887d25eaae56b27",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "NVIDIA Blog",
+    "title": "Build and Stream Browser-Based XR Experiences with NVIDIA CloudXR.js",
+    "url": "https://developer.nvidia.com/blog/build-and-stream-browser-based-xr-experiences-with-nvidia-cloudxr-js/",
+    "date_published": "2026-03-31T17:30:00.000Z",
+    "id": "36d4b7cdd6cb05a253682b17ac678d86",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "LangChain",
+    "title": "Announcing the LangChain + MongoDB Partnership: The AI Agent Stack That Runs On The Database You Already Trust",
+    "url": "https://blog.langchain.com/announcing-the-langchain-mongodb-partnership-the-ai-agent-stack-that-runs-on-the-database-you-already-trust/",
+    "date_published": "2026-03-31T17:00:21.000Z",
+    "id": "e8255bb99be306578050671ec76d762e",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "AWS launches frontier agents for security testing and cloud operations",
+    "url": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+    "date_published": "2026-03-31T16:25:32.000Z",
+    "id": "db1c4bd937c243a6aff64ff3b3aad13e",
+    "date_scraped": "2026-04-07T13:51:32.652Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Meta AI",
+    "title": "Meta Adaptive Ranking Model: Bending the Inference Scaling Curve to Serve LLM-Scale Models for Ads",
+    "url": "https://engineering.fb.com/2026/03/31/ml-applications/meta-adaptive-ranking-model-bending-the-inference-scaling-curve-to-serve-llm-scale-models-for-ads/",
+    "date_published": "2026-03-31T16:00:17.000Z",
+    "id": "32b8bc58cedfaf75a19e8e048a3c22d7",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "AWS ML",
+    "title": "Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
+    "url": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
+    "date_published": "2026-03-31T15:36:17.000Z",
+    "id": "a84616545f6ec73a416d66588faa4616",
+    "date_scraped": "2026-04-07T13:51:32.864Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+    "url": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+    "date_published": "2026-03-31T15:10:41.000Z",
+    "id": "c93509b534a115d9d6eb9d1ae8c538cb",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic News",
+    "title": "Mar 31, 2026\nAnnouncements\nAustralian government and Anthropic sign MOU for AI safety and research",
+    "url": "https://www.anthropic.com/news/australia-MOU",
+    "date_published": "2026-03-31T00:00:00.000Z",
+    "id": "2090a8b42321d853d6dfca44e26e650a",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Mar 31, 2026\nEconomic Research\nHow Australia Uses Claude: Findings from the Anthropic Economic Index",
+    "url": "https://www.anthropic.com/research/how-australia-uses-claude",
+    "date_published": "2026-03-31T00:00:00.000Z",
+    "id": "c868258c01c6a7bf60afe124a29d9efe",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -808,7 +977,7 @@
     "url": "https://www.anthropic.com/research/economic-index-march-2026-report",
     "date_published": "2026-03-24T00:00:00.000Z",
     "id": "fe759b807f34774af65abb21065f27fc",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -822,7 +991,7 @@
     "url": "https://www.anthropic.com/research/introducing-anthropic-science",
     "date_published": "2026-03-23T00:00:00.000Z",
     "id": "52900da3e2d6b8aaf3960b96f518494e",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -836,7 +1005,7 @@
     "url": "https://www.anthropic.com/research/long-running-Claude",
     "date_published": "2026-03-23T00:00:00.000Z",
     "id": "e1bdd4d169abf269c788f4d4c7ba92e7",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -850,7 +1019,21 @@
     "url": "https://www.anthropic.com/research/vibe-physics",
     "date_published": "2026-03-23T00:00:00.000Z",
     "id": "37750cee872cf8796f2dd2a5ffb121ff",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
+    "is_technical": true,
+    "tldr": "AI Vetting Failed. Raw content.",
+    "tags": [
+      "Unverified"
+    ],
+    "hype_score": 1
+  },
+  {
+    "source": "Anthropic Research",
+    "title": "Mar 13, 2026\nInterpretability\nA “diff” tool for AI: Finding behavioral differences in new models",
+    "url": "https://www.anthropic.com/research/diff-tool",
+    "date_published": "2026-03-13T00:00:00.000Z",
+    "id": "083cee1d0fa67ae26e4580b72657205f",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -864,7 +1047,7 @@
     "url": "https://www.anthropic.com/news/claude-partner-network",
     "date_published": "2026-03-12T00:00:00.000Z",
     "id": "1bd39e9b6f3624f86466e31cc1788091",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -878,7 +1061,7 @@
     "url": "https://www.anthropic.com/news/the-anthropic-institute",
     "date_published": "2026-03-11T00:00:00.000Z",
     "id": "f7f7aa07112198afa1d7c062bd7e13c8",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -892,7 +1075,7 @@
     "url": "https://www.anthropic.com/news/sydney-fourth-office-asia-pacific",
     "date_published": "2026-03-10T00:00:00.000Z",
     "id": "75cb08b6f414289ecde887375315e83b",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -906,7 +1089,7 @@
     "url": "https://www.anthropic.com/news/mozilla-firefox-security",
     "date_published": "2026-03-06T00:00:00.000Z",
     "id": "c42ea5dc1d455adbbbbdfe5cfe04964c",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -920,7 +1103,7 @@
     "url": "https://www.anthropic.com/news/where-stand-department-war",
     "date_published": "2026-03-05T00:00:00.000Z",
     "id": "515506aba80667ec12a0d9501369c921",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -934,7 +1117,7 @@
     "url": "https://www.anthropic.com/research/labor-market-impacts",
     "date_published": "2026-03-05T00:00:00.000Z",
     "id": "b78e7333e0714785ff624425241d9bee",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -948,7 +1131,7 @@
     "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
     "date_published": "2026-02-27T00:00:00.000Z",
     "id": "f35cde03ce14f24816fdacfbff20de77",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -962,7 +1145,7 @@
     "url": "https://www.anthropic.com/news/statement-department-of-war",
     "date_published": "2026-02-26T00:00:00.000Z",
     "id": "5f447d343f4085e42cb80bc74e2ef978",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -976,7 +1159,7 @@
     "url": "https://www.anthropic.com/news/acquires-vercept",
     "date_published": "2026-02-25T00:00:00.000Z",
     "id": "87dacd3698966bdff5b55cf5ac1d46eb",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -990,77 +1173,7 @@
     "url": "https://www.anthropic.com/research/deprecation-updates-opus-3",
     "date_published": "2026-02-25T00:00:00.000Z",
     "id": "0e75f4edcab942920d5b12442667ea22",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Anthropic News",
-    "title": "Feb 24, 2026\nPolicy\nAnthropic’s Responsible Scaling Policy: Version 3.0",
-    "url": "https://www.anthropic.com/news/responsible-scaling-policy-v3",
-    "date_published": "2026-02-24T00:00:00.000Z",
-    "id": "2baca789b6f5c2518db5ed34dc125167",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Anthropic News",
-    "title": "Feb 23, 2026\nAnnouncements\nDetecting and preventing distillation attacks",
-    "url": "https://www.anthropic.com/news/detecting-and-preventing-distillation-attacks",
-    "date_published": "2026-02-23T00:00:00.000Z",
-    "id": "67e4c3ab5a0d33081e57cad9c560def8",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Anthropic Research",
-    "title": "Feb 23, 2026\nAlignment\nThe persona selection model",
-    "url": "https://www.anthropic.com/research/persona-selection-model",
-    "date_published": "2026-02-23T00:00:00.000Z",
-    "id": "8c6cc0bb57e81dfdb052bf01f1d3d856",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Anthropic Research",
-    "title": "Feb 23, 2026\nAnnouncements\nAnthropic Education Report: The AI Fluency Index",
-    "url": "https://www.anthropic.com/research/AI-fluency-index",
-    "date_published": "2026-02-23T00:00:00.000Z",
-    "id": "144dc6b72f7cdbf70b07187ef3acce7b",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
-    "is_technical": true,
-    "tldr": "AI Vetting Failed. Raw content.",
-    "tags": [
-      "Unverified"
-    ],
-    "hype_score": 1
-  },
-  {
-    "source": "Anthropic Research",
-    "title": "Feb 18, 2026\nSocietal Impacts\nMeasuring AI agent autonomy in practice",
-    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-    "date_published": "2026-02-18T00:00:00.000Z",
-    "id": "08c90071292fda0c4f9b34e968da473b",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1074,7 +1187,7 @@
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
     "date_published": "2026-02-17T00:00:00.000Z",
     "id": "509dbec071b6fc7bdc3f037d15c28b5a",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1088,7 +1201,7 @@
     "url": "https://www.anthropic.com/news/claude-opus-4-6",
     "date_published": "2026-02-17T00:00:00.000Z",
     "id": "ffb4fb0646fb7fd6698cca7ba97ed35f",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1102,7 +1215,7 @@
     "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
     "date_published": "2026-02-17T00:00:00.000Z",
     "id": "0073cb028a74b084437b320e8bbcc4d3",
-    "date_scraped": "2026-03-31T13:54:20.579Z",
+    "date_scraped": "2026-04-07T13:51:32.469Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1116,7 +1229,7 @@
     "url": "https://www.anthropic.com/research/project-vend-2",
     "date_published": "2025-12-18T00:00:00.000Z",
     "id": "2b7bd8d3a107330949080289a5040b1f",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1130,7 +1243,7 @@
     "url": "https://www.anthropic.com/research/introspection",
     "date_published": "2025-12-18T00:00:00.000Z",
     "id": "a3979479566bc86b9ce697e5991ec8a0",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1144,7 +1257,7 @@
     "url": "https://www.anthropic.com/research/constitutional-classifiers",
     "date_published": "2025-12-18T00:00:00.000Z",
     "id": "781e4203a03806406789096c8fbffea6",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1158,7 +1271,7 @@
     "url": "https://www.anthropic.com/research/alignment-faking",
     "date_published": "2025-12-18T00:00:00.000Z",
     "id": "09aac6e8c5cecb152be193bb76323806",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.470Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
@@ -1172,7 +1285,7 @@
     "url": "https://claude.com/blog/integrations",
     "date_published": "2025-05-01T00:00:00.000Z",
     "id": "5c68ad537d8788666fa7f734cd825609",
-    "date_scraped": "2026-03-31T13:54:20.580Z",
+    "date_scraped": "2026-04-07T13:51:32.651Z",
     "is_technical": true,
     "tldr": "AI Vetting Failed. Raw content.",
     "tags": [
